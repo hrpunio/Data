@@ -1,0 +1,625 @@
+packid;id;name;date;town;cntry;weight;height;played;lbs;pens;conv
+33;11520;Gethin Jenkins;1980;Cardiff;Wales;118;188;255;1;0;0
+33;11521;Sonny Parker;1977;Thames;New Zealand;102;188;99;0;0;0
+33;12510;Ceri Sweeney;1980;Pontypridd;Wales;87;181;23;0;0;50
+33;15594;Jonathan Thomas;1982;Carmarthen;Wales;110;195;160;0;0;0
+33;21352;Michael Phillips;1982;Carmarthen;Wales;103;190;102;2;0;0
+33;21358;Adam Jones;1981;Morriston;Wales;127;183;135;0;0;0
+33;21359;Huw Bennett;1983;Abergavenny;Wales;109;180;21;0;0;0
+33;24093;Thomas Rhys Thomas;1982;Aberdare;Wales;105;186;121;0;0;0
+33;26376;Alun-Wyn Jones;1985;Swansea;Wales;119;199;292;0;0;0
+33;27128;Matthew Rees;1980;Church Village;Wales;108;182;178;0;0;0
+33;28215;Chris Horsman;1977;Newport Pagnell;England;118;190;130;0;0;0
+33;28270;Ian Evans;1984;Johannesburg;South Africa;116;203;93;0;0;0
+33;30417;James Hook;1985;Neath;Wales;90;185;267;2;57.1;100
+33;33102;Will James;1976;Plymouth;England;120;198;80;0;0;0
+33;4113;Jamie Robinson;1980;Cardiff;Wales;98;187;73;0;0;0
+33;4494;Dwayne Peel;1981;Carmarthen;Wales;87;182;195;0;0;0
+33;4496;Tom Shanklin;1979;Harrow;England;100;188;247;1;0;0
+33;7904;Michael Owen;1980;Pontypridd;Wales;115;197;66;0;0;0
+33;7906;Duncan Jones;1978;Neath;Wales;110;182;120;0;0;0
+33;924;Gareth Thomas;1974;Bridgend;Wales;101;190;133;0;0;0
+33;943;Dafydd James;1975;Mufulira;Zambia;101;194;80;0;0;0
+33;945;Martyn Williams;1975;Pontypridd;Wales;99;183;298;2;0;0
+33;947;Colin Charvis;1972;Sutton Coldfield;England;112;194;248;1;0;0
+33;951;Kevin Morgan;1977;Pontypridd;Wales;83;178;190;0;0;0
+33;965;Ian Gough;1976;Panteg;Wales;119;196;146;0;0;0
+33;967;Stephen Jones;1977;Aberystwyth;Wales;95;183;248;3;50;68.8
+33;977;Shane Williams;1977;Swansea;Wales;80;170;320;2;0;0
+33;985;Mark Jones;1979;Builth Wells;Wales;92;186;240;0;0;0
+33;986;Alix Popham;1979;Newport;Wales;108;191;217;0;0;0
+33;988;Gareth Cooper;1979;Bridgend;Wales;84;171;23;0;0;0
+34;10555;Lewis Moody;1978;Ascot;England;103;195;311;0;0;0
+34;10556;Ben Kay;1975;Liverpool;England;118;198;560;1;0;0
+34;10763;Jason Robinson;1974;Leeds;England;85;172;332;2;0;0
+34;10930;Steve Borthwick;1979;Carlisle;England;114;198;103;0;0;0
+34;1185;Mike Catt;1971;Port Elizabeth;South Africa;91;181;327;0;0;0
+34;1230;Martin Corry;1973;Birmingham;England;115;196;481;0;0;0
+34;1253;Lawrence Dallaglio;1972;Shepherd's Bush;England;110;193;133;0;0;0
+34;12545;Jamie Noon;1979;Goole;England;90;180;159;1;0;0
+34;12548;Olly Barkley;1981;Hammersmith;England;92;180;212;2;100;66.7
+34;1391;Andy Gomarsall;1974;Durham;England;86;176;425;0;0;0
+34;1628;Josh Lewsey;1976;Bromley;England;88;179;439;0;0;0
+34;18128;Mark Cueto;1979;Workington;England;96;183;312;1;0;0
+34;18130;Andrew Sheridan;1979;Bromley;England;122;193;542;0;0;0
+34;18150;Paul Sackey;1979;London;England;82;181;467;1;0;0
+34;18170;Peter Richards;1978;Portsmouth;England;89;176;53;0;0;0
+34;18176;George Chuter;1976;Greenwich;England;102;180;250;0;0;0
+34;1862;Mark Regan;1972;Bristol;England;101;180;300;0;0;0
+34;1956;Simon Shaw;1973;Nairobi;Kenya;124;203;440;0;0;0
+34;2109;Phil Vickery;1976;Barnstaple;England;120;190;241;0;0;0
+34;2164;Jonny Wilkinson;1979;Frimley;England;88;180;400;0;66.7;55.6
+34;2228;Joe Worsley;1977;London;England;109;198;187;0;0;0
+34;23903;Matt Stevens;1982;Durban;South Africa;120;187;319;0;0;0
+34;24170;Lee Mears;1979;Torquay;England;101;179;10;1;0;0
+34;25782;Mathew Tait;1986;Shotley Bridge;England;90;183;428;3;0;0
+34;26004;Dan Hipkiss;1982;Ipswich;England;92;179;94;0;0;0
+34;26500;Tom Rees;1984;London;England;98;184;133;0;0;0
+34;26512;Toby Flood;1985;Frimley;England;91;188;56;0;0;0
+34;28320;Perry Freshwater;1973;Wellington;New Zealand;112;183;18;0;0;0
+34;29485;Nick Abendanon;1986;Johannesburg;South Africa;82;180;;0;0;0
+34;31783;Shaun Perry;1978;Wolverhampton;England;98;180;100;0;0;0
+34;31827;Andy Farrell;1975;Wigan;England;110;194;125;2;0;0
+34;31840;Nick Easter;1978;Epsom;England;115;193;443;0;0;0
+35;10564;Simon Taylor;1979;Stirling;Scotland;111;195;320;0;0;0
+35;1126;Chris Paterson;1978;Edinburgh;Scotland;80;180;283;0;100;100
+35;1138;Jason White;1978;Edinburgh;Scotland;106;195;302;0;0;0
+35;1140;Scott Murray;1976;Musselburgh;Scotland;118;203;142;0;0;0
+35;11597;Nikki Walker;1982;Aberdeen;Scotland;107;196;92;0;0;0
+35;11601;Nathan Hines;1976;Wagga Wagga;Australia;119;201;292;0;0;0
+35;11642;Andrew Henderson;1980;Chatham;England;102;192;129;0;0;0
+35;12476;Mike Blair;1981;Edinburgh;Scotland;85;180;253;0;0;0
+35;12477;Craig Smith;1978;York;England;121;188;131;1;0;0
+35;12478;Allan Jacobsen;1978;Edinburgh;Scotland;113;176;36;0;0;0
+35;12481;Marcus Di Rollo;1978;Edinburgh;Scotland;90;184;132;0;0;0
+35;12495;Allister Hogg;1983;Stirling;Scotland;104;191;272;0;0;0
+35;12515;Gavin Kerr;1977;Newcastle upon Tyne;England;114;188;259;0;0;0
+35;21414;Simon Webster;1981;Hartlepool;England;90;184;400;2;0;0
+35;21419;Chris Cusiter;1982;Aberdeen;Scotland;86;175;112;1;0;0
+35;23911;Dan Parks;1978;Hornsby;Australia;90;180;345;1;50;100
+35;24009;Scott MacLeod;1979;Hawick;Scotland;110;198;146;0;0;0
+35;24022;Sean Lamont;1981;Perth;Scotland;102;188;320;2;0;0
+35;24023;Hugo Southwell;1980;London;England;97;188;197;0;0;0
+35;24029;Rory Lawson;1981;Dunfermline;Scotland;83;176;35;0;0;0
+35;24724;Ross Ford;1984;Leith;Scotland;109;184;217;0;0;0
+35;25786;Kelly Brown;1982;Edinburgh;Scotland;106;193;146;0;0;0
+35;25787;David Callam;1983;Edinburgh;Scotland;108;193;80;0;0;0
+35;25788;Scott Lawson;1981;Lanark;Scotland;100;172;161;0;0;0
+35;25790;Rory Lamont;1982;Perth;Scotland;100;188;253;4;0;0
+35;25797;John Barclay;1986;Hong Kong;Hong Kong;103;190;80;0;0;0
+35;27045;Euan Murray;1980;Glasgow;Scotland;119;185;308;0;0;0
+35;30566;Rob Dewey;1983;Marlborough;England;110;189;249;2;0;0
+35;30567;Alasdair Dickinson;1983;Dundee;Scotland;108;184;66;0;0;0
+35;30577;Fergus Thomson;1983;Dundee;Scotland;104;183;22;0;0;0
+35;31139;Jim Hamilton;1982;Swindon;England;124;202;220;0;0;0
+36;10508;David Wallace;1976;Limerick;Ireland;107;188;291;0;0;0
+36;10534;Paul O'Connell;1979;Limerick;Ireland;111;198;320;0;0;0
+36;10535;Geordan Murphy;1978;Naas;Ireland;90;183;81;0;0;0
+36;11714;Marcus Horan;1977;Limerick;Ireland;108;188;302;0;0;0
+36;13197;Donnacha O'Callaghan;1979;Cork;Ireland;115;198;297;0;0;0
+36;15369;Simon Best;1978;Craigavon;Northern Ireland;114;185;38;0;0;0
+36;15371;Paddy Wallace;1979;Belfast;Ireland;86;175;1;0;0;0
+36;2296;Denis Hickie;1976;Dublin;Ireland;96;189;231;1;0;0
+36;24101;Gavin Duffy;1981;Ballina;Ireland;92;186;9;0;0;0
+36;24769;Denis Leamy;1981;Limerick;Ireland;106;187;320;1;0;0
+36;26542;Andrew Trimble;1984;Belfast;Ireland;97;186;160;1;0;0
+36;26549;Stephen Ferris;1985;Lisburn;Northern Ireland;110;192;;0;0;0
+36;28238;Rory Best;1982;Craigavon;Northern Ireland;104;178;130;0;0;0
+36;28239;Neil Best;1979;Belfast;Ireland;105;189;44;0;0;0
+36;28295;Jerry Flannery;1978;Galway;Ireland;102;180;183;1;0;0
+36;28362;Eoin Reddan;1980;Limerick;Ireland;81;178;146;0;0;0
+36;3029;Girvan Dempsey;1975;Dublin;Ireland;92;188;240;0;0;0
+36;3030;Shane Horgan;1978;Drogheda;Ireland;104;196;240;0;0;0
+36;3031;Brian O'Driscoll;1979;Dublin;Ireland;94;180;319;2;0;0
+36;3032;Ronan O'Gara;1977;San Diego;United States of America;85;180;319;0;50;55.6
+36;3033;Peter Stringer;1977;Cork;Ireland;73;170;150;0;0;0
+36;3034;John Hayes;1973;Limerick;Ireland;127;193;300;0;0;0
+36;3035;Malcolm O'Kelly;1974;Chelmsford;England;119;204;23;0;0;0
+36;3036;Simon Easterby;1975;Harrogate;England;100;193;305;0;0;0
+36;3038;Frankie Sheahan;1976;Toronto;Canada;105;180;7;0;0;0
+36;30865;Bryan Young;1981;Ballymena;Northern Ireland;114;184;;0;0;0
+36;30866;Isaac Boss;1980;Tokoroa;New Zealand;86;177;24;0;0;0
+36;32946;Brian Carney;1976;Cork;Ireland;90;180;;0;0;0
+36;32947;Tony Buckley;1980;Cork;Ireland;135;195;;0;0;0
+36;8046;Gordon D'Arcy;1980;Wexford;Ireland;88;178;320;3;0;0
+36;8047;Alan Quinlan;1974;Tipperary;Ireland;106;191;;0;0;0
+37;10874;Greg Somerville;1977;Wairoa;New Zealand;115;187;141;0;0;0
+37;10875;Chris Jack;1978;Christchurch;New Zealand;115;202;200;3;0;0
+37;10877;Richie McCaw;1980;Oamaru;New Zealand;106;187;226;4;0;0
+37;10878;Leon MacDonald;1977;Blenheim;New Zealand;96;181;254;1;0;0
+37;10879;Doug Howlett;1978;Auckland;New Zealand;89;185;185;0;0;0
+37;10880;Aaron Mauger;1980;Christchurch;New Zealand;92;183;180;3;0;0
+37;10884;Andrew Hore;1978;Dunedin;New Zealand;110;183;121;0;0;0
+37;11613;Keith Robinson;1976;Te Aroha;New Zealand;115;198;105;0;0;0
+37;11614;Ali Williams;1981;Auckland;New Zealand;112;202;271;1;0;0
+37;11615;Keven Mealamu;1979;Tokoroa;New Zealand;106;181;129;0;0;0
+37;11616;Carl Hayman;1979;Opunake;New Zealand;120;193;254;0;0;0
+37;11618;Rodney So'oialo;1979;Moto'otua;Samoa;107;190;266;0;0;0
+37;11650;Jerry Collins;1980;Apia;Samoa;109;190;287;2;0;0
+37;11712;Tony Woodcock;1981;Helensville;New Zealand;118;184;234;0;0;0
+37;15638;Joe Rokocoko;1983;Nadi;Fiji;98;189;240;4;0;0
+37;15646;Dan Carter;1982;Leeston;New Zealand;91;178;196;0;83.3;62.5
+37;15647;Mils Muliaina;1980;Salelesi;Samoa;92;184;140;0;0;0
+37;24120;Nick Evans;1980;Takapuna;New Zealand;84;178;234;2;0;90.9
+37;24215;Sione Lauaki;1981;Ha'apai;Tonga;119;192;188;1;0;0
+37;24219;Sitiveni Sivivatu;1982;Suva;Fiji;97;185;301;0;0;0
+37;24754;Luke McAlister;1983;Waitara;New Zealand;95;180;295;5;0;60
+37;24756;Conrad Smith;1981;Hawera;New Zealand;95;186;164;0;0;0
+37;26030;Isaia Toeava;1986;Moto'otua;Samoa;96;181;211;1;0;0
+37;26658;Andrew Ellis;1984;Christchurch;New Zealand;89;181;85;1;0;0
+37;28218;Neemia Tialata;1982;Lower Hutt;New Zealand;127;187;200;0;0;0
+37;28220;Chris Masoe;1979;Savai'i;Samoa;106;183;252;1;0;0
+37;3088;Anton Oliver;1975;Invercargill;New Zealand;111;184;166;0;0;0
+37;33021;Brendon Leonard;1985;Morrinsville;New Zealand;91;182;148;1;0;0
+37;7970;Reuben Thorne;1975;Christchurch;New Zealand;107;192;160;0;0;0
+37;7975;Byron Kelleher;1976;Dunedin;New Zealand;94;175;167;0;0;0
+38;10526;Phil Waugh;1979;Sydney;Australia;100;175;121;0;0;0
+38;10529;George Smith;1980;Sydney;Australia;103;180;287;1;0;0
+38;10719;Stirling Mortlock;1977;Sydney;Australia;100;191;189;1;50;76.9
+38;10765;David Lyons;1980;Orange;Australia;117;192;46;0;0;0
+38;10816;Sean Hardman;1977;Sydney;Australia;102;183;20;0;0;0
+38;10818;Nathan Sharpe;1978;Wagga Wagga;Australia;115;200;283;0;0;0
+38;10820;Daniel Vickerman;1979;Cape Town;South Africa;115;204;318;0;0;0
+38;10822;Sam Cordingley;1976;Sydney;Australia;87;178;96;0;0;0
+38;11517;Adam Freier;1980;Sydney;Australia;101;175;114;0;0;0
+38;11629;Matt Giteau;1982;Sydney;Australia;85;178;320;0;75;72.7
+38;15490;Morgan Turinui;1982;Sydney;Australia;101;181;;0;0;0
+38;15494;Lote Tuqiri;1979;Sigatoka;Fiji;103;191;400;3;0;0
+38;21261;Matt Dunning;1978;Calgary;Canada;119;182;286;0;0;0
+38;21267;Mark Gerrard;1982;Sydney;Australia;99;192;12;0;0;0
+38;21272;Rocky Elsom;1983;Melbourne;Australia;112;197;278;0;0;0
+38;22656;Al Baxter;1977;Sydney;Australia;116;190;165;0;0;0
+38;22659;Julian Huxley;1979;Sydney;Australia;91;186;94;0;100;0
+38;24031;Drew Mitchell;1984;Sydney;Australia;85;180;277;1;0;0
+38;24725;Mark Chisholm;1981;Gladstone;Australia;112;197;164;1;0;0
+38;24726;Stephen Hoiles;1981;Sydney;Australia;98;190;79;0;0;0
+38;26695;Adam Ashley-Cooper;1984;Sydney;Australia;98;182;283;1;0;0
+38;26713;Cameron Shepherd;1984;Sydney;Australia;97;189;80;0;0;66.7
+38;26812;Stephen Moore;1983;Khamis;Saudi Arabia;112;186;266;0;0;0
+38;27048;Hugh McMeniman;1983;Brisbane;Australia;114;200;149;0;0;0
+38;28213;Greg Holmes;1983;Warwick;Australia;116;183;102;0;0;0
+38;30906;Wycliff Palu;1982;Sydney;Australia;120;194;275;0;0;0
+38;30952;Guy Shepherdson;1982;Jakarta;Indonesia;117;186;247;0;0;0
+38;3299;Stephen Larkham;1974;Canberra;Australia;88;189;54;0;0;0
+38;33011;Berrick Barnes;1986;Brisbane;Australia;87;183;246;2;0;0
+38;3302;George Gregan;1973;Lusaka;Zambia;78;173;304;1;0;0
+38;6915;Chris Latham;1975;Narrabri;Australia;100;192;400;1;0;0
+38;8127;Scott Staniforth;1977;West Wyalong;Australia;99;188;45;0;0;0
+39;10838;Butch James;1979;Johannesburg;South Africa;97;186;444;0;0;100
+39;10888;Andre Pretorius;1978;Johannesburg;South Africa;90;176;109;1;0;100
+39;10891;Victor Matfield;1977;Pietersburg;South Africa;110;201;507;0;0;0
+39;11588;Jean de Villiers;1981;Paarl;South Africa;100;190;43;0;0;0
+39;11589;Bakkies Botha;1979;Newcastle;South Africa;118;202;439;1;0;0
+39;11681;CJ van der Linde;1980;Welkom;South Africa;122;190;381;0;0;0
+39;15500;Ashwin Willemse;1981;Caledon;South Africa;91;187;48;1;0;0
+39;15504;Juan Smith;1981;Bloemfontein;South Africa;106;194;506;0;0;0
+39;15505;Wickus van Heerden;1979;Johannesburg;South Africa;104;195;291;0;0;0
+39;21421;Enrico Januarie;1982;Hopefield;South Africa;80;170;96;0;0;0
+39;23785;Schalk Burger;1983;Port Elizabeth;South Africa;110;193;400;0;0;0
+39;23786;Danie Rossouw;1978;Sabie;South Africa;118;197;379;0;0;0
+39;23787;Jaque Fourie;1983;Carletonville;South Africa;96;188;480;2;0;0
+39;24123;Fourie du Preez;1982;Pretoria;South Africa;88;183;445;2;0;0
+39;24710;Bryan Habana;1983;Johannesburg;South Africa;92;179;481;2;0;0
+39;24712;Gurthro Steenkamp;1981;Paarl;South Africa;124;189;75;0;0;0
+39;2499;Percy Montgomery;1974;Walvis Bay;Namibia;88;183;487;1;94.4;73.3
+39;2505;John Smit;1978;Pietersburg;South Africa;116;186;475;0;0;0
+39;2508;Albert van den Berg;1974;Hoopstad;South Africa;110;202;109;0;0;0
+39;2532;Bobby Skinstad;1976;Bulawayo;Zimbabwe;105;193;104;0;0;0
+39;26298;Bismarck du Plessis;1984;Bethlehem;South Africa;105;189;45;0;0;0
+39;26304;Ruan Pienaar;1984;Bloemfontein;South Africa;85;186;120;0;0;0
+39;26832;Gary Botha;1981;Pretoria;South Africa;106;181;48;0;0;0
+39;29126;Francois Steyn;1987;Bloemfontein;South Africa;100;191;448;4;57.1;0
+39;30369;JP Pietersen;1986;Stellenbosch;South Africa;85;191;503;2;0;0
+39;30712;Wynand Olivier;1983;Welkom;South Africa;87;184;88;0;0;0
+39;30867;Johannes Muller;1980;Cape Town;South Africa;106;200;65;0;0;0
+39;31011;Akona Ndungane;1981;Umtata;South Africa;86;183;80;0;0;0
+39;31624;BJ Botha;1980;Durban;South Africa;118;182;166;0;0;0
+39;33280;Jannie du Plessis;1982;Bethlehem;South Africa;119;188;93;0;0;0
+39;3381;Os du Randt;1972;Elliot;South Africa;125;190;397;0;0;0
+39;7698;Wayne Julies;1978;Paarl;South Africa;93;186;48;0;0;0
+40;10512;Rimas Álvarez Kairelis;1974;Buenos Aires;Argentina;106;197;287;0;0;0
+40;15696;Patricio Albacete;1981;Buenos Aires;Argentina;115;200;560;0;0;0
+40;15697;Juan Martín Hernández;1982;Buenos Aires;Argentina;90;187;480;1;0;100
+40;16235;Hernán Senillosa;1977;Buenos Aires;Argentina;90;179;141;1;0;0
+40;16241;Rodrigo Roncero;1977;Buenos Aires;Argentina;110;177;465;0;0;0
+40;18042;Martín Schusterman;1975;San Juan;Argentina;101;189;19;0;0;0
+40;18047;Lucas Borges;1980;Buenos Aires;Argentina;80;177;389;0;0;0
+40;21209;Federico Serra Miras;1979;Buenos Aires;Argentina;83;188;15;0;0;0
+40;21210;Santiago Gonzalez Bonorino;1975;Buenos Aires;Argentina;116;190;61;0;0;0
+40;22754;Eusebio Guiñazu;1982;Mendoza;Argentina;117;181;1;0;0;0
+40;24202;Federico Martin Aramburu;1980;Buenos Aires;Argentina;87;182;160;0;0;0
+40;24767;Gonzalo Tiesi;1985;Buenos Aires;Argentina;92;184;174;1;0;0
+40;25284;Marcos Ayerza;1983;Buenos Aires;Argentina;112;186;87;0;0;0
+40;25285;Alberto Vernet Basualdo;1982;Buenos Aires;Argentina;109;180;173;0;0;0
+40;2544;Felipe Contepomi;1977;Buenos Aires;Argentina;91;180;533;3;75;55
+40;2545;Manuel Contepomi;1977;Buenos Aires;Argentina;96;189;416;0;0;0
+40;2546;Ignacio Corleto;1978;Buenos Aires;Argentina;90;185;545;1;0;0
+40;2547;Martín Durand;1976;Buenos Aires;Argentina;96;182;167;0;0;0
+40;2548;Carlos Ignacio Fernandez Lobbe;1974;Buenos Aires;Argentina;114;194;253;0;0;0
+40;2549;Nicolás Fernandez Miranda;1972;Buenos Aires;Argentina;90;179;179;0;0;0
+40;2555;Mario Ledesma Arocena;1973;Buenos Aires;Argentina;106;183;387;0;0;0
+40;2561;Agustín Pichot;1974;Buenos Aires;Argentina;78;175;381;0;0;0
+40;2569;Juan Martín Scelzo;1976;Buenos Aires;Argentina;125;190;246;0;0;0
+40;25972;Juan Martín Fernandez Lobbe;1981;Buenos Aires;Argentina;105;191;560;1;0;0
+40;26184;Juan Manuel Leguizamón;1983;Santiago del Estero;Argentina;105;190;258;0;0;0
+40;26382;Horacio Agulla;1984;Buenos Aires;Argentina;88;182;480;0;0;0
+40;30915;Esteban Lozada;1982;Ottignies;Belgium;106;194;20;0;0;0
+40;7693;Omar Hasan Jalil;1971;Tucumán;Argentina;115;183;260;0;0;0
+40;7694;Lucas Ostiglia;1976;Buenos Aires;Argentina;99;191;335;0;0;0
+40;7695;Gonzalo Longo Elía;1974;Buenos Aires;Argentina;105;193;341;0;0;0
+40;8544;Federico Todeschini;1975;Rosario;Argentina;85;185;27;0;0;100
+41;10549;Mirco Bergamasco;1983;Padova;Italy;92;180;240;0;0;0
+41;10550;Ramiro Pez;1978;Córdoba;Argentina;87;178;160;0;100;100
+41;10552;Marco Bortolami;1980;Padova;Italy;111;196;240;0;0;0
+41;10553;Santiago Dellapè;1978;Mar del Plata;Argentina;116;200;146;0;0;0
+41;11570;Sergio Parisse;1983;Mar del Plata;Argentina;110;196;320;1;0;0
+41;11667;Fabio Ongaro;1977;Venice;Italy;104;183;83;0;0;0
+41;11668;Martin Castrogiovanni;1981;Parana;Argentina;117;188;274;0;0;0
+41;12466;Ezio Galon;1977;Treviso;Italy;91;186;49;0;0;0
+41;12513;Carlo Festuccia;1980;L'Aquila;Italy;105;182;157;0;0;0
+41;13154;Andrea Masi;1981;L'Aquila;Italy;97;183;315;0;0;0
+41;21122;Gonzalo Canale;1982;Córdoba;Argentina;95;180;240;0;0;0
+41;23906;Silvio Orlando;1981;Venice;Italy;94;189;21;0;0;0
+41;23907;Paul Griffen;1975;Dunedin;New Zealand;83;177;63;0;0;0
+41;23909;Roland de Marigny;1975;Durban;South Africa;85;180;160;0;0;100
+41;23913;Roberto Mandelli;1979;;;102;193;;0;0;0
+41;23915;Carlo Del Fava;1981;Umtata;South Africa;110;198;160;0;0;0
+41;24205;Kaine Robertson;1980;Auckland;New Zealand;76;178;240;0;0;0
+41;2454;Mauro Bergamasco;1979;Padova;Italy;98;183;320;0;0;0
+41;2460;Andrea Lo Cicero;1976;Catania;Italy;113;185;214;0;0;0
+41;2462;Salvatore Perugini;1978;Benevento;Italy;111;180;136;0;0;0
+41;24759;Matteo Pratichetti;1985;Rome;Italy;100;190;80;0;0;0
+41;26622;Valerio Bernabò;1984;Rome;Italy;113;198;94;0;0;0
+41;26628;Leonardo Ghiraldini;1984;Padova;Italy;99;184;80;0;0;0
+41;26645;Alessandro Zanni;1984;Udine;Italy;99;193;42;0;0;0
+41;27053;Pablo Canavosio;1981;Córdoba;Argentina;85;175;80;0;0;0
+41;2819;Alessandro Troncon;1973;Treviso;Italy;85;178;257;0;0;0
+41;28248;Josh Sole;1980;Hamilton;New Zealand;110;196;129;0;0;0
+41;28249;Matias Aguero;1981;Buenos Aires;Argentina;111;185;16;0;0;0
+41;30881;David Bortolussi;1981;Auch;France;91;188;276;0;66.7;66.7
+41;30928;Marko Stanojevic;1979;Birmingham;England;82;180;80;0;0;0
+41;33333;Manoa Vosawai;1983;Suva;Fiji;112;188;128;0;0;0
+42;10536;Aurélien Rougerie;1980;Beaumont;France;104;194;246;1;0;0
+42;10537;Damien Traille;1979;Pau;France;104;194;363;1;0;0
+42;10541;Imanol Harinordoquy;1980;Bayonne;France;108;192;274;1;0;0
+42;10542;Olivier Milloud;1975;St Vallier;France;109;185;347;0;0;0
+42;10543;Sébastien Bruno;1974;Nimes;France;106;174;58;0;0;0
+42;10562;Rémy Martin;1979;Aubenas;France;107;195;106;0;0;0
+42;10917;Sébastien Chabal;1977;Valence;France;114;192;224;1;0;0
+42;10918;Frédéric Michalak;1982;Toulouse;France;80;180;290;0;0;0
+42;10921;Cédric Heymans;1978;Brive La Gaillarde;France;96;180;370;1;0;0
+42;10922;Yannick Jauzion;1978;Castres;France;106;193;355;0;0;0
+42;10923;Jean-Baptiste Poux;1979;Béziers;France;105;180;285;0;0;0
+42;10928;Clément Poitrenaud;1982;Castres;France;91;188;290;1;0;0
+42;11593;Vincent Clerc;1981;Echirolles;France;88;178;344;0;0;0
+42;11643;David Skrela;1979;Toulouse;France;93;190;164;0;80;0
+42;11859;Jean-Baptiste Elissalde;1977;La Rochelle;France;78;172;435;0;75;75
+42;15704;Jérôme Thion;1977;Senlis;France;120;199;437;0;0;0
+42;17566;Nicolas Mas;1980;Perpignan;France;110;180;142;0;0;0
+42;2327;Raphaël Ibanez;1973;Dax;France;100;180;292;0;0;0
+42;23914;Julien Bonnaire;1978;Bourgoin;France;99;192;420;0;0;0
+42;24220;Yannick Nyanga;1983;Kinshasa;Congo;94;187;232;0;0;0
+42;24224;Dimitri Szarzewski;1983;Narbonne;France;100;180;180;0;0;0
+42;2431;Christophe Dominici;1972;Toulon;France;83;172;270;0;0;0
+42;2436;Fabien Pelous;1973;Toulouse;France;108;198;185;0;0;0
+42;2438;Pieter de Villiers;1972;Malmesbury;South Africa;107;184;346;0;0;0
+42;2441;Lionel Nallet;1976;Bourg-en-Brese;France;116;195;274;1;0;0
+42;2442;Serge Betsen;1974;Kumba;Cameroon;98;182;278;0;0;0
+42;2580;Pierre Mignoni;1977;Toulon;France;72;169;119;0;0;0
+42;25906;David Marty;1982;Perpignan;France;90;180;442;1;0;0
+42;26597;Lionel Beauxis;1985;Tarbes;France;89;180;232;0;88.9;63.6
+42;30907;Thierry Dusautoir;1981;Abidjan;Côte D'Ivoire;95;188;412;2;0;0
+44;22162;Federico Sousa;1978;Lisbon;Portugal;83;177;198;0;0;0
+44;22192;David Mateus;1980;Lisbon;Portugal;95;185;141;0;0;0
+44;22194;Gonçalo Malheiro;1978;Porto;Portugal;83;173;56;0;100;0
+44;22199;João Uva;1980;Lisbon;Portugal;90;182;233;1;0;0
+44;22240;Rui Cordeiro;1976;Figueira Da Foz;Portugal;138;184;240;0;0;0
+44;22260;Diogo Mateus;1980;Lisbon;Portugal;88;172;191;0;0;0
+44;22263;Vasco Uva;1982;Lisbon;Portugal;98;187;214;0;0;0
+44;23925;Pedro Leal;1984;Lisbon;Portugal;73;169;240;2;0;0
+44;23965;Duarte Cardoso Pinto;1982;Lisbon;Portugal;83;173;244;0;100;75
+44;23966;José Pinto;1981;Lisbon;Portugal;83;175;246;0;0;0
+44;23981;David Penalva;1981;;France;100;191;264;0;0;0
+44;24279;João Correia;1979;Lisbon;Portugal;100;173;206;0;0;0
+44;24286;Diogo Coutinho;1977;Lisbon;Portugal;99;188;140;0;0;0
+44;24345;Miguel Portela;1974;Lisbon;Portugal;85;186;202;0;0;0
+44;25412;Gonçalo Uva;1984;Lisbon;Portugal;107;200;320;0;0;0
+44;25413;Pedro Carvalho;1984;Lisbon;Portugal;87;185;240;0;0;0
+44;30888;Juan Manuel Muré;1983;;;100;188;49;0;0;0
+44;31118;Tiago Girão;1984;Lisbon;Portugal;94;187;196;0;0;0
+44;31119;Salvador Palha;1984;Lisbon;Portugal;90;185;1;0;0;0
+44;31120;Diogo Gama;1981;Lisbon;Portugal;90;181;49;0;0;0
+44;31872;Duarte Figueiredo;1982;;;88;172;10;0;0;0
+44;32884;Juan Severino Somoza;1981;;Argentina;113;185;80;0;0;0
+44;32929;Ruben Spachuck;1981;;;105;181;273;0;0;0
+44;33056;Pedro Cabral;1983;Lisbon;Portugal;72;179;100;0;0;0
+44;33217;Gonçalo Foro;1982;Lisbon;Portugal;95;196;19;0;0;0
+44;33218;Andre Silva;1975;Paris;France;102;174;60;0;0;0
+44;7477;Paulo Murinello;1974;Mocambique;Portugal;83;173;99;0;0;0
+44;9641;António Aguilar;1978;Lisbon;Portugal;96;192;240;1;0;0
+44;9657;Marcello d'Orey;1976;;;127;196;27;0;0;0
+44;9659;Joaquim Ferreira;1973;Porto;Portugal;100;175;148;0;0;0
+44;9675;Luis Pissarra;1975;Lisbon;Portugal;73;171;74;0;0;0
+45;11545;Tanielu Fuga;1973;Auckland;New Zealand;101;182;36;0;0;0
+45;11655;Kas Lealamanua;1976;Wellington;New Zealand;98;184;236;0;0;0
+45;11656;Elvis Seveali'I;1978;Wellington;New Zealand;96;180;180;1;0;0
+45;11658;Leo Lafaiali'I;1974;Auckland;New Zealand;110;195;98;0;0;0
+45;11844;Alesana Tuilagi;1981;Apia;Samoa;111;185;320;0;0;0
+45;11845;Henry Tuilagi;1976;Apia;Samoa;126;185;127;1;0;0
+45;11846;Lome Fa'atau;1975;Wellington;New Zealand;93;184;121;0;0;0
+45;21130;Sailosi Tagicakibau;1982;Auckland;New Zealand;97;193;56;0;0;0
+45;21402;Loki Crichton;1976;Apia;Samoa;90;180;263;1;100;75
+45;24048;Ulia Ulia;1980;Apia;Samoa;102;183;65;0;0;0
+45;24050;David Lemi;1982;Apia;Samoa;80;168;204;0;0;0
+45;24051;Lolo Lui;1982;Apia;Samoa;90;185;18;0;0;0
+45;24218;Seilala Mapusua;1980;Moto'otua;Samoa;102;180;229;0;0;0
+45;2475;Steve So'oialo;1977;Apia;Samoa;85;177;79;0;0;0
+45;2481;Alfie Vaeluaga;1980;Apia;Samoa;115;186;110;0;0;0
+45;2485;Mahonri Schwalger;1978;Apia;Samoa;106;180;294;0;0;0
+45;26838;Anitele'a Tuilagi;1986;Apia;Samoa;110;186;;0;0;0
+45;26841;Daniel Leo;1982;Palmerston North;New Zealand;112;198;240;0;0;0
+45;26842;Census Johnston;1981;Auckland;New Zealand;135;191;292;0;0;0
+45;26843;Justin Va'a;1978;Lower Hutt;New Zealand;124;182;61;0;0;0
+45;27144;Muliufi Salanoa;1980;Apia;Samoa;105;178;23;0;0;0
+45;28271;Eliota Fuimaono-Sapolu;1980;Apia;Samoa;103;183;207;3;0;0
+45;28953;Naama Leleimalefaga;1987;Apia;Samoa;121;178;10;0;0;0
+45;31789;Junior Polu;1981;Otahuhu;New Zealand;92;183;241;1;0;0
+45;32935;Fosi Palaamo;1976;Murupara;New Zealand;120;189;18;0;0;0
+45;32936;Kane Thompson;1982;Paraparaumu;New Zealand;112;198;304;0;0;0
+45;32937;Justin Purdie;1980;Wellington;New Zealand;107;194;126;1;0;0
+45;32938;Gavin Williams;1979;Auckland;New Zealand;98;187;159;1;71.4;100
+45;33031;Joe Tekori;1983;Apia;Samoa;123;192;208;0;0;0
+45;33103;Silao Vaisola Sefo;1979;Apia;Samoa;108;189;7;0;0;0
+45;33107;Jerry Meafou;1982;Apia;Samoa;93;179;70;0;0;0
+45;7415;Brian Lima;1972;Apia;Samoa;95;186;78;0;0;0
+45;7742;Semo Sititi;1974;Apia;Samoa;105;188;320;0;0;0
+46;11561;Vilimoni Delasau;1977;Ba;Fiji;102;190;390;1;0;0
+46;11562;Sisa Koyamaibole;1981;Suva;Fiji;120;192;325;0;0;0
+46;11563;Norman Ligairi;1976;Suva;Fiji;95;184;193;0;0;0
+46;11577;Seru Rabeni;1978;Suva;Fiji;105;187;331;1;0;0
+46;11578;Ifereimi Rawaqa;1980;Lautoka;Fiji;119;197;320;0;0;0
+46;11585;Seremaia Bai;1975;Suva;Fiji;105;182;400;2;100;100
+46;11586;Bill Gadolo;1977;Suva;Fiji;111;178;9;0;0;0
+46;11718;Kele Leawere;1974;Sigatoka;Fiji;120;193;313;0;0;0
+46;12531;Henry Qiodravu;1977;Suva;Fiji;116;181;246;0;0;0
+46;12532;Isoa Domolailai;1981;Sigatoka;Fiji;118;205;40;0;0;0
+46;24056;Sireli Bobo;1976;;;99;190;108;0;0;0
+46;25557;Kameli Ratuvou;1982;Suva;Fiji;94;178;298;1;0;0
+46;25561;Sunia Koto;1980;Suva;Fiji;110;174;298;0;0;0
+46;26833;Jone Qovu;1985;Sigatoka;Fiji;120;195;80;0;0;0
+46;26834;Maleli Kunavore;1983;Sigatoka;Fiji;110;187;81;0;0;0
+46;26835;Jone Railomo;1981;Suva;Fiji;120;187;174;0;0;0
+46;26836;Akapusi Qera;1984;Suva;Fiji;107;187;283;3;0;0
+46;26837;Aca Ratuva;1978;Sigatoka;Fiji;102;186;117;0;0;0
+46;30383;Waisea Luveniyali;1985;Suva;Fiji;83;172;40;0;0;0
+46;30386;Gabiriele Lovobalavu;1985;Savusavu;Fiji;95;176;31;0;0;0
+46;30748;Netani Talei;1983;Suva;Fiji;110;189;93;0;0;0
+46;30751;Jone Daunivucu;1977;Lautoka;Fiji;90;180;41;0;0;0
+46;32551;Vereniki Sauturaga;1982;Suva;Fiji;98;179;93;0;0;0
+46;32552;Wame Lewaravu;1982;Suva;Fiji;109;195;127;1;0;0
+46;32560;Alefoso Yalayalatabua;1977;Suva;Fiji;106;180;60;0;0;0
+46;33015;Graham Dewes;1982;Lautoka;Fiji;107;179;320;0;0;0
+46;33084;Filimone Bolavucu;1981;Suva;Fiji;90;172;;0;0;0
+46;33244;Isoa Neivua;1978;Sigatoka;Fiji;97;174;288;0;0;0
+46;33347;Semisi Naevo;1975;Nadi;Fiji;115;197;302;0;0;0
+46;8028;Mosese Rauluni;1975;Suva;Fiji;94;175;360;2;0;0
+46;8043;Nicky Little;1976;Tokoroa;New Zealand;102;183;239;0;72.7;75
+47;10516;Viliami Vaki;1976;Tofoa;Tonga;95;194;180;0;0;0
+47;10521;Taufa'ao Filise;1977;Malapo;Tonga;120;190;29;0;0;0
+47;15556;Aisea Havili;1977;Ha'ateiho;Tonga;91;178;39;0;0;0
+47;15668;Ephraim Taukafa;1976;Auckland;New Zealand;108;178;82;0;0;0
+47;15684;Tevita Tu'ifua;1975;Nomuka;Tonga;93;182;320;1;0;0
+47;15811;Kisi Pulu;1978;Leimatu'a;Tonga;112;178;320;0;0;0
+47;17081;'Emosi Kauhenga;1981;Folaha;Tonga;120;198;64;0;0;0
+47;21134;Seti Kiole;1980;Ha'apai;Tonga;102;192;;0;0;0
+47;21425;Finau Maka;1977;Longoteme;Tonga;110;190;304;0;0;0
+47;21458;Sukanaivalu Hufanga;1982;Houma;Tonga;89;182;300;1;0;0
+47;21831;Soane Havea;1981;;;93;170;53;0;0;0
+47;24112;Lisiate Fa'aoso;1983;Kolonga;Tonga;113;197;147;0;0;0
+47;24214;Soane Tonga'uiha;1982;Vaini;Tonga;130;192;271;0;0;0
+47;30608;Hudson Tonga'uiha;1983;Tofoa;Tonga;90;190;20;0;0;0
+47;30732;Paino Hehea;1979;Vaini;Tonga;114;197;239;0;0;0
+47;30735;Lotu Filipine;1980;Tofoa;Tonga;103;189;28;0;0;0
+47;30738;Nili Latu;1982;Afa;Tonga;100;185;292;1;0;0
+47;31788;Hale T Pole;1979;Longolongo;Tonga;102;192;232;0;0;0
+47;31846;Toma Toke;1985;Ha'ateiho;Tonga;108;181;21;0;0;0
+47;31850;Vungakoto Lilo;1983;Ha'apai;Tonga;98;193;320;1;0;0
+47;32613;Enele Taufa;1984;Ha'ateiho;Tonga;91;175;43;0;0;0
+47;32615;Ualosi Kailea;1978;Ha'alaufuli;Tonga;97;181;;0;0;0
+47;32618;Sateki Mata'u;1979;Ha'ateiho;Tonga;110;184;;0;0;0
+47;33006;Isileli Tupou;1984;Tofoa;Tonga;96;182;19;0;0;0
+47;33338;Joseph Vaka;1980;Kolofo'ou;Tonga;115;185;281;0;0;0
+47;7468;Maama Molitika;1976;Ha'apai;Tonga;116;194;19;0;0;0
+47;7601;Sione Tu'ipulotu;1978;Ha'apai;Tonga;98;186;212;0;0;0
+47;8065;Epeli Taione;1979;Kapa;Tonga;120;193;301;0;0;0
+47;8231;Inoke Afeaki;1973;Tofoa;Tonga;115;197;98;0;0;0
+47;8753;Pierre Hola;1978;Longolongo;Tonga;110;183;320;0;83.3;77.8
+47;8760;Aleki Lutui;1978;Tofoa;Tonga;108;178;238;0;0;0
+49;15993;Masahito Yamamoto;1978;Aichi;Japan;111;185;80;0;0;0
+49;21338;Ryota Asano;1979;Tokyo;Japan;100;184;28;0;0;0
+49;21644;Bryce Robins;1980;New Plymouth;New Zealand;86;183;240;0;0;100
+49;24147;Yuji Matsubara;1979;Hyogo;Japan;100;180;234;0;0;0
+49;24148;Hitoshi Ono;1978;Fukushima;Japan;105;191;216;0;0;0
+49;24149;Takanori Kumagae;1978;Fukuoka;Japan;104;194;80;0;0;0
+49;24227;Kosuke Endo;1980;Hokkaido;Japan;85;186;232;1;0;0
+49;24730;Tatsukichi Nishiura;1976;Miyazaki;Japan;110;176;217;0;0;0
+49;26176;Hare Makiri;1978;Thames;New Zealand;103;190;247;0;0;0
+49;26179;Christian Loamanu;1986;Tatakamotonga;Tonga;108;188;240;1;0;0
+49;28226;Tomokazu Soma;1977;Yamagata;Japan;122;183;196;0;0;0
+49;30303;Yuta Imamura;1984;Mie;Japan;90;178;200;0;0;0
+49;30335;Yuki Yatomi;1985;Kyoto;Japan;83;176;87;0;0;0
+49;30955;Philip O'Reilly;1980;Hamilton;New Zealand;100;190;160;0;0;0
+49;32857;Luke Thompson;1981;Christchurch;New Zealand;107;194;226;0;0;0
+49;32858;Takamichi Sasaki;1983;Osaka;Japan;98;184;48;0;0;0
+49;32859;Tomoki Kitagawa;1983;Kyoto;Japan;80;175;80;0;0;0
+49;32860;Go Aruga;1983;Yamanashi;Japan;85;175;140;0;0;0
+49;32861;Taku Inokuchi;1982;Tokyo;Japan;100;176;86;0;0;0
+49;33016;Tomoki Yoshida;1982;Kyoto;Japan;78;171;174;1;0;0
+49;33017;Koji Taira;1983;Nagasaki;Japan;93;185;135;0;0;0
+49;33018;Kosei Ono;1987;Aichi;Japan;87;170;80;0;100;0
+49;33358;Chulwon;1984;Seoul;Korea, Republic of;73;171;44;0;0;0
+49;33365;Tatsuya Kusumi;1981;Osaka;Japan;85;180;108;0;0;0
+49;7721;Yasunori Watanabe;1974;Tokyo;Japan;104;192;157;0;0;0
+49;7722;Hajime Kiso;1978;Osaka;Japan;105;195;102;0;0;0
+49;7753;Nataniela Oto;1978;Tokyo;Japan;95;173;80;0;0;0
+49;7756;Shotaro Onishi;1978;Osaka;Japan;80;180;212;2;100;50
+49;7767;Hirotoki Onozawa;1978;Shizuoka;Japan;85;180;188;0;0;0
+49;7768;Luatangi Samurai Vatuvei;1977;Tokyo;Japan;120;190;104;0;0;0
+49;7772;Ryo Yamamura;1981;Saga;Japan;114;185;147;0;0;0
+49;7962;Takuro Miuchi;1975;Tokyo;Japan;107;188;232;0;0;0
+50;11693;Jamie Cudmore;1978;Winnipeg;Canada;116;198;141;0;0;0
+50;11695;Ed Fairhurst;1979;Regina;Canada;93;183;9;0;0;0
+50;12474;Colin Yukes;1979;Edmonton;Canada;115;201;178;0;0;0
+50;18167;Pat Riordan;1979;London;Canada;106;185;266;0;0;0
+50;18169;Ryan Smith;1979;Kitchener;Canada;93;191;174;1;0;0
+50;21022;James Pritchard;1979;Parkes;Australia;85;175;320;0;83.3;60
+50;21298;Josh Jackson;1980;Fergus;Canada;112;198;1;0;0;0
+50;21301;Mike Webb;1979;West Vancouver;Canada;100;185;50;0;0;0
+50;24134;Dan Pletch;1983;Lucan;Canada;109;180;94;0;0;0
+50;24136;Mike Burak;1980;Vancouver;Canada;107;201;172;0;0;0
+50;24141;Matt Weingart;1982;Williams Lake;Canada;81;179;;0;0;0
+50;24143;Mike Pyke;1984;Victoria;Canada;104;196;320;1;0;0
+50;24167;Derek Daypuck;1978;London;Canada;93;183;67;0;0;0
+50;25989;Justin Mensah-Coker;1983;Vancouver;Canada;106;195;88;0;0;0
+50;26425;Dave Biddle;1985;Vancouver;Canada;102;180;214;0;0;0
+50;26476;Adam Kleeberger;1984;Elk Point;Canada;95;195;79;0;0;0
+50;26483;Dave Spicer;1985;Victoria;Canada;91;182;240;0;0;0
+50;27137;Luke Tait;1981;Barrie;Canada;105;199;164;0;0;0
+50;27139;Aaron Carpenter;1983;Brantford;Canada;104;183;121;1;0;0
+50;29078;Nick Trenkel;1987;Randburg;South Africa;94;180;13;0;0;0
+50;30807;Craig Culpan;1982;Vancouver;Canada;95;180;232;0;0;0
+50;30808;Ander Monro;1981;North York;Canada;88;178;146;0;0;0
+50;30811;Mike Pletch;1983;Lucan;Canada;111;180;83;0;0;0
+50;30812;Sean-Michael Stephen;1982;Oakville;Canada;108;196;194;0;0;0
+50;31794;Dth van der Merwe;1986;Worcester;South Africa;89;182;315;0;0;0
+50;32149;Nathan Hirayama;1988;Richmond;Canada;98;180;;0;0;0
+50;32922;Scott Franklin;1980;Saskatoon;Canada;114;180;22;0;0;0
+50;7370;Mike James;1973;Vancouver;Canada;110;198;304;0;0;0
+50;7551;Rod Snow;1970;Bona Vista;Canada;114;189;226;0;0;0
+50;7639;Morgan Williams;1976;Kingston;Canada;84;183;316;2;0;0
+50;7650;Jon Thiel;1975;White Rock;Canada;112;190;251;0;0;0
+51;12483;Mike Hercus;1979;Falls Church, Virginia;United States of America;84;176;320;1;75;57.1
+51;12484;Mike MacDonald;1980;Berkeley, California;United States of America;127;182;231;0;0;0
+51;16006;Paul Emerick;1980;Emmetsburg;United States of America;94;182;80;0;0;0
+51;21437;Chris Osentowski;1975;Des Moines, Iowa;United States of America;118;180;320;0;0;0
+51;21441;Salesi Sika;1980;Haveluloto;Tonga;113;190;287;0;0;0
+51;21442;Albert Tuipulotu;1979;Redwood City, California;United States of America;102;185;87;0;0;0
+51;23220;Todd Clever;1983;Palm Springs, California;United States of America;97;190;273;1;0;0
+51;26747;Mike Mangan;1975;Chicago;United States of America;115;195;229;0;0;0
+51;27143;Louis Stanfill;1985;Sacramento, California;United States of America;110;192;315;0;0;0
+51;30797;Vahafolau Esikia;1979;Neiafu;Tonga;93;180;294;1;0;0
+51;30799;Owen Lentz;1980;King Williams Town;South Africa;101;175;255;1;0;0
+51;30802;Mark Aylor;1978;San Angelo, Texas;United States of America;112;194;33;0;0;0
+51;30828;Hayden Mexted;1979;Whakatane;New Zealand;109;193;91;0;0;0
+51;31314;John Vitale;1981;Canton, Ohio;United States of America;113;186;;0;0;0
+51;31316;Chad Erskine;1980;Pietermaritzburg;South Africa;88;177;315;0;0;0
+51;31753;Blake Burdette;1980;Minneapolis;United States of America;112;185;100;0;0;0
+51;32912;Valenese Malifa;1985;;American Samoa;75;175;33;0;0;0
+51;32913;Chris Wyles;1983;Stamford;United States of America;93;182;315;0;0;0
+51;32915;Fifita Mounga;1973;Ha'asini;Tonga;107;177;64;0;0;0
+51;32917;Andrew Osborne;1981;Suva;Fiji;86;172;;0;0;0
+51;32930;Inaki Basauri;1984;Monterrey;Mexico;105;198;50;0;0;0
+51;32931;Dan Payne;1972;New York;United States of America;104;182;75;0;0;0
+51;33169;Takudzwa Ngwenya;1985;Harare;Zimbabwe;85;177;320;1;0;0
+51;33170;Thretton Palamo;1988;Woodland, California;United States of America;102;190;5;0;0;0
+51;33171;Mike Petri;1984;New York;United States of America;87;177;5;0;0;0
+51;33175;John Vandergeissen;1982;Jerome, Idaho;United States of America;107;195;;0;0;0
+51;33329;Matekitonga Moeakiola;1978;Tongatapu;Tonga;118;182;89;0;0;0
+51;33331;Henry Bloomfield;1973;California;United States of America;128;190;115;0;0;0
+51;7345;Luke Gross;1969;Decatur, Indiana;United States of America;117;203;;0;0;0
+51;7505;Alec Parker;1974;Aspen, Colorado;United States of America;102;195;320;0;0;0
+51;7744;Philip Eloff;1978;Thabazimbi;South Africa;94;180;179;0;0;0
+52;10013;Alexandru Manta;1977;Bucharest;Romania;105;190;199;1;0;0
+52;10022;Cezar Popescu;1976;Bucharest;Romania;120;188;79;0;0;0
+52;10479;Ioan Teodorescu;1976;Bucharest;Romania;80;175;;0;0;0
+52;10489;Petrisor Toderasc;1980;Iasi;Romania;113;185;144;0;0;0
+52;11522;Dan Dumbrava;1981;Bucharest;Romania;97;187;80;0;0;100
+52;11524;Sorin Socol;1977;Bucharest;Romania;115;196;280;0;0;0
+52;11525;Silviu Florea;1977;Bucharest;Romania;106;182;87;0;0;0
+52;11603;Cristian Petre;1979;Oradea;Romania;115;196;320;0;0;0
+52;11604;Augustin Petrichei;1980;Constanta;Romania;108;198;;0;0;0
+52;18235;Bogdan Balan;1980;Braila;Romania;115;183;275;0;0;0
+52;18246;Iulian Dumitras;1982;Suceava;Romania;106;188;300;0;0;0
+52;19730;Cosmin Ratiu;1979;Petrosani;Romania;110;197;139;0;0;0
+52;21387;Catalin Nicolae;1980;Bucharest;Romania;85;184;80;0;0;0
+52;23241;Alexandru Tudori;1978;Bucharest;Romania;105;195;68;0;0;0
+52;23876;Paulica Ion;1983;Braila;Romania;120;183;55;0;0;0
+52;24211;Ionut Dimofte;1984;Suceava;Romania;99;186;285;0;66.7;50
+52;24746;Valentin Calafeteanu;1985;Bucharest;Romania;78;181;118;0;0;100
+52;24747;Valentin Ursache;1985;Tirgu Neamt;Romania;125;194;27;0;0;0
+52;26745;Dan Vlad;1983;Bucharest;Romania;103;185;1;0;0;0
+52;28282;Catalin Fercu;1986;Brasov;Romania;85;183;240;1;0;0
+52;28321;Csaba Gal;1985;Cluj;Romania;94;184;240;0;0;0
+52;28549;Stefan Ciuntu;1986;Galati;Romania;85;182;80;0;0;0
+52;28569;Florin Vlaicu;1986;Bucharest;Romania;100;186;26;0;100;0
+52;30935;Catalin Dascalu;1984;Gura Humorului;Romania;97;184;10;0;0;0
+52;8089;Romeo Gontineac;1973;Hlipiceni;Romania;90;174;303;0;0;0
+52;8090;Gabriel Brezoianu;1977;Bucharest;Romania;88;175;240;0;0;0
+52;8094;Ionut Tofan;1977;Bucharest;Romania;77;178;35;0;0;0
+52;8096;Lucian Sirbu;1976;Bucharest;Romania;94;183;202;0;0;0
+52;8098;Florin Corodeanu;1977;Piatra Neamt;Romania;104;187;269;0;0;0
+52;8099;Marius Tincu;1978;Iasi;Romania;114;181;199;0;0;0
+52;8103;Ovidiu Tonita;1980;Barlad;Romania;105;195;298;0;0;0
+52;8111;Razvan Mavrodin;1973;Bucharest;Romania;102;178;121;0;0;0
+52;8112;Petru Balan;1976;Suceava;Romania;116;185;;0;0;0
+58;14469;Corne Powell;1974;Windhoek;Namibia;95;192;160;0;0;0
+58;21071;Domingo Kamonga;1974;Windhoek;Namibia;101;187;8;0;0;0
+58;21072;Du Preez Grobler;1977;Keetmanschoop;Namibia;93;183;51;0;0;0
+58;21094;Morne Schreuder;1979;Windhoek;Namibia;84;183;132;0;50;0
+58;21096;Kees Lensing;1978;Keetmanschoop;Namibia;125;190;242;0;0;0
+58;21118;Emile Wessels;1979;Windhoek;Namibia;85;180;92;0;50;100
+58;21127;Melrick Africa;1978;Rehoboth;Namibia;89;180;116;0;0;0
+58;21367;Johannes Meyer;1981;Bloemfontein;South Africa;125;190;68;0;0;0
+58;21373;Jane du Toit;1975;Windhoek;Namibia;118;186;159;0;0;0
+58;25440;Jacques Burger;1983;Windhoek;Namibia;100;188;295;0;0;0
+58;25441;Jurie van Tonder;1980;Windhoek;Namibia;75;182;145;0;0;0
+58;28498;Eugene Jantjies;1986;Gobabis;Namibia;84;180;190;0;0;0
+58;29954;Tertius Losper;1985;Windhoek;Namibia;90;185;160;0;0;100
+58;29970;Ryan Witbooi;1985;Rehoboth;Namibia;87;191;239;1;0;0
+58;30790;Heini Bock;1981;Oranjemund;Namibia;75;161;312;0;0;0
+58;30791;Michael MacKenzie;1983;Windhoek;Namibia;95;185;177;0;0;0
+58;31680;Johnny Redelinghuys;1984;Okahandja;Namibia;114;178;159;0;0;0
+58;31682;Wacca Kazombiaze;1979;Okakarara;Namibia;102;198;300;0;0;0
+58;31683;Nico Esterhuize;1984;Keetmanschoop;Namibia;103;205;257;0;0;0
+58;31685;Tinus du Plessis;1984;Windhoek;Namibia;100;190;146;0;0;0
+58;31688;Lu-Wayne Botes;1983;Johannesburg;South Africa;89;189;68;0;0;0
+58;31690;John Drotsky;1984;Rehoboth;Namibia;83;178;;0;0;0
+58;32961;Jacques Nieuwenhuis;1980;Brakpan;South Africa;96;178;179;0;0;0
+58;32963;Marius Visser;1982;Walvis Bay;Namibia;140;190;80;0;0;0
+58;33213;Piet van Zyl;1979;Worcester;South Africa;95;181;255;0;0;0
+58;33315;Bratley Langenhoven;1983;Walvis Bay;Namibia;89;191;267;0;0;0
+58;8131;Deon Mouton;1974;Rehoboth;Namibia;96;184;53;0;0;0
+58;8148;Herman Lindvelt;1976;Windhoek;Namibia;104;193;63;0;0;0
+58;8152;Heino Senekal;1975;Windhoek;Namibia;118;198;114;0;0;0
+58;8160;Hugo Horn;1977;Mariental;Namibia;106;180;252;0;0;0
+720;10225;Victor Didebulidze;1970;Tbilisi;Georgia;112;192;116;0;0;0
+720;10231;Akvsenti Giorgadze;1976;Kutaisi;Georgia;103;179;248;0;0;0
+720;10237;Pavle Jimsheladze;1975;Rustavi;Georgia;88;180;59;0;0;0
+720;10238;Besiki Khamashuridze;1977;Kutaisi;Georgia;95;195;167;0;0;0
+720;10246;Grigol Labadze;1973;Tbilisi;Georgia;97;194;160;0;0;0
+720;10251;Ilia Maisuradze;1977;Tbilisi;Georgia;98;180;107;0;0;0
+720;10256;Zurab Mchedlishvili;1971;Tbilisi;Georgia;110;192;80;0;0;0
+720;10264;Goderdzi Shvelidze;1978;Rustavi;Georgia;106;177;214;0;0;0
+720;10269;Malkhaz Urjukashvili;1980;Tbilisi;Georgia;80;178;303;0;0;100
+720;10270;Ilia Zedginidze;1977;Tbilisi;Georgia;112;195;112;0;0;0
+720;12602;Irakli Abuseridze;1977;Tbilisi;Georgia;70;174;159;0;0;0
+720;12604;Giorgi Chkhaidze;1981;Tbilisi;Georgia;102;195;290;0;0;0
+720;12610;Otar Barkalaia;1984;Tbilisi;Georgia;75;175;88;0;0;0
+720;13270;Giorgi Elizbarashvili;1984;Tbilisi;Georgia;84;184;77;0;0;0
+720;13271;Otar Eloshvili;1978;Kazbegi;Georgia;105;188;55;0;0;0
+720;13275;Mamuka Gorgodze;1984;Tbilisi;Georgia;118;196;179;0;0;0
+720;13277;Irakli Giorgadze;1982;Kutaisi;Georgia;100;188;240;0;0;0
+720;13290;David Khinchagashvili;1982;Tbilisi;Georgia;112;178;111;0;0;0
+720;13294;Merab Kvirikashvili;1983;Tbilisi;Georgia;80;180;320;0;45.5;100
+720;13301;Irakli Machkhaneli;1981;Tbilisi;Georgia;90;187;206;0;0;0
+720;13302;Mamuka Magrakvelidze;1977;Tbilisi;Georgia;120;190;97;0;0;0
+720;13332;Besso Udesiani;1978;Tbilisi;Georgia;95;183;94;0;0;0
+720;13333;Rati Urushadze;1975;Tbilisi;Georgia;100;193;205;0;0;0
+720;21306;Avtandil Kopaliani;1982;Kutaisi;Georgia;113;182;121;0;0;0
+720;23919;Bidzina Samkharadze;1983;Tbilisi;Georgia;70;170;161;0;0;0
+720;23971;Giorgi Shkinin;1983;Tbilisi;Georgia;70;170;148;0;0;0
+720;23987;Zviad Maisuradze;1980;Tbilisi;Georgia;97;185;83;0;0;0
+720;25419;David Zirakashvili;1983;Rustavi;Georgia;117;183;175;0;0;0
+720;25915;Levan Datunashvili;1983;Tbilisi;Georgia;110;194;168;0;0;0
+720;29819;Davit Kacharava;1985;Tbilisi;Georgia;75;175;160;0;0;0
+720;31123;Revaz Gigauri;1984;Kazbegi;Georgia;93;185;97;0;0;0

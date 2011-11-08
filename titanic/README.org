@@ -1,0 +1,44 @@
+# -*- org-confirm-babel-evaluate: nil  -*-
+#+TITLE: Lista pasażerów i załogi Titanica z feralnego pierwszego rejsu
+#+AUTHOR: Tomasz Przechlewski
+#+EMAIL: looseheadprop1 at gmail dot com
+#+INFOJS_OPT: view:info
+#+BABEL: :session *R* :cache yes :results output graphics :exports both :tangle yes 
+
+* Źródlo danych
+
+Plik ~Titanic_Passengers_and_Crew.cvs~ zawiera 
+listę pasażerów i członków załogi [[http://pl.wikipedia.org/wiki/RMS_Titanic][RMS Titanic]] z feralnego pierwszego rejsu tego statku.
+Dane zostały pobrane ze strony [[http://www.encyclopedia-titanica.org/titanic_passenger_list/]]
+i następnie zamienione z formatu HTML na CSV.
+
+* Lista zmiennych
+
+Poszczególne kolumny pliku ~Titanic_Passengers_and_Crew.cvs~ zawierają następujące dane:
+
+- Name :: imię i nazwisko uczestnika rejsu
+- Sex :: Płeć
+- ClassDept :: Klasa w której podróżował albo przydział w przypadku członka załogi (pokład, maszyna itp...)
+- Ticket :: Numer biletu
+- Fare :: Cena biletu
+- Group :: W tym polu jest identyfikacja pasażerów typu /cross-channel/
+- Ship :: Te pole nie zawiera żadnych danych
+- Joined :: W jakim porcie wsiadł uczestnika rejsu
+- Job :: Wykonywany zawód, ale dane są bardzo niekompletne
+- Boat :: numer łodzi, w której został uratowany; brak numeru łodzi oznacza, że nie przeżył rejsu
+- Body :: numer ciała
+
+* Uwagi
+
+W zbiorze jest łącznie 2240 pasażerów/członków załogi z tego 31 zeszło na ląd
+w Queenstown (oznaczeni jako /Cross Channel/), to daje 2209 osób na
+pokładzie w rejsie transatlantyckim.
+
+Aby usunąć osoby wyokrętowane w Queenstown można przykładowo wykonać:
+
+#+BEGIN_EXAMPLE
+   grep -v 'Cross Channel' Titanic_Passengers_and_Crew.cvs > Titanic_Passengers_and_Crew1.cvs
+#+END_EXAMPLE
+
+Wg [[http://pl.wikipedia.org/wiki/RMS_Titanic#Liczba_ofiar][polskiej wikipedii]] na pokładzie w rejsie transatlantyckim było 2208 osób. /Never mind/.
+Nie będziemy się przecież spierać o jednego...

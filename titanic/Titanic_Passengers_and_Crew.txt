@@ -1,0 +1,2242 @@
+Name;Age;Class.or.Dept;Ticket;Fare;Group;Ship;Joined;Job;Boat;Body
+ABBING, Mr Anthony;42;3rd Class;5547;£7 11s ;;;Southampton;Blacksmith;;
+ABBOTT, Mrs Rhoda Mary 'Rosa';39;3rd Class;CA2673;£20 5s ;;;Southampton;;A;
+ABBOTT, Mr Rossmore Edward;16;3rd Class;CA2673;£20 5s ;;;Southampton;Jeweller;;190
+ABBOTT, Mr Eugene Joseph;14;3rd Class;CA2673;£20 5s ;;;Southampton;Scholar;;
+ABBOTT, Mr Ernest Owen;21;Victualling;;;;;Southampton;Lounge Pantry Steward;;
+ABELSETH, Miss Karen Marie;16;3rd Class;348125;£7 13s ;;;Southampton;;16;
+ABELSETH, Mr Olaus Jørgensen;25;3rd Class;348122;£7 13s ;;;Southampton;Farmer;A;
+ABELSON, Mr Samuel;30;2nd Class;3381;£24 ;;;Cherbourg;;;
+ABELSON, Mrs ;28;2nd Class;3381;£24 ;;;Cherbourg;;10;
+ABRAHAMSSON, Mr Abraham August Johannes;20;3rd Class;3101284;£7 18s 6d;;;Southampton;;15;
+ABRAHIM, Mrs Mary Sophie Halaut;18;3rd Class;2657;£7 4s 7d;;;Cherbourg;;C;
+ABRAMS, Mr William;33;Engine;;;;;Southampton;Fireman / Stoker;;
+ÅDAHL, Mr Mauritz Nils Martin;30;3rd Class;7076;£7 5s ;;;Southampton;General Labourer;;72
+ADAMS, Mr John;26;3rd Class;341826;£8 1s ;;;Southampton;;;103
+ADAMS, Mr R.;26;Engine;;;;;Southampton;Fireman / Stoker;;
+AHIER, Mr Percy Snowden;20;Victualling;;;;;Southampton;Saloon Steward;;
+AHLIN, Mrs Johanna Persdotter;40;3rd Class;7546;£9 9s 6d;;;Southampton;;;
+AKERMAN, Mr Albert;28;Victualling;;;;;Southampton;Steward;;
+AKERMAN, Mr Joseph Francis;35;Victualling;;;;;Southampton;Assistant Pantryman Steward;;205
+AKS, Mrs Leah;18;3rd Class;392091;£9 7s ;;;Southampton;;13;
+AKS, Master Frank Philip;10m;3rd Class;392091;£9 7s ;;;Southampton;;11;
+ALBIMONA, Mr Nassef Cassem;26;3rd Class;2699;£18 15s 9d;;;Cherbourg;;15;
+ALDWORTH, Mr Charles Augustus;30;2nd Class;248744;£13 ;Servant;;Southampton;Chauffeur;;
+ALEXANDER, Mr William;23;3rd Class;3474;£7 17s 9d;;;Southampton;General Labourer;;
+ALHOMäKI, Mr Ilmari Rudolf;19;3rd Class;3101287;£7 18s 6d;;;Southampton;General Labourer;;
+ALI, Mr Ahmed;24;3rd Class;3101311;£7 1s ;;;Southampton;General Labourer;;
+ALI, Mr William;25;3rd Class;3101312;£7 1s ;;;Southampton;General Labourer;;79
+ALLAN, Mr Robert Spencer;36;Victualling;;;;;Southampton;Bed Room Steward;;
+ALLARIA, Sig. Battista Antonio;22;A la Carte;;;;;Southampton;Assistant Waiter;;221
+ALLEN, Miss Elisabeth Walton;29;1st Class;24160;£211 6s 9d;;;Southampton;;2;
+ALLEN, Mr William Henry;35;3rd Class;373450;£8 1s ;;;Southampton;Tool Maker;;
+ALLEN, Mr Henry;32;Engine;;;;;Southampton;Fireman / Stoker;;145
+ALLEN, Mr Ernest Frederick;24;Engine;;;;;Southampton;Trimmer;B;
+ALLEN, Mr George;26;Victualling;;;;;Southampton;Scullion;;
+ALLEN, Mr Frederick;17;Victualling;;;;;Southampton;Lift Steward;;
+ALLISON, Mr Hudson Joshua Creighton;30;1st Class;113781;£151 16s ;;;Southampton;Businessman;;135
+ALLISON, Mrs Bessie Waldo;25;1st Class;113781;£151 16s ;;;Southampton;;;
+ALLISON, Miss Helen Loraine;2;1st Class;113781;£151 16s ;;;Southampton;;;
+ALLISON, Master Hudson Trevor;11m;1st Class;113781;£151 16s ;;;Southampton;;11;
+ALLSOP, Mr Alfred Samuel;34;Engine;;;;;Belfast;Electrician;;
+ALLSOP, Mr Frank Richard;41;Victualling;;;;;Belfast;Saloon Steward;;
+ALLUM, Mr Owen George;15;3rd Class;2223;£8 6s ;;;Southampton;Gardener;;259
+ANDERSEN, Mr Albert Karvin;33;3rd Class;4001;£22 10s 6d;;;Southampton;Engineer;;260
+ANDERSEN-JENSEN, Miss Carla Christine Nielsine;19;3rd Class;350046;£7 17s 1d;;;Southampton;;16;
+ANDERSON, Mr Harry;47;1st Class;19952;£26 11s ;;;Southampton;Stockbroker;3;
+ANDERSON, Mr James;40;Deck;;;;;Southampton;Able Seaman;3;
+ANDERSON, Mr Walter J.;48;Victualling;;;;;Southampton;Bed Room Steward;;146
+ANDERSSON, Miss Erna Alexandra;17;3rd Class;3101281;£7 18s 6d;;;Southampton;;D;
+ANDERSSON, Mr Johan Samuel;26;3rd Class;347075;£7 15s 6d;;;Southampton;General Labourer;;
+ANDERSSON, Miss Ida Augusta Margareta;38;3rd Class;347091;£7 15s 6d;;;Southampton;;;
+ANDERSSON, Mr Anders Johan;39;3rd Class;347082;£31 5s 6d;;;Southampton;General Labourer;;
+ANDERSSON, Mrs Alfrida Konstantia Brogren;39;3rd Class;347082;£31 5s 6d;;;Southampton;;;
+ANDERSSON, Miss Sigrid Elisabeth;11;3rd Class;347082;£31 5s 6d;;;Southampton;;;
+ANDERSSON, Miss Ingeborg Constanzia;9;3rd Class;347082;£31 5s 6d;;;Southampton;;;
+ANDERSSON, Miss Ebba Iris Alfrida;6;3rd Class;347082;£31 5s 6d;;;Southampton;;;
+ANDERSSON, Master Sigvard Harald Elias;4;3rd Class;347082;£31 5s 6d;;;Southampton;;;
+ANDERSSON, Miss Ellis Anna Maria;2;3rd Class;347082;£31 5s 6d;;;Southampton;;;
+ANDREASSON, Mr Paul Edvin;20;3rd Class;347466;£7 17s 1d;;;Southampton;General Labourer;;
+ANDREW, Mr Edgar Samuel;17;2nd Class;231945;£11 10s ;;;Southampton;;;
+ANDREW, Mr Frank Thomas;25;2nd Class;34050;£10 10s ;;;Southampton;Miner;;
+ANDREWS, Miss Kornelia Theodosia;62;1st Class;13502;£77 19s 2d;;;Cherbourg;;10;
+ANDREWS, Mr Thomas;39;1st Class;112050;;H&W Guarantee Group;;Belfast;Shipbuilder;;
+ANDREWS, Mr Charles Edward;19;Victualling;;;;;Southampton;Assistant Saloon Steward;16;
+ANGHELOFF, Mr Minko;26;3rd Class;349202;£7 17s 11d;;;Southampton;General Labourer;;
+ANGLE, Mr William A.;32;2nd Class;226875;£26 ;;;Southampton;;;
+ANGLE, Mrs Florence "Mary" Agnes;36;2nd Class;226875;£26 ;;;Southampton;;11;
+APPLETON, Mrs Charlotte;53;1st Class;11769;£51 9s 7d;;;Southampton;;D;
+ARCHER, Mr Ernest Edward;36;Deck;;;;;Southampton;Able Seaman;16;
+ARNOLD-FRANCHI, Mr Josef;25;3rd Class;349237;£17 16s ;;;Southampton;General Labourer;;
+ARNOLD-FRANCHI, Mrs Josefine;18;3rd Class;349237;£17 16s ;;;Southampton;;;
+ARONSSON, Mr Ernst Axel Algot;24;3rd Class;349911;£7 15s 6d;;;Southampton;General Labourer;;
+ARTAGAVEYTIA, Mr Ramon;71;1st Class;17609;£49 10s 1d;;;Cherbourg;Businessman;;22
+ASHBY, Mr John;57;2nd Class;244346;£13 ;;;Southampton;;;
+ASHCROFT, Mr Austin Aloysius;26;Victualling;;;;;Southampton;Clerk;;
+ASHE, Mr Henry Wellesley;32;Victualling;;;;;Southampton;Glory Hole Steward;;34
+ASIM, Mr Adola;35;3rd Class;3101310;£7 1s ;;;Southampton;General Labourer;;
+ASPESLAGH, Mr Georges;26;A la Carte;;;;;Southampton;Assistant Plateman;;
+ASPLUND, Master Edvin Rojj Felix;3;3rd Class;347077;£31 7s 9d;;;Southampton;;15;
+ASPLUND, Mr Johan Charles;23;3rd Class;350054;£7 15s 11d;;;Southampton;;13;
+ASPLUND, Mr Carl Oscar Vilhelm Gustafsson;40;3rd Class;347077;£31 7s 9d;;;Southampton;General Labourer;;142
+ASPLUND, Mrs Selma Augusta Emilia;38;3rd Class;347077;£31 7s 9d;;;Southampton;;15;
+ASPLUND, Master Carl Edgar;5;3rd Class;347077;£31 7s 9d;;;Southampton;;;
+ASPLUND, Master Filip Oscar;13;3rd Class;347077;£31 7s 9d;;;Southampton;;;
+ASPLUND, Master Clarence Gustaf Hugo;9;3rd Class;347077;£31 7s 9d;;;Southampton;;;
+ASPLUND, Miss Lillian Gertrud;5;3rd Class;347077;£31 7s 9d;;;Southampton;;15;
+ASSAF, Mrs Mariana;45;3rd Class;2696;£7 4s 6d;;;Cherbourg;;C;
+ASSAM, Mr Ali;23;3rd Class;3101309;£7 1s ;;;Southampton;General Labourer;;
+ASTOR, Colonel John Jacob;47;1st Class;17757;£247 10s 6d;;;Cherbourg;Property Developer / Real Estate;;124
+ASTOR, Mrs Madeleine Talmage;18;1st Class;17757;£247 10s 6d;;;Cherbourg;;4;
+ATTALA, Mr Sleiman;27;3rd Class;2694;£7 4s 6d;;;Cherbourg;Journalist;;
+ATTALAH, Miss Malake;17;3rd Class;2627;£14 9s 2d;;;Cherbourg;;;
+AUBART, Mme. Léontine Pauline;24;1st Class;17477;£69 6s ;;;Cherbourg;Singer;9;
+AUGUSTSSON, Mr Albert;23;3rd Class;347468;£7 17s 1d;;;Southampton;General Labourer;;
+AVERY, Mr James Frank;22;Engine;;;;;Southampton;Trimmer;15;
+AYLING, Mr George Edwin;22;Victualling;;;;;Southampton;Assistant Vegetable Cook;;
+AYOUB DAHER, Miss Banoura;15;3rd Class;2687;£7 4s 7d;;;Cherbourg;;C;
+BACCOS, Mr Raffull;20;3rd Class;2679;£7 4s 6d;;;Cherbourg;Farm Labourer;;
+BACK, Mr Charles Frederick;32;Victualling;;;;;Belfast;Assistant Lounge Steward;;
+BACKSTRöM, Mr Karl Alfred;32;3rd Class;3101278;£15 17s ;;;Southampton;General Labourer;;
+BACKSTRöM, Mrs Maria Mathilda;33;3rd Class;3101278;£15 17s ;;;Southampton;;D;
+BACLINI, Mrs Latifa;24;3rd Class;2666;£19 5s 2d;;;Cherbourg;;C;
+BACLINI, Miss Marie Catherine;5;3rd Class;2666;£19 5s 2d;;;Cherbourg;;C;
+BACLINI, Miss Eugenie;3;3rd Class;2666;£19 5s 2d;;;Cherbourg;;C;
+BACLINI, Miss Helene Barbara;9m;3rd Class;2666;£19 5s 2d;;;Cherbourg;;C;
+BADMAN, Miss Emily Louisa;18;3rd Class;31416;£8 1s ;;;Southampton;Servant;C;
+BADT, Mr Mohamed;40;3rd Class;2623;£7 4s 6d;;;Cherbourg;Farmer;;
+BAGGOTT, Mr Allen Marden;28;Victualling;;;;;Southampton;Saloon Steward;;
+BAGLEY, Mr Edward Ernest;31;Victualling;;;;;Southampton;Saloon Steward;;
+BAILEY, Mr Percy Andrew;15;2nd Class;29108;£11 10s ;;;Southampton;Butcher's Assistant;;
+BAILEY, Mr Henry Joseph;43;Deck;;;;;Southampton;Master-at-arms;16;
+BAILEY, Mr George W.;46;Engine;;;;;Southampton;Fireman / Stoker;;
+BAILEY, Mr George Francis;36;Victualling;;;;;Belfast;Saloon Steward;;161
+BAINBRIGGE, Mr Charles Robert;23;2nd Class;31030;£10 10s ;;;Southampton;Horse Trainer;;
+BAINES, Mr Richard;24;Engine;;;;;Southampton;Greaser;;
+BALKIC, Mr Cerin;26;3rd Class;349248;£7 17s 11d;;;Southampton;General Labourer;;
+BALL, Mrs Ada E.;36;2nd Class;28551;£13 ;;;Southampton;;10;
+BALL, Mr Percy;19;Victualling;;;;;Southampton;Plate Steward;;
+BANFI, Sig. Ugo;24;A la Carte;;;;;Southampton;Waiter;;
+BANFIELD, Mr Frederick James;28;2nd Class;34068;£10 10s ;;;Southampton;Miner;;
+BANNON, Mr John;32;Engine;;;;;Southampton;Greaser;;
+BANSKI, Mrs Mara;31;3rd Class;349244;£8 13s 8d;;;Southampton;;;
+BARBARA, Mrs Catherine David;45;3rd Class;2691;£14 9s 1d;;;Cherbourg;Housekeeper;;
+BARBARA, Miss Saiide;18;3rd Class;2691;£14 9s 1d;;;Cherbourg;Housekeeper;;
+BARBER, Miss Ellen "Nellie";26;1st Class;19877;£78 17s ;Servant;;Southampton;Personal Maid;6;
+BARKER, Mr Albert Vale;19;Victualling;;;;;Southampton;Baker;;
+BARKER, Mr Ernest T.;37;Victualling;;;;;Southampton;Saloon Steward;;159
+BARKER, Mr Reginald Lomond;40;Victualling;;;;;Belfast;Purser;;
+BARKWORTH, Mr Algernon Henry;47;1st Class;27042;£30 ;;;Southampton;Justice of the Peace;B;
+BARLOW, Mr Charles;30;Engine;;;;;Southampton;Fireman / Stoker;;
+BARLOW, Mr George;36;Victualling;;;;;Southampton;Bed Room Steward;;
+BARNES, Mr Charles;29;Engine;;;;;Southampton;Fireman / Stoker;;
+BARNES, Mr J.;41;Engine;;;;;Southampton;Fireman / Stoker;;
+BARNES, Mr Frederick;37;Victualling;;;;;Southampton;Baker;;
+BARRATT, Mr Arthur;15;Victualling;;;;;Southampton;Bell Boy;;
+BARRETT, Mr Frederick;28;Engine;;;;;Southampton;Leading Fireman;13;
+BARRETT, Mr Frederick William;33;Engine;;;;;Southampton;Fireman / Stoker;;
+BARRINGER, Mr Arthur William;33;Victualling;;;;;Belfast;Saloon Steward;;
+BARROW, Mr Harry;35;Victualling;;;;;Southampton;Butcher;;
+BARROWS, Mr William;32;Victualling;;;;;Southampton;Saloon Steward;;
+BARRY, Miss Julia;26;3rd Class;330844;£7 17s 7d;;;Queenstown;Housekeeper;;
+BARTON, Mr David John;22;3rd Class;324669;£8 1s ;;;Southampton;General Labourer;;
+BARTON, Mr Sidney John;25;Victualling;;;;;Southampton;Steward;;
+BASILICO, Sig. Giovanni;27;A la Carte;;;;;Southampton;Waiter;;
+BATEMAN, Fr Robert James;51;2nd Class;1166;£12 10s 6d;;;Southampton;Priest / Minister;;174
+BAUMANN, Mr John D.;60;1st Class;17318;£25 18s 6d;;;Cherbourg;Businessman;;
+BAXTER, Mrs Hélène;50;1st Class;17558;£247 10s 5d;;;Cherbourg;;6;
+BAXTER, Mr Quigg Edmond;24;1st Class;17558;£247 10s 5d;;;Cherbourg;;;
+BAXTER, Mr Harry Ross;51;Victualling;;;;;Southampton;Steward;;
+BAXTER, Mr Thomas Ferguson;48;Victualling;;;;;Southampton;Linen Steward;;235
+BAZZANI, Mrs Albina;36;1st Class;11813;£76 5s 10d;Servant;;Cherbourg;Personal Maid;8;
+BAZZI, Sig. Narciso;33;A la Carte;;;;;Southampton;Waiter;;
+BEANE, Mr Edward;32;2nd Class;2908;£26 ;;;Southampton;;13;
+BEANE, Mrs Ethel;19;2nd Class;2908;£26 ;;;Southampton;;13;
+BEATTIE, Mr Thomson;36;1st Class;13050;£75 4s 10d;;;Southampton;Landowner;A;331
+BEATTIE, Mr Joseph;35;Engine;;;;;Belfast;Greaser;;
+BEAUCHAMP, Mr Henry James;28;2nd Class;244358;£26 ;;;Southampton;;;
+BEAUCHAMP, Mr George William;24;Engine;;;;;Southampton;Fireman / Stoker;13;
+BEAVAN, Mr William Thomas;18;3rd Class;323951;£8 1s ;;;Southampton;General Labourer;;
+BECKER, Mrs Nellie E.;35;2nd Class;230136;£39 ;;;Southampton;;11;
+BECKER, Miss Marion Louise;4;2nd Class;230136;£39 ;;;Southampton;;11;
+BECKER, Master Richard F.;1;2nd Class;230136;£39 ;;;Southampton;;11;
+BECKER, Miss Ruth Elizabeth;12;2nd Class;230136;£39 ;;;Southampton;;13;
+BECKWITH, Mr Richard Leonard;37;1st Class;11751;£52 11s 1d;;;Southampton;;5;
+BECKWITH, Mrs Sallie;46;1st Class;11751;£52 11s 1d;;;Southampton;;5;
+BEDFORD, Mr William Barnet;31;Victualling;;;;;Southampton;Assistant Roast Cook;;
+BEEDEM, Mr George Arthur;34;Victualling;;;;;Southampton;Bed Room Steward;;
+BEERE, Mr William;19;Victualling;;;;;Southampton;Kitchen Porter;;
+BEESLEY, Mr Lawrence;34;2nd Class;248698;£13 ;;;Southampton;Teacher;13;
+BEHR, Mr Karl Howell;26;1st Class;111369;£30 ;;;Cherbourg;;5;
+BELL, Mr Joseph;50;Engine;;;;;Belfast;Chief Engineer;;
+BENDELL, Mr F.;24;Engine;;;;;Southampton;Fireman / Stoker;;
+BENGTSSON, Mr Johan Viktor;26;3rd Class;347068;£7 15s 6d;;;Southampton;General Labourer;;
+BENHAM, Mr Frederick;29;Victualling;;;;;Southampton;Saloon Steward;;
+BENNETT, Mr George Alfred;30;Engine;;;;;Southampton;Fireman / Stoker;;
+BENNETT, Mrs Mabel;30;Victualling;;;;;Southampton;Stewardess;;
+BENTHAM, Miss Lillian W.;19;2nd Class;28404;£13 ;;;Southampton;;12;
+BENVILLE, Mr E.;42;Engine;;;;;Southampton;Fireman / Stoker;;
+BERGLUND, Mr Karl Ivar Sven;22;3rd Class;4348;£9 7s ;;;Southampton;General Labourer;;
+BERNARDI, Sig. Battista;22;A la Carte;;;;;Southampton;Assistant Waiter;;215
+BERRIMAN, Mr William John;23;2nd Class;28425;£13 ;;;Southampton;;;
+BESSANT, Mr William Edward;39;Engine;;;;;Southampton;Fireman / Stoker;;
+BESSANT, Mr Edward William;31;Victualling;;;;;Southampton;Baggage Steward;;
+BESSETTE, Miss Nellie Mayo;39;1st Class;17760;£63 7s 2d;Servant;;Cherbourg;Personal Maid;8;
+BEST, Mr Alfred Edwin;38;Victualling;;;;;Belfast;Saloon Steward;;
+BETROS, Mr Tannous;20;3rd Class;2648;£7 4s 7d;;;Cherbourg;Shoemaker;;
+BEUX, Mr David;26;A la Carte;;;;;Southampton;Assistant Waiter;;
+BEVIS, Mr Joseph Henry;22;Engine;;;;;Southampton;Trimmer;;
+BIDDLECOMBE, Mr Charles;33;Engine;;;;;Southampton;Fireman / Stoker;;
+BIDOIS, Miss Rosalie;46;1st Class;17757;£247 10s 6d;Servant;;Cherbourg;Personal Maid;4;
+BIETRIX, Mr George Baptiste;28;A la Carte;;;;;Southampton;Cook;;
+BIGGS, Mr Edward Charles;20;Engine;;;;;Southampton;Fireman / Stoker;;
+BILLOW, Mr J.;20;Engine;;;;;Southampton;Trimmer;;
+BING, Mr Lee;32;3rd Class;1601;£56 9s 11d;;;Southampton;Seaman;C;
+BINSTEAD, Mr Walter;19;Engine;;;;;Southampton;Trimmer;3;
+BIRD, Miss Ellen;31;1st Class;17483;£221 15s 7d;Servant;;Southampton;Personal Maid;8;
+BIRKELAND, Mr Hans Martin Monsen;21;3rd Class;312992;£7 15s 6d;;;Southampton;Seaman;;
+BIRNBAUM, Mr Jakob;24;1st Class;13905;£26 ;;;Cherbourg;;;148
+BISHOP, Mr Dickinson H.;25;1st Class;11967;£91 1s 7d;;;Cherbourg;;7;
+BISHOP, Mrs Helen;19;1st Class;11967;£91 1s 7d;;;Cherbourg;;7;
+BISHOP, Mr Walter Alexander;34;Victualling;;;;;Belfast;Bed Room Steward;;
+BJöRKLUND, Mr Ernst Herbert;18;3rd Class;347090;£7 15s ;;;Southampton;General Labourer;;
+BJöRNSTRöM-STEFFANSSON, Mr Mauritz Håkan;28;1st Class;110564;£26 11s ;;;Southampton;Businessman;D;
+BLACK, Mr Alexander;28;Engine;;;;;Southampton;Fireman / Stoker;;
+BLACK, Mr D.;41;Engine;;;;;Southampton;Fireman / Stoker;;
+BLACKMAN, Mr H.;24;Engine;;;;;Southampton;Fireman / Stoker;;
+BLACKWELL, Mr Stephen Weart;45;1st Class;113784;£35 10s ;;;Southampton;;;
+BLAKE, Mr Percival Albert;22;Engine;;;;;Southampton;Trimmer;;
+BLAKE, Mr Seaton;26;Engine;;;;;Belfast;Mess Steward;;
+BLAKE, Mr Thomas;36;Engine;;;;;Southampton;Fireman / Stoker;;
+BLANEY, Mr James;29;Engine;;;;;Southampton;Fireman / Stoker;;
+BLANK, Mr Henry;39;1st Class;112277;£31 ;;;Cherbourg;Jeweller;7;
+BLANN, Mr Eustace Horatius;21;Engine;;;;;Southampton;Fireman / Stoker;;
+BLISS, Mrs Emma;45;Victualling;;;;;Southampton;Stewardess;;
+BLUMET, Mr Jean Baptiste;26;A la Carte;;;;;Southampton;Pantryman;;
+BOCHATAY, Mr Alexis Joseph;30;Victualling;;;;;Southampton;Chef;;
+BOCHET, Mr Pierre Giuseppe;;A la Carte;;;;;Southampton;Waiter;;
+BOGIE, Mr Norman Leslie;29;Victualling;;;;;Southampton;Bed Room Steward;;274
+BOLHUIS, Mr Hendrik;21;A la Carte;;;;;Southampton;Larder Cook;;
+BOND, Mr William John;40;Victualling;;;;;Belfast;Bed Room Steward;;
+BONNELL, Miss Caroline;30;1st Class;36928;£164 17s 4d;;;Southampton;;8;
+BONNELL, Miss Elizabeth;61;1st Class;113783;£26 11s ;;;Southampton;;8;
+BOOTHBY, Mr W.;36;Victualling;;;;;Southampton;Bed Room Steward;;107
+BOREBANK, Mr John James;42;1st Class;110489;£26 11s ;;;Southampton;Property Developer / Real Estate;;
+BOSTANDYEFF, Mr Guentcho;26;3rd Class;349224;£7 17s 11d;;;Southampton;General Labourer;;
+BOSTON, Mr William John;30;Victualling;;;;;Belfast;Deck Steward;;
+BOTSFORD, Mr William Hull;25;2nd Class;237670;£13 ;;;Southampton;;;
+BOTT, Mr W.;44;Engine;;;;;Southampton;Greaser;;
+BOUGHTON, Mr B.;24;Victualling;;;;;Southampton;Saloon Steward;;
+BOULOS, Mrs Sultana;40;3rd Class;2678;£15 4s 11d;;;Cherbourg;;;
+BOULOS, Miss Nourelain;7;3rd Class;2678;£15 4s 11d;;;Cherbourg;;;
+BOULOS, Master Akar;9;3rd Class;2678;£15 4s 11d;;;Cherbourg;;;
+BOURKE, Mr John;42;3rd Class;364849;£15 10s ;;;Queenstown;Farmer;;
+BOURKE, Mrs Catherine;32;3rd Class;364849;£15 10s ;;;Queenstown;Housewife;;
+BOURKE, Miss Mary;40;3rd Class;364848;£7 15s ;;;Queenstown;;;
+BOWEN, Miss Grace Scott;45;1st Class;17608;£262 7s 6d;Servant;;Cherbourg;Governess;4;
+BOWEN, Mr David John "Dai";26;3rd Class;54636;£16 2s ;;;Southampton;Pugilist;;
+BOWENUR, Mr Solomon;42;2nd Class;211535;£13 ;;;Southampton;Merchant;;
+BOWERMAN, Miss Elsie Edith;22;1st Class;113505;£55 ;;;Southampton;;6;
+BOWKER, Miss Ruth;27;A la Carte;;;;;Southampton;Cashier;;
+BOXHALL, Mr Joseph Groves;28;Deck;;;;;Belfast;4th. Officer;2;
+BOYD, Mr John;35;Victualling;;;;;Southampton;Saloon Steward;;
+BOYES, Mr John Henry;36;Victualling;;;;;Belfast;Saloon Steward;;
+BRACKEN, Mr James H.;29;2nd Class;220367;£13 ;;;Southampton;Stockman;;
+BRADLEY, Miss Bridget Delia;22;3rd Class;334914;£7 14s 6d;;;Queenstown;;13;
+BRADLEY, Mr T.;29;Deck;;;;;Southampton;Able Seaman;;
+BRADLEY, Mr Patrick Joseph;39;Engine;;;;;Southampton;Fireman / Stoker;;
+BRADSHAW, Mr J. A.;43;Victualling;;;;;Southampton;Plate Steward;;
+BRADY, Mr John Bertram;41;1st Class;113054;£30 10s ;;;Southampton;;;
+BRAF, Miss Elin Ester Maria;20;3rd Class;347471;£7 17s 1d;;;Southampton;Servant;;
+BRAILEY, Mr W. Theodore Ronald;24;2nd Class;250654;;Musician;;Southampton;Musician;;
+BRAND, Mr ;;1st Class;8;£1 10s ;Cross Channel Passenger;;Southampton;;;
+BRANDEIS, Mr Emil;48;1st Class;17591;£50 9s 11d;;;Cherbourg;;;208
+BRAUND, Mr Lewis Richard;29;3rd Class;3460;£7 11d;;;Southampton;Farm Labourer;;
+BRAUND, Mr Owen Harris;22;3rd Class;21171;£7 5s ;;;Southampton;Ironmonger;;
+BRERETON, Mr George Andrew;37;1st Class;111427;£26 11s ;;;Southampton;;9;
+BREWE, Dr Arthur Jackson;45;1st Class;112379;£39 12s ;;;Cherbourg;;;
+BREWER, Mr Henry ("Harry");30;Engine;;;;;Southampton;Trimmer;;
+BREWSTER, Mr George H.;48;Victualling;;;;;Belfast;Bed Room Steward;;
+BRIANT, Mr Albert;34;Engine;;;;;Southampton;Greaser;;
+BRICE, Mr Walter T;42;Deck;;;;;Southampton;Able Seaman;11;
+BRICOUX, Mr Roger Marie;20;2nd Class;250654;;Musician;;Southampton;Musician;;
+BRIDE, Mr Harold Sydney;22;Victualling;;;;;Belfast;Assistant Telegraphist;B;
+BRIGHT, Mr Arthur John;42;Deck;;;;;Belfast;Quartermaster;D;
+BRISTOW, Mr Robert Charles;31;Victualling;;;;;Southampton;Steward;;290
+BRISTOW, Mr Harry;33;Victualling;;;;;Southampton;Saloon Steward;;
+BRITO, Mr José Joaquim de;32;2nd Class;244360;£13 ;;;Southampton;;;
+BROBECK, Mr Karl Rudolf;22;3rd Class;350045;£7 15s 11d;;;Southampton;Farm Labourer;;
+BROCKLEBANK, Mr William Alfred;35;3rd Class;364512;£8 1s ;;;Southampton;Groom;;
+BROOKMAN, Mr John;27;Victualling;;;;;Southampton;Steward;;
+BROOKS, Mr J.;25;Engine;;;;;Southampton;Trimmer;;
+BROOM, Mr H.;33;Victualling;;;;;Belfast;Bath Steward;;
+BROOME, Mr Athol Frederick;30;Victualling;;;;;Southampton;Verandah Steward;;
+BROWN, Mrs Caroline Lane;59;1st Class;11769;£51 9s 7d;;;Southampton;;D;
+BROWN, Mrs Margaret ;44;1st Class;17610;£27 14s 5d;;;Cherbourg;;6;
+BROWN, Miss Amelia Mary "Mildred";18;2nd Class;248733;£13 ;Servant;;Southampton;Cook (Personal);11;
+BROWN, Mr Thomas William Solomon;60;2nd Class;29750;£39 ;;;Southampton;Hotelier;;
+BROWN, Mrs Elizabeth Catherine;40;2nd Class;29750;£39 ;;;Southampton;;14;
+BROWN, Miss Edith Eileen;15;2nd Class;29750;£39 ;;;Southampton;Scholar;14;
+BROWN, Mr John;25;Engine;;;;;Southampton;Fireman / Stoker;;267
+BROWN, Mr Joseph James;25;Engine;;;;;Southampton;Fireman / Stoker;;
+BROWN, Mr Edward;34;Victualling;;;;;Belfast;Saloon Steward;;
+BROWN, Mr Walter James;28;Victualling;;;;;Belfast;Saloon Steward;;
+BROWNE, Mr Francis M.;31;1st Class;84;£24 ;Cross Channel Passenger;;Southampton;;;
+BRYHL, Mr Kurt Arnold Gottfrid;25;2nd Class;236853;£26 ;;;Southampton;;;
+BRYHL, Miss Dagmar Jenny Ingeborg;20;2nd Class;236853;£26 ;;;Southampton;;12;
+BUCKLEY, Mr Daniel;21;3rd Class;330920;£7 15s 17d;;;Queenstown;Farm Labourer;13;
+BUCKLEY, Miss Katherine;22;3rd Class;329944;£7 5s 8d;;;Queenstown;;;299
+BUCKLEY, Mr H. E.;34;Victualling;;;;;Southampton;Assistant Vegetable Cook;;
+BUCKNELL, Mrs Emma Eliza;59;1st Class;11813;£76 5s 10d;;;Cherbourg;;8;
+BULEY, Mr Edward John;27;Deck;;;;;Southampton;Able Seaman;10;
+BULL, Mr W.;30;Victualling;;;;;Southampton;Scullion;;
+BULLEY, Mr Henry Ashburnham;21;Victualling;;;;;Southampton;Boots;;
+BUNNELL, Mr Wilfred;20;Victualling;;;;;Belfast;Plate Steward;;
+BURGESS, Mr Charles Reginald;18;Victualling;;;;;Southampton;Extra 3rd. Baker;;
+BURKE, Mr Jeremiah;19;3rd Class;365222;£6 15s ;;;Queenstown;Farm Labourer;;
+BURKE, Mr Richard Edward;30;Victualling;;;;;Belfast;Lounge Steward;;
+BURKE, Mr William;31;Victualling;;;;;Belfast;Saloon Steward;;
+BURNS, Miss Elizabeth Margaret;41;1st Class;16966;£134 10s ;Servant;;Cherbourg;Nursemaid;3;
+BURNS, Miss Mary Delia;17;3rd Class;330963;£7 17s 7d;;;Queenstown;;;
+BURR, Mr Ewart Sydenham;29;Victualling;;;;;Southampton;Saloon Steward;;
+BURRAGE, Mr A.;20;Victualling;;;;;Southampton;Plate Steward;13;
+BURROUGHS, Mr Arthur;35;Engine;;;;;Southampton;Fireman / Stoker;;
+BURTON, Mr Edward John;32;Engine;;;;;Southampton;Fireman / Stoker;;
+BUSS, Miss Kate;36;2nd Class;27849;£13 ;;;Southampton;;9;
+BUTLER, Mr Reginald Fenton;25;2nd Class;234686;£13 ;;;Southampton;Mechanical Engineer;;97
+BUTT, Major Archibald Willingham;46;1st Class;113050;£26 11s ;;;Southampton;Military;;
+BUTT, Mr William John;30;Engine;;;;;Southampton;Fireman / Stoker;;77
+BUTT, Mr Robert Henry;21;Victualling;;;;;Southampton;Saloon Steward;;10
+BUTTERWORTH, Mr John;23;Victualling;;;;;Southampton;Saloon Steward;;116
+BYLES, Fr Thomas Roussel Davids;42;2nd Class;244310;£13 ;;;Southampton;Priest / Minister;;
+BYRNE, Mr J. E.;38;Victualling;;;;;Southampton;Bed Room Steward;;
+BYSTRöM, Mrs Karolina;42;2nd Class;236852;£13 ;;;Southampton;;;
+CACIC, Mr Jego Grga;18;3rd Class;315091;£8 13s 3d;;;Southampton;Farmer;;
+CACIC, Mr Luka;38;3rd Class;315089;£8 13s 3d;;;Southampton;Farmer;;
+CACIC, Miss Marija;30;3rd Class;315084;£8 13s 3d;;;Southampton;Farm Labourer;;
+CACIC, Miss Manda;21;3rd Class;315087;£8 13s 3d;;;Southampton;Farm Labourer;;
+CAIRNS, Mr Alexander;;1st Class;113798;£31 ;Servant;;Southampton;Servant;;
+CALDERHEAD, Mr Edward Pennington;42;1st Class;17476;£26 5s 9d;;;Southampton;;5;
+CALDERWOOD, Mr Hugh;30;Engine;;;;;Belfast;Trimmer;;
+CALDWELL, Mr Albert Francis;26;2nd Class;248738;£29 ;;;Southampton;;13;
+CALDWELL, Mrs Sylvia Mae;28;2nd Class;248738;£29 ;;;Southampton;;13;
+CALDWELL, Master Alden Gates;10m;2nd Class;248738;£29 ;;;Southampton;;13;
+CALIC, Mr Petar;17;3rd Class;315086;£8 13s 3d;;;Southampton;Farm Labourer;;
+CALIC, Mr Jovo;17;3rd Class;315093;£8 13s 3d;;;Southampton;;;
+CAMERON, Miss Clear Annie;35;2nd Class;13528;£21 ;;;Southampton;;14;
+CAMPBELL, Mr William Henry;21;2nd Class;239853;;H&W Guarantee Group;;Belfast;;;
+CAMPBELL, Mr Donald S.;25;Victualling;;;;;Southampton;3rd Class Clerk;;
+CANAVAN, Miss Mary;22;3rd Class;364846;£7 15s ;;;Queenstown;;;
+CANAVAN, Mr Patrick;21;3rd Class;364858;£7 15s ;;;Queenstown;General Labourer;;
+CANDEE, Mrs Helen Churchill;52;1st Class;17606;£27 8s 11d;;;Cherbourg;;6;
+CANN, Mr Ernest Charles;21;3rd Class;2152;£8 1s ;;;Southampton;Miner;;
+CANNER, Mr J.;40;Engine;;;;;Southampton;Fireman / Stoker;;
+CARAM, Mr Joseph;28;3rd Class;2689;£14 9s 2d;;;Cherbourg;Merchant;;
+CARAM, Mrs Maria Elias;18;3rd Class;2689;£14 9s 2d;;;Cherbourg;Housekeeper;;
+CARBINES, Mr William;19;2nd Class;28424;£13 ;;;Southampton;Miner;;18
+CARDEZA, Mrs Charlotte Wardle;58;1st Class;17755;£512 6s 7d;;;Cherbourg;;3;
+CARDEZA, Mr Thomas Drake Martinez;36;1st Class;17755;£512 6s 7d;;;Cherbourg;Gentleman;3;
+CARLSSON, Mr Frans Olof;33;1st Class;695;£5 ;;;Southampton;;;
+CARLSSON, Mr Carl Robert;24;3rd Class;350409;£7 17s 1d;;;Southampton;General Labourer;;
+CARLSSON, Mr August Sigfrid;28;3rd Class;350042;£7 15s 11d;;;Southampton;Farmer;;
+CARNEY, Mr William;31;Victualling;;;;;Southampton;Lift Steward;;251
+CARR, Miss Jane;45;3rd Class;368364;£7 15s ;;;Queenstown;;;
+CARR, Mr Richard Stephen;37;Engine;;;;;Southampton;Trimmer;;
+CARRAU, Mr Francisco M.;31;1st Class;113059;£47 2s ;;;Southampton;;;
+CARRAU, Mr José Pedro;17;1st Class;113059;£47 2s ;;;Southampton;;;
+CARTER, Mr William Ernest;36;1st Class;113760;£120 ;;;Southampton;;C;
+CARTER, Mrs Lucile;36;1st Class;113760;£120 ;;;Southampton;;4;
+CARTER, Miss Lucile Polk;13;1st Class;113760;£120 ;;;Southampton;;4;
+CARTER, Master William Thornton II;11;1st Class;113760;£120 ;;;Southampton;;4;
+CARTER, Fr Ernest Courtenay;54;2nd Class;244252;£26 ;;;Southampton;Priest / Minister;;
+CARTER, Mrs Lilian;45;2nd Class;244252;£26 ;;;Southampton;;;
+CARTER (BALL), Mr James (W.);46;Engine;;;;;Southampton;Fireman / Stoker;;
+CARTWRIGHT, Mr James Edward;32;Victualling;;;;;Belfast;Saloon Steward;;320
+CARVER, Mr Alfred John;28;3rd Class;370160;£7 5s ;;;Southampton;Seaman;;
+CASALI, Sig. Giulio;32;A la Carte;;;;;Southampton;Waiter;;
+CASE, Mr Howard Brown;49;1st Class;19924;£26 ;;;Southampton;;;
+CASEY, Mr T.;28;Engine;;;;;Southampton;Trimmer;;
+CASSEBEER, Mrs Eleanor Genevieve;36;1st Class;17770;£27 14s 5d;;;Cherbourg;;5;
+CASSWILL, Mr Charles;34;Victualling;;;;;Southampton;Saloon Steward;;
+CASTLEMAN, Mr Edward;37;Engine;;;;;Southampton;Greaser;;
+CATON, Miss Annie;33;Victualling;;;;;Southampton;Turkish Bath Stewardess;11;
+CAUNT, Mr William Ewart;27;Victualling;;;;;Southampton;Grill Cook;;
+CAVE, Mr Herbert;34;Victualling;;;;;Belfast;Saloon Steward;;218
+CAVELL, Mr George Henry;22;Engine;;;;;Southampton;Trimmer;;
+CAVENDISH, Mr Tyrell William;36;1st Class;19877;£78 17s ;;;Southampton;;;172
+CAVENDISH, Mrs Julia Florence;25;1st Class;19877;£78 17s ;;;Southampton;;6;
+CECIL, Mr C.;20;Victualling;;;;;Southampton;Steward;;
+CELOTTI, Mr Francesco;24;3rd Class;343275;£8 1s ;;;Southampton;Stoker;;
+CHABOISSON, Mr Adrien Finnin;25;A la Carte;;;;;Southampton;Roast Cook;;
+CHAFFEE, Mr Herbert Fuller;46;1st Class;5734;£61 3s 6d;;;Southampton;;;
+CHAFFEE, Mrs Carrie Constance;47;1st Class;5734;£61 3s 6d;;;Southampton;;4;
+CHAMBERS, Mr Norman Campbell;27;1st Class;113806;£53 2s ;;;Southampton;;5;
+CHAMBERS, Mrs Bertha;32;1st Class;113806;£53 2s ;;;Southampton;;5;
+CHAPMAN, Mr Charles Henry;52;2nd Class;248731;£13 10s ;;;Southampton;;;130
+CHAPMAN, Mr John Henry;36;2nd Class;29037;£26 ;;;Southampton;Farmer;;17
+CHAPMAN, Mrs Sara Elizabeth;28;2nd Class;29037;£26 ;;;Southampton;;;
+CHAPMAN, Mr Joseph Charles;32;Victualling;;;;;Southampton;Boots;;
+CHARMAN, Mr John;25;Victualling;;;;;Southampton;Saloon Steward;;
+CHARTERS, Mr David;20;3rd Class;13032;£7 14s 8d;;;Queenstown;General Labourer;;
+CHAUDANSON, Miss Victorine;36;1st Class;17608;£262 7s 6d;Servant;;Cherbourg;Personal Maid;4;
+CHEHAB/SHIHAB, Mr Emir Farres;29;3rd Class;2631;£7 4s 6d;;;Cherbourg;General Labourer;;
+CHERRETT, Mr William Victor;24;Engine;;;;;Southampton;Fireman / Stoker;;
+CHERRY, Miss Gladys;30;1st Class;110152;£86 10s ;;;Southampton;Of Independent Means;8;
+CHEVERTON, Mr William Edward;27;Victualling;;;;;Belfast;Saloon Steward;;334
+CHEVRé, Mr Paul Romaine Marie Léonce;45;1st Class;17594;£29 14s ;;;Cherbourg;Sculptor;7;
+CHIBNALL, Mrs Edith Martha Bowerman;48;1st Class;113505;£55 ;;;Southampton;Of Independent Means;6;
+CHIP, Mr Chang;32;3rd Class;1601;£56 9s 11d;;;Southampton;Seaman;C;
+CHISHOLM, Mr Roderick Robert Crispin;40;1st Class;112051;;H&W Guarantee Group;;Belfast;Draughtsman;;
+CHISNALL, Mr George Alexander;35;Engine;;;;;Belfast;Boilermaker;;111
+CHITTY, Mr Archibald George;28;Victualling;;;;;Southampton;Steward;;
+CHITTY, Mr George Henry;52;Victualling;;;;;Southampton;Baker;;
+CHORLEY, Mr John;25;Engine;;;;;Southampton;Fireman / Stoker;;
+CHRISTMANN, Mr Emil;29;3rd Class;343276;£8 1s ;;;Southampton;Clerk;;
+CHRISTMAS, Mr H.;33;Victualling;;;;;Southampton;Assistant Saloon Steward;;
+CHRISTY, Mrs Alice Frances;45;2nd Class;237789;£30 ;;;Southampton;;12;
+CHRISTY, Miss Rachel Julie Cohen;25;2nd Class;237789;£30 ;;;Southampton;;12;
+CHRONOPOULOS, Mr Apostolos M.;26;3rd Class;2680;£14 9s 1d;;;Cherbourg;General Labourer;;
+CHRONOPOULOS, Mr Dimitrios M.;21;3rd Class;2680;£14 9s 1d;;;Cherbourg;General Labourer;;
+CLARK, Mr Walter Miller;27;1st Class;13508;£136 15s 7d;;;Cherbourg;;;
+CLARK, Mrs Virginia Estelle;26;1st Class;13508;£136 15s 7d;;;Cherbourg;;4;
+CLARK, Mr William;39;Engine;;;;;Southampton;Fireman / Stoker;;
+CLARKE, Mr Charles Valentine;29;2nd Class;2003;£26 ;;;Southampton;Dairy Worker;;
+CLARKE, Mrs Ada Maria;28;2nd Class;2003;£27 ;;;Southampton;;14;
+CLARKE, Mr John Frederick Preston;30;2nd Class;250654;;Musician;;Southampton;Musician;;202
+CLEAVER, Miss Alice Catherine;22;1st Class;113781;£151 16s ;Servant;;Southampton;Nursemaid;11;
+CLENCH, Mr Frederick;34;Deck;;;;;Southampton;Able Seaman;12;
+CLENCH, Mr George;31;Deck;;;;;Southampton;Able Seaman;;
+CLIFFORD, Mr George Quincy;40;1st Class;110465;£52 ;;;Southampton;;;
+COE, Mr Harry;21;Engine;;;;;Southampton;Trimmer;;
+COELHO, Mr Domingos Fernandeo;20;3rd Class;3101307;£7 1s ;;;Southampton;General Labourer;;
+COFFEY, Mr John;23;Engine;;;;;Southampton;Fireman / Stoker;;
+COHEN, Mr Gurshon "Gus";18;3rd Class;3540;£8 1s ;;;Southampton;Printer / Compositor;12;
+COLBERT, Mr Patrick;24;3rd Class;371109;£7 5s ;;;Queenstown;General Labourer;;
+COLEFF, Mr Satio;24;3rd Class;349209;£7 17s 11d;;;Southampton;General Labourer;;
+COLEMAN, Mr John;57;Engine;;;;;Belfast;Mess Steward;;
+COLEMAN, Mr Albert Edward;28;Victualling;;;;;Southampton;Saloon Steward;;
+COLERIDGE, Mr Reginald Charles;29;2nd Class;14263;£10 10s ;;;Southampton;Advertising Consultant;;
+COLGAN, Mr E. Joseph;33;Victualling;;;;;Southampton;Scullion;;
+COLLANDER, Mr Erik Gustaf;27;2nd Class;248740;£13 ;;;Southampton;;;
+COLLETT, Mr Sidney Clarence Stuart;25;2nd Class;28034;£10 10s ;;;Southampton;;9;
+COLLEY, Mr Edward Pomeroy;37;1st Class;5727;£25 11s 9d;;;Southampton;;;
+COLLINS, Mr Samuel;35;Engine;;;;;Southampton;Fireman / Stoker;1;
+COLLINS, Mr John;17;Victualling;;;;;Southampton;Scullion;;
+COLLIS, Mr ;;1st Class;7;;Cross Channel Passenger;;Southampton;;;
+COLLYER, Mr Harvey;31;2nd Class;31921;£26 5s ;;;Southampton;Grocer;;
+COLLYER, Mrs Charlotte Annie;31;2nd Class;31921;£26 5s ;;;Southampton;;14;
+COLLYER, Miss Marjorie Charlotte "Lottie";8;2nd Class;31921;£26 5s ;;;Southampton;;14;
+COLTCHEFF, Mr Peju;36;3rd Class;349210;£7 17s 11d;;;Southampton;General Labourer;;
+COMBES, Mr George;34;Engine;;;;;Southampton;Fireman / Stoker;;
+COMPTON, Mrs Mary Eliza;64;1st Class;17756;£83 3s 2d;;;Cherbourg;;14;
+COMPTON, Miss Sara Rebecca;39;1st Class;17756;£83 3s 2d;;;Cherbourg;;14;
+COMPTON, Mr Alexander Taylor jr;37;1st Class;17756;£83 3s 2d;;;Cherbourg;;;
+CONLON, Mr Thomas Henry;31;3rd Class;21332;£7 14s 8d;;;Queenstown;General Labourer;;
+CONNAGHTON, Mr Michael;31;3rd Class;335097;£7 15s ;;;Queenstown;Farm Labourer;;
+CONNOLLY, Miss Kate;23;3rd Class;370373;£7 15s ;;;Queenstown;;13;
+CONNOLLY, Miss Kate;35;3rd Class;330972;£7 12s 7d;;;Queenstown;;;
+CONNORS, Mr Patrick;66;3rd Class;370369;£7 15s ;;;Queenstown;Farm Labourer;;171
+CONWAY, Mr P. W.;25;Victualling;;;;;Belfast;Saloon Steward;;
+COOK, Mrs Selena;22;2nd Class;14266;£10 10s ;;;Southampton;;14;
+COOK, Mr Jacob;43;3rd Class;3536;£8 1s ;;;Southampton;Wood Carver;;
+COOK, Mr George;32;Victualling;;;;;Southampton;Saloon Steward;;
+COOMBS, Mr Augustus Charles;42;Victualling;;;;;Southampton;Cook;;
+COOPER, Mr Harry;26;Engine;;;;;Southampton;Fireman / Stoker;;
+COOPER, Mr James;25;Engine;;;;;Southampton;Trimmer;;
+COPPERTHWAITE, Mr B.;22;Engine;;;;;Southampton;Fireman / Stoker;;
+COR, Mr Bartol;35;3rd Class;349230;£7 17s 11d;;;Southampton;General Labourer;;
+COR, Mr Ivan;27;3rd Class;349229;£7 17s 11d;;;Southampton;General Labourer;;
+COR, Mr Liudevit;19;3rd Class;349231;£7 17s 11d;;;Southampton;General Labourer;;
+CORBEN, Mr Ernest Theodore;27;Victualling;;;;;Southampton;Assistant Printer Steward;;
+CORBETT, Mrs Irene;30;2nd Class;237249;£13 ;;;Southampton;Musician;;
+CORCORAN, Mr Denny;33;Engine;;;;;Southampton;Fireman / Stoker;;
+COREY, Mrs Mary Phyllis Elizabeth;30;2nd Class;13534;£21 ;;;Southampton;;;
+CORN, Mr Harry;30;3rd Class;392090;£8 1s ;;;Southampton;Upholsterer;;
+CORNAIRE, Mr Marcel Raymond André;19;A la Carte;;;;;Southampton;Assistant Roast Cook;;
+CORNELL, Mrs Malvina Helen;55;1st Class;11770;£25 14s 10d;;;Southampton;;2;
+CORR, Miss Helen;16;3rd Class;367231;£7 15s ;;;Queenstown;;16;
+COTTERILL, Mr Henry "Harry";20;2nd Class;29107;£11 10s ;;;Southampton;Carpenter / Joiner;;
+COTTON, Mr A.;;Engine;;;;;Southampton;Trimmer;;
+COUCH, Mr Frank;28;Deck;;;;;Southampton;Able Seaman;;253
+COUCH, Mr Joseph Henry;45;Engine;;;;;Southampton;Greaser;;
+COUPER, Mr Robert;30;Engine;;;;;Southampton;Fireman / Stoker;;
+COUTIN, Mr Auguste Louis;28;A la Carte;;;;;Southampton;Entreé Cook;;
+COUTTS, Mrs Winnie "Minnie";36;3rd Class;37671;£15 18s ;;;Southampton;;2;
+COUTTS, Master William Loch "Willie";9;3rd Class;37671;£15 18s ;;;Southampton;;2;
+COUTTS, Master Neville Leslie;3;3rd Class;37671;£15 18s ;;;Southampton;;2;
+COX, Mr William Denton;29;Victualling;;;;;Southampton;Steward;;300
+COXON, Mr Daniel;59;3rd Class;364500;£7 5s ;;;Southampton;Dealer;;
+COY, Mr Francis Ernest George;26;Engine;;;;;Belfast;Junior Assistant 3rd. Engineer;;
+CRABB, Mr H.;23;Engine;;;;;Southampton;Trimmer;;
+CRAFTER, Mr Frederick;27;Victualling;;;;;Southampton;Saloon Steward;;
+CRAFTON, Mr John Bertram;59;1st Class;113791;£26 11s ;;;Southampton;Businessman;;
+CRAWFORD, Mr Alfred;36;Victualling;;;;;Belfast;Bed Room Steward;8;
+CREASE, Mr Ernest James;19;3rd Class;3464;£8 3s 2d;;;Southampton;Tinsmith;;
+CREESE, Mr Henry Philip;44;Engine;;;;;Belfast;Deck Engineer;;
+CRIBB, Mr John Hatfield;44;3rd Class;371362;£16 2s ;;;Southampton;Butler;;
+CRIBB, Miss Laura Mae;16;3rd Class;371362;£16 2s ;;;Southampton;Shop Assistant;12;
+CRIMMINS, Mr James;21;Engine;;;;;Southampton;Fireman / Stoker;13;
+CRISP, Mr Albert Hector;39;Victualling;;;;;Belfast;Saloon Steward;;
+CRISPIN, Mr William;32;Victualling;;;;;Southampton;Glory Hole Steward;;
+CROSBY, Captain Edward Gifford;70;1st Class;5735;£71 ;;;Southampton;;;269
+CROSBY, Mrs Catherine Elizabeth;64;1st Class;5735;£71 ;;;Southampton;;7;
+CROSBY, Miss Harriette Rebecca;39;1st Class;112901;£26 11s ;;;Southampton;;7;
+CROSBY, Mr J. Bertram;42;Victualling;;;;;Southampton;Turkish Bath Attendant;;
+CROSS, Mr W.;39;Engine;;;;;Southampton;Fireman / Stoker;;
+CROVELLA, Sig. Luigi/Louis;17;A la Carte;;;;;Southampton;Assistant Waiter;;
+CROWE, Mr George Frederick;30;Victualling;;;;;Southampton;Saloon Steward;;
+CRUMPLIN, Mr Charles;35;Victualling;;;;;Belfast;Bed Room Steward;;
+CULLEN, Mr Charles;45;Victualling;;;;;Belfast;Bed Room Steward;;
+CULUMOVIC, Mr Jeso;17;3rd Class;315090;£8 13s 3d;;;Southampton;;;
+CUMINGS, Mr John Bradley;39;1st Class;17599;£71 5s 8d;;;Cherbourg;;;
+CUMINGS, Mrs Florence Briggs;35;1st Class;17599;£71 5s 8d;;;Cherbourg;;4;
+CUNNINGHAM, Mr Alfred Fleming;21;2nd Class;239853;;H&W Guarantee Group;;Belfast;Fitter;;
+CUNNINGHAM, Mr B.;30;Engine;;;;;Southampton;Fireman / Stoker;;
+CUNNINGHAM, Mr Andrew;35;Victualling;;;;;Belfast;Bed Room Steward;4;
+CURTIS, Mr Arthur;25;Engine;;;;;Southampton;Fireman / Stoker;;
+DAHER, Mr Tannous;28;3rd Class;2686;£7 4s 7d;;;Cherbourg;;;
+DAHL, Mr Charles Edward;45;3rd Class;7598;£8 1s ;;;Southampton;Carpenter / Joiner;15;
+DAHLBERG, Miss Gerda Ulrika;22;3rd Class;7552;£10 10s 4d;;;Southampton;;;
+DAKIC, Mr Branko;19;3rd Class;349228;£10 3s 5d;;;Southampton;General Labourer;;
+DALY, Mr Peter Dennis;51;1st Class;113055;£26 11s ;;;Southampton;Businessman;5;
+DALY, Miss Margaret Marcella "Maggie";30;3rd Class;382650;£6 19s ;;;Queenstown;Housekeeper;15;
+DALY, Mr Eugene Patrick;29;3rd Class;382651;£7 15s ;;;Queenstown;Farm Labourer;B;
+DANBOM, Mr Ernst Gilbert;34;3rd Class;347080;£14 8s ;;;Southampton;General Labourer;;197
+DANBOM, Mrs Anna Sigrid Maria;28;3rd Class;347080;£14 8s ;;;Southampton;;;
+DANBOM, Master Gilbert Sigvard Emanuel;4m;3rd Class;347080;£14 8s ;;;Southampton;;;
+DANIEL, Mr Robert Williams;27;1st Class;113804;£30 10s ;;;Southampton;;3;
+DANIELS, Miss Sarah;33;1st Class;113781;£151 16s ;Servant;;Southampton;Personal Maid;8;
+DANIELS, Mr Sidney Edward;18;Victualling;;;;;Southampton;Steward;;
+DANOFF, Mr Yoto;27;3rd Class;349219;£7 17s 11d;;;Southampton;General Labourer;;
+DANTCHEFF, Mr Ristiu;25;3rd Class;349203;£7 17s 11d;;;Southampton;General Labourer;;
+DASHWOOD, Mr William George;19;Victualling;;;;;Southampton;Saloon Steward;;83
+DAVIDSON, Mr Thornton;31;1st Class;12750;£52 ;;;Cherbourg;;;
+DAVIDSON, Mrs Orian;27;1st Class;12750;£52 ;;;Cherbourg;;3;
+DAVIES, Mr Charles Henry;21;2nd Class;14879;£73 10s ;;;Southampton;;;
+DAVIES, Mrs Elizabeth Agnes Mary;48;2nd Class;33112;£36 15s ;;;Southampton;;14;
+DAVIES, Master John Morgan jr;8;2nd Class;33112;£36 15s ;;;Southampton;;14;
+DAVIES, Mr Evan;22;3rd Class;23568;£8 1s ;;;Southampton;Miner;;
+DAVIES, Mr Alfred J.;24;3rd Class;48871;£24 3s ;;;Southampton;Caster;;
+DAVIES, Mr John Samuel;21;3rd Class;48871;£24 3s ;;;Southampton;Ironworker;;
+DAVIES, Mr Joseph;17;3rd Class;48873;£8 1s ;;;Southampton;Ironworker;;
+DAVIES, Mr Thomas;33;Engine;;;;;Southampton;Leading Fireman;;
+DAVIES, Mr Gordon Raleigh;33;Victualling;;;;;Belfast;Bed Room Steward;;
+DAVIES, Mr John James;27;Victualling;;;;;Belfast;Extra 2nd Baker;;200
+DAVIES, Mr Robert J.;26;Victualling;;;;;Belfast;Saloon Steward;;191
+DAVIES, Mr H. V.;;2nd Class;406;£2 ;Cross Channel Passenger;;Southampton;;;
+DAVIES, Miss K.;;2nd Class;406;£2 ;Cross Channel Passenger;;Southampton;;;
+DAVIS, Miss Mary;28;2nd Class;237668;£13 ;;;Southampton;;13;
+DAVIS, Mr Stephen James;39;Deck;;;;;Southampton;Able Seaman;;
+DAVISON, Mr Thomas Henry;32;3rd Class;386525;£16 2s ;;;Southampton;Blacksmith;;
+DAVISON, Mrs Mary E.;34;3rd Class;386525;£16 2s ;;;Southampton;;16;
+DAWSON, Mr Joseph;23;Engine;;;;;Southampton;Trimmer;;227
+DE GRASSE, Mr J.;;2nd Class;761;£1 ;Cross Channel Passenger;;Southampton;;;
+DE MARSICO, Sig. Govanni;20;A la Carte;;;;;Southampton;Assistant Waiter;;
+DE MESSEMAEKER, Mr Guillaume Joseph;36;3rd Class;345572;£17 8s ;;;Southampton;;15;
+DE MESSEMAEKER, Mrs Anna;36;3rd Class;345572;£17 8s ;;;Southampton;;13;
+DE MULDER, Mr Theodoor;30;3rd Class;345774;£9 10s ;;;Southampton;;11;
+DE PELSMAEKER, Mr Alfons;16;3rd Class;345778;£9 10s ;;;Southampton;Farm Labourer;;
+DEACON, Mr Percy William;20;2nd Class;14879;£73 10s ;;;Southampton;;;
+DEAN, Mr Bertram Frank;25;3rd Class;2315;£20 11s 6d;;;Southampton;Farmer;;
+DEAN, Mrs Eva Georgetta;32;3rd Class;2315;£20 11s 6d;;;Southampton;;10;
+DEAN, Master Bertram Vere;1;3rd Class;2315;£20 11s 6d;;;Southampton;;10;
+DEAN, Miss Elizabeth Gladys 'Millvina';2m;3rd Class;2315;£20 11s 6d;;;Southampton;;10;
+DEAN, Mr George H.;19;Victualling;;;;;Southampton;Assistant Saloon Steward;;252
+DEBREUCQ, Mr Maurice Emile Victor;18;A la Carte;;;;;Southampton;Assistant Waiter;;244
+DEEBLE, Mr Alfred Arnold;29;Victualling;;;;;Belfast;Saloon Steward;;270
+DEL CARLO, Mr Sebastiano;29;2nd Class;2167;£27 14s 5d;;;Cherbourg;;;295
+DEL CARLO, Mrs Argene;24;2nd Class;2167;£27 14s 5d;;;Cherbourg;;11;
+DELALIC, Mr Redjo;25;3rd Class;349250;£7 17s 11d;;;Southampton;General Labourer;;
+DENBUOY, Mr Albert ("Herbert");25;2nd Class;31029;£31 10s ;;;Southampton;;;
+DENKOFF, Mr Mitto;30;3rd Class;349225;£7 17s 11d;;;Southampton;General Labourer;;
+DENNIS, Mr Samuel;22;3rd Class;21172;£7 5s ;;;Southampton;Farmer;;
+DENNIS, Mr William;26;3rd Class;21175;£7 5s ;;;Southampton;Farmer;;
+DERRETT, Mr Albert;26;Victualling;;;;;Belfast;Saloon Steward;;
+DESLANDS, Mr Percival Stainer;36;Victualling;;;;;Southampton;Saloon Steward;;212
+DESVERNINE, Mr Louis Gabriel;20;A la Carte;;;;;Southampton;Assistant Pastry Cook;;
+DEVANEY, Miss Margaret Delia;19;3rd Class;330958;£7 17s 7d;;;Queenstown;;C;
+DIAPER, Mr J;24;Engine;;;;;Southampton;Fireman / Stoker;;
+DIBDEN, Mr William;18;2nd Class;14879;£73 10s ;;;Southampton;;;
+DICK, Mr Albert Adrian;31;1st Class;17474;£57 ;;;Southampton;;3;
+DICK, Mrs Vera;17;1st Class;17474;£57 ;;;Southampton;;3;
+DICKSON, Mr W.;36;Engine;;;;;Southampton;Trimmer;;
+DIKA, Mr Mirko;17;3rd Class;349232;£7 17s 11d;;;Southampton;;;
+DILLEY, Mr John;30;Engine;;;;;Southampton;Fireman / Stoker;;
+DILLON, Mr Thomas Patrick;24;Engine;;;;;Southampton;Trimmer;;
+DIMIC, Mr Jovan;42;3rd Class;315088;£8 13s 3d;;;Southampton;;;
+DINENAGE, Mr James Richard;49;Victualling;;;;;Southampton;Saloon Steward;;
+DINTCHEFF, Mr Valtcho;43;3rd Class;349226;£7 17s 11d;;;Southampton;;;
+DODD, Mr Edward Charles;38;Engine;;;;;Belfast;Junior 3rd. Engineer;;
+DODD, Mr George Charles;44;Victualling;;;;;Belfast;Steward;;
+DODDS, Mr Henry Watson;27;Engine;;;;;Southampton;Junior Assistant 4th Engineer;;
+DODGE, Dr Washington;52;1st Class;33638;£81 17s 2d;;;Southampton;Politician;13;
+DODGE, Mrs Ruth;34;1st Class;33638;£81 17s 2d;;;Southampton;;5;
+DODGE, Master Washington;4;1st Class;33638;£81 17s 2d;;;Southampton;;5;
+DOEL, Mr Frederick;22;Engine;;;;;Southampton;Fireman / Stoker;;
+DOLBY, Mr Joseph;36;Victualling;;;;;Belfast;Reception Room Steward;;
+DOLING, Mrs Ada Julia;34;2nd Class;231919;£23 ;;;Southampton;;;
+DOLING, Miss Elsie;18;2nd Class;231919;£23 ;;;Southampton;;;
+DONATI, Sig. Italo Francesco;17;A la Carte;;;;;Southampton;Assistant Waiter;;311
+DONOGHUE, Mr Frank (?Thomas);35;Victualling;;;;;Belfast;Bed Room Steward;;
+DONOHOE, Miss Bridget;21;3rd Class;364856;£7 15s ;;;Queenstown;;;
+DOOLEY, Mr Patrick;38;3rd Class;370376;£7 15s ;;;Queenstown;General Labourer;;
+DORE, Mr A.;22;Engine;;;;;Southampton;Trimmer;;
+DORKING, Mr Edward Arthur;18;3rd Class;10482;£8 1s ;;;Southampton;Groom;B;
+DORNIER, Mr Louis Auguste;20;A la Carte;;;;;Southampton;Assistant Fish Cook;;
+DOUGHERTY, Mr William John;22;3rd Class;330877;£8 9s 2d;;;Queenstown;;;
+DOUGHTY, Mr W.;22;Victualling;;;;;Southampton;Saloon Steward;;
+DOUGLAS, Mr Walter Donald;50;1st Class;17761;£106 8s 6d;;;Cherbourg;;;62
+DOUGLAS, Mrs Mahala;48;1st Class;17761;£106 8s 6d;;;Cherbourg;;2;
+DOUGLAS, Mrs Mary Hélène;27;1st Class;17558;£247 10s 5d;;;Cherbourg;;6;
+DOUTON, Mr William Joseph;55;2nd Class;28403;£26 ;;;Southampton;Quarryman;;
+DOWDELL, Miss Elizabeth;31;3rd Class;364516;£12 9s 6d;;;Southampton;Housekeeper;13;
+DOYLE, Miss Elizabeth;24;3rd Class;368702;£7 15s ;;;Queenstown;;;
+DOYLE, Mr Laurence;27;Engine;;;;;Southampton;Fireman / Stoker;;
+DRAZENOVIC, Mr Jozef;33;3rd Class;349241;£7 17s 11d;;;Cherbourg;General Labourer;;51
+DREW, Mr James Vivian;42;2nd Class;28220;£32 10s ;;;Southampton;;;
+DREW, Mrs Lulu Thorne;34;2nd Class;28220;£32 10s ;;;Southampton;;10;
+DREW, Master Marshall Brines;8;2nd Class;28220;£32 10s ;;;Southampton;;10;
+DROPKIN, Miss Jennie;24;3rd Class;392083;£8 1s ;;;Southampton;Box Maker;;
+DUFF GORDON, Sir Cosmo Edmund;49;1st Class;11755;£39 12s ;;;Cherbourg;Landowner;1;
+DUFF GORDON,  Lucy Christiana, Lady;48;1st Class;17485;£56 18s 7d;;;Cherbourg;Dressmaker / Couturière;1;
+DUFFY, Mr William Luke;28;Engine;;;;;Belfast;Writer / Engineer's Clerk;;
+DULLES, Mr William Crothers;39;1st Class;17580;£29 14s ;;;Cherbourg;;;133
+DUNFORD, Mr William;41;Victualling;;;;;Southampton;Hospital Steward;;71
+DUQUEMIN, Mr Joseph Pierre;19;3rd Class;752;£7 11s ;;;Southampton;Mason;D;
+DURAN Y MORE, Miss Florentina;30;2nd Class;2148;£13 17s 2d;;;Cherbourg;;12;
+DURAN Y MORE, Miss Asuncion;27;2nd Class;2149;£13 17s 2d;;;Cherbourg;;12;
+DWAN, Mr Frank;65;3rd Class;336439;£7 15s ;;;Queenstown;Farm Labourer;;
+DYER, Mr Henry Ryland;24;Engine;;;;;Belfast;Senior Assistant 4th. Engineer;;
+DYER, Mr William;31;Victualling;;;;;Southampton;Saloon Steward;;
+DYER-EDWARDES, Mr Thomas;65;1st Class;87;£3 ;Cross Channel Passenger;;Southampton;;;
+DYER-EDWARDES, Mrs Clementina Georgina Lucy;53;1st Class;87;£3 ;Cross Channel Passenger;;Southampton;;;
+DYKER, Mr Adolf Fredrik;23;3rd Class;347072;£13 18s ;;;Southampton;General Labourer;;
+DYKER, Mrs Anna Elisabeth Judith;22;3rd Class;347072;£13 18s ;;;Southampton;;16;
+DYMOND, Mr Frank;25;Engine;;;;;Southampton;Fireman / Stoker;;
+EAGLE, Mr A. J.;22;Engine;;;;;Southampton;Trimmer;;
+EARNSHAW, Mrs Olive;23;1st Class;11767;£83 3s 2d;;;Cherbourg;Of Independent Means;7;
+EASTMAN, Mr Charles;44;Engine;;;;;Southampton;Greaser;;
+EDBROOKE, Mr F.;24;Victualling;;;;;Southampton;Steward;;
+EDE, Mr George B.;22;Victualling;;;;;Southampton;Steward;;
+EDGE, Mr Frederick William;39;Victualling;;;;;Southampton;Deck Steward;;
+EDVARDSSON, Mr Gustaf Hjalmar;18;3rd Class;349912;£7 15s 6d;;;Southampton;General Labourer;;
+EDWARDS, Mr Clement;39;Victualling;;;;;Southampton;Assistant Pantryman Steward;;
+EGG, Mr W. H.;34;Victualling;;;;;Southampton;Steward;;
+EITEMILLER, Mr George Floyd;23;2nd Class;29751;£13 ;;;Southampton;;;
+EKLUND, Mr Hans Linus;16;3rd Class;347074;£7 15s 6d;;;Southampton;General Labourer;;
+EKSTRöM, Mr Johan;45;3rd Class;347061;£6 19s 6d;;;Southampton;General Labourer;;
+ELIAS, Mr Dibo;29;3rd Class;2674;£7 4s 6d;;;Cherbourg;General Labourer;;
+ELIAS, Mr Joseph jr.;15;3rd Class;2690;£7 4s 7d;;;Cherbourg;General Labourer;;
+ELIAS NASRALLAH, Mr Tannous;22;3rd Class;2695;£7 4s 7d;;;Cherbourg;General Labourer;;
+ELLIOTT, Mr Everett Edward;24;Engine;;;;;Southampton;Trimmer;;317
+ELLIS, Mr John Bertram;30;Victualling;;;;;Southampton;Assistant Vegetable Cook;2;
+ELSBURY, Mr William James;47;3rd Class;3902;£7 5s ;;;Southampton;Farmer;;
+EMANUEL, Miss Virginia Ethel;5;3rd Class;364516;£12 9s 6d;;;Southampton;;13;
+ENANDER, Mr Ingvar;21;2nd Class;236854;£13 ;;;Southampton;;;
+ENDRES, Miss Caroline Louise;39;1st Class;17757;£247 10s 6d;Servant;;Cherbourg;Nurse;4;
+ENNIS, Mr Walter;35;Victualling;;;;;Southampton;Turkish Bath Attendant;;
+ERVINE, Mr Albert George;18;Engine;;;;;Belfast;Electrician;;
+ESTANISLAU, Mr Manuel Gonçalves;37;3rd Class;3101306;£7 1s ;;;Southampton;General Labourer;;
+ETCHES, Mr Henry Samuel;41;Victualling;;;;;Belfast;Bed Room Steward;5;
+EUSTIS, Miss Elizabeth Mussey;54;1st Class;36947;£78 5s 4d;;;Cherbourg;;4;
+EVANS, Miss Edith Corse;36;1st Class;17531;£31 13s 7d;;;Cherbourg;;;
+EVANS, Mr Alfred Frank;24;Deck;;;;;Southampton;Lookout;15;
+EVANS, Mr Frank Oliver;27;Deck;;;;;Southampton;Able Seaman;10;
+EVANS, Mr William;30;Engine;;;;;Southampton;Trimmer;;31
+EVANS, Mr George Richard;27;Victualling;;;;;Belfast;Saloon Steward;;
+EVANS, Miss ;;2nd Class;88;£1 ;Cross Channel Passenger;;Southampton;;;
+EVERETT, Mr Thomas James;39;3rd Class;6212;£15 2s ;;;Southampton;Crane Operator;;187
+FAHLSTRøM, Mr Arne Joma;18;2nd Class;236171;£13 ;;;Southampton;;;
+FAIRALL, Mr Henry;38;Victualling;;;;;Belfast;Saloon Steward;;
+FARQUHARSON, Mr William Edward;39;Engine;;;;;Belfast;Senior 2nd. Engineer;;
+FARRELL, Mr James "Jim";25;3rd Class;367232;£7 15s ;;;Queenstown;Farm Labourer;;68
+FARRENDEN, Mr Ernest John;22;Victualling;;;;;Belfast;Confectioner;;
+FARTHING, Mr John;57;1st Class;17483;£221 15s 7d;Servant;;Southampton;Servant;;
+FAULKNER, Mr William Stephen;37;Victualling;;;;;Belfast;Bed Room Steward;11;
+FAUNTHORPE, Mr Harry Bartram;40;2nd Class;2926;£26 ;;;Southampton;;;286
+FAY, Mr Thomas Joseph;30;Engine;;;;;Southampton;Greaser;;
+FELLOWES, Mr Alfred J.;29;Victualling;;;;;Belfast;Boots;;138
+FELTHAM, Mr G.;36;Victualling;;;;;Southampton;Vienna Baker;;
+FERRARY, Mr Anton;34;Engine;;;;;Southampton;Trimmer;;
+FERRIS, Mr W.;38;Engine;;;;;Southampton;Leading Fireman;;
+FEY, Sig. Carlo;30;A la Carte;;;;;Southampton;Scullion;;
+FILLBROOK, Mr Joseph Charles;18;2nd Class;15185;£10 10s ;;;Southampton;Painter&Decorator;;
+FINCH, Mr Harry;18;Victualling;;;;;Southampton;Steward;;
+FINOLI, Mr Luigi;34;3rd Class;3101308;£7 1s ;;;Southampton;;15;
+FIORAVANTE, Sig. Giuseppe Bertoldo;23;A la Carte;;;;;Southampton;Assistant Scullion;;
+FISCHER, Mr Eberhard Thelander;18;3rd Class;350036;£7 15s 11d;;;Southampton;;;
+FITZPATRICK, Mr Hugh J.;27;Engine;;;;;Belfast;Junior Boilermaker;;
+FITZPATRICK, Mr Cecil William;21;Engine;;;;;Southampton;Mess Steward;;
+FLARTY, Mr Edward;43;Engine;;;;;Southampton;Fireman / Stoker;;
+FLEET, Mr Frederick;24;Deck;;;;;Belfast;Lookout;6;
+FLEGENHEIM, Mrs Antoinette;48;1st Class;17598;£31 13s 8d;;;Cherbourg;;7;
+FLEMING, Miss Margaret;42;1st Class;17421;£110 17s 8d;Servant;;Cherbourg;Personal Maid;4;
+FLEMING, Miss Honora;22;3rd Class;364859;£7 15s ;;;Queenstown;;;
+FLETCHER, Mr Peter W.;26;Victualling;;;;;Belfast;Bugler Steward;;
+FLETCHER, Miss N.;;1st Class;405;£1 10s ;Cross Channel Passenger;;Southampton;;;
+FLYNN, Mr John Irwin;36;1st Class;PC 14474;£26 5s 9d;;;Southampton;;5;
+FLYNN, Mr James;28;3rd Class;364851;£7 15s ;;;Queenstown;General Labourer;;
+FLYNN, Mr John;42;3rd Class;368323;£6 19s ;;;Queenstown;Farm Labourer;;
+FOLEY, Mr Joseph;19;3rd Class;330910;£7 17s 7d;;;Queenstown;Farm Labourer;;
+FOLEY, Mr William;20;3rd Class;365235;£7 15s ;;;Queenstown;Farm Labourer;;
+FOLEY, Mr John;44;Deck;;;;;Belfast;Storekeeper;;
+FOLEY, Mr William C.;26;Victualling;;;;;Southampton;Steward;;
+FOO, Mr Choong;32;3rd Class;1601;£56 9s 11d;;;Southampton;Seaman;13;
+FORD, Mr Arthur;22;3rd Class;1478;£8 1s ;;;Southampton;Carpenter / Joiner;;
+FORD, Mrs Margaret Ann Watson;48;3rd Class;6608;£34 7s 6d;;;Southampton;Farmer;;
+FORD, Miss Dollina Margaret;20;3rd Class;6608;£34 7s 6d;;;Southampton;Servant;;
+FORD, Mr Edward Watson;18;3rd Class;6608;£34 7s 6d;;;Southampton;Blacksmith;;
+FORD, Mr William Neal Thomas;16;3rd Class;6608;£34 7s 6d;;;Southampton;Messenger;;
+FORD, Miss Robina Maggie;7;3rd Class;6608;£34 7s 6d;;;Southampton;;;
+FORD, Mr H.;22;Engine;;;;;Southampton;Trimmer;;
+FORD, Mr Thomas;30;Engine;;;;;Southampton;Leading Fireman;;
+FORD, Mr Ernest;32;Victualling;;;;;Southampton;Steward;;
+FORD, Mr F.;37;Victualling;;;;;Southampton;Bed Room Steward;;
+FOREMAN, Mr Benjamin Laventall;30;1st Class;113051;£27 15s ;;;Southampton;;;
+FORMAN, Mr J.;;1st Class;85;£3 ;Cross Channel Passenger;;Southampton;;;
+FORMAN, Mrs ;;1st Class;85;£3 ;Cross Channel Passenger;;Southampton;;;
+FORTUNE, Mr Mark;64;1st Class;19950;£263 ;;;Southampton;;;
+FORTUNE, Mrs Mary;60;1st Class;19950;£263 ;;;Southampton;;10;
+FORTUNE, Miss Ethel Flora;28;1st Class;19950;£263 ;;;Southampton;;10;
+FORTUNE, Miss Alice Elizabeth;24;1st Class;19950;£263 ;;;Southampton;;10;
+FORTUNE, Miss Mabel Helen;23;1st Class;19950;£263 ;;;Southampton;;10;
+FORTUNE, Mr Charles Alexander;19;1st Class;19950;£263 ;;;Southampton;;;
+FORWARD, Mr James;27;Deck;;;;;Southampton;Able Seaman;16;
+FOSTER, Mr Albert C.;37;Engine;;;;;Belfast;Storekeeper;;
+FOX, Mr Stanley Hubert;38;2nd Class;229236;£13 ;;;Southampton;;;236
+FOX, Mr Patrick;28;3rd Class;368573;£7 15s ;;;Queenstown;General Labourer;;
+FOX, Mr William Thomas;27;Victualling;;;;;Southampton;Steward;;
+FRANCATELLI, Miss Laura Mabel;31;1st Class;17485;£56 18s 7d;Servant;;Cherbourg;Secretary;1;
+FRANKLIN, Mr Thomas Parnham;37;1st Class;113778;£26 11s ;;;Southampton;;;
+FRANKLIN, Mr Charles ("Charles Fardon");38;3rd Class;3101314;£7 5s ;;;Southampton;Carpenter / Joiner;;
+FRANKLIN, Mr Alan Vincent;29;Victualling;;;;;Southampton;Saloon Steward;;262
+FRASER, Mr James;29;Engine;;;;;Belfast;Junior Assistant 3rd. Engineer;;
+FRASER, Mr J.;30;Engine;;;;;Southampton;Fireman / Stoker;;
+FRAUENTHAL, Mr Isaac Gerald;43;1st Class;17765;£27 14s 5d;;;Cherbourg;;5;
+FRAUENTHAL, Dr Henry William;49;1st Class;17611;£133 13s ;;;Cherbourg;Doctor;5;
+FRAUENTHAL, Mrs Clara;42;1st Class;17611;£133 13s ;;;Cherbourg;;5;
+FREDERICKS, Mr Walter Francis;20;Engine;;;;;Southampton;Trimmer;;
+FREEMAN, Mr Ernest Edward Samuel;43;Victualling;;;;;Belfast;Deck Steward;;239
+FRöLICHER, Miss Hedwig Margaritha;22;1st Class;13568;£49 10s ;;;Cherbourg;;5;
+FRöLICHER-STEHLI, Mr Maximilian Josef;60;1st Class;13567;£79 4s ;;;Cherbourg;;5;
+FRöLICHER-STEHLI, Mrs Margaretha Emerentia;48;1st Class;13567;£79 4s ;;;Cherbourg;;5;
+FROST, Mr Anthony Wood;37;2nd Class;239854;;H&W Guarantee Group;;Belfast;Fitter;;
+FRY, Mr John Richard;39;1st Class;112058;;Servant;;Southampton;Servant;;
+FRYER, Mr Albert Ernest;26;Engine;;;;;Southampton;Trimmer;;
+FUNK, Miss Annie Clemmer;38;2nd Class;237671;£13 ;;;Southampton;Missionary;;
+FUTRELLE, Mr Jacques Heath;37;1st Class;113803;£53 2s ;;;Southampton;Writer;;
+FUTRELLE, Mrs Lily May;35;1st Class;113803;£53 2s ;;;Southampton;;D;
+FYNNEY, Mr Joseph J.;35;2nd Class;239865;£26 ;;;Southampton;;;322
+GALE, Mr Harry;38;2nd Class;28664;£21 ;;;Southampton;Miner;;
+GALE, Mr Shadrach;33;2nd Class;28664;£21 ;;;Southampton;Miner;;
+GALLAGHER, Mr Martin;29;3rd Class;36864;£7 14s 10d;;;Queenstown;Farm Labourer;;
+GARFIRTH, Mr John;21;3rd Class;358585;£14 10s ;;;Southampton;Shoemaker;;
+GARSIDE, Miss Ethel;34;2nd Class;243880;£13 ;;;Southampton;;12;
+GASKELL, Mr Alfred;16;2nd Class;239865;£26 ;;;Southampton;;;
+GATTI, Sig. Gaspare Antonio Pietro;37;A la Carte;;;;;Southampton;à la Carte Restaurant Manager;;313
+GAVEY, Mr Laurence;26;2nd Class;31028;£10 10s ;;;Southampton;;;
+GEDDES, Mr Richard Charles;31;Victualling;;;;;Southampton;Bed Room Steward;;
+GEE, Mr Arthur H.;47;1st Class;111320;£38 10s ;;;Southampton;;;275
+GEER, Mr Alfred Emest;24;Engine;;;;;Southampton;Fireman / Stoker;;
+GEORGE/JOSEPH, Mrs Shawneene;38;3rd Class;2688;£7 4s 7d;;;Cherbourg;;C;
+GERIOS THAMAH, Mr Assaf;21;3rd Class;2692;£7 4s 6d;;;Cherbourg;Farm Labourer;;
+GHEORGHEFF, Mr Stanio;;3rd Class;349254;£7 17s 11d;;;Cherbourg;General Labourer;;
+GIBBONS, Mr Jacob William;36;Victualling;;;;;Southampton;Saloon Steward;;
+GIBSON, Mrs Pauline Caroline;44;1st Class;112378;£59 8s ;;;Cherbourg;;7;
+GIBSON, Miss Dorothy Winifred;22;1st Class;112378;£59 8s ;;;Cherbourg;;7;
+GIEGER, Miss Amalie "Emily" Henriette;35;1st Class;113503;£211 10s ;Servant;;Southampton;Personal Maid;4;
+GIGLIO, Mr Victor;24;1st Class;17593;£79 4s ;Servant;;Cherbourg;Servant;;
+GILARDINO, Sig. Vincenzo Pio;31;A la Carte;;;;;Southampton;Waiter;;
+GILBERT, Mr William;47;2nd Class;30769;£10 10s ;;;Southampton;;;
+GILES, Mr Edgar;21;2nd Class;28133;£11 10s ;;;Southampton;Carpenter / Joiner;;
+GILES, Mr Frederick Edward;20;2nd Class;28134;£11 10s ;;;Southampton;Carpenter / Joiner;;
+GILES, Mr Ralph;24;2nd Class;248726;£13 10s ;;;Southampton;;;297
+GILES, Mr John Robert;33;Victualling;;;;;Southampton;Baker;;
+GILINSKI, Mr Eliezer;22;3rd Class;14973;£8 1s ;;;Southampton;Locksmith;;47
+GILL, Mr John William;24;2nd Class;233866;£13 ;;;Southampton;Chauffeur;;155
+GILL, Mr Joseph Stanley;34;Victualling;;;;;Belfast;Bed Room Steward;;49
+GILL, Mr Patrick;38;Victualling;;;;;Southampton;Ship's Cook;;
+GILLESPIE, Mr William Henry;34;2nd Class;12233;£13 ;;;Southampton;Clerk;;
+GILNAGH, Miss Mary Katherine "Katie";17;3rd Class;35851;£7 14s 8d;;;Queenstown;;16;
+GIVARD, Mr Hans Kristensen;30;2nd Class;250646;£13 ;;;Southampton;;;305
+GLYNN, Miss Mary Agatha;19;3rd Class;335677;£7 15s ;;;Queenstown;;13;
+GODLEY, Mr George;34;Engine;;;;;Southampton;Fireman / Stoker;;
+GODWIN, Mr Frederick Walter;34;Engine;;;;;Southampton;Greaser;;
+GOLD, Mrs Katherine;42;Victualling;;;;;Southampton;Stewardess;;
+GOLDENBERG, Mr Samuel L.;47;1st Class;17453;£89 2s 1d;;;Cherbourg;;5;
+GOLDENBERG, Mrs Nella;40;1st Class;17453;£89 2s 1d;;;Cherbourg;;5;
+GOLDER, Mr M. W.;32;Engine;;;;;Southampton;Fireman / Stoker;;
+GOLDSCHMIDT, Mr George B.;71;1st Class;17754;£34 13s 1d;;;Cherbourg;;;
+GOLDSMITH, Mr Frank John;33;3rd Class;363291;£20 10s 6d;;;Southampton;Turner;;
+GOLDSMITH, Mrs Emily Alice;31;3rd Class;363291;£20 10s 6d;;;Southampton;;C;
+GOLDSMITH, Master Frank John William;9;3rd Class;363291;£20 10s 6d;;;Southampton;;C;
+GOLDSMITH, Mr Nathan;41;3rd Class;3101263;£7 17s ;;;Southampton;Shoemaker;;
+GOLLOP, Mr F.;28;Victualling;;;;;Southampton;Assistant Passage Cook;;
+GOODWIN, Mr Frederick Joseph;42;3rd Class;2144;£46 18s ;;;Southampton;Engineer;;
+GOODWIN, Mrs Augusta;43;3rd Class;2144;£46 18s ;;;Southampton;;;
+GOODWIN, Miss Lillian Amy;16;3rd Class;2144;£46 18s ;;;Southampton;Servant;;
+GOODWIN, Mr Charles Edward;14;3rd Class;2144;£46 18s ;;;Southampton;Scholar;;
+GOODWIN, Master William Frederick;11;3rd Class;2144;£46 18s ;;;Southampton;;;
+GOODWIN, Miss Jessie Allis;10;3rd Class;2144;£46 18s ;;;Southampton;;;
+GOODWIN, Master Harold Victor;9;3rd Class;2144;£46 18s ;;;Southampton;;;
+GOODWIN, Master Sidney Leslie;1;3rd Class;2144;£46 18s ;;;Southampton;;;4
+GORDON, Mr J.;29;Engine;;;;;Southampton;Trimmer;;
+GOREE, Mr Frank;42;Engine;;;;;Southampton;Greaser;;222
+GOSHAWK, Mr Arthur James;31;Victualling;;;;;Belfast;3rd Saloon Steward;;
+GOSLING, Mr Bertram James;22;Engine;;;;;Southampton;Trimmer;;
+GOSLING, Mr S.;26;Engine;;;;;Southampton;Trimmer;;
+GRACIE, Colonel Archibald;53;1st Class;113780;£28 10s ;;;Southampton;Writer;B;
+GRADIDGE, Mr Ernest Edward;22;Engine;;;;;Southampton;Fireman / Stoker;;276
+GRAHAM, Mr George Edward;38;1st Class;112053;£30 ;;;Southampton;Sales Manager;;147
+GRAHAM, Mrs Edith;59;1st Class;17582;£153 9s 3d;;;Southampton;;3;
+GRAHAM, Miss Margaret Edith;19;1st Class;17582;£153 9s 3d;;;Southampton;;3;
+GRAHAM, Mr Thomas G.;28;Engine;;;;;Belfast;Fireman / Stoker;;
+GREEN, Mr George Henry;40;3rd Class;21440;£8 1s ;;;Southampton;Farrier;;
+GREEN, Mr George;20;Engine;;;;;Southampton;Trimmer;;
+GREENBERG, Mr Samuel;52;2nd Class;250647;£13 ;;;Southampton;;;19
+GREENFIELD, Mrs Blanche;45;1st Class;17759;£63 7s 2d;;;Cherbourg;;7;
+GREENFIELD, Mr William Bertram;23;1st Class;17759;£63 7s 2d;;;Cherbourg;;7;
+GREGORY, Mr David;40;Engine;;;;;Southampton;Greaser;;
+GREGSON, Miss Mary;44;Victualling;;;;;Southampton;Stewardess;;
+GROSCLAUDE, Mr Gérald;24;A la Carte;;;;;Southampton;Waiter;;
+GRøNNESTAD, Mr Daniel Danielsen;32;3rd Class;8471;£8 6s 15d;;;Southampton;General Labourer;;
+GUEST, Mr Robert;23;3rd Class;376563;£8 1s ;;;Southampton;General Labourer;;
+GUGGENHEIM, Mr Benjamin;46;1st Class;17593;£79 4s ;;;Cherbourg;Businessman;;
+GUMERY, Mr George;24;Engine;;;;;Southampton;Mess Steward;;
+GUNN, Mr Joseph Alfred;28;Victualling;;;;;Southampton;Assistant Saloon Steward;;
+GUSTAFSSON, Mr Karl Gideon;19;3rd Class;347069;£7 15s 6d;;;Southampton;General Labourer;;
+GUSTAFSSON, Mr Alfred Ossian;19;3rd Class;7534;£9 16s 11d;;;Southampton;General Labourer;;
+GUSTAFSSON, Mr Anders Vilhelm;37;3rd Class;3101276;£7 18s 6d;;;Southampton;General Labourer;;98
+GUSTAFSSON, Mr Johan Birger;28;3rd Class;3101277;£7 18s 6d;;;Southampton;;;
+GUY, Mr Edward John;28;Victualling;;;;;Southampton;Boots;;
+GWYNN, Mr William Logan;37;Victualling;;;Postal Clerk;;Southampton;Postal Clerk;;
+HAAS, Miss Aloisia;24;3rd Class;349236;£8 17s ;;;Southampton;General Labourer;;
+HAGGAN, Mr John;35;Engine;;;;;Belfast;Fireman / Stoker;3;
+HAGLAND, Mr Ingvald Olai Olsen;28;3rd Class;65303;£6 19s 4d;;;Southampton;General Labourer;;
+HAGLAND, Mr Konrad Mathias Reiersen;19;3rd Class;65304;£6 19s 4d;;;Southampton;General Labourer;;
+HAINES, Mr Albert M.;31;Deck;;;;;Belfast;Boatswain Mate;9;
+HAKKARAINEN, Mr Pekka Pietari;28;3rd Class;3101279;£15 17s ;;;Southampton;General Labourer;;
+HAKKARAINEN, Mrs Elin Matilda;24;3rd Class;3101279;£15 17s ;;;Southampton;;15;
+HALE, Mr Reginald;30;2nd Class;250653;£13 ;;;Southampton;Gardener;;75
+HALFORD, Mr Richard;22;Victualling;;;;;Southampton;Steward;;
+HALL, Mr J.;32;Engine;;;;;Southampton;Fireman / Stoker;;
+HALL, Mr F. A. J.;38;Victualling;;;;;Southampton;Scullion;;
+HALLETT, Mr George;22;Engine;;;;;Southampton;Fireman / Stoker;;
+HäMäLäINEN, Mrs Anna;23;2nd Class;250649;£14 10s ;;;Southampton;;4;
+HäMäLäINEN, Master Viljo Unto Johannes;8m;2nd Class;250649;£14 10s ;;;Southampton;;4;
+HAMBLYN, Mr Ernest William;41;Victualling;;;;;Southampton;Bed Room Steward;;
+HAMILTON, Mr Ernest;25;Victualling;;;;;Belfast;Assistant Smoke Room Steward;;
+HAMPE, Mr Léon Jérome;19;3rd Class;345769;£9 10s ;;;Southampton;Painter&Decorator;;
+HANDS, Mr Bernard;53;Engine;;;;;Southampton;Fireman / Stoker;;
+HANNA, Mr Boulos;18;3rd Class;2664;£7 4s 6d;;;Cherbourg;General Labourer;;
+HANNA, Mr Mansour;35;3rd Class;2693;£7 4s 7d;;;Cherbourg;;;188
+HANNAH, Mr Borak ("Hannah Assi Borah");27;3rd Class;2663;£7 4s 7d;;;Cherbourg;;15;
+HANNAM, Mr George;30;Engine;;;;;Southampton;Fireman / Stoker;;
+HANSEN, Mr Claus Peter;41;3rd Class;350026;£14 2s 2d;;;Southampton;Barber;;
+HANSEN, Mrs Jennie Louise;45;3rd Class;350026;£14 2s 2d;;;Southampton;;11;
+HANSEN, Mr Henry Damsgaard;21;3rd Class;350029;£7 17s 1d;;;Southampton;Manufacturer;;69
+HANSEN, Mr Henrik Juul;26;3rd Class;350025;£7 17s 1d;;;Southampton;Farmer;;
+HARBECK, Mr William H.;44;2nd Class;248746;£13 ;;;Southampton;Cinematographer;;35
+HARDER, Mr George Achilles;25;1st Class;11765;£55 8s 10d;;;Cherbourg;Businessman;5;
+HARDER, Mrs Dorothy;21;1st Class;11765;£55 8s 10d;;;Cherbourg;;5;
+HARDER, Mr William;39;Deck;;;;;Southampton;Window Cleaner;14;
+HARDING, Mr A.;20;Victualling;;;;;Southampton;Assistant Pantry Steward;;
+HARDWICK, Mr Reginald;21;Victualling;;;;;Southampton;Kitchen Porter;11;
+HARDY, Mr John T.;37;Victualling;;;;;Belfast;Chief 2nd Class Steward;D;
+HARGADON, Miss Catherine "Kate";17;3rd Class;30631;£7 14s 8d;;;Queenstown;;;
+HARKNETT, Miss Alice Phoebe;21;3rd Class;6609;£7 11s ;;;Southampton;Servant;;
+HARPER, Mr Henry Sleeper;48;1st Class;17572;£76 14s 7d;;;Cherbourg;Of Independent Means;3;
+HARPER, Mrs Myna;49;1st Class;17572;£76 14s 7d;;;Cherbourg;;3;
+HARPER, Rev. John;39;2nd Class;248727;£33 ;;;Southampton;Priest / Minister;;
+HARPER, Miss Annie Jessie;6;2nd Class;248727;£33 ;;;Southampton;;11;
+HARRINGTON, Mr Charles Henry;37;1st Class;113796;£42 8s ;Servant;;Southampton;Servant;;
+HARRIS, Mr Henry Birkhardt;45;1st Class;36973;£83 9s 6d;;;Southampton;Theatre Manager;;
+HARRIS, Mrs Irene;35;1st Class;36973;£83 9s 6d;;;Southampton;;D;
+HARRIS, Mr George;62;2nd Class;752;£10 10s ;;;Southampton;;15;
+HARRIS, Mr Walter;30;2nd Class;14208;£10 10s ;;;Southampton;;;
+HARRIS, Mr Amos Fred;21;Engine;;;;;Southampton;Trimmer;;
+HARRIS, Mr Edward;28;Engine;;;;;Southampton;Fireman / Stoker;;
+HARRIS, Mr Frederick;39;Engine;;;;;Southampton;Fireman / Stoker;;
+HARRIS, Mr Charles William;19;Victualling;;;;;Southampton;Saloon Steward;;
+HARRIS, Mr Clifford Henry;16;Victualling;;;;;Southampton;Bell Boy;;
+HARRIS, Mr Edward;18;Victualling;;;;;Southampton;Assistant Pantryman Steward;;
+HARRISON, Mr William Henry;45;1st Class;112059;;Servant;;Southampton;Secretary;;110
+HARRISON, Mr Norman E.;38;Engine;;;;;Belfast;Junior 2nd. Engineer;;
+HARRISON, Mr Aragon Drummond;40;Victualling;;;;;Southampton;Saloon Steward;;
+HART, Mr Benjamin;47;2nd Class;13529;£26 5s ;;;Southampton;Builder;;
+HART, Mrs Esther Ada;48;2nd Class;13529;£26 5s ;;;Southampton;;14;
+HART, Miss Eva Miriam;7;2nd Class;13529;£26 5s ;;;Southampton;;14;
+HART, Mr Henry;28;3rd Class;394140;£6 17s 2d;;;Queenstown;General Labourer;;
+HART, Mr James;49;Engine;;;;;Southampton;Fireman / Stoker;;
+HART, Mr John Edward;31;Victualling;;;;;Southampton;Steward;;
+HARTLEY, Mr Wallace Henry;33;2nd Class;250654;;Musician;;Southampton;Musician;;224
+HARTNELL, Mr Frederick;21;Victualling;;;;;Southampton;Saloon Steward;;
+HARVEY, Mr Herbert Gifford;34;Engine;;;;;Belfast;Junior Assistant 2nd. Engineer;;
+HASLIN, Mr James;45;Engine;;;;;Southampton;Trimmer;;
+HASSAB, Mr Hammad;27;1st Class;17572;£76 14s 7d;Servant;;Cherbourg;Servant;3;
+HASSAN ABILMONA, Mr Houssein Mohamed;11;3rd Class;2699;£18 15s 9d;;;Cherbourg;;;
+HATCH, Mr Hugh;23;Victualling;;;;;Southampton;Scullion;;
+HAWKESWORTH, Mr James;38;Victualling;;;;;Southampton;Saloon Steward;;
+HAWKESWORTH, Mr William Walter;43;Victualling;;;;;Southampton;Deck Steward;;
+HAWKSFORD, Mr Walter James;45;1st Class;16988;£30 ;;;Southampton;Sales Manager;3;
+HAYS, Mr Charles Melville;55;1st Class;12749;£93 10s ;;;Southampton;Businessman;;307
+HAYS, Mrs Clara Jennings;52;1st Class;12749;£93 10s ;;;Southampton;;3;
+HAYS, Miss Margaret Bechstein;24;1st Class;11767;£83 3s 2d;;;Cherbourg;;7;
+HAYTER, Mr Arthur;44;Victualling;;;;;Belfast;Bed Room Steward;;25
+HEAD, Mr Christopher;42;1st Class;113038;£42 10s ;;;Southampton;Politician;;
+HEAD, Mr A.;24;Engine;;;;;Southampton;Fireman / Stoker;;
+HEALY, Miss Hanora "Nora";29;3rd Class;370375;£7 15s ;;;Queenstown;;16;
+HEBB, Mr A.;20;Engine;;;;;Southampton;Trimmer;;
+HEDMAN, Mr Oskar Arvid;27;3rd Class;347089;£6 19s 6d;;;Southampton;Settler Recruiter;15;
+HEE, Mr Ling;24;3rd Class;1601;£56 9s 11d;;;Southampton;Seaman;C;
+HEGARTY, Miss Hanora "Nora";18;3rd Class;365226;£6 15s ;;;Queenstown;;;
+HEIKKINEN, Miss Laina;26;3rd Class;3101282;£7 18s 6d;;;Southampton;;;
+HEINEN, Mr Joseph;30;Victualling;;;;;Southampton;Saloon Steward;;
+HEININEN, Miss Wendla Maria;23;3rd Class;3101290;£7 18s 6d;;;Southampton;Servant;;8
+HELLSTRöM, Miss Hilda Maria;22;3rd Class;7548;£8 19s 3d;;;Southampton;;C;
+HEMMING, Mr Samuel Emest;43;Deck;;;;;Belfast;Lamp Trimmer;4;
+HENDEKOVIC, Mr Ignjac;28;3rd Class;349243;£7 17s 11d;;;Southampton;General Labourer;;306
+HENDRICKSON, Mr Charles George;29;Engine;;;;;Southampton;Leading Fireman;1;
+HENDY, Mr Edward Martin;38;Victualling;;;;;Belfast;Saloon Steward;;
+HENRIKSSON, Miss Jenny Lovisa;28;3rd Class;347086;£7 15s 6d;;;Southampton;Servant;;3
+HENRY, Miss Bridget Delia;21;3rd Class;382649;£7 15s ;;;Queenstown;;;
+HENSFORD, Mr Herbert George;27;Victualling;;;;;Southampton;Butcher;;
+HERMAN, Mr Samuel;49;2nd Class;220845;£65 ;;;Southampton;Farmer;;
+HERMAN, Mrs Jane;48;2nd Class;220845;£65 ;;;Southampton;;9;
+HERMAN, Miss Alice;24;2nd Class;220845;£65 ;;;Southampton;;9;
+HERMAN, Miss Kate;24;2nd Class;220845;£65 ;;;Southampton;;9;
+HESKETH, Mr John Henry;33;Engine;;;;;Belfast;Engineer;;
+HEWETT, Mr Thomas;37;Victualling;;;;;Belfast;Bed Room Steward;;168
+HEWLETT, Mrs Mary Dunbar;56;2nd Class;248706;£16 ;;;Southampton;;13;
+HICHENS, Mr Robert;29;Deck;;;;;Southampton;Quartermaster;6;
+HICKMAN, Mr Leonard Mark;24;2nd Class;14879;£73 10s ;;;Southampton;;;
+HICKMAN, Mr Lewis;30;2nd Class;14879;£73 10s ;;;Southampton;;;256
+HICKMAN, Mr Stanley George;20;2nd Class;14879;£73 10s ;;;Southampton;;;
+HILL, Mr James;25;Engine;;;;;Southampton;Trimmer;;
+HILL, Mr H. P.;36;Victualling;;;;;Southampton;Steward;;
+HILL, Mr James Colston;38;Victualling;;;;;Belfast;Bed Room Steward;;152
+HILLIARD, Mr Herbert Henry;44;1st Class;17463;£51 17s 3d;;;Southampton;Buyer;;
+HILTUNEN, Miss Marta;18;2nd Class;250650;£13 ;;;Southampton;;;
+HINCKLEY, Mr George;35;Victualling;;;;;Southampton;Bath Steward;;66
+HINE, Mr William Edward;36;Victualling;;;;;Southampton;Baker;;
+HINTON, Mr Stephen William;30;Engine;;;;;Southampton;Trimmer;;85
+HIPKINS, Mr William Edward;55;1st Class;680;£50 ;;;Southampton;Manufacturer;;
+HIPPACH, Mrs Ida Sophia;44;1st Class;111361;£57 19s 7d;;;Cherbourg;;4;
+HIPPACH, Miss Jean Gertrude;17;1st Class;111361;£57 19s 7d;;;Cherbourg;;4;
+HIRVONEN, Mrs Helga Elisabeth Lindqvist;22;3rd Class;3101298;£12 5s 9d;;;Southampton;;15;
+HIRVONEN, Miss Hildur Elisabeth;2;3rd Class;3101298;£12 5s 9d;;;Southampton;;15;
+HISCOCK, Mr S.;22;Victualling;;;;;Southampton;Plate Steward;;
+HOARE, Mr Leonard James;16;Victualling;;;;;Belfast;Saloon Steward;;
+HOCKING, Mr Richard George;23;2nd Class;29104;£11 10s ;;;Southampton;Baker;;
+HOCKING, Mrs Elizabeth "Eliza";54;2nd Class;29105;£23 ;;;Southampton;;4;
+HOCKING, Miss Ellen "Nellie";20;2nd Class;29105;£23 ;;;Southampton;;4;
+HOCKING, Mr Samuel James Metcalfe;36;2nd Class;242963;£13 ;;;Southampton;Painter&Decorator;;
+HODGE, Mr Charles;29;Engine;;;;;Belfast;Senior Assistant 3rd. Engineer;;
+HODGES, Mr Henry Price;50;2nd Class;250643;£13 ;;;Southampton;Musical Instrument Vendor;;149
+HODGES, Mr W.;26;Engine;;;;;Southampton;Fireman / Stoker;;
+HODGKINSON, Mr Leonard;46;Engine;;;;;Belfast;Senior 4th. Engineer;;
+HOGEBOOM, Mrs Anna Louisa;51;1st Class;13502;£77 19s 2d;;;Cherbourg;Of Independent Means;10;
+HOGG, Mr George Alfred;29;Deck;;;;;Belfast;Lookout;7;
+HOGG, Mr Charles William;37;Victualling;;;;;Southampton;Bed Room Steward;;
+HOGUE, Mr E.;22;Victualling;;;;;Southampton;Plate Steward;;
+HOLD, Mr Stephen;44;2nd Class;26707;£26 ;;;Southampton;Clerk;;
+HOLD, Mrs Annie Margaret;29;2nd Class;26707;£26 ;;;Southampton;;10;
+HOLLAND, Mr Thomas;28;Victualling;;;;;Belfast;Reception Steward;;
+HOLLOWAY, Mr Sidney;20;Victualling;;;;;Southampton;Clothes Presser;;273
+HOLM, Mr John Fredrik Alexander;43;3rd Class;7075;£6 9s ;;;Southampton;Farmer;;
+HOLMAN, Mr Harry;27;Deck;;;;;Belfast;Able Seaman;;
+HOLTHEN, Mr Johan Martin;28;3rd Class;4001;£22 10s 6d;;;Southampton;Seaman;;
+HOLVERSON, Mr Alexander Oskar;42;1st Class;113789;£52 ;;;Southampton;;;38
+HOLVERSON, Mrs Mary Aline;35;1st Class;113789;£52 ;;;Southampton;;8;
+HOMER, Mr Harry;40;1st Class;111426;£26 11s ;;;Southampton;Gambler;15;
+HONKANEN, Miss Eliina;27;3rd Class;3101283;£7 18s 6d;;;Southampton;;;
+HOOD, Mr Ambrose Jr;22;2nd Class;14879;£73 10s ;;;Southampton;;;
+HOPGOOD, Mr Roland;22;Engine;;;;;Southampton;Fireman / Stoker;;
+HOPKINS, Mr Robert John;40;Deck;;;;;Southampton;Able Seaman;13;
+HOPKINS, Mr F.;16;Victualling;;;;;Southampton;Plate Steward;;
+HORGAN, Mr John;22;3rd Class;370377;£7 15s ;;;Queenstown;General Labourer;;
+HORSWILL, Mr Albert Edward James;33;Deck;;;;;Southampton;Able Seaman;1;
+HOSGOOD, Mr Richard;22;Engine;;;;;Southampton;Fireman / Stoker;;242
+HOSKING, Mr George Fox;36;Engine;;;;;Belfast;Senior 3rd. Engineer;;
+HOSONO, Mr Masabumi;41;2nd Class;237798;£13 ;;;Southampton;Civil Servant;10;
+HOUSE, Mr William;38;Victualling;;;;;Belfast;Saloon Steward;;
+HOWARD, Mr Benjamin;63;2nd Class;24065;£26 ;;;Southampton;Retired;;
+HOWARD, Mrs Ellen Truelove;60;2nd Class;24065;£26 ;;;Southampton;;;
+HOWARD, Miss May Elizabeth;27;3rd Class;39186;£8 1s ;;;Southampton;Laundry Worker;C;
+HOWELL, Mr Arthur Albert;31;Victualling;;;;;Belfast;Saloon Steward;;319
+HOYT, Mr Frederick Maxfield;38;1st Class;19943;£100 ;;;Southampton;;D;
+HOYT, Mrs Jane Anne;31;1st Class;19943;£100 ;;;Southampton;;D;
+HOYT, Mr William Fisher;42;1st Class;17600;£30 13s 11d;;;Cherbourg;Businessman;14;
+HUGHES, Mr William Thomas;36;Victualling;;;;;Southampton;Steward;;
+HUMBLEN, Mr Adolf Mathias Nicolai Olsen;42;3rd Class;348121;£7 13s ;;;Southampton;Farmer;;120
+HUMBY, Mr Frederick;16;Victualling;;;;;Southampton;Plate Steward;;
+HUME, Mr John Law;29;2nd Class;250654;;Musician;;Southampton;Musician;;193
+HUMPHREYS, Mr Thomas Humphrey;31;Victualling;;;;;Southampton;Assistant Saloon Steward;;
+HUMPHREYS, Mr Sidney James;48;Deck;;;;;Southampton;Quartermaster;11;
+HUNT, Mr George Henry;33;2nd Class;1585;£12 5s 6d;;;Southampton;Gardener;;
+HUNT, Mr Albert;22;Engine;;;;;Southampton;Trimmer;;
+HUNT, Mr Tom;28;Engine;;;;;Southampton;Fireman / Stoker;;
+HURST, Mr Charles John;35;Engine;;;;;Southampton;Fireman / Stoker;;
+HURST, Mr Walter;23;Engine;;;;;Southampton;Fireman / Stoker;;
+HUTCHINSON, Mr James;28;Victualling;;;;;Southampton;Vegetable. Cook;;250
+HUTCHINSON, Mr John Hall;26;Deck;;;;;Belfast;Carpenter / Joiner;;
+HYLAND, Mr Leo James;19;Victualling;;;;;Southampton;Steward;11;
+HYMAN, Mr Abraham Joseph;34;3rd Class;3470;£7 17s 9d;;;Southampton;Framer;C;
+IBRAHIM SHAWAH, Mr Yousseff;33;3rd Class;2627;£14 9s 2d;;;Cherbourg;;;
+ICARD, Miss Amelie "Amelia";38;1st Class;113572;£80 ;Servant;;Southampton;Personal Maid;6;
+IDE, Mr Harry John;32;Victualling;;;;;Southampton;Bed Room Steward;;
+ILETT, Miss Bertha;17;2nd Class;14885;£10 10s ;;;Southampton;;;
+ILIEFF, Mr Ylio;32;3rd Class;349220;£7 17s 11d;;;Southampton;General Labourer;;
+ILMAKANGAS, Miss Ida Livija;27;3rd Class;3101270;£7 18s 6d;;;Southampton;Servant;;
+ILMAKANGAS, Miss Pieta Sofia;25;3rd Class;3101271;£7 18s 6d;;;Southampton;Servant;;
+INGRAM, Mr Charles;20;Engine;;;;;Southampton;Trimmer;;204
+INGROUILLE, Mr Henry;21;Victualling;;;;;Southampton;Steward;;
+INGS, Mr William Ernest;20;Victualling;;;;;Southampton;Scullion;;
+INSTANCE, Mr T.;33;Engine;;;;;Southampton;Fireman / Stoker;;
+ISHAM, Miss Ann Elizabeth;50;1st Class;17595;£28 14s 3d;;;Cherbourg;;;
+ISMAY, Mr Joseph Bruce;49;1st Class;112058;;;;Southampton;Shipowner;C;
+IVANOFF, Mr Kanio;20;3rd Class;349201;£7 17s 11d;;;Southampton;General Labourer;;
+JABBUR (ZABOUR), Miss Thamine;19;3rd Class;2665;£14 9s 1d;;;Cherbourg;Housekeeper;;
+JABBUR (ZABOUR), Miss Hileni;16;3rd Class;2665;£14 9s 1d;;;Cherbourg;Housekeeper;;328
+JACKSON, Mr Cecil;22;Victualling;;;;;Belfast;Boots;;
+JACOBSOHN, Mr Sidney Samuel;40;2nd Class;243847;£27 ;;;Southampton;;;
+JACOBSOHN, Mrs Amy Frances Christy;24;2nd Class;243847;£27 ;;;Southampton;;12;
+JACOBSON, Mr John;29;Engine;;;;;Southampton;Fireman / Stoker;;
+JAGO, Mr Joseph;27;Engine;;;;;Southampton;Greaser;;
+JAILLET, Mr Henri Marie;28;A la Carte;;;;;Southampton;Pastry Cook;;277
+JALEVAC, Mr Ivan;29;3rd Class;349240;£7 17s 11d;;;Cherbourg;;15;
+JAMES, Mr Thomas;27;Engine;;;;;Southampton;Fireman / Stoker;;
+JANAWAY, Mr William Frank;35;Victualling;;;;;Belfast;Bed Room Steward;;
+JANIN, Mr Claude Marie;29;A la Carte;;;;;Southampton;Soup Cook;;
+JANSSON, Mr Carl Olof;21;3rd Class;350034;£7 15s 11d;;;Southampton;;A;
+JARDIM, Mr José Neto;21;3rd Class;3101305;£7 1s ;;;Southampton;General Labourer;;
+JARVIS, Mr Denzil John;47;2nd Class;237565;£15 ;;;Southampton;Engineer;;
+JARVIS, Mr Walter;37;Engine;;;;;Southampton;Fireman / Stoker;;
+JEFFERY, Mr William Alfred;28;A la Carte;;;;;Southampton;Controller;;
+JEFFERYS, Mr Clifford Thomas;24;2nd Class;31029;£31 10s ;;;Southampton;;;
+JEFFERYS, Mr Ernest Wilfred;22;2nd Class;31029;£31 10s ;;;Southampton;;;
+JENKIN, Mr Stephen Curnow;32;2nd Class;33111;£10 10s ;;;Southampton;Miner;;
+JENNER, Mr Harry;41;Victualling;;;;;Belfast;Saloon Steward;;
+JENSEN, Mr Hans Peder;20;3rd Class;350050;£7 17s 1d;;;Southampton;;;
+JENSEN, Mr Svend Lauritz;17;3rd Class;350047;£7 17s 1d;;;Southampton;Farmer;;
+JENSEN, Mr Niels Peder ("Rasmus");48;3rd Class;350048;£7 1s 1d;;;Southampton;Farmer;;
+JENSEN, Mr Charles Valdemar;25;Victualling;;;;;Southampton;Saloon Steward;;
+JERMYN, Miss Annie Jane;26;3rd Class;14313;£7 15s ;;;Queenstown;;D;
+JERWAN, Mrs Marie Marthe;23;2nd Class;541;£13 15s 10d;;;Cherbourg;;11;
+JESSOP, Miss Violet Constance;24;Victualling;;;;;Southampton;Stewardess;;
+JEWELL, Mr Archie;23;Deck;;;;;Belfast;Lookout;7;
+JOAS, Mr N.;38;Engine;;;;;Southampton;Fireman / Stoker;;
+JOHANNESEN, Mr Bernt Johannes;29;3rd Class;65306;£8 2s 3d;;;Southampton;;13;
+JOHANSON, Mr Jakob Alfred;34;3rd Class;3101264;£6 9s 11d;;;Southampton;General Labourer;;143
+JOHANSSON, Mr Nils;29;3rd Class;347467;£7 17s 1d;;;Southampton;General Labourer;;
+JOHANSSON, Mr Erik;22;3rd Class;350052;£7 15s 11d;;;Southampton;General Labourer;;156
+JOHANSSON, Mr Gustaf Joel;33;3rd Class;7540;£8 13s 1d;;;Southampton;;;285
+JOHANSSON, Mr Karl Johan;31;3rd Class;347063;£7 15s 6d;;;Southampton;;;
+JOHANSSON PALMQUIST, Mr Oskar Leander;26;3rd Class;347070;£7 15s 6d;;;Southampton;;15;
+JOHNSON, Mr Alfred;49;3rd Class;370160;;;;Southampton;Seaman;;
+JOHNSON, Mr William Cahoone Jr.;19;3rd Class;370160;;;;Southampton;Seaman;;
+JOHNSON, Mr Malkolm Joackim;33;3rd Class;347062;£7 15s 6d;;;Southampton;General Labourer;;37
+JOHNSON, Mrs Elisabeth Vilhelmina;26;3rd Class;347742;£11 2s 8d;;;Southampton;;15;
+JOHNSON, Master Harold Theodor;4;3rd Class;347742;£11 2s 8d;;;Southampton;;15;
+JOHNSON, Miss Eleanor Ileen;1;3rd Class;347742;£11 2s 8d;;;Southampton;;15;
+JOHNSON THORNE, Mr Harry;25;Victualling;;;;;Southampton;Assistant Ship's Cook;;
+JOHNSTON, Mr Andrew Emslie;35;3rd Class;6607;£23 9s ;;;Southampton;Plumber;;
+JOHNSTON, Mrs Eliza;34;3rd Class;6607;£23 9s ;;;Southampton;;;
+JOHNSTON, Master William Andrew;8;3rd Class;6607;£23 9s ;;;Southampton;;;
+JOHNSTON, Miss Catherine Nellie;7;3rd Class;6607;£23 9s ;;;Southampton;;;
+JOHNSTON, Mr James;41;Victualling;;;;;Belfast;Saloon Steward;2;
+JONES, Mr Charles Cresson;46;1st Class;694;£26 ;;;Southampton;Estate Manager;;80
+JONES, Mr Albert;17;Victualling;;;;;Southampton;Saloon Steward;;
+JONES, Mr Arthur Ernest;38;Victualling;;;;;Southampton;Plate Steward;;
+JONES, Mr H.;29;Victualling;;;;;Southampton;Roast Cook;;
+JONES, Mr Reginald V.;20;Victualling;;;;;Southampton;Saloon Steward;;
+JONES, Mr Thomas William;32;Deck;;;;;Southampton;Able Seaman;8;
+JONKOFF, Mr Lalio;23;3rd Class;349204;£7 17s 11d;;;Southampton;General Labourer;;
+JONSSON, Mr Carl;25;3rd Class;350417;£7 17s 1d;;;Southampton;General Labourer;15;
+JöNSSON, Mr Nils Hilding;27;3rd Class;350408;£7 17s 1d;;;Southampton;General Labourer;;
+JOSEPH (SHAHIN), Mr Elias;39;3rd Class;2675;£7 4s 7d;;;Cherbourg;;;
+JOUANNAULT, Mr Georges Jules;24;A la Carte;;;;;Southampton;Assistant Sauce Cook;;
+JOUGHIN, Mr Charles John;32;Victualling;;;;;Belfast;Chief Baker;B;
+JUDD, Mr Charles E.;32;Engine;;;;;Southampton;Fireman / Stoker;;
+JUKES, Mr James;35;Engine;;;;;Southampton;Greaser;;
+JULIAN, Mr Henry Forbes;50;1st Class;113044;£26 ;;;Southampton;Metallurgist;;
+JUPE, Mr Boykett Herbert;30;Engine;;;;;Southampton;Electrician;;73
+JUSSILA, Miss Katriina;20;3rd Class;4136;£9 16s 10d;;;Southampton;Servant;;
+JUSSILA, Miss Mari Aina;21;3rd Class;4137;£9 16s 10d;;;Southampton;Servant;;
+JUSSILA, Mr Eiriik;32;3rd Class;3101286;£7 18s 6d;;;Southampton;;15;
+KALLIO, Mr Nikolai Erland;17;3rd Class;3101274;£7 2s 6d;;;Southampton;General Labourer;;
+KALVIK, Mr Johannes Halvorsen;21;3rd Class;8475;£8 8s 8d;;;Southampton;General Labourer;;
+KANTOR, Mr Sinai;34;2nd Class;244367;£26 ;;;Southampton;;;283
+KANTOR, Mrs Miriam;24;2nd Class;244367;£26 ;;;Southampton;;12;
+KARAJIC, Mr Milan;30;3rd Class;349246;£7 17s 11d;;;Southampton;General Labourer;;
+KARLSSON, Mr Einar Gervasius;21;3rd Class;350053;£7 15s 11d;;;Southampton;Military;13;
+KARLSSON, Mr Julius Konrad Eugen;33;3rd Class;347465;£7 17s 1d;;;Southampton;Engineer;;
+KARLSSON, Mr Nils August;22;3rd Class;350060;£7 10s 5d;;;Southampton;Farmer;;
+KARNES, Mrs Claire;28;2nd Class;13534;£21 ;;;Southampton;;;
+KARUN, Mr Franz;39;3rd Class;349256;£13 8s 4d;;;Cherbourg;Hotelier;15;
+KARUN, Miss Manca;4;3rd Class;349256;£13 8s 4d;;;Cherbourg;;15;
+KASPER, Mr F.;40;Engine;;;;;Southampton;Fireman / Stoker;;
+KASSEM HOUSSEIN, Mr Fared;18;3rd Class;2700;£7 4s 7d;;;Cherbourg;Farmer;;
+KATAVELOS, Mr Vasilios G.;19;3rd Class;2682;£7 4s 7d;;;Cherbourg;Farmer;;58
+KEANE, Mr Daniel;35;2nd Class;233734;£12 7s ;;;Queenstown;;;
+KEANE, Miss Nora Agnes;46;2nd Class;226593;£12 7s ;;;Queenstown;;10;
+KEANE, Mr Andrew "Andy";23;3rd Class;12460;£7 15s ;;;Queenstown;Farm Labourer;;
+KEARL, Mr Charles Henry;43;Engine;;;;;Southampton;Greaser;;
+KEARL, Mr G.;24;Engine;;;;;Southampton;Trimmer;;
+KEEFE, Mr Arthur;39;3rd Class;323592;£7 5s ;;;Southampton;Farmer;A;332
+KEEGAN, Mr James;38;Engine;;;;;Southampton;Leading Fireman;;
+KEEN, Mr Percy Edward;28;Victualling;;;;;Southampton;Saloon Steward;;
+KEEPING, Mr Edwin Herbert;33;1st Class;113503;£211 10s ;Servant;;Southampton;Servant;;45
+KELLAND, Mr Thomas;21;Victualling;;;;;Southampton;Library Steward;;
+KELLY, Mrs Florence "Fannie";45;2nd Class;223596;£13 10s ;;;Southampton;;9;
+KELLY, Mr James;19;3rd Class;363592;£8 1s ;;;Southampton;Painter&Decorator;;
+KELLY, Mr James;44;3rd Class;330911;£7 16s 7d;;;Queenstown;Farm Labourer;;70
+KELLY, Miss Anna Katherine;20;3rd Class;9234;£7 15s ;;;Queenstown;;16;
+KELLY, Miss Mary;22;3rd Class;14312;£7 15s ;;;Queenstown;;D;
+KELLY, Mr James;44;Engine;;;;;Southampton;Greaser;;
+KELLY, Mr William;23;Engine;;;;;Belfast;Assistant Electrician;;
+KEMISH, Mr George;24;Engine;;;;;Southampton;Fireman / Stoker;;
+KEMP, Mr Thomas Hulman;43;Engine;;;;;Belfast;Extra Assistant 4th Engineer (Refrigeration);;
+KENCHENTEN, Mr Frederick;37;Engine;;;;;Southampton;Greaser;;
+KENNEDY, Mr John;24;3rd Class;368783;£7 15s ;;;Queenstown;Farm Labourer;;
+KENNELL, Mr Charles;30;Victualling;;;;;Southampton;Hebrew Cook;;
+KENT, Mr Edward Austin;58;1st Class;11771;£29 14s ;;;Cherbourg;Architect;;258
+KENYON, Mr Frederick R.;41;1st Class;17464;£51 17s 3d;;;Southampton;;;
+KENYON, Mrs Marion;31;1st Class;17464;£51 17s 3d;;;Southampton;;8;
+KENZLER, Mr Augustus;43;Engine;;;;;Belfast;Storekeeper;;
+KERLEY, Mr William Thomas;28;Victualling;;;;;Southampton;Assistant Saloon Steward;;-1
+KERR, Mr Thomas;26;Engine;;;;;Southampton;Fireman / Stoker;;
+KETCHLEY, Mr Henry;30;Victualling;;;;;Belfast;Saloon Steward;;
+KHALIL, Mr Betros;25;3rd Class;2660;£14 9s 1d;;;Cherbourg;Farm Labourer;;
+KHALIL, Mrs Zahie "Maria";20;3rd Class;2660;£14 9s 1d;;;Cherbourg;Farm Labourer;;
+KIERAN, Mr James W.;32;Victualling;;;;;Southampton;Chief 3rd Class Steward;;
+KIERAN, Mr Michael;31;Victualling;;;;;Southampton;Storekeeper;;
+KIERNAN, Mr John;25;3rd Class;367227;£7 15s ;;;Queenstown;General Labourer;;
+KIERNAN, Mr Philip;22;3rd Class;367229;£7 15s ;;;Queenstown;General Labourer;;
+KILGANNON, Mr Thomas;22;3rd Class;36865;£7 14s 9d;;;Queenstown;Farm Labourer;;
+KIMBALL, Mr Edwin Nelson Jr.;42;1st Class;11753;£52 11s 1d;;;Southampton;;5;
+KIMBALL, Mrs Gertrude;45;1st Class;11753;£52 11s 1d;;;Southampton;;5;
+KING, Mr Alfred;18;Victualling;;;;;Southampton;Lift Steward;;238
+KING, Mr Thomas W.;43;Deck;;;;;Southampton;Master-at-arms;;
+KING, Mr Ernest Waldron;28;Victualling;;;;;Southampton;Clerk;;321
+KING, Mr G.;20;Victualling;;;;;Southampton;Scullion;;
+KINGSCOTE, Mr William Ford;42;Victualling;;;;;Southampton;Saloon Steward;;
+KINK, Mr Anton;29;3rd Class;315153;£22 6d;;;Southampton;;2;
+KINK, Miss Maria;22;3rd Class;315152;£8 13s 3d;;;Southampton;;;
+KINK, Mr Vincenz;26;3rd Class;315151;£8 13s 3d;;;Southampton;Magazineer;;
+KINK-HEILMANN, Mrs Luise;26;3rd Class;315153;£22 6d;;;Southampton;;2;
+KINK-HEILMANN, Miss Luise Gretchen;4;3rd Class;315153;£22 6d;;;Southampton;;2;
+KINSELLA, Mr L.;30;Engine;;;;;Southampton;Fireman / Stoker;;
+KIRKALDY, Mr Thomas;39;Victualling;;;;;Southampton;Bed Room Steward;;
+KIRKHAM, Mr J.;39;Engine;;;;;Southampton;Greaser;;
+KIRKLAND, Fr Charles Leonard;52;2nd Class;219533;£12 7s ;;;Queenstown;Priest / Minister;;
+KITCHING, Mr Arthur Alfred;30;Victualling;;;;;Southampton;Saloon Steward;;
+KLABER, Mr Herman;;1st Class;113028;£26 11s ;;;Southampton;Businessman;;
+KLASéN, Mr Klas Albin;18;3rd Class;350404;£7 17s 1d;;;Southampton;Farm Labourer;;
+KLASéN, Miss Gertrud Emilia;1;3rd Class;350405;£12 3s 8d;;;Southampton;;;
+KLASéN, Mrs Hulda Kristina Eugenia;36;3rd Class;350405;£12 3s 8d;;;Southampton;Housewife;;
+KLEIN, Mr Herbert;33;Victualling;;;;;Southampton;Barber;;
+KNEESE, Miss ;;2nd Class;47;£2 ;Cross Channel Passenger;;Southampton;;;
+KNIGHT, Mr Robert J.;39;2nd Class;239855;;H&W Guarantee Group;;Belfast;Fitter;;
+KNIGHT, Mr George;44;Victualling;;;;;Southampton;Saloon Steward;;
+KNIGHT, Mr Leonard George;21;Victualling;;;;;Southampton;Steward;;
+KNOWLES, Mr Thomas;42;Engine;;;;;Southampton;Fireman Messman;;
+KRAEFF, Mr Theodor;;3rd Class;349253;£7 17s 11d;;;Cherbourg;General Labourer;;
+KREKORIAN, Mr Neshan;25;3rd Class;2654;£7 4s 7d;;;Cherbourg;General Labourer;10;
+KREUCHEN, Miss Emilie;29;1st Class;24160;£211 6s 9d;Servant;;Southampton;Personal Maid;2;
+KRINS, Mr Georges Alexandre;23;2nd Class;250654;;Musician;;Southampton;Musician;;
+KUTSCHER (LITHMAN), Mr Simon;26;3rd Class;251;£7 11s ;;;Southampton;Baker;;
+KVILLNER, Mr Johan Henrik Johannesson;31;2nd Class;18723;£10 10s ;;;Southampton;Mechanical Engineer;;165
+LACEY, Mr Bert W.;21;Victualling;;;;;Southampton;Assistant Saloon Steward;;
+LAHOUD ISHAQ MOWAD, Mr Sarkis;30;3rd Class;2624;£7 4s 6d;;;Cherbourg;General Labourer;;
+LAHTINEN, Fr William;35;2nd Class;250651;£26 ;;;Southampton;Priest / Minister;;
+LAHTINEN, Mrs Anna Amelia;34;2nd Class;250651;£26 ;;;Southampton;;;
+LAHY, Mr T. E.;32;Engine;;;;;Southampton;Fireman / Stoker;;
+LAITINEN, Miss Kristina Sofia;37;3rd Class;4135;£9 11s 9d;;;Southampton;Housekeeper;;
+LAKE, Mr William;35;Victualling;;;;;Belfast;Saloon Steward;;
+LALEFF, Mr Kristo;23;3rd Class;349217;£7 17s 11d;;;Southampton;General Labourer;;
+LAM, Mr Ali;38;3rd Class;1601;£56 9s 11d;;;Southampton;Seaman;C;
+LAM, Mr Len;23;3rd Class;1601;£56 9s 11d;;;Southampton;Seaman;;
+LAMB, Mr John Joseph;30;2nd Class;240261;£10 14s 2d;;;Queenstown;Gentleman;;
+LAMBERT-WILLIAMS, Mr Fletcher Fellows;;1st Class;113510;£35 ;;;Southampton;Businessman;;
+LANDERGREN, Miss Aurora Adelia;22;3rd Class;7077;£7 5s ;;;Southampton;;13;
+LANE, Mr Patrick;16;3rd Class;7935;£7 15s ;;;Queenstown;Farm Labourer;;
+LANE, Mr Albert Edward;34;Victualling;;;;;Southampton;Saloon Steward;;
+LANG, Mr Fang;32;3rd Class;1601;£56 9s 11d;;;Southampton;Seaman;14;
+LAROCHE, Mr Joseph Philippe Lemercier;25;2nd Class;2123;£41 11s 7d;;;Cherbourg;Engineer;;
+LAROCHE, Mrs Juliette Marie Louise;22;2nd Class;2123;£41 11s 7d;;;Cherbourg;;14;
+LAROCHE, Miss Louise;1;2nd Class;2123;£41 11s 7d;;;Cherbourg;;14;
+LAROCHE, Miss Simonne Marie Anne Andrée;3;2nd Class;2123;£41 11s 7d;;;Cherbourg;;14;
+LARSSON, Mr August Viktor;29;3rd Class;7545;£9 9s 8d;;;Southampton;General Labourer;;
+LARSSON, Mr Bengt Edvin;29;3rd Class;347067;£7 15s 6d;;;Southampton;General Labourer;;
+LARSSON-RONDBERG, Mr Edvard A.;22;3rd Class;347065;£7 15s 6d;;;Southampton;General Labourer;;
+LATIMER, Mr Andrew L;55;Victualling;;;;;Belfast;Chief Steward;;
+LAVINGTON, Miss Bessie;38;Victualling;;;;;Southampton;Stewardess;;
+LAWRENCE, Mr Arthur;35;Victualling;;;;;Belfast;Saloon Steward;;90
+LEADER, Dr Alice;49;1st Class;17465;£25 18s 7d;;;Southampton;Doctor;8;
+LEADER, Mr Archie;22;Victualling;;;;;Southampton;Confectioner;;
+LEATHER, Mrs Elizabeth May;41;Victualling;;;;;Southampton;Stewardess;;
+LEE, Mr Reginald Robinson;41;Deck;;;;;Southampton;Lookout;13;
+LEE, Mr H.;18;Engine;;;;;Southampton;Trimmer;;
+LEENI, Mr Fahim ("Philip Zenni");22;3rd Class;2620;£7 4s 6d;;;Cherbourg;General Labourer;6;
+LEFEBVRE, Mrs Frances Marie;40;3rd Class;4133;£25 9s 4d;;;Southampton;;;
+LEFEBVRE, Master Henry;5;3rd Class;4133;£25 9s 4d;;;Southampton;;;
+LEFEBVRE, Miss Ida;3;3rd Class;4133;£25 9s 4d;;;Southampton;;;
+LEFEBVRE, Miss Jeannie;8;3rd Class;4133;£25 9s 4d;;;Southampton;;;
+LEFEBVRE, Miss Mathilde;12;3rd Class;4133;£25 9s 4d;;;Southampton;;;
+LEFEBVRE, Mr Paul Georges;35;Victualling;;;;;Southampton;Saloon Steward;;211
+LEHMANN, Miss Bertha;17;2nd Class;1748;£12 ;;;Cherbourg;;12;
+LEINONEN, Mr Antti Gustaf;32;3rd Class;3101292;£7 18s 6d;;;Southampton;;;
+LEITCH, Miss Jessie Wills;31;2nd Class;248727;£33 ;;;Southampton;;11;
+LEMORE, Mrs Amelia "Milley";34;2nd Class;34260;£10 10s ;;;Southampton;;14;
+LENNON, Mr Denis;20;3rd Class;370371;£15 10s ;;;Queenstown;General Labourer;;
+LENOX-CONYNGHAM, Mrs ;;1st Class;84;£3 ;Cross Channel Passenger;;Southampton;;;
+LENOX-CONYNGHAM, Master Dennis;10;1st Class;84;£3 ;Cross Channel Passenger;;Southampton;;;
+LENOX-CONYNGHAM, Miss Eileen;11;1st Class;84;£3 ;Cross Channel Passenger;;Southampton;;;
+LENOX-CONYNGHAM, Miss Alice;;1st Class;75;£1 10s ;Cross Channel Passenger;;Southampton;;;
+LEONARD, Mr Lionel;36;3rd Class;370160;;;;Southampton;Seaman;;
+LEONARD, Mr Matthew;26;Victualling;;;;;Belfast;Steward;;
+LEROY, Miss Berthe;27;1st Class;17761;£106 8s 6d;Servant;;Cherbourg;Personal Maid;2;
+LESTER, Mr James;26;3rd Class;48871;£24 3s ;;;Southampton;Dipper;;
+LESUEUR, Mr Gustave J.;35;1st Class;17755;£512 6s 7d;Servant;;Cherbourg;Servant;3;
+LEVETT, Mr George Alfred;21;Victualling;;;;;Belfast;Assistant Pantryman Steward;;
+LéVY, Mr René Jacques;36;2nd Class;2163;£12 17s 6d;;;Southampton;Chemist;;
+LEWIS, Mr Arthur Ernest Read;27;Victualling;;;;;Southampton;Steward;;
+LEWY, Mr Ervin G.;31;1st Class;17612;£27 14s 5d;;;Cherbourg;Jeweller;;
+LEYSON, Mr Robert William Norman;25;2nd Class;29566;£10 10s ;;;Southampton;Engineer;;108
+LIEVENS, Mr René Aimé;24;3rd Class;345781;£9 10s ;;;Southampton;Farmer;;
+LIGHT, Mr Christopher William;20;Engine;;;;;Southampton;Fireman / Stoker;;
+LIGHT, Mr W.;47;Engine;;;;;Southampton;Fireman / Stoker;;
+LIGHT, Mr C.;23;Victualling;;;;;Southampton;Plate Steward;;
+LIGHTOLLER, Mr Charles Herbert;38;Deck;;;;;Belfast;2nd. Officer;B;
+LINDAHL, Miss Agda Thorilda Viktoria;25;3rd Class;347071;£7 15s 6d;;;Southampton;;;
+LINDBLOM, Miss Augusta Charlotta;45;3rd Class;347073;£7 15s ;;;Southampton;;;
+LINDEBERG-LIND, Mr Erik Gustaf;42;1st Class;17475;£26 11s ;;;Southampton;Businessman;;
+LINDELL, Mr Edvard Bengtsson;36;3rd Class;349910;£15 11s ;;;Southampton;General Labourer;A;
+LINDELL, Mrs Elin Gerda;30;3rd Class;349910;£15 11s ;;;Southampton;;A;
+LINDQVIST, Mr Eino William;20;3rd Class;3101285;£7 18s 6d;;;Southampton;;15;
+LINDSAY, Mr William Charles;30;Engine;;;;;Southampton;Fireman / Stoker;3;
+LINDSTRöM, Mrs Sigrid;55;1st Class;112377;£27 14s 5d;;;Cherbourg;;6;
+LINEHAN, Mr Michael;21;3rd Class;330971;£7 17s 7d;;;Queenstown;Farm Labourer;;
+LINES, Mrs Elizabeth Lindsey;50;1st Class;17592;£39 8s ;;;Cherbourg;;9;
+LINES, Miss Mary Conover;16;1st Class;17592;£39 8s ;;;Cherbourg;;9;
+LING, Mr Lee;28;3rd Class;1601;£56 9s 11d;;;Southampton;Seaman;;
+LINHART, Mr Wenzel;27;3rd Class;345775;£9 10s ;;;Southampton;Baker;;298
+LINNANE, Mr John;61;2nd Class;235509;£12 7s ;;;Queenstown;Gentleman;;
+LITTLEJOHN, Mr Alexander James;40;Victualling;;;;;Belfast;Saloon Steward;;
+LIVSHIN, Mr David (Abraham Harmer);25;3rd Class;374887;£7 5s ;;;Southampton;Jeweller;B;
+LLOYD, Mr W.;29;Engine;;;;;Southampton;Fireman / Stoker;;
+LLOYD, Mr Humphrey;32;Victualling;;;;;Belfast;Saloon Steward;;57
+LOBB, Mr William Arthur;30;3rd Class;3336;£16 2s ;;;Southampton;Engineer;;
+LOBB, Mrs Cordelia K.;26;3rd Class;3336;£16 2s ;;;Southampton;;;55
+LOCKE, Mr A.;33;Victualling;;;;;Southampton;Scullion;;
+LOCKYER, Mr Edward Thomas;21;3rd Class;1222;£7 17s 7d;;;Southampton;Grocers Assistant;;153
+LONG, Mr Milton Clyde;29;1st Class;113501;£30 ;;;Southampton;;;126
+LONG, Mr F.;28;Engine;;;;;Southampton;Trimmer;;
+LONG, Mr W.;30;Engine;;;;;Southampton;Trimmer;;
+LONGLEY, Miss Gretchen Fiske;21;1st Class;13502;£77 19s 2d;;;Cherbourg;;10;
+LONGMUIR, Mr John Dickson;19;Victualling;;;;;Southampton;Assistant Pantry Steward;;
+LORING, Mr Joseph Holland;30;1st Class;113801;£45 10s ;;;Southampton;;;
+LOUCH, Mr Charles Alexander;50;2nd Class;3085;£26 ;;;Southampton;Saddler;;121
+LOUCH, Mrs Alice Adelaide;42;2nd Class;3085;£26 ;;;Southampton;;;
+LOVELL, Mr John Hall ("Henry");20;3rd Class;21173;£7 5s ;;;Southampton;Farmer;;
+LOVELL, Mr John;38;Victualling;;;;;Southampton;Grill Cook;;
+LOWE, Mr Harold Godfrey;29;Deck;;;;;Belfast;5th. Officer;14;
+LUCAS, Mr William A.;25;Deck;;;;;Southampton;Able Seaman;D;
+LUCAS, Mr William;34;Victualling;;;;;Belfast;Saloon Steward;A;
+LULIC, Mr Nikola;29;3rd Class;315098;£8 13s 3d;;;Southampton;;15;
+LUNDAHL, Mr Johan Svensson;51;3rd Class;347743;£7 1s 1d;;;Southampton;General Labourer;;
+LUNDIN, Miss Olga Elida;23;2nd Class;347469;£7 17s 1d;;;Southampton;;10;
+LUNDSTRöM, Mr Thure Edvin;32;3rd Class;350403;£7 11s 7d;;;Southampton;;15;
+LURETTE, Miss Eugenie Elise;59;1st Class;17569;£146 10s 5d;Servant;;Cherbourg;Personal Maid;6;
+LYDIATT, Mr Charles;38;Victualling;;;;;Southampton;Saloon Steward;;
+LYMPEROPOULUS, Mr Panagiotis K.;30;3rd Class;2683;£6 8s 9d;;;Cherbourg;General Labourer;;196
+LYNTAKOFF, Mr Stanko;44;3rd Class;349235;£7 17s 11d;;;Southampton;General Labourer;;
+LYONS, Mr William Henry;26;Deck;;;;;Southampton;Able Seaman;4;
+MABEY, Mr J.;23;Victualling;;;;;Southampton;Steward;;
+MACK, Mrs Mary;57;2nd Class;S.O./C. 3;£10 10s ;;;Southampton;;;52
+MACKAY, Mr George William;20;3rd Class;42795;£7 11s ;;;Southampton;Butler;;
+MACKAY, Mr Charles Donald;34;Victualling;;;;;Belfast;Saloon Steward;11;
+MACKIE, Mr William Dickson;32;Engine;;;;;Belfast;Junior 5th. Engineer;;
+MACKIE, Mr George William;34;Victualling;;;;;Southampton;Bed Room Steward;;
+MADIGAN, Miss Margaret "Maggie";21;3rd Class;370370;£7 15s ;;;Queenstown;;15;
+MADILL, Miss Georgette Alexandra;16;1st Class;24160;£211 6s 9d;;;Southampton;;2;
+MADSEN, Mr Fridtjof Arne;24;3rd Class;17369;£7 2s 10d;;;Southampton;;13;
+MäENPää, Mr Matti Alexanteri;22;3rd Class;3101275;£7 2s 6d;;;Southampton;;;
+MAGUIRE, Mr John Edward;30;1st Class;110469;£26 ;;;Southampton;;;
+MAHON, Miss Bridget Delia;20;3rd Class;330924;£7 17s 7d;;;Queenstown;;;
+MAIONI, Miss Roberta Elizabeth Mary;19;1st Class;110152;£86 10s ;Servant;;Southampton;Personal Maid;8;
+MAISNER, Mr Simon;34;3rd Class;2816;£8 1s ;;;Southampton;Tailor;;
+MAJOR, Mr William James;32;Engine;;;;;Southampton;Fireman / Stoker;13;
+MAJOR, Mr Thomas Edgar;35;Victualling;;;;;Belfast;Bath Steward;;
+MäKINEN, Mr Kalle Edvard;29;3rd Class;3101268;£7 18s 6d;;;Southampton;General Labourer;;
+MALACHARD, Mr Jean-Noël;25;2nd Class;237735;£15 11d;;;Cherbourg;;;
+MALLET, Mr Albert;31;2nd Class;2079;£37 1d;;;Cherbourg;Merchant;;
+MALLET, Mrs Antonine Marie;24;2nd Class;2079;£37 1d;;;Cherbourg;;10;
+MALLET, Master André Clement;1;2nd Class;2079;£37 1d;;;Cherbourg;;10;
+MAMEE, Mr Hanna;20;3rd Class;2677;£7 4s 7d;;;Cherbourg;;15;
+MANGAN, Miss Mary;32;3rd Class;364850;£7 15s ;;;Queenstown;;;61
+MANGIAVACCHI, Mr Serafino Emilio;30;2nd Class;32861;£15 11s 7d;;;Cherbourg;Clerk;;
+MANNION, Miss Margaret;28;3rd Class;36866;£7 14s 9d;;;Queenstown;;16;
+MANTLE, Mr Roland Frederick;36;Victualling;;;;;Southampton;Steward;;
+MARCH, Mr John Starr;50;Victualling;;;Postal Clerk;;Southampton;Postal Clerk;;225
+MARDIROSIAN, Mr Sarkis;25;3rd Class;2655;£7 4s 7d;;;Cherbourg;Farm Labourer;;
+MARéCHAL, Mr Pierre;28;1st Class;11774;£29 14s ;;;Cherbourg;Aviator;7;
+MARINKO, Mr Dmitri;23;3rd Class;349238;£7 17s 11d;;;Southampton;;;
+MARKOFF, Mr Marin;35;3rd Class;349213;£7 17s 11d;;;Southampton;General Labourer;;
+MARKS, Mr J.;26;Victualling;;;;;Southampton;Assistant Pantryman Steward;;
+MARKUN, Mr Johann;33;3rd Class;349257;£7 17s 11d;;;Cherbourg;General Labourer;;
+MARRETT, Mr G.;22;Engine;;;;;Southampton;Fireman / Stoker;;
+MARRIOTT, Mr J. W.;20;Victualling;;;;;Southampton;Assistant Pantryman Steward;;2
+MARSDEN, Miss Evelyn;28;Victualling;;;;;Southampton;Stewardess;16;
+MARSH, Mr Frederick Charles;39;Engine;;;;;Southampton;Fireman / Stoker;;268
+MARTIN, Mrs Annie;33;Victualling;;;;;Southampton;Stewardess;;
+MARTIN, Mr F.;29;Victualling;;;;;Southampton;Scullion;;
+MARTIN, Miss Mabel Edwina;20;A la Carte;;;;;Southampton;Cashier;;
+MARVIN, Mr Daniel Warner;18;1st Class;113773;£53 2s ;;;Southampton;Of Independent Means;;
+MARVIN, Mrs Mary Graham Carmichael;18;1st Class;113773;£53 2s ;;;Southampton;;10;
+MASKELL, Mr Leopold Adolphus;25;Engine;;;;;Southampton;Trimmer;;
+MASON, Mr Frank Archibald Robert;32;Engine;;;;;Southampton;Fireman / Stoker;;
+MASON, Mr J.;39;Engine;;;;;Southampton;Leading Fireman;;
+MATHERSON, Mr David;30;Deck;;;;;Southampton;Able Seaman;;192
+MATHIAS, Mr Montague Vincent;27;Deck;;;;;Southampton;Mess Steward;;
+MATINOFF, Mr Nicola;30;3rd Class;349255;£7 17s 11d;;;Cherbourg;;;
+MATTHEWS, Mr William John;30;2nd Class;28228;£13 ;;;Southampton;China Clay Worker;;
+MATTMANN, Sig. Adolf;20;A la Carte;;;;;Southampton;Ice Man;;
+MAUGE, Mr Paul Achille Maurice Germain;25;A la Carte;;;;;Southampton;Kitchen Clerk;;
+MAXWELL, Mr John;31;Deck;;;;;Belfast;Carpenter / Joiner;;
+MAY, Mr Arthur;24;Engine;;;;;Southampton;Fireman / Stoker;;
+MAY, Mr Arthur William;60;Engine;;;;;Southampton;Fireman Messman;;
+MAY, Mr Richard W.;;1st Class;84;£24 ;Cross Channel Passenger;;Southampton;;;
+MAY, Mr Stanley;;1st Class;84;£24 ;Cross Channel Passenger;;Southampton;;;
+MAYBERY, Mr Frank Hubert;36;2nd Class;239059;£16 ;;;Southampton;Property Developer / Real Estate;;
+MAYNARD, Mr Isaac Hiram;31;Victualling;;;;;Belfast;Entre Cook;B;
+MAYNé, Mlle Bertha Antonine;24;1st Class;17482;£49 10s 1d;;;Cherbourg;Singer;6;
+MAYO, Mr William Peter;27;Engine;;;;;Southampton;Leading Fireman;;177
+MAYTUM, Mr Alfred;52;Victualling;;;;;Belfast;Chief Butcher;;141
+MAYZES, Mr Thomas;25;Engine;;;;;Southampton;Fireman / Stoker;;
+MCANDREW, Mr Thomas;36;Engine;;;;;Southampton;Fireman / Stoker;;
+MCANDREWS, Mr William;23;Engine;;;;;Southampton;Fireman / Stoker;;
+MCCAFFRY, Mr Thomas Francis;46;1st Class;13050;£75 4s 10d;;;Southampton;Banker;;292
+MCCARTHY, Mr Timothy J.;54;1st Class;17463;£51 17s 3d;;;Southampton;Buyer;;175
+MCCARTHY, Mr William;47;Deck;;;;;Southampton;Able Seaman;4;
+MCCARTHY, Miss Catherine "Katie";24;3rd Class;383123;£7 15s ;;;Queenstown;;15;
+MCCARTHY, Mr Frederick J.;36;Victualling;;;;;Southampton;Bed Room Steward;;
+MCCASTLAN, Mr W.;38;Engine;;;;;Southampton;Fireman / Stoker;;
+MCCAWLEY, Mr Thomas W.;36;Victualling;;;;;Belfast;Gymnasium Steward;;
+MCCORMACK, Mr Thomas Joseph;19;3rd Class;367228;£7 15s ;;;Queenstown;Barman;;
+MCCOY, Miss Agnes;29;3rd Class;367226;£23 5s ;;;Queenstown;;16;
+MCCOY, Miss Alicia;26;3rd Class;367226;£23 5s ;;;Queenstown;;16;
+MCCOY, Mr Bernard;24;3rd Class;367226;£23 5s ;;;Queenstown;General Labourer;16;
+MCCRAE, Mr Arthur Gordon;32;2nd Class;237216;£13 10s ;;;Southampton;Engineer;;209
+MCCRIE, Mr James Matthew;30;2nd Class;233478;£13 ;;;Southampton;Oil Worker;;
+MCDERMOTT, Miss Bridget Delia;31;3rd Class;330932;£7 15s 8d;;;Queenstown;;13;
+MCELROY, Mr Hugh Walter;37;Victualling;;;;;Southampton;Purser;;157
+MCEVOY, Mr Michael;19;3rd Class;36568;£15 10s ;;;Queenstown;Farm Labourer;;
+MCGANN, Mr James;26;Engine;;;;;Southampton;Trimmer;;
+MCGARVEY, Mr Edward Joseph;34;Engine;;;;;Southampton;Fireman / Stoker;;
+MCGAW, Mr Eroll V.;30;Engine;;;;;Southampton;Fireman / Stoker;;
+MCGOUGH, Mr James Robert;35;1st Class;17473;£26 5s 9d;;;Southampton;Buyer;7;
+MCGOUGH, Mr George Francis;36;Deck;;;;;Southampton;Able Seaman;;
+MCGOVERN, Ms Mary;22;3rd Class;330931;£7 17s 7d;;;Queenstown;;13;
+MCGOWAN, Miss Katherine;42;3rd Class;9232;£7 15s ;;;Queenstown;;;
+MCGOWAN, Miss Anna "Annie";17;3rd Class;330923;£8 7d;;;Queenstown;;;
+MCGRADY, Mr James;27;Victualling;;;;;Southampton;Saloon Steward;;330
+MCGREGOR, Mr J.;30;Engine;;;;;Southampton;Fireman / Stoker;;
+MCINERNEY, Mr Thomas;37;Engine;;;;;Southampton;Greaser;;
+MCINTYRE, Mr William;21;Engine;;;;;Southampton;Trimmer;;
+MCKANE, Mr Peter David;46;2nd Class;28403;£26 ;;;Southampton;;;
+MCLAREN, Mrs ;40;Victualling;;;;;Southampton;Stewardess;;
+MCMAHON, Mr Martin;20;3rd Class;370372;£7 15s ;;;Queenstown;Farm Labourer;;
+MCMICKEN, Mr Arthur;23;Victualling;;;;;Belfast;Saloon Steward;11;
+MCMICKEN, Mr Benjamin Tucker;21;Victualling;;;;;Belfast;Second Pantry Steward;;
+MCMULLIN, Mr James;32;Victualling;;;;;Belfast;Saloon Steward;;
+MCMURRAY, Mr William Ernest;43;Victualling;;;;;Belfast;Bed Room Steward;;
+MCNAMEE, Mr Neal;27;3rd Class;376566;£16 2s ;;;Southampton;Provision Manager;;
+MCNAMEE, Mrs Eileen;19;3rd Class;376566;£16 2s ;;;Southampton;;;53
+MCNEILL, Miss Bridget;27;3rd Class;370368;£7 15s ;;;Queenstown;;;
+MCQUILLAN, Mr William;26;Engine;;;;;Belfast;Fireman / Stoker;;183
+MCRAE, Mr William Alexander;32;Engine;;;;;Southampton;Fireman / Stoker;;
+MCREYNOLDS, Mr William;22;Engine;;;;;Belfast;Junior 6th. Engineer;;
+MEANWELL, Mrs Marian;63;3rd Class;392087;£8 1s ;;;Southampton;Milliner;;
+MEEHON, Mr John;22;3rd Class;3130;£7 15s ;;;Queenstown;General Labourer;;
+MEEK, Mrs Annie Louise Rowley;31;3rd Class;343095;£8 1s ;;;Southampton;;;
+MELLINGER, Mrs Elizabeth Anne;41;2nd Class;250644;£19 10s ;;;Southampton;;14;
+MELLINGER, Miss Madeleine Violet;13;2nd Class;250644;£19 10s ;;;Southampton;;14;
+MELLOR, Mr Arthur;34;Victualling;;;;;Southampton;Saloon Steward;;
+MELLORS, Mr William John;19;2nd Class;751;£10 10s ;;;Southampton;Salesman;B;
+MEO (MARTINO), Mr Alfonzo;48;3rd Class;11206;£8 1s ;;;Southampton;Musician;;201
+MERNAGH, Mr Robert;28;3rd Class;368703;£7 15s ;;;Queenstown;Farm Labourer;;
+MEYER, Mr Edgar Joseph;28;1st Class;17604;£82 3s 5d;;;Cherbourg;Mechanical Engineer;;
+MEYER, Mrs Leila;25;1st Class;17604;£82 3s 5d;;;Cherbourg;;6;
+MEYER, Mr August;31;2nd Class;248723;£13 ;;;Southampton;Baker;;
+MIDDLETON, Mr Alfred Pirrie;26;Engine;;;;;Belfast;Electrician;;
+MIDDLETON, Mr M. V.;24;Victualling;;;;;Southampton;Saloon Steward;;
+MIDTSJø, Mr Karl Albert;21;3rd Class;345501;£7 15s 6d;;;Southampton;Farmer;15;
+MIHOFF, Mr Stoytcho;28;3rd Class;349207;£7 17s 11d;;;Southampton;General Labourer;;
+MILES, Mr Frank;23;3rd Class;359306;£8 1s ;;;Southampton;Engineer;;
+MILFORD, Mr George;28;Engine;;;;;Southampton;Fireman / Stoker;;
+MILLAR, Mr Robert;26;Engine;;;;;Belfast;Extra 5th Engineer;;
+MILLAR, Mr Thomas;33;Engine;;;;;Belfast;Deck Enginer;;
+MILLET, Mr Francis Davis;65;1st Class;13509;£26 11s ;;;Cherbourg;Artist;;249
+MILLING, Mr Jacob Christian;48;2nd Class;234360;£13 ;;;Southampton;Machine Inspector;;271
+MILLS, Mr Christopher;51;Victualling;;;;;Southampton;Butcher;;
+MINAHAN, Dr William Edward;44;1st Class;19928;£90 ;;;;Merchant;;230
+MINAHAN, Mrs Lillian E.;37;1st Class;19928;£90 ;;;;;14;
+MINAHAN, Miss Daisy E.;33;1st Class;19928;£90 ;;;;;14;
+MINEFF, Mr Ivan;24;3rd Class;349233;£7 17s 11d;;;Southampton;General Labourer;;
+MINKOFF, Mr Lazar;21;3rd Class;349211;£7 17s 11d;;;Southampton;General Labourer;;
+MINTRAM, Mr William;46;Engine;;;;;Southampton;Fireman / Stoker;;
+MISHELLAMY, Mr Abraham;52;Victualling;;;;;Belfast;Printer Steward;;
+MITCHELL, Mr Henry Michael;71;2nd Class;24580;£10 10s ;;;Southampton;Coach Painter;;
+MITCHELL, Mr Lawrence;18;Engine;;;;;Southampton;Trimmer;;
+MITKOFF, Mr Mito;23;3rd Class;349221;£7 17s 11d;;;Southampton;General Labourer;;
+MOCK, Mr Philipp Edmund;30;1st Class;13236;£57 15s ;;;Cherbourg;;11;
+MOCKLER, Miss Ellen Mary;23;3rd Class;330980;£7 17s 7d;;;Queenstown;;16;
+MOEN, Mr Sigurd Hansen;27;3rd Class;348123;£7 13s ;;;Southampton;Carpenter / Joiner;;309
+MOLSON, Mr Harry Markland;55;1st Class;113787;£30 10s ;;;Southampton;Businessman;;
+MONTEVERDI, Sig. Giovanni;23;A la Carte;;;;;Southampton;Cook;;
+MONTVILA, Fr Juozas;27;2nd Class;211536;£13 ;;;Southampton;Priest / Minister;;
+MOODY, Mr James Paul;24;Deck;;;;;Belfast;6th. Officer;;
+MOOR, Mrs Beila;29;3rd Class;392096;£12 9s 6d;;;Southampton;Tailor;14;
+MOOR, Master Meier;7;3rd Class;392096;£12 9s 6d;;;Southampton;;14;
+MOORE, Mr Clarence Bloomfield;47;1st Class;113796;£42 8s ;;;Southampton;Businessman;;
+MOORE, Mr George Alfred;32;Deck;;;;;Southampton;Able Seaman;3;
+MOORE, Mr Leonard Charles;19;3rd Class;54510;£8 1s ;;;Southampton;Bricklayer;;
+MOORE, Mr John J.;29;Engine;;;;;Southampton;Fireman / Stoker;;
+MOORE, Mr Ralph William;21;Engine;;;;;Southampton;Trimmer;;
+MOORE, Mr Alfred Ernest;39;Victualling;;;;;Southampton;Saloon Steward;;
+MOORES, Mr Richard Henry;44;Engine;;;;;Southampton;Greaser;;
+MORAN, Miss Bertha Bridget;28;3rd Class;371110;£24 3s ;;;Queenstown;;16;
+MORAN, Mr Daniel James;27;3rd Class;371110;£24 3s ;;;Queenstown;General Labourer;;
+MORAWECK, Dr Ernest;54;2nd Class;29011;£14 ;;;Southampton;Doctor;;
+MORELL, Mr R.;21;Engine;;;;;Southampton;Trimmer;;
+MORGAN, Mr Arthur Herbert;27;Engine;;;;;Southampton;Trimmer;;
+MORGAN, Mr Thomas A.;26;Engine;;;;;Southampton;Fireman / Stoker;;302
+MORGAN (BIRD), Mr Charles Frederick;42;Victualling;;;;;Southampton;Assistant Storekeeper;;
+MORLEY, Mr Henry Samuel;38;2nd Class;250655;£26 ;;;Southampton;Confectioner;;
+MORLEY, Mr William;34;3rd Class;364506;£8 1s ;;;Southampton;Carpenter / Joiner;;
+MORRIS, Mr Arthur;30;Engine;;;;;Southampton;Greaser;;
+MORRIS, Mr W.;24;Engine;;;;;Southampton;Trimmer;;
+MORRIS, Mr Frank Herbert;28;Victualling;;;;;Belfast;Bath Room Steward;14;
+MORROW, Mr Thomas Rowan;30;3rd Class;372622;£7 15s ;;;Queenstown;General Labourer;;
+MOSS, Mr Albert Johan;29;3rd Class;312991;£7 15s 6d;;;Southampton;;B;
+MOSS, Mr William;34;Victualling;;;;;Belfast;1st. Saloon Steward;;
+MOUBAREK, Mrs Omine;24;3rd Class;2661;£15 4s 11d;;;Cherbourg;;C;
+MOUBAREK, Master Gerios ("George _");7;3rd Class;2661;£15 4s 11d;;;Cherbourg;;C;
+MOUBAREK, Master Halim Gonios ("William George");4;3rd Class;2661;£15 4s 11d;;;Cherbourg;;C;
+MOUROS, Sig. Jean/Javier;20;A la Carte;;;;;Southampton;Assistant Waiter;;27
+MOUSSA, Mrs Mantoura Boulos;35;3rd Class;2626;£7 4s 7d;;;Cherbourg;Housewife;;
+MOUSSELMANI, Mrs Fatima;22;3rd Class;2649;£7 4s 6d;;;Cherbourg;;C;
+MOUTAL, Mr Rahamin Haim;28;3rd Class;374746;£8 1s ;;;Southampton;Traveller;;
+MOYES, Mr William Young;23;Engine;;;;;Belfast;Senior 6th. Engineer;;
+MUDD, Mr Thomas Charles;16;2nd Class;S.O./P.P 3;£10 10s ;;;Southampton;;;
+MULLEN, Miss Katherine "Katie";21;3rd Class;35852;£7 14s 8d;;;Queenstown;;16;
+MULLEN, Mr Thomas A.;20;Victualling;;;;;Southampton;Steward;;323
+MULLEN,  ;;2nd Class;404;£1 ;Cross Channel Passenger;;Southampton;;;
+MüLLER, Mr L.;36;Victualling;;;;;Southampton;Interpreter Steward;;
+MULLIN, Miss Mary  (_Lennon);18;3rd Class;370371;£15 10s ;;;Queenstown;;;
+MULVIHILL, Miss Bridget Elizabeth;25;3rd Class;382653;£7 15s ;;;Queenstown;;15;
+MURDLIN, Mr Joseph;22;3rd Class;3235;£8 1s ;;;Southampton;Chemist;;
+MURDOCH, Mr William McMaster;39;Deck;;;;;Belfast;1st. Officer;;
+MURDOCH, Mr William John;33;Engine;;;;;Southampton;Fireman / Stoker;;
+MURPHY, Miss Nora;34;3rd Class;36568;£15 10s ;;;Queenstown;;16;
+MURPHY, Miss Margaret Jane "Mary" "Maggie";25;3rd Class;367230;£15 10s ;;;Queenstown;;16;
+MURPHY, Miss Catherine "Kate";18;3rd Class;367230;£15 10s ;;;Queenstown;;16;
+MYHRMAN, Mr Pehr Fabian Oliver Malkolm;18;3rd Class;347078;£7 15s ;;;Southampton;General Labourer;;
+MYLES, Mr Thomas Francis;63;2nd Class;240276;£9 13s 9d;;;Queenstown;Gentleman;;
+NAIDENOFF, Mr Penko;22;3rd Class;349206;£7 17s 11d;;;Southampton;General Labourer;;
+NAJIB KIAMIE, Miss Adele "Jane";15;3rd Class;2667;£7 4s 6d;;;Cherbourg;;C;
+NAKHLI, Mr Toufik;17;3rd Class;2641;£7 4s 7d;;;Cherbourg;;;
+NAKID, Mr Sahid;20;3rd Class;2653;£15 14s 10d;;;Cherbourg;;C;
+NAKID, Mrs Waika "Mary";19;3rd Class;2653;£15 14s 10d;;;Cherbourg;;C;
+NAKID, Miss Maria;1;3rd Class;2653;£15 14s 10d;;;Cherbourg;;C;
+NANCARROW, Mr William Henry;34;3rd Class;3338;£8 1s ;;;Southampton;Mason;;
+NANKOFF, Mr Minko;32;3rd Class;349218;£7 17s 11d;;;Southampton;General Labourer;;
+NANNINI, Sig. Francesco Luigi Arcangelo;42;A la Carte;;;;;Southampton;Head Waiter;;
+NASR ALMA, Mr Mustafa;20;3rd Class;2652;£7 4s 7d;;;Cherbourg;Farm Labourer;;
+NASSER, Mr Nicholas;28;2nd Class;237736;£30 1s 5d;;;Cherbourg;;;43
+NASSER, Mrs Adele;14;2nd Class;237736;£30 1s 5d;;;Cherbourg;;;
+NASSR RIZQ, Mr Saade;20;3rd Class;2676;£7 4s 6d;;;Cherbourg;;;
+NATSCH, Mr Charles;36;1st Class;17596;£29 14s ;;;Cherbourg;;;
+NAUGHTON, Miss Hannah;21;3rd Class;365237;£7 15s ;;;Queenstown;;;
+NAVRATIL, Mr Michel;32;2nd Class;230080;£26 ;;;Southampton;;;15
+NAVRATIL, Master Edmond Roger;2;2nd Class;230080;£26 ;;;Southampton;;D;
+NAVRATIL, Master Michel Marcel;3;2nd Class;230080;£26 ;;;Southampton;;D;
+NEAL, Mr Henry;25;Victualling;;;;;Southampton;Baker;;
+NENKOFF, Mr Christo;22;3rd Class;349234;£7 17s 11d;;;Southampton;General Labourer;;
+NESSON, Mr Israel;26;2nd Class;244368;£13 ;;;Southampton;Electrician;;
+NETTLETON, Mr George;28;Engine;;;;;Southampton;Fireman / Stoker;;
+NEWELL, Mr Arthur Webster;58;1st Class;35273;£113 5s 6d;;;Cherbourg;;;122
+NEWELL, Miss Marjorie Anne;23;1st Class;35273;£113 5s 6d;;;Cherbourg;;6;
+NEWELL, Miss Madeleine;31;1st Class;35273;£113 5s 6d;;;Cherbourg;;6;
+NEWMAN, Mr Charles Thomas;33;Engine;;;;;Southampton;Assistant Storekeeper;;
+NEWSOM, Miss Helen Monypeny;19;1st Class;11752;£26 5s 8d;;;Southampton;;5;
+NICHOLLS, Mr Joseph Charles;19;2nd Class;33112;£36 15s ;;;Southampton;Miner;;101
+NICHOLLS, Mr Sidney;39;Victualling;;;;;Southampton;Saloon Steward;;
+NICHOLS, Mr Alfred;42;Deck;;;;;Belfast;Boatswain;;
+NICHOLS, Mr A.D.;34;Victualling;;;;;Southampton;Steward;;
+NICHOLS, Mr Walter Henry;35;Victualling;;;;;Southampton;Assistant Saloon Steward;;
+NICHOLS, Mr E.;;1st Class;103;£4 ;Cross Channel Passenger;;Southampton;;;
+NICHOLSON, Mr Arthur Ernest;64;1st Class;693;£26 ;;;Southampton;;;263
+NICOLA-YARRED, Miss Jamila ("Amelia Garrett");14;3rd Class;2651;£11 4s 10d;;;Cherbourg;;C;
+NICOLA-YARRED, Master Elias ("Louis Garrett");11;3rd Class;2651;£11 4s 10d;;;Cherbourg;;C;
+NIEMINEN, Miss Manta Josefina;29;3rd Class;3101297;£7 18s 6d;;;Southampton;Servant;;
+NIKLASSON, Mr Samuel;28;3rd Class;363611;£8 1s ;;;Southampton;General Labourer;;
+NILSSON, Mr August Ferdinand;21;3rd Class;350410;£7 17s 1d;;;Southampton;General Labourer;;
+NILSSON, Miss Berta Olivia;18;3rd Class;347066;£7 15s 6d;;;Southampton;;D;
+NILSSON, Miss Helmina Josefina;26;3rd Class;347470;£7 17s 1d;;;Southampton;;13;
+NIRVA, Mr Iisakki Antino Äijö;41;3rd Class;3101272;£7 2s 6d;;;Southampton;General Labourer;;
+NISKäNEN, Mr Juha;39;3rd Class;3101289;£7 18s 6d;;;Southampton;;9;
+NOEL, Major G. J.;;1st Class;48;£3 ;Cross Channel Passenger;;Southampton;;;
+NOEL, Master ;;1st Class;48;£3 ;Cross Channel Passenger;;Southampton;;;
+NOFAL, Mr Mansouer;20;3rd Class;2697;£7 4s 7d;;;Cherbourg;Journalist;;181
+NOON, Mr John;35;Engine;;;;;Southampton;Fireman / Stoker;;
+NORMAN, Mr Robert Douglas;28;2nd Class;218629;£13 10s ;;;Southampton;Electrical Engineer;;287
+NORRIS, Mr J.;23;Engine;;;;;Southampton;Fireman / Stoker;;
+NOSS, Mr Bertram Arthur;21;Engine;;;;;Southampton;Fireman / Stoker;;
+NOSS, Mr Henry;30;Engine;;;;;Southampton;Fireman / Stoker;;
+NOSWORTHY, Mr Richard Cater;21;3rd Class;39886;£7 16s ;;;Southampton;Farm Labourer;;
+NOURNEY, Mr Alfred;20;1st Class;2166;£13 17s 3d;;;Cherbourg;Gentleman;7;
+NUTBEAN, Mr William;30;Engine;;;;;Southampton;Fireman / Stoker;;
+NYE, Mrs Elizabeth;29;2nd Class;29395;£10 10s ;;;Southampton;;11;
+NYSTEN, Miss Anna Sofia;22;3rd Class;347081;£7 15s ;;;Southampton;;13;
+NYSVEEN, Mr Johan Hansen;60;3rd Class;345364;£6 4s 9d;;;Southampton;Farmer;;
+O'BRIEN, Mr Timothy;21;3rd Class;330979;£7 16s 7d;;;Queenstown;;;
+O'BRIEN, Mr Thomas;27;3rd Class;370365;£15 10s ;;;Queenstown;Farm Labourer;;
+O'BRIEN, Mrs Johanna "Hannah";26;3rd Class;370365;£15 10s ;;;Queenstown;Housewife;;
+O'CONNELL, Mr Patrick Denis;17;3rd Class;334912;£7 14s 8d;;;Queenstown;General Labourer;;
+O'CONNOR, Mr Maurice;16;3rd Class;371060;£7 15s ;;;Queenstown;General Labourer;;
+O'CONNOR, Mr Patrick;23;3rd Class;366713;£7 15s ;;;Queenstown;Farmer;;
+O'CONNOR, Mr John;25;Engine;;;;;Southampton;Trimmer;;
+O'CONNOR, Mr Thomas Peter;39;Victualling;;;;;Belfast;Bed Room Steward;;
+O'DRISCOLL, Miss Bridget;27;3rd Class;14311;£7 15s ;;;Queenstown;;D;
+O'DWYER, Miss Ellen "Nellie";25;3rd Class;330959;£7 17s 7d;;;Queenstown;;;
+O'KEEFE, Mr Patrick;21;3rd Class;368402;£7 15s ;;;Queenstown;Farm Labourer;B;
+O'LEARY, Miss Hanora "Nora";16;3rd Class;330919;£7 16s 7d;;;Queenstown;;13;
+O'LOUGHLIN, Dr William Francis Norman;62;Deck;;;;;Belfast;Surgeon;;
+O'SULLIVAN, Miss Bridget Mary;21;3rd Class;330909;£7 12s 7d;;;Queenstown;;;
+ÖDAHL, Mr Nils Martin;23;3rd Class;7267;£9 4s 6d;;;Southampton;General Labourer;;
+ODELL, Mrs Lily May;;1st Class;84;£24 ;Cross Channel Passenger;;Southampton;;;
+ODELL, Master Jack;11;1st Class;84;£24 ;Cross Channel Passenger;;Southampton;;;
+ODELL, Miss Kate;;1st Class;84;£24 ;Cross Channel Passenger;;Southampton;;;
+ÖHMAN, Miss Velin;22;3rd Class;347085;£7 15s 6d;;;Southampton;;C;
+OLIVA Y OCANA, Doña Fermina;39;1st Class;17758;£108 18s ;Servant;;Cherbourg;Personal Maid;8;
+OLIVE, Mr Charles;31;Engine;;;;;Southampton;Greaser;;
+OLIVE, Mr Ernest Roskelly;28;Victualling;;;;;Southampton;Clothes Presser Steward;;
+OLIVER, Mr Harry;32;Engine;;;;;Southampton;Fireman / Stoker;;
+OLLIVER, Mr Alfred;27;Deck;;;;;Belfast;Quartermaster;5;
+OLSEN, Mr Karl Siegwart Andreas;42;3rd Class;4579;£8 8s 1d;;;Southampton;General Labourer;;
+OLSEN, Master Artur Karl;9;3rd Class;17368;£3 3s 5d;;;Southampton;;13;
+OLSEN, Mr Henry Margido;28;3rd Class;4001;£22 10s 6d;;;Southampton;Engineer;;173
+OLSEN, Mr Ole Martin;27;3rd Class;265302;£7 6s 3d;;;Southampton;General Labourer;;
+OLSSON, Mr Oscar Wilhelm;32;3rd Class;347079;£7 15s 6d;;;Southampton;;A;
+OLSSON, Mr Nils Johan Göransson;28;3rd Class;347464;£7 17s 1d;;;Southampton;;;
+OLSSON, Miss Elina;31;3rd Class;350407;£7 17s 1d;;;Southampton;;;
+OLSVIGEN, Mr Thor Anderson;20;3rd Class;6563;£9 4s 6d;;;Southampton;Salesman;;89
+OMONT, Mr Alfred Fernand;29;1st Class;12998;£25 14s 10d;;;Cherbourg;Dealer;7;
+ORESKOVIC, Mr Luka;20;3rd Class;315094;£8 13s 3d;;;Southampton;Farmer;;
+ORESKOVIC, Miss Jelka;23;3rd Class;315085;£8 13s 3d;;;Southampton;Farmer;;
+ORESKOVIC, Miss Marija;20;3rd Class;315096;£8 13s 3d;;;Southampton;Farm Labourer;;
+ORPET, Mr Walter Hayward;31;Victualling;;;;;Southampton;Saloon Steward;;
+ORR, Mr J.;40;Victualling;;;;;Southampton;Assistant Vegetable Cook;;
+OSBORNE, Mr William Edward;32;Victualling;;;;;Belfast;Saloon Steward;;
+OSBORNE, Miss D.;;2nd Class;516;£2 ;Cross Channel Passenger;;Southampton;;;
+OSéN, Mr Olaf Elon;16;3rd Class;7534;£9 4s 4d;;;Southampton;Farm Labourer;;
+OSMAN, Mr Frank;28;Deck;;;;;Southampton;Able Seaman;2;
+OSTBY, Mr Engelhart Cornelius;64;1st Class;113509;£61 19s 7d;;;Southampton;Jeweller;;234
+OSTBY, Miss Helen Ragnhild;22;1st Class;113509;£61 19s 7d;;;Southampton;;5;
+OTHEN, Mr Charles;35;Engine;;;;;Southampton;Fireman / Stoker;;
+OTTER, Mr Richard;38;2nd Class;28213;£13 ;;;Southampton;Stone Cutter;;
+OVIES Y RODRIGUEZ, Mr Servando Jose Florentino;36;1st Class;17562;£27 14s 5d;;;Cherbourg;Merchant;;189
+OWEN, Mr Lewis;49;Victualling;;;;;Southampton;Assistant Saloon Steward;;
+OXENHAM, Mr Percy Thomas;22;2nd Class;14260;£10 10s ;;;Southampton;Mason;13;
+PACEY, Mr Reginald lvan;17;Victualling;;;;;Southampton;Lift Steward;;
+PACHERA, Sig. Jean Baptiste Stanislas;19;A la Carte;;;;;Southampton;Assistant Larder Cook;;
+PADRON MANENT, Mr Julian;26;2nd Class;2146;£13 17s 3d;;;Cherbourg;Chauffeur;9;
+PAICE, Mr Richard Charles John;32;Engine;;;;;Southampton;Fireman / Stoker;;
+PAIN, Dr Alfred;23;2nd Class;244278;£10 10s ;;;Southampton;Doctor;;
+PAINTER, Mr Charles;31;Engine;;;;;Southampton;Fireman / Stoker;;
+PAINTER, Mr Frank Frederick;29;Engine;;;;;Southampton;Fireman / Stoker;;
+PAINTIN, Mr James Arthur;29;Victualling;;;;;Southampton;Captain's Steward (Tiger);;
+PALLAS Y CASTELLO, Mr Emilio;29;2nd Class;2147;£13 17s 2d;;;Cherbourg;;9;
+PALLES, Mr Thomas;42;Engine;;;;;Belfast;Greaser;;
+PåLSSON, Mrs Alma Cornelia;29;3rd Class;349909;£21 1s 6d;;;Southampton;Housewife;;206
+PåLSSON, Master Gösta Leonard;2;3rd Class;349909;£21 1s 6d;;;Southampton;;;
+PåLSSON, Master Paul Folke;6;3rd Class;349909;£21 1s 6d;;;Southampton;;;
+PåLSSON, Miss Stina Viola;3;3rd Class;349909;£21 1s 6d;;;Southampton;;;
+PåLSSON, Miss Torborg Danira;8;3rd Class;349909;£21 1s 6d;;;Southampton;;;
+PANULA, Mrs Maija Emelia Abrahamintytar;41;3rd Class;3101295;£39 13s 9d;;;Southampton;;;
+PANULA, Master Jaako Arnold;14;3rd Class;3101295;£39 13s 9d;;;Southampton;General Labourer;;
+PANULA, Mr Ernesti Arvid;16;3rd Class;3101295;£39 13s 9d;;;Southampton;General Labourer;;
+PANULA, Master Juha Niilo;7;3rd Class;3101295;£39 13s 9d;;;Southampton;;;
+PANULA, Master Urho Abraham;2;3rd Class;3101295;£39 13s 9d;;;Southampton;;;
+PANULA, Master Eino Viljam;1;3rd Class;3101295;£39 13s 9d;;;Southampton;;;
+PARKER, Mr Clifford Richard;28;2nd Class;14888;£10 10s ;;;Southampton;Clerk;;
+PARKES, Mr Francis "Frank";18;2nd Class;239853;;H&W Guarantee Group;;Belfast;Plumber;;
+PARR, Mr William Henry Marsh;29;1st Class;112052;;H&W Guarantee Group;;Belfast;Electrician;;
+PARRISH, Mrs Lutie Davis;59;2nd Class;230433;£26 ;;;Southampton;;12;
+PARSONS, Mr Frank Alfred;26;Engine;;;;;Belfast;Senior 5th. Engineer;;
+PARSONS, Mr Edward;35;Victualling;;;;;Southampton;Chief Storekeeper;;
+PARSONS, Mr Richard;18;Victualling;;;;;Southampton;Saloon Steward;;
+PARTNER, Mr Austin;40;1st Class;113043;£28 10s ;;;Southampton;Stockbroker;;166
+PASCOE, Mr Charles H.;43;Deck;;;;;Southampton;Able Seaman;8;
+PASIC, Mr Jakob;21;3rd Class;315097;£8 13s 3d;;;Southampton;Farmer;;
+PATCHETT, Mr George;19;3rd Class;358585;£14 10s ;;;Southampton;Shoemaker;;
+PAVLOVIC, Mr Stefo;32;3rd Class;349242;£7 17s 11d;;;Southampton;General Labourer;;
+PAYNE, Mr Vivian Ponsonby;22;1st Class;12749;£93 10s ;Servant;;Southampton;Clerk;;
+PEACOCK, Mrs Edith;26;3rd Class;3101315;£13 15s 6d;;;Southampton;;;
+PEACOCK, Master Alfred Edward;7m;3rd Class;3101315;£13 15s 6d;;;Southampton;;;
+PEACOCK, Miss Treasteall;3;3rd Class;3101315;£13 15s 6d;;;Southampton;;;
+PEARCE, Mr Ernest;32;3rd Class;343271;£7 ;;;Southampton;Farmer;;
+PEARCE, Mr John;28;Engine;;;;;Southampton;Fireman / Stoker;;
+PEARCE, Mr Alfred Emest;24;Victualling;;;;;Southampton;Steward;;
+PEARCEY, Mr Albert Victor;32;Victualling;;;;;Southampton;Steward;;
+PEARS, Mr Thomas Clinton;29;1st Class;113776;£66 12s ;;;Southampton;Of Independent Means;;
+PEARS, Mrs Edith;22;1st Class;113776;£66 12s ;;;Southampton;;8;
+PEDERSEN, Mr Olaf;28;3rd Class;345498;£7 15s 6d;;;Southampton;General Labourer;;
+PEDRINI, Sig. Alessandro;21;A la Carte;;;;;Southampton;Assistant Waiter;;104
+PEDUZZI, Mr Giuseppe;24;3rd Class;2817;£8 1s ;;;Southampton;Waiter;;
+PEKONIEMI, Mr Edvard;21;3rd Class;3101294;£7 18s 6d;;;Southampton;General Labourer;;
+PELHAM, Mr George;39;Engine;;;;;Southampton;Trimmer;16;
+PELTOMäKI, Mr Nikolai Johannes;25;3rd Class;3101291;£7 18s 6d;;;Southampton;General Labourer;;
+PEñASCO Y CASTELLANA, Mr Victor;24;1st Class;17758;£108 18s ;;;Cherbourg;Of Independent Means;;
+PEñASCO Y CASTELLANA, Mrs Maria Josefa Perezde Soto y Vallejo;22;1st Class;17758;£108 18s ;;;Cherbourg;Of Independent Means;8;
+PENGELLY, Mr Frederick William;19;2nd Class;28665;£10 10s ;;;Southampton;Miner;;
+PENNAL, Mr Thomas Francis;33;Victualling;;;;;Southampton;Bath Steward;;
+PENNY, Mr William Farr;30;Victualling;;;;;Southampton;Assistant Saloon Steward;;
+PENROSE, Mr John Poole;49;Victualling;;;;;Belfast;Bed Room Steward;;
+PERACCHIO, Sig. Alberto;20;A la Carte;;;;;Southampton;Assistant Waiter;;
+PERACCHIO, Sig. Sebastiano;17;A la Carte;;;;;Southampton;Assistant Waiter;;
+PERKIN, Mr John Henry;22;3rd Class;21174;£7 5s ;;;Southampton;Farmer;;
+PERKINS, Mr Laurence Alexander;22;Victualling;;;;;Southampton;Telephone Steward;;
+PERKIS, Mr Walter John;37;Deck;;;;;Belfast;Quartermaster;4;
+PERNOT, Mr René;39;2nd Class;2131;£15 1s ;Servant;;Cherbourg;Chauffeur;;
+PEROTTI, Sig. Alfonso;20;A la Carte;;;;;Southampton;Assistant Waiter;;
+PERREAULT, Miss Mary Anne;33;1st Class;12749;£93 10s ;Servant;;Southampton;Personal Maid;3;
+PERRIN, Mr William Charles;39;Victualling;;;;;Southampton;Boots;;
+PERRITON, Mr Hubert Prouse;31;Victualling;;;;;Southampton;Saloon Steward;;
+PERRY, Mr Edgar Lionel;19;Engine;;;;;Southampton;Trimmer;;
+PERRY, Mr H.;23;Engine;;;;;Southampton;Trimmer;;
+PERSSON, Mr Ernst Ulrik;25;3rd Class;347083;£7 15s 6d;;;Southampton;Chauffeur;15;
+PERUSCHITZ, Fr Josef;41;2nd Class;237393;£13 ;;;Southampton;Priest / Minister;;
+PETER / JOSEPH, Mrs Catherine;24;3rd Class;2668;£22 7s 2d;;;Cherbourg;;C;
+PETER / JOSEPH, Master Michael J. ("Michael Joseph");4;3rd Class;2668;£22 7s 2d;;;Cherbourg;;D;
+PETER / JOSEPH, Miss Anna ("Mary Joseph");2;3rd Class;2668;£22 7s 2d;;;Cherbourg;;C;
+PETERS, Miss Katie;26;3rd Class;330935;£8 2s 9d;;;Queenstown;;;
+PETERS, Mr William Chapman;26;Deck;;;;;Southampton;Able Seaman;9;
+PETERSEN, Mr Marius;24;3rd Class;342441;£8 1s ;;;Southampton;Dairy Worker;;
+PETRANEC, Miss Matilda;28;3rd Class;349245;£7 17s 11d;;;Southampton;Servant;;
+PETROFF, Mr Nedialco;19;3rd Class;349212;£7 17s 11d;;;Southampton;General Labourer;;
+PETROFF, Mr Pastcho;29;3rd Class;349215;£7 17s 11d;;;Southampton;General Labourer;;
+PETTERSSON, Mr Johan Emil;25;3rd Class;347076;£7 15s 6d;;;Southampton;General Labourer;;
+PETTERSSON, Miss Ellen Natalia;18;3rd Class;347087;£7 15s 6d;;;Southampton;;;
+PETTY, Mr Edwin Henry;25;Victualling;;;;;Southampton;Bed Room Steward;;82
+PEUCHEN, Major Arthur Godfrey;52;1st Class;113786;£30 10s ;;;Southampton;;6;
+PFROPPER, Mr Richard;30;Victualling;;;;;Southampton;Saloon Steward;;
+PHILLIMORE, Mr Harold Charles William;23;Victualling;;;;;Belfast;Saloon Steward;14;
+PHILLIPS, Mr Escott Robert;42;2nd Class;2;£21 ;;;Southampton;;;
+PHILLIPS, Miss Alice Frances Louisa;21;2nd Class;2;£21 ;;;Southampton;;12;
+PHILLIPS, Miss Kate Florence;19;2nd Class;250655;£26 ;;;Southampton;;11;
+PHILLIPS, Mr A. G.;27;Engine;;;;;Southampton;Greaser;;
+PHILLIPS, Mr John George;25;Victualling;;;;;Belfast;Telegraphist;;
+PHILLIPS, Mr Walter John;35;A la Carte;;;;;Southampton;Storekeeper;;
+PIATTI, Sig. Louis;17;A la Carte;;;;;Southampton;Assistant Waiter;;
+PIAZZA, Sig. Pompeo;30;A la Carte;;;;;Southampton;Waiter;;266
+PICKARD, Mr Berk;32;3rd Class;392078;£8 1s ;;;Southampton;Leather Worker;9;
+PINSKY, Mrs Rosa;32;2nd Class;234604;£13 ;;;Southampton;;9;
+PITFIELD, Mr William James;25;Engine;;;;;Southampton;Greaser;;
+PITMAN, Mr Herbert John;34;Deck;;;;;Belfast;3rd. Officer;5;
+PLATT, Mr W.;18;Victualling;;;;;Southampton;Scullion;;
+PLOTCHARSKY, Mr Vasil;27;3rd Class;349227;£7 17s 11d;;;Southampton;General Labourer;;
+PODESTA, Mr John Alexander;24;Engine;;;;;Southampton;Fireman / Stoker;;
+POGGI, Sig. Emilio;28;A la Carte;;;;;Southampton;Waiter;;301
+POINGDESTRE, Mr John Thomas;33;Deck;;;;;Southampton;Able Seaman;12;
+POKRNIC, Mr Mate;17;3rd Class;315095;£8 13s 3d;;;Southampton;;;
+POKRNIC, Mr Tome;24;3rd Class;315092;£8 13s 3d;;;Southampton;;;
+POND, Mr George;32;Engine;;;;;Southampton;Fireman / Stoker;;
+PONESELL, Mr Martin;24;2nd Class;250647;£13 ;;;Southampton;;;
+POOK, Mr P.;34;Victualling;;;;;Southampton;Assistant Pantry;;
+PORT, Mr Frank;22;Victualling;;;;;Southampton;Steward;;
+PORTALUPPI, Mr Emilio Ilario Giuseppe;30;2nd Class;34644;£12 14s 9d;;;Cherbourg;;14;
+PORTER, Mr Walter Chamberlain;46;1st Class;110465;£52 ;;;Southampton;;;207
+PORTEUS, Mr Thomas;32;Victualling;;;;;Southampton;Butcher;;
+POTTER, Mrs Lily Alexenia;56;1st Class;11767;£83 3s 2d;;;Cherbourg;;7;
+PRANGNELL, Mr George Alexander;30;Engine;;;;;Southampton;Greaser;;
+PRENTICE, Mr Frank Winnold;22;Victualling;;;;;Southampton;Storekeeper;;
+PRESTON, Mr Thomas Charles Alfred;20;Engine;;;;;Southampton;Trimmer;;
+PRICE, Mr Ernest;17;A la Carte;;;;;Southampton;Barman;;186
+PRICHARD, Mrs Alice;33;Victualling;;;;;Southampton;Stewardess;;
+PRIDEAUX, Mr John "Jack" Arthur;23;Victualling;;;;;Southampton;Steward;;
+PRIEST, Mr Arthur John;24;Engine;;;;;Southampton;Fireman / Stoker;;
+PRIOR, Mr Harold John;21;Victualling;;;;;Southampton;Steward;;
+PROCTOR, Mr Charles;40;Victualling;;;;;Belfast;Chef;;
+PROUDFOOT, Mr Richard;23;Engine;;;;;Southampton;Trimmer;;
+PRYCE, Mr Charles William;22;Victualling;;;;;Southampton;Saloon Steward;;
+PUGH, Mr Percy;31;Engine;;;;;Southampton;Leading Fireman;;
+PUGH, Mr Alfred;20;Victualling;;;;;Southampton;Steward;;
+PULBAUM, Mr Franz;27;2nd Class;2168;£15 8d;;;Cherbourg;;;
+PULNER, Mr Uscher;16;3rd Class;3411;£8 14s 3d;;;Cherbourg;;;
+PUSEY, Mr Robert William;24;Engine;;;;;Southampton;Fireman / Stoker;1;
+PUSEY, Mr John E.;35;Victualling;;;;;Belfast;Saloon Steward;;
+QUICK, Mrs Jane;33;2nd Class;26360;£26 ;;;Southampton;;11;
+QUICK, Miss Winifred Vera;8;2nd Class;26360;£26 ;;;Southampton;;11;
+QUICK, Miss Phyllis May;2;2nd Class;26360;£26 ;;;Southampton;;11;
+RADEFF, Mr Alexander;27;3rd Class;349223;£7 17s 11d;;;Southampton;General Labourer;;
+RANDALL, Mr Frank Henry;29;Victualling;;;;;Southampton;Saloon Steward;;
+RANGER, Mr Thomas;29;Engine;;;;;Southampton;Greaser;4;
+RANSOM, Mr James;33;Victualling;;;;;Belfast;Saloon Steward;;
+RASMUSSEN, Mrs Lena Jakobsen;63;3rd Class;65305;£8 2s 3d;;;Southampton;;;
+RATTI, Sig. Enrico;21;A la Carte;;;;;Southampton;Waiter;;
+RATTONBURY, Mr William Henry;36;Victualling;;;;;Belfast;Boots;;
+RAY, Mr Frederick Dent;32;Victualling;;;;;Belfast;Saloon Steward;13;
+RAZI, Mr Raihed;30;3rd Class;2629;£7 4s 7d;;;Cherbourg;;;
+READ, Mr J.;21;Engine;;;;;Southampton;Trimmer;;
+READ, Mr Robert;30;Engine;;;;;Southampton;Trimmer;;
+REED, Mr James George;19;3rd Class;362316;£7 5s ;;;Southampton;Butcher;;
+REED, Mr Charles S.;43;Victualling;;;;;Southampton;Bed Room Steward;;
+REEVES, Mr David;36;2nd Class;17248;£10 10s ;;;Southampton;Carpenter / Joiner;;
+REEVES, Mr F.;31;Engine;;;;;Southampton;Fireman / Stoker;;180
+REKIC, Mr Tido;38;3rd Class;349249;£7 17s 11d;;;Southampton;General Labourer;;
+REMESCH, Miss ;;2nd Class;47;£2 ;Cross Channel Passenger;;Southampton;;;
+RENOUF, Mr Peter Henry;33;2nd Class;31027;£21 ;;;Southampton;Carpenter / Joiner;;
+RENOUF, Mrs Lillian;30;2nd Class;31027;£21 ;;;Southampton;;;
+REUCHLIN, Mr Jonkheer Johan George;38;1st Class;19972;;;;Cherbourg;;;
+REVELL, Mr William;31;Victualling;;;;;Belfast;Saloon Steward;;
+REYNALDO, Ms Encarnacion;28;2nd Class;230434;£13 ;;;Southampton;;9;
+REYNOLDS, Mr Harold J.;21;3rd Class;342684;£8 1s ;;;Southampton;Baker;;327
+RHEIMS, Mr George Alexander Lucien;36;1st Class;17607;£39 12s ;;;Cherbourg;;A;
+RICALDONE, Sig. Rinaldo Renato;22;A la Carte;;;;;Southampton;Assistant Waiter;;
+RICE, Mrs Margaret;39;3rd Class;382652;£29 2s 6d;;;Queenstown;Housekeeper;;12
+RICE, Master Albert;10;3rd Class;382652;£29 2s 6d;;;Queenstown;;;
+RICE, Master George Hugh;8;3rd Class;382652;£29 2s 6d;;;Queenstown;;;
+RICE, Master Eric;7;3rd Class;382652;£29 2s 6d;;;Queenstown;;;
+RICE, Master Arthur;4;3rd Class;382652;£29 2s 6d;;;Queenstown;;;
+RICE, Master Eugene Francis;2;3rd Class;382652;£29 2s 6d;;;Queenstown;;;
+RICE, Mr Charles;32;Engine;;;;;Southampton;Fireman / Stoker;;
+RICE, Mr John Reginald;25;Victualling;;;;;Southampton;Clerk;;64
+RICE, Mr Percy;19;Victualling;;;;;Southampton;Steward;;
+RICHARD, Mr Emile Phillippe;23;2nd Class;2133;£15 11d;;;Cherbourg;;;
+RICHARDS, Mrs Emily;24;2nd Class;29106;£18 15s ;;;Southampton;;4;
+RICHARDS, Master William Rowe;3;2nd Class;29106;£18 15s ;;;Southampton;;4;
+RICHARDS, Master Sibley George;9m;2nd Class;29106;£18 15s ;;;Southampton;;4;
+RICHARDS, Mr Joseph James;28;Engine;;;;;Southampton;Fireman / Stoker;;
+RICKMAN, Mr George Albert;36;Engine;;;;;Southampton;Fireman / Stoker;;
+RICKS, Mr Cyril G.;23;Victualling;;;;;Southampton;Storekeeper;;100
+RIDOUT, Mr W.;29;Victualling;;;;;Southampton;Saloon Steward;;
+RIDSDALE, Miss Lucy;50;2nd Class;14258;£10 10s ;;;Southampton;;13;
+RIGHINI, Mr Sante;22;1st Class;17760;£135 12s 8d;Servant;;Cherbourg;Servant;;232
+RIGOZZI, Sig. Abele;22;A la Carte;;;;;Southampton;Assistant Waiter;;115
+RIIHIVUORI, Miss Susanna Juhantytär "Sanni";22;3rd Class;3101295;£39 13s 9d;;;Southampton;;;
+RIMMER, Mr Gilbert;27;Victualling;;;;;Southampton;Saloon Steward;;
+RINTAMäKI, Mr Matti;35;3rd Class;3101273;£7 2s 6d;;;Southampton;General Labourer;;
+RIORDAN, Miss Hannah;18;3rd Class;334915;£7 14s 5d;;;Queenstown;;13;
+RISIEN, Mr Samuel Beard;69;3rd Class;364498;£14 10s ;;;Southampton;Hotelier;;
+RISIEN, Mrs Emma;58;3rd Class;364498;£14 10s ;;;Southampton;;;
+ROBBINS, Mr Victor;42;1st Class;17757;£247 10s 6d;Servant;;Cherbourg;Servant;;
+ROBERT, Mrs Elisabeth Walton;43;1st Class;24160;£211 6s 9d;;;Southampton;Of Independent Means;2;
+ROBERTON, Mr George Edward;19;Victualling;;;;;Southampton;Assistant Saloon Steward;;127
+ROBERTS, Mr Robert George;35;Engine;;;;;Southampton;Fireman / Stoker;;
+ROBERTS, Mrs Mary Kezziah;41;Victualling;;;;;Southampton;Stewardess;;
+ROBERTS, Mr Frederick (Frank John?);36;Victualling;;;;;Belfast;Third Butcher;;231
+ROBERTS, Mr Hugh H.;40;Victualling;;;;;Belfast;Bed Room Steward;;93
+ROBINS, Mr Alexander A.;50;3rd Class;3337;£14 10s ;;;Southampton;Mason;;119
+ROBINS, Mrs Grace Charity;47;3rd Class;3337;£14 10s ;;;Southampton;;;7
+ROBINSON, Mrs Annie;40;Victualling;;;;;Southampton;Stewardess;11;
+ROBINSON, Mr James William;30;Victualling;;;;;Southampton;Saloon Steward;;151
+ROEBLING, Mr Washington Augustus II;31;1st Class;17590;£50 9s 11d;;;Southampton;Of Independent Means;;
+ROGERS, Mr Reginald Harry;18;2nd Class;28004;£10 10s ;;;Southampton;;;
+ROGERS, Mr William John;29;3rd Class;23567;£8 1s ;;;Southampton;Miner;;
+ROGERS, Mr Edward James William;32;Victualling;;;;;Southampton;Assistant Storekeeper;;282
+ROGERS, Mr Michael;27;Victualling;;;;;Southampton;Saloon Steward;;
+ROMAINE, Mr Charles Hallace;45;1st Class;111428;£26 11s ;;;Southampton;;9;
+ROMMETVEDT, Mr Knud Paust;49;3rd Class;312993;£7 15s 6d;;;Southampton;Tailor;;
+ROOD, Mr Hugh Roscoe;38;1st Class;113767;£50 ;;;Southampton;;;
+ROSBLOM, Mrs Helena Wilhelmina;41;3rd Class;370129;£20 4s 3d;;;Southampton;;;
+ROSBLOM, Miss Salli Helena;2;3rd Class;370129;£20 4s 3d;;;Southampton;;;
+ROSBLOM, Mr Viktor Richard;18;3rd Class;370129;£20 4s 3d;;;Southampton;General Labourer;;
+ROSENBAUM, Miss Edith Louise;34;1st Class;17613;£27 14s 5d;;;Cherbourg;Journalist;11;
+ROSENSHINE, Mr George;46;1st Class;17585;£79 4d;;;Cherbourg;Merchant;;16
+ROSS, Mr John Hugo;36;1st Class;13049;£40 2s 6d;;;Southampton;;;
+ROSS, Mr Horace Leopold;36;Victualling;;;;;Southampton;Scullion;;
+ROTH, Miss Sarah A.;26;3rd Class;342712;£8 1s ;;;Southampton;Tailor;C;
+ROTHES,  Lucy Noël Martha, Countess of;33;1st Class;110152;£86 10s ;;;Southampton;Of Independent Means;8;
+ROTHSCHILD, Mr Martin;46;1st Class;17603;£59 8s ;;;Cherbourg;;;
+ROTHSCHILD, Mrs Elizabeth Jane Anne;54;1st Class;17603;£59 8s ;;;Cherbourg;;6;
+ROTTA, Sig. Angelo Mario;23;A la Carte;;;;;Southampton;Waiter;;
+ROUS, Mr Arthur J.;26;Engine;;;;;Belfast;Plumber;;
+ROUSE, Mr Richard Henry;53;3rd Class;3594;£8 1s ;;;Southampton;Farm Labourer;;
+ROUSSEAU, Mr Pierre;49;A la Carte;;;;;Southampton;Chef;;
+ROWE, Mr Alfred G.;59;1st Class;113790;£26 11s ;;;Southampton;Landowner;;109
+ROWE, Mr George Thomas;32;Deck;;;;;Belfast;Quartermaster;C;
+ROWE, Mr Edward M.;31;Victualling;;;;;Belfast;Saloon Steward;;
+RUDD, Mr Henry;23;Engine;;;;;Southampton;Assistant Storekeeper;;86
+RUGG, Miss Emily;21;2nd Class;31026;£10 10s ;;;Southampton;;12;
+RULE, Mr Samuel James;58;Victualling;;;;;Belfast;Bath Room Steward;;
+RUSH, Mr Alfred George John;16;3rd Class;20589;£8 1s ;;;Southampton;Porter;;
+RUSSELL, Mr Boysie Richard;17;Victualling;;;;;Southampton;Saloon Steward;;
+RUTTER (GRAVES), Mr Sidney Frank;30;Engine;;;;;Southampton;Fireman / Stoker;;
+RYAN, Mr Patrick;29;3rd Class;371110;£24 3s ;;;Queenstown;General Labourer;;
+RYAN, Mr Edward;24;3rd Class;383162;£7 15s ;;;Queenstown;General Labourer;14;
+RYAN, Mr Tom;27;Victualling;;;;;Southampton;Steward;;
+RYERSON, Mr Arthur Larned;61;1st Class;17608;£262 7s 6d;;;Cherbourg;;;
+RYERSON, Mrs Emily Maria;48;1st Class;17608;£262 7s 6d;;;Cherbourg;;4;
+RYERSON, Miss Emily Borie;18;1st Class;17608;£262 7s 6d;;;Cherbourg;;4;
+RYERSON, Miss Susan Parker "Suzette";21;1st Class;17608;£262 7s 6d;;;Cherbourg;;4;
+RYERSON, Master John Borie;13;1st Class;17608;£262 7s 6d;;;Cherbourg;;4;
+RYERSON, Mr William Edwy;32;Victualling;;;;;Southampton;Saloon Steward;;
+SAAD, Mr Amin;30;3rd Class;2671;£7 4s 7d;;;Cherbourg;Farm Labourer;;
+SAAD, Mr Khalil;27;3rd Class;2672;£7 4s 6d;;;Cherbourg;Farm Labourer;;
+SAALFELD, Mr Adolphe;47;1st Class;19988;£30 10s ;;;Southampton;Businessman;3;
+SACCAGGI, Sig. Giovanni Giuseppe Emilio;24;A la Carte;;;;;Southampton;Assistant Waiter;;
+SADLIER, Mr Matthew;20;3rd Class;367655;£7 14s 7d;;;Queenstown;Farm Labourer;;
+SADOWITZ, Mr Harry;17;3rd Class;1588;£7 11s 10d;;;Southampton;Fur Cutter;;
+SAGE, Mr John George;44;3rd Class;2343;£69 11s ;;;Southampton;Tradesman;;
+SAGE, Mrs Annie Elizabeth;44;3rd Class;2343;£69 11s ;;;Southampton;;;
+SAGE, Miss Stella Anne;20;3rd Class;2343;£69 11s ;;;Southampton;Dressmaker / Couturière;;
+SAGE, Mr George John;19;3rd Class;2343;£69 11s ;;;Southampton;Barman;;
+SAGE, Mr Douglas Bullen;18;3rd Class;2343;£69 11s ;;;Southampton;Baker;;
+SAGE, Mr Frederick;16;3rd Class;2343;£69 11s ;;;Southampton;Cook;;
+SAGE, Miss Dorothy;14;3rd Class;2343;£69 11s ;;;Southampton;Scholar;;
+SAGE, Master Anthony William;12;3rd Class;2343;£69 11s ;;;Southampton;;;67
+SAGE, Miss Elizabeth Ada;10;3rd Class;2343;£69 11s ;;;Southampton;;;
+SAGE, Miss Constance Gladys;7;3rd Class;2343;£69 11s ;;;Southampton;;;
+SAGE, Master Thomas Henry;4;3rd Class;2343;£69 11s ;;;Southampton;;;
+SäGESSER, Mlle Emma;24;1st Class;17477;£69 6s ;Servant;;Cherbourg;Personal Maid;9;
+SALANDER, Mr Karl Johan;24;3rd Class;7266;£9 6s 6d;;;Southampton;General Labourer;;
+SALKJELSVIK, Miss Anna Kristine;21;3rd Class;343120;£7 13s ;;;Southampton;;C;
+SALOMON, Mr Abraham Lincoln;43;1st Class;111163;£26 ;;;Cherbourg;Businessman;1;
+SALONEN, Mr Johan Werner;29;3rd Class;3101296;£7 18s 6d;;;Southampton;General Labourer;;
+SALUSSOLIA, Sig. Govanni;25;A la Carte;;;;;Southampton;Glass Man;;
+SAMAAN, Mr Hanna Elias;40;3rd Class;2662;£21 13s 7d;;;Cherbourg;General Labourer;;
+SAMAAN, Mr Elias;17;3rd Class;2662;£21 13s 7d;;;Cherbourg;General Labourer;;
+SAMAAN, Mr Youssef ("Joseph");15;3rd Class;2662;£21 13s 7d;;;Cherbourg;General Labourer;;
+SAMUEL, Mr Owen Wilmore;41;Victualling;;;;;Southampton;Saloon Steward;;217
+SANDSTRöM, Mrs Agnes Charlotta;24;3rd Class;9549;£16 14s ;;;Southampton;;13;
+SANDSTRöM, Miss Beatrice Irene;1;3rd Class;9549;£16 14s ;;;Southampton;;13;
+SANDSTRöM, Miss Marguerite Rut;4;3rd Class;9549;£16 14s ;;;Southampton;;13;
+SANGSTER, Mr Charles;32;Engine;;;;;Southampton;Fireman / Stoker;;
+SAP, Mr Julius ("Jules _");21;3rd Class;345768;£9 10s ;;;Southampton;;11;
+SARTORI, Sig. Lazar;24;A la Carte;;;;;Southampton;Assistant Glass Man;;
+SAUNDERCOCK, Mr William Henry;19;3rd Class;2151;£8 1s ;;;Southampton;Miner;;
+SAUNDERS, Mr F.;23;Engine;;;;;Southampton;Fireman / Stoker;;
+SAUNDERS, Mr Walter Edward;23;Engine;;;;;Southampton;Trimmer;;0
+SAUNDERS, Mr W.;23;Engine;;;;;Southampton;Fireman / Stoker;;184
+SAUNDERS, Mr D. E.;26;Victualling;;;;;Southampton;Saloon Steward;;
+SAVAGE, Mr Charles J.;23;Victualling;;;;;Southampton;Steward;;
+SAWYER, Mr Frederick Charles;33;3rd Class;342826;£8 1s ;;;Southampton;Gardener;;284
+SAWYER, Mr Robert James;30;Deck;;;;;Southampton;Window Cleaner;;
+SCANLAN, Mr James;22;3rd Class;36209;£7 14s 6d;;;Queenstown;;;
+SCARROTT, Mr Joseph George;33;Deck;;;;;Southampton;Able Seaman;14;
+SCAVINO, Sig. Candido;42;A la Carte;;;;;Southampton;Carver;;
+SCHABERT, Mrs Emma;35;1st Class;13236;£57 15s ;;;Cherbourg;;11;
+SCHEERLINCK, Mr Jean;29;3rd Class;345779;£9 10s ;;;Southampton;;11;
+SCHMIDT, Mr August;26;2nd Class;248659;£13 ;;;Southampton;;;
+SCOTT, Mr Frederick William;28;Engine;;;;;Southampton;Greaser;;
+SCOTT, Mr Archibald;40;Engine;;;;;Southampton;Fireman / Stoker;;
+SCOTT, Mr John;21;Victualling;;;;;Southampton;Boots;;
+SCOVELL, Mr Robert;42;Victualling;;;;;Southampton;Saloon Steward;;
+SDYCOFF, Mr Todor;42;3rd Class;349222;£7 17s 11d;;;Southampton;;;
+SEDGWICK, Mr Charles Frederick Waddington;25;2nd Class;244361;£13 ;;;Southampton;;;
+SEDUNARY, Mr Sidney Francis;25;Victualling;;;;;Southampton;Steward;;
+SELF, Mr Alfred Henry;39;Engine;;;;;Southampton;Greaser;;
+SELF, Mr Edward;25;Engine;;;;;Southampton;Fireman / Stoker;;
+SEMAN, Master Betros;10;3rd Class;2622;£4 3d;;;Cherbourg;;;
+SENIOR, Mr Harry;31;Engine;;;;;Southampton;Fireman / Stoker;;
+SERREPLAN, Miss Auguste;30;1st Class;113798;£31 ;Servant;;Southampton;Personal Maid;4;
+SESIA, Sig. Giacomo;24;A la Carte;;;;;Southampton;Waiter;;
+SEWARD, Mr Frederic Kimber;34;1st Class;113794;£26 11s ;;;Southampton;Lawyer;7;
+SEWARD, Mr Wilfred Deable;25;Victualling;;;;;Southampton;Chief Pantry Steward;;
+SHARP, Mr Percival James R.;27;2nd Class;244358;£26 ;;;Southampton;;;
+SHAUGHNESSY, Mr Patrick;24;3rd Class;370374;£7 15s ;;;Queenstown;Farm Labourer;;
+SHAW, Mr Henry;39;Victualling;;;;;Southampton;Kitchen Porter;;
+SHEA, Mr Thomas;32;Engine;;;;;Southampton;Fireman / Stoker;;
+SHEA, Mr John;39;Victualling;;;;;Belfast;Saloon Steward;;11
+SHEATH, Mr Frederick;20;Engine;;;;;Southampton;Trimmer;1;
+SHEDID, Mr Daher;19;3rd Class;2698;£7 4s 6d;;;Cherbourg;;;9
+SHELLARD, Mr Frederick William Blainey;55;3rd Class;6212;£15 2s ;;;Southampton;Painter&Decorator;;
+SHELLEY, Mrs Imanita Parrish;25;2nd Class;230433;£26 ;;;Southampton;;12;
+SHEPHERD, Mr Jonathan;32;Engine;;;;;Southampton;Junior Assistant 2nd. Engineer;;
+SHIERS, Mr Alfred Charles;25;Engine;;;;;Southampton;Fireman / Stoker;;
+SHILLABEER, Mr Charles Frederick;20;Engine;;;;;Southampton;Trimmer;;195
+SHINE, Miss Ellen Natalia;20;3rd Class;330968;£7 16s 7d;;;Queenstown;;;
+SHORNEY, Mr Charles Joseph;22;3rd Class;374910;£8 1s ;;;Southampton;Valet;;
+SHUTES, Miss Elizabeth Weed;40;1st Class;17582;£153 9s 3d;Servant;;Southampton;Governess;3;
+SIEBERT, Mr Sidney Conrad;29;Victualling;;;;;Belfast;Bed Room Steward;4;
+SILVéN, Miss Lyyli Karoliina;17;2nd Class;250652;£13 ;;;Southampton;;16;
+SILVERTHORNE, Mr Spencer Victor;35;1st Class;17475;£26 5s 9d;;;Southampton;;5;
+SILVEY, Mr William Baird;50;1st Class;13507;£55 18s ;;;Cherbourg;;;
+SILVEY, Mrs Alice;39;1st Class;13507;£55 18s ;;;Cherbourg;;11;
+SIMMONS, Mr John;39;3rd Class;392082;£8 1s ;;;Southampton;General Labourer;;
+SIMMONS, Mr Alfred (Andrew);31;Victualling;;;;;Southampton;Scullion;;
+SIMMONS, Mr Frederick C.;25;Victualling;;;;;Southampton;Saloon Steward;;
+SIMMONS, Mr W.;32;Victualling;;;;;Southampton;Passage Cook;;
+SIMONIUS-BLUMER, Mr Colonel (Oberst) Alfons;56;1st Class;13213;£35 10s ;;;Southampton;Banker;3;
+SIMPSON, Dr John Edward;37;Deck;;;;;Southampton;Assistant Surgeon;;
+SINCOCK, Miss Maude;20;2nd Class;33112;£36 15s ;;;Southampton;;11;
+SINKKONEN, Miss Anna;30;2nd Class;250648;£13 ;;;Southampton;;10;
+SIRAYANIAN, Mr Orsen;22;3rd Class;2669;£7 4s 7d;;;Cherbourg;Farmer;;
+SIROTA, Mr Maurice;20;3rd Class;392092;£8 1s ;;;Southampton;Tailor;;
+SIVIC, Mr Husein;40;3rd Class;349251;£7 17s 11d;;;Southampton;General Labourer;;
+SIVIER, Mr William;23;Victualling;;;;;Southampton;Steward;;
+SIVOLA, Mr Antti Wilhelm;21;3rd Class;3101280;£7 18s 6d;;;Southampton;General Labourer;;
+SJöBLOM, Miss Anna Sofia;18;3rd Class;3101265;£6 9s 11d;;;Southampton;;16;
+SJöSTEDT, Mr Ernst Adolf;59;2nd Class;237442;£13 10s ;;;Southampton;;;
+SKEATES, Mr William;26;Engine;;;;;Southampton;Trimmer;;
+SKINNER, Mr Edward;33;Victualling;;;;;Belfast;Saloon Steward;;
+SKOOG, Mr Wilhelm ("William Johansson");40;3rd Class;347088;£27 18s ;;;Southampton;General Labourer;;
+SKOOG, Mrs Anna Bernhardina;43;3rd Class;347088;£27 18s ;;;Southampton;;;
+SKOOG, Master Karl Thorsten;11;3rd Class;347088;£27 18s ;;;Southampton;;;
+SKOOG, Master Harald;5;3rd Class;347088;£27 18s ;;;Southampton;;;
+SKOOG, Miss Mabel;9;3rd Class;347088;£27 18s ;;;Southampton;;;
+SKOOG, Miss Margit Elizabeth;2;3rd Class;347088;£27 18s ;;;Southampton;;;
+SLABENOFF, Mr Petco;42;3rd Class;349214;£7 17s 11d;;;Southampton;General Labourer;;
+SLAYTER, Miss Hilda Mary;30;2nd Class;234818;£12 7s ;;;Queenstown;;13;
+SLEMEN, Mr Richard James;35;2nd Class;28206;£10 10s ;;;Southampton;;;
+SLIGHT, Mr Harry John;35;Victualling;;;;;Southampton;Steward;;
+SLIGHT, Mr William H.;37;Victualling;;;;;Belfast;Larder Cook;;
+SLOAN, Mr Peter;31;Engine;;;;;Belfast;Chief Electrician;;
+SLOAN, Miss Mary;28;Victualling;;;;;Southampton;Stewardess;;
+SLOCOMBE, Mrs Maud (née Waldon);30;Victualling;;;;;Southampton;Turkish Bath Stewardess;;
+SLOCOVSKI, Mr Selman Francis;20;3rd Class;392086;£8 1s ;;;Southampton;Merchant;;
+SLOPER, Mr William Thompson;28;1st Class;113788;£35 10s ;;;Southampton;Stockbroker;7;
+SMALL, Mr William;40;Engine;;;;;Southampton;Leading Fireman;;
+SMART, Mr John Montgomery;56;1st Class;113792;£26 11s ;;;Southampton;;;
+SMILJANIC, Mr Mile;37;3rd Class;315037;£8 13s 3d;;;Southampton;Farm Labourer;;
+SMILLIE, Mr John;29;Victualling;;;;;Belfast;Saloon Steward;;91
+SMITH, Mr James Clinch;56;1st Class;17764;£30 13s 11d;;;Cherbourg;Military;;
+SMITH, Mr Richard William;;1st Class;113056;£26 ;;;Southampton;;;
+SMITH, Mr Lucian Philip;24;1st Class;13695;£60 ;;;Cherbourg;;;
+SMITH, Mrs Mary Eloise;18;1st Class;13695;£60 ;;;Cherbourg;;6;
+SMITH, Miss Marion Elsie;39;2nd Class;31418;£13 ;;;Southampton;;9;
+SMITH, Captain Edward John;62;Deck;;;;;Southampton;Master;;
+SMITH, Mr William;26;Deck;;;;;Southampton;Seaman;;
+SMITH, Mr Emest George;26;Engine;;;;;Southampton;Trimmer;;
+SMITH, Mr James M.;35;Engine;;;;;Belfast;Junior 4th. Engineer;;
+SMITH, Mr Charles;38;Victualling;;;;;Southampton;Kitchen Porter;;
+SMITH, Mr Charles Edwin;38;Victualling;;;;;Southampton;Bed Room Steward;;329
+SMITH, Mr F.;20;Victualling;;;;;Belfast;Assistant Pantryman Steward;;
+SMITH, Mr J.;24;Victualling;;;;;Southampton;Baker;;
+SMITH, Mr John Richard Jago;35;Victualling;;;Postal Clerk;;Southampton;Postal Clerk;;
+SMITH, Miss Katherine E.;42;Victualling;;;;;Southampton;Stewardess;;
+SMITH, Mr Robert G.;30;Victualling;;;;;Southampton;Saloon Steward;;
+SMITHER, Mr Harry John;22;Engine;;;;;Southampton;Fireman / Stoker;;
+SMYTH, Mr Thomas;26;3rd Class;384461;£7 15s ;;;Queenstown;;;
+SMYTH, Miss Julia;17;3rd Class;335432;£7 14s 8d;;;Queenstown;;13;
+SNAPE, Mrs Lucy Violet;22;Victualling;;;;;Southampton;Stewardess;;
+SNELLGROVE, Mr G.;40;Engine;;;;;Southampton;Fireman / Stoker;;
+SNOOKS, Mr W.;26;Engine;;;;;Southampton;Trimmer;;
+SNOW, Mr Eustace Philip;21;Engine;;;;;Southampton;Trimmer;;
+SNYDER, Mr John Pillsbury;24;1st Class;21228;£82 5s 4d;;;Southampton;;7;
+SNYDER, Mrs Nelle;23;1st Class;21228;£82 5s 4d;;;Southampton;;7;
+SOBEY, Mr Samuel James Hayden;25;2nd Class;29178;£13 ;;;Southampton;Quarryman;;
+SOMERTON, Mr Francis William;31;3rd Class;18509;£8 1s ;;;Southampton;;;
+SPARKMAN, Mr H.;30;Engine;;;;;Southampton;Fireman / Stoker;;
+SPECTOR, Mr Woolf;23;3rd Class;3236;£8 1s ;;;Southampton;General Labourer;;
+SPEDDEN, Mr Frederic Oakley;45;1st Class;16966;£134 10s ;;;Cherbourg;;3;
+SPEDDEN, Mrs Margaretta Corning;39;1st Class;16966;£134 10s ;;;Cherbourg;;3;
+SPEDDEN, Master Robert Douglas;6;1st Class;16966;£134 10s ;;;Cherbourg;;3;
+SPENCER, Mr William Augustus;57;1st Class;17569;£146 10s 5d;;;Cherbourg;;;
+SPENCER, Mrs Marie Eugenie;45;1st Class;17569;£146 10s 5d;;;Cherbourg;;6;
+SPINNER, Mr Henry John;32;3rd Class;369943;£8 1s ;;;Southampton;Grocer;;
+STAGG, Mr John Henry;34;Victualling;;;;;Southampton;Saloon Steward;;
+STäHELIN-MAEGLIN, Dr Max;32;1st Class;13214;£30 10s ;;;Southampton;Lawyer;3;
+STANBROOK, Mr Alfred Augustus;30;Engine;;;;;Southampton;Fireman / Stoker;;316
+STANEFF, Mr Ivan;23;3rd Class;349208;£7 17s 11d;;;Southampton;General Labourer;;
+STANKOVIC, Mr Ivan;33;3rd Class;349239;£8 13s 9d;;;Cherbourg;General Labourer;;
+STANLEY, Miss Amy Zillah Elsie;24;3rd Class;2314;£7 11s ;;;Southampton;Servant;C;
+STANLEY, Mr Edward Roland;21;3rd Class;45380;£8 1s ;;;Southampton;Porter;;
+STANTON, Mr Samuel Ward;42;2nd Class;237734;£15 11d;;;Cherbourg;;;
+STAP, Miss Sarah Agnes;47;Victualling;;;;;Southampton;Stewardess;;
+STEAD, Mr William Thomas;62;1st Class;113514;£26 11s ;;;Southampton;Journalist;;
+STEBBINGS, Mr Sydney Frederick;34;Victualling;;;;;Belfast;Chief Boots Steward;;
+STEEL, Mr Robert Edward;;Engine;;;;;Southampton;Trimmer;;
+STENGEL, Mr Charles Emil Henry;54;1st Class;11778;£55 8s 10d;;;Cherbourg;Businessman;1;
+STENGEL, Mrs Annie May;44;1st Class;11778;£55 8s 10d;;;Cherbourg;;5;
+STEPHENSON, Mrs Martha;52;1st Class;36947;£78 5s 4d;;;Cherbourg;;4;
+STEVENS, Mr G.;;1st Class;50;;Cross Channel Passenger;;Southampton;;;
+STEWART, Mr Albert A.;54;1st Class;17605;£27 14s 5d;;;Cherbourg;Businessman;;
+STEWART, Mr John;27;Victualling;;;;;Belfast;Verandah Steward;15;
+STOCKER, Mr H.;20;Engine;;;;;Southampton;Trimmer;;
+STOKES, Mr Philip Joseph;25;2nd Class;13540;£10 10s ;;;Southampton;Bricklayer;;81
+STONE, Mrs Martha Evelyn;62;1st Class;113572;£80 ;;;Southampton;;6;
+STONE, Mr Edmond J.;33;Victualling;;;;;Southampton;Bed Room Steward;;41
+STONE, Mr Edward Thomas;30;Victualling;;;;;Southampton;Bed Room Steward;;243
+STOREY, Mr Thomas;51;3rd Class;370160;;;;Southampton;Seaman;;261
+STOYTCHEFF, Mr Ilia;19;3rd Class;349205;£7 17s 11d;;;Southampton;General Labourer;;
+STRANDBERG, Miss Ida Sofia;22;3rd Class;7553;£9 16s 9d;;;Southampton;;;
+STRANDéN, Mr Juho Niilosson;31;3rd Class;3101288;£7 18s 6d;;;Southampton;;9;
+STRAUS, Mr Isidor;67;1st Class;17483;£221 15s 7d;;;Southampton;Businessman;;96
+STRAUS, Mrs Rosalie Ida;63;1st Class;17483;£221 15s 7d;;;Southampton;;;
+STREET, Mr Thomas Albert;25;Engine;;;;;Southampton;Fireman / Stoker;;
+STRILIC, Mr Ivan;27;3rd Class;315083;£8 13s 3d;;;Southampton;Farmer;;
+STRöM, Mrs Elna Matilda;29;3rd Class;347054;£10 9s 3d;;;Southampton;;;
+STRöM, Miss Telma Matilda;2;3rd Class;347054;£10 9s 3d;;;Southampton;;;
+STROUD, Mr Edward Alfred Orlando;19;Victualling;;;;;Southampton;Saloon Steward;;
+STROUD, Mr Harry John;35;Victualling;;;;;Southampton;Saloon Steward;;
+STRUGNELL, Mr John H.;34;Victualling;;;;;Belfast;Saloon Steward;;
+STUBBINGS, Mr Harry Robert;31;Victualling;;;;;Belfast;2nd. Class Cook;;
+STUBBS, Mr James Henry;28;Engine;;;;;Southampton;Fireman / Stoker;;
+SULLIVAN, Mr S.;25;Engine;;;;;Southampton;Fireman / Stoker;;
+SUNDERLAND, Mr Victor Francis;20;3rd Class;392089;£8 1s ;;;Southampton;Farmer;B;
+SUNDMAN, Mr Johan Julian;44;3rd Class;3101269;£7 18s 6d;;;Southampton;;15;
+SUTEHALL, Mr Henry Jr;25;3rd Class;392076;£7 1s ;;;Southampton;Coach Trimmer;;
+SUTTON, Mr Frederick;61;1st Class;36963;£32 6s 5d;;;Southampton;Property Developer / Real Estate;;46
+SVENSSON, Mr Olof;24;3rd Class;350035;£7 15s 11d;;;Southampton;Farmer;;
+SVENSSON, Mr Johan;74;3rd Class;347060;£7 15s 6d;;;Southampton;;;
+SVENSSON, Mr Johan Cervin;14;3rd Class;7538;£9 4s 6d;;;Southampton;;13;
+SWAN, Mr W.;46;Victualling;;;;;Belfast;Bed Room Steward;;
+SWANE, Mr George;26;2nd Class;248734;£13 ;Servant;;Southampton;Chauffeur;;294
+SWEET, Mr George Frederick;14;2nd Class;220845;£65 ;;;Southampton;Farm Labourer;;
+SWIFT, Mrs Margaret Welles;46;1st Class;17466;£25 18s 7d;;;Southampton;;8;
+SYMONDS, Mr J.;38;Victualling;;;;;Belfast;Saloon Steward;;
+SYMONS, Mr George Thomas Macdonald;24;Deck;;;;;Southampton;Lookout;1;
+SæTHER, Mr Simon Sivertsen;43;3rd Class;3101262;£7 5s ;;;Southampton;Miner;;32
+SøHOLT, Mr Peter Andreas Lauritz Andersen;19;3rd Class;348124;£7 13s ;;;Southampton;Carpenter / Joiner;;
+TALBOT, Mr George Frederick Charles;;Victualling;;;;;Southampton;Steward;;150
+TAMLYN, Mr Frederick;23;Deck;;;;;Southampton;Mess Steward;;123
+TAUSSIG, Mr Emil;52;1st Class;110413;£79 13s ;;;Southampton;;;
+TAUSSIG, Mrs Tillie;39;1st Class;110413;£79 13s ;;;Southampton;;8;
+TAUSSIG, Miss Ruth;18;1st Class;110413;£79 13s ;;;Southampton;;8;
+TAYLOR, Mr Elmer Zebley;48;1st Class;19996;£52 ;;;Southampton;Manufacturer;5;
+TAYLOR, Mrs Juliet Cummins;49;1st Class;19996;£52 ;;;Southampton;;5;
+TAYLOR, Mr Percy Cornelius;32;2nd Class;250654;;Musician;;Southampton;Musician;;
+TAYLOR, Mr C.;35;Deck;;;;;Southampton;Able Seaman;;
+TAYLOR, Mr J.;42;Engine;;;;;Southampton;Fireman / Stoker;;
+TAYLOR, Mr James;24;Engine;;;;;Southampton;Fireman / Stoker;1;
+TAYLOR, Mr John;50;Engine;;;;;Southampton;Fireman / Stoker;;
+TAYLOR, Mr William Henry;26;Engine;;;;;Southampton;Fireman / Stoker;;
+TAYLOR, Mr Bernard Cuthbert;26;Victualling;;;;;Southampton;Steward;;
+TAYLOR, Mr Leonard;23;Victualling;;;;;Southampton;Turkish Bath Attendant;;
+TAYLOR, Mr William John;30;Victualling;;;;;Southampton;Saloon Steward;;
+TAYLOR, Mr George Frederick;32;Victualling;;;;;Southampton;Stenographer;;
+TENGLIN, Mr Gunnar Isidor;25;3rd Class;350033;£7 15s 11d;;;Southampton;;13;
+TERRELL, Mr Bertram;20;Deck;;;;;Southampton;Seaman;;
+TERRELL, Mr Frank;27;Victualling;;;;;Southampton;Assistant Saloon Steward;;
+TESTONI, Sig. Ercole;23;A la Carte;;;;;Southampton;Assistant Glass Man;;
+TEUTON (?FENTON), Mr Thomas Moore;32;Victualling;;;;;Southampton;Saloon Steward;;226
+THALER, Mr Montague Donald;17;Victualling;;;;;Southampton;Steward;;
+THAYER, Mr John Borland;49;1st Class;17421;£110 17s 8d;;;Cherbourg;Businessman;;
+THAYER, Mrs Marian Longstreth;39;1st Class;17421;£110 17s 8d;;;Cherbourg;;4;
+THAYER, Mr John Borland jr;17;1st Class;17421;£110 17s 8d;;;Cherbourg;Scholar;B;
+THEISSINGER, Mr Alfred;43;Victualling;;;;;Southampton;Bed Room Steward;;
+THEOBALD, Mr Thomas Leonard;34;3rd Class;363294;£8 1s ;;;Southampton;Groom;;176
+THOMAS, Mr Charles R'ad.;31;3rd Class;2621;£6 8s 9d;;;Cherbourg;Dealer;;
+THOMAS, Mrs Thamine "Thelma";16;3rd Class;2625;£8 10s 4d;;;Cherbourg;;14;
+THOMAS, Mr Joseph;25;Engine;;;;;Southampton;Fireman / Stoker;;
+THOMAS, Mr Benjamin James;32;Victualling;;;;;Belfast;Saloon Steward;15;
+THOMAS, Mr Albert Charles;23;Victualling;;;;;Southampton;Saloon Steward;;
+THOMAS/TANNOUS, Mr Tannous;16;3rd Class;2684;£7 4s 6d;;;Cherbourg;Scholar;;
+THOMAS/TANNOUS, Master Assad Alexander;5m;3rd Class;2625;£8 10s 4d;;;Cherbourg;;16;
+THOMAS/TANNOUS, Mr John;34;3rd Class;2681;£6 8s 9d;;;Cherbourg;Dealer;;
+THOMPSON, Mr Alexander Morrison;36;3rd Class;32302;£8 1s ;;;Southampton;Mason;;
+THOMPSON, Mr John William;35;Engine;;;;;Southampton;Fireman / Stoker;A;
+THOMPSON, Mr Herbert Henry;25;Victualling;;;;;Belfast;2nd (Assistant) Storekeeper;;
+THORLEY, Mr William;39;Victualling;;;;;Southampton;Cook;;
+THORNE, Miss Gertrude Maybelle;38;1st Class;17585;£80 4d;;;Cherbourg;;D;
+THORNEYCROFT, Mr Percival;36;3rd Class;376564;£16 2s ;;;Southampton;General Labourer;;
+THORNEYCROFT, Mrs Florence Kate;32;3rd Class;376564;£16 2s ;;;Southampton;;10;
+THRELFALL, Mr Thomas;44;Engine;;;;;Southampton;Leading Fireman;;
+THRESHER, Mr George Terrill;25;Engine;;;;;Southampton;Fireman / Stoker;9;
+TIETZ, Sig. Carlo/Karl;27;A la Carte;;;;;Southampton;Kitchen Porter;;
+TIKKANEN, Mr Juho;32;3rd Class;3101293;£7 18s 6d;;;Southampton;General Labourer;;
+TIZARD, Mr Arthur;31;Engine;;;;;Southampton;Fireman / Stoker;;
+TOBIN, Mr Roger;20;3rd Class;383121;£7 15s ;;;Queenstown;Farmer;;
+TODOROFF, Mr Lalio;23;3rd Class;349216;£7 17s 11d;;;Southampton;General Labourer;;
+TOMLIN, Mr Ernest Portage;22;3rd Class;364499;£8 1s ;;;Southampton;Scholar;;50
+TOMS, Mr Francis A.;31;Victualling;;;;;Belfast;Saloon Steward;15;
+TOOMEY, Miss Ellen Mary;48;2nd Class;13531;£10 10s ;;;Southampton;Servant;9;
+TOPP, Mr Thomas Frederick;28;Victualling;;;;;Southampton;Butcher;;
+TöRBER, Mr Ernst Wilhelm;41;3rd Class;364511;£8 1s ;;;Southampton;Florist;;
+TORFA, Mr Assad;20;3rd Class;2673;£7 4s 7d;;;Cherbourg;Farm Labourer;;
+TöRNQUIST, Mr William Henry;25;3rd Class;370160;;;;Southampton;Seaman;15;
+TOSHACK, Mr James Adamson;30;Victualling;;;;;Southampton;Saloon Steward;;
+TOUMA, Mrs Hanna Youssef;27;3rd Class;2650;£15 4s 11d;;;Cherbourg;;C;
+TOUMA, Miss Maria Youssef ("Mary Thomas");9;3rd Class;2650;£15 4s 11d;;;Cherbourg;;C;
+TOUMA, Master Georges Youssef ("George Thomas");8;3rd Class;2650;£15 4s 11d;;;Cherbourg;;C;
+TOVEY, Miss ;;2nd Class;516;£2 ;Cross Channel Passenger;;Southampton;;;
+TOZER, Mr James;30;Engine;;;;;Southampton;Greaser;;
+TRIGGS, Mr Robert;40;Engine;;;;;Southampton;Fireman / Stoker;;
+TROUPIANSKY, Mr Moses Aaron;23;2nd Class;233639;£13 ;;;Southampton;Shop Assistant;;
+TROUT, Mrs Jessie L.;26;2nd Class;240929;£12 13s ;;;Southampton;;9;
+TROUTT, Miss Edwina Celia;27;2nd Class;34218;£10 10s ;;;Southampton;;16;
+TUCKER, Mr Gilbert Milligan jr;31;1st Class;2543;£28 10s 9d;;;Cherbourg;;7;
+TURCIN, Mr Stjepan;36;3rd Class;349247;£7 17s 11d;;;Southampton;General Labourer;;
+TURJA, Miss Anna Sofia;18;3rd Class;4138;£9 16s 10d;;;Southampton;;15;
+TURKULA, Mrs Hedwig;63;3rd Class;4134;£9 11s 9d;;;Southampton;;15;
+TURLEY, Mr Richard;35;Engine;;;;;Belfast;Fireman / Stoker;;
+TURNER, Mr L.;28;Victualling;;;;;Belfast;Saloon Steward;;23
+TURPIN, Mr William John Robert;29;2nd Class;11668;£21 ;;;Southampton;Carpenter / Joiner;;
+TURPIN, Mrs Dorothy Ann;27;2nd Class;11668;£21 ;;;Southampton;Housewife;;
+TURVEY, Mr Charles;16;A la Carte;;;;;Southampton;Page Boy;;
+URBINI, Sig. Roberto;22;A la Carte;;;;;Southampton;Waiter;;
+URUCHURTU, Don. Manuel Ramirez;39;1st Class;17601;£27 14s 5d;;;Cherbourg;Lawyer;;
+VALVASSORI, Sig. Ettore Luigi;35;A la Carte;;;;;Southampton;Waiter;;
+VAN BILLIARD, Mr Austin Blyler;35;3rd Class;851;£14 10s ;;;Southampton;;;255
+VAN BILLIARD, Master James William;10;3rd Class;851;£14 10s ;;;Southampton;;;
+VAN BILLIARD, Master Walter John;9;3rd Class;851;£14 10s ;;;Southampton;;;1
+VAN DE VELDE, Mr Johannes Josef;35;3rd Class;345780;£9 10s ;;;Southampton;Farmer;;
+VAN DEN STEEN, Mr Leo Peter;28;3rd Class;345783;£9 10s ;;;Southampton;Farmer;;
+VAN DER BRUGGE, Mr Wessel Adrianus;42;Engine;;;;;Southampton;Fireman / Stoker;;
+VAN DER HOEF, Mr Wyckoff;61;1st Class;111240;£33 10s ;;;Belfast;Businessman;;245
+VAN IMPE, Mr Jean Baptiste;36;3rd Class;345773;£24 3s ;;;Southampton;Farmer;;
+VAN IMPE, Mrs Rosalie Paula;30;3rd Class;345773;£24 3s ;;;Southampton;;;
+VAN IMPE, Miss Catharina;10;3rd Class;345773;£24 3s ;;;Southampton;;;
+VAN MELCKEBEKE, Mr Philemon;23;3rd Class;345777;£9 10s ;;;Southampton;Farmer;;
+VANDERCRUYSSEN, Mr Victor;46;3rd Class;345765;£9 ;;;Southampton;Farmer;;
+VANDERPLANCKE, Mr Julius;31;3rd Class;345763;£18 ;;;Southampton;Farmer;;
+VANDERPLANCKE, Mrs Emelie Maria;31;3rd Class;345763;£18 ;;;Southampton;;;
+VANDERPLANCKE, Miss Augusta Maria;18;3rd Class;345764;£18 ;;;Southampton;Servant;;
+VANDERPLANCKE, Mr Leo Edmondus;15;3rd Class;345763;£18 ;;;Southampton;Farm Labourer;;
+VANDEWALLE, Mr Nestor Cyriel;28;3rd Class;345770;£9 10s ;;;Southampton;Merchant;;
+VARTANIAN, Mr David;22;3rd Class;2658;£7 4s 6d;;;Cherbourg;;13;
+VEAL, Mr James;40;2nd Class;28221;£13 ;;;Southampton;;;
+VEAL, Mr Arthur;35;Engine;;;;;Southampton;Greaser;;
+VEAL, Mr Thomas Henry Edom;38;Victualling;;;;;Southampton;Saloon Steward;;
+VEAR, Mr H.;32;Engine;;;;;Southampton;Fireman / Stoker;;
+VEAR, Mr William;33;Engine;;;;;Southampton;Fireman / Stoker;;59
+VENDEL, Mr Olof Edvin;20;3rd Class;350416;£7 17s 1d;;;Southampton;General Labourer;;
+VESTRöM, Miss Hulda Amanda Adolfina;14;3rd Class;350406;£7 17s 1d;;;Southampton;Servant;;
+VICAT, Sig. Alphonse Jean Eugene;21;A la Carte;;;;;Southampton;Cook;;
+VIGOTT, Mr Philip Francis;32;Deck;;;;;Southampton;Able Seaman;13;
+VILLVARLANGE, Mr Pierre Léon Gabriel;19;A la Carte;;;;;Southampton;Assistant Soup Cook;;
+VINE, Mr H.;18;A la Carte;;;;;Southampton;Assistant Restaurant Controller;;
+VIONI, Sig. Roberto;31;A la Carte;;;;;Southampton;Waiter;;
+VOEGELIN-DUBACH, Sig. Johannes;35;A la Carte;;;;;Southampton;Waiter;;
+VOVK, Mr Janko;21;3rd Class;349252;£7 17s 11d;;;Southampton;General Labourer;;
+WAELENS, Mr Achille;22;3rd Class;345767;£9 ;;;Southampton;Farm Labourer;;140
+WAKE, Mr Percy;37;Victualling;;;;;Southampton;Baker;;
+WALKER, Mr William Anderson;48;1st Class;36967;£34 5d;;;Southampton;;;
+WALLCROFT, Miss Ellen "Nellie";36;2nd Class;13528;£21 ;;;Southampton;;14;
+WALLIS, Mrs Catherine Jane;35;Victualling;;;;;Southampton;Matron;;
+WALPOLE, Mr James;48;Victualling;;;;;Belfast;Chief Pantryman Steward;;
+WALSH, Miss Catherine;32;Victualling;;;;;Southampton;Stewardess;;
+WARD, Miss Annie Moore;38;1st Class;17755;£512 6s 7d;Servant;;Cherbourg;Personal Maid;3;
+WARD, Mr Arthur;24;Engine;;;;;Belfast;Junior Assistant 4th. Engineer;;
+WARD, Mr J.;31;Engine;;;;;Southampton;Leading Fireman;;
+WARD, Mr Edward;34;Victualling;;;;;Belfast;Bed Room Steward;;
+WARD, Mr Percy Thomas;38;Victualling;;;;;Belfast;Bed Room Steward;;
+WARD, Mr William;36;Victualling;;;;;Southampton;Saloon Steward;;
+WARDNER, Mr Albert;39;Engine;;;;;Southampton;Fireman / Stoker;;
+WARE, Mr John James;45;2nd Class;31352;£21 ;;;Southampton;;;
+WARE, Mrs Florence Louise;31;2nd Class;31352;£21 ;;;Southampton;;10;
+WARE, Mr William Jeffery;23;2nd Class;28666;£10 10s ;;;Southampton;;;
+WARE, Mr Frederick;34;3rd Class;359309;£8 1s ;;;Southampton;Motor Fitter;;
+WAREHAM, Mr Robert Arthur;36;Victualling;;;;;Belfast;Bed Room Steward;;246
+WARREN, Mr Frank Manley;63;1st Class;110813;£75 5s ;;;Cherbourg;;;
+WARREN, Mrs Anna Sophia;60;1st Class;110813;£75 5s ;;;Cherbourg;;5;
+WARREN, Mr Charles William;30;3rd Class;49867;£7 11s ;;;Southampton;Bricklayer;;
+WARWICK, Mr Tom;35;Victualling;;;;;Southampton;Saloon Steward;;
+WATERIDGE, Mr Edward Lewis;25;Engine;;;;;Southampton;Fireman / Stoker;;
+WATSON, Mr Ennis Hastings;15;2nd Class;239856;;H&W Guarantee Group;;Belfast;Apprentice Electrician;;
+WATSON, Mr W.;27;Engine;;;;;Southampton;Fireman / Stoker;;158
+WATSON, Mr W. A.;14;Victualling;;;;;Southampton;Bell Boy;;
+WATT, Mrs Elizabeth "Bessie" Inglis;40;2nd Class;33595;£15 15s ;;;Southampton;;9;
+WATT, Miss Robertha Josephine "Bertha";12;2nd Class;33595;£15 15s ;;;Southampton;;9;
+WATTS, Mr ;36;Engine;;;;;Southampton;Trimmer;;
+WAZLI, Mr Yousif Ahmed;25;3rd Class;2647;£7 4s 6d;;;Cherbourg;Farmer;;
+WEATHERSTONE, Mr Thomas Herbert;24;Victualling;;;;;Belfast;Saloon Steward;;
+WEBB, Mr S.;28;Engine;;;;;Southampton;Trimmer;;
+WEBB, Mr Brooke Holding;50;Victualling;;;;;Belfast;Smoke Room Steward;;
+WEBBER, Miss Susan;37;2nd Class;27267;£13 ;;;Southampton;;12;
+WEBBER, Mr James;66;3rd Class;3101316;£8 1s ;;;Southampton;Miner;;
+WEBBER, Mr Francis Albert;31;Engine;;;;;Southampton;Leading Fireman;;
+WEIKMAN, Mr August H.;51;Victualling;;;;;Southampton;Barber;;
+WEIR, Colonel John;59;1st Class;113800;£26 11s ;;;Southampton;Military;;
+WEISZ, Mr Leopold;28;2nd Class;228414;£26 ;;;Southampton;;;293
+WEISZ, Mrs Mathilde Françoise;37;2nd Class;228414;£26 ;;;Southampton;;10;
+WELCH, Mr W. H.;23;Victualling;;;;;Southampton;Cook;;
+WELLER, Mr William Clifford;30;Deck;;;;;Belfast;Able Seaman;7;
+WELLS, Mrs "Addie" Dart;29;2nd Class;29103;£23 ;;;Southampton;;14;
+WELLS, Miss Joan;4;2nd Class;29103;£23 ;;;Southampton;;14;
+WELLS, Master Ralph Lester;2;2nd Class;29103;£23 ;;;Southampton;;14;
+WENNERSTRöM, Mr August;27;3rd Class;350043;£7 15s 11d;;;Southampton;;A;
+WEST, Mr Edwy Arthur;36;2nd Class;34651;£27 15s ;;;Southampton;;;
+WEST, Mrs Ada Mary;33;2nd Class;34651;£27 15s ;;;Southampton;;10;
+WEST, Miss Constance Mirium;4;2nd Class;34651;£27 15s ;;;Southampton;;10;
+WEST, Miss Barbara Joyce;10m;2nd Class;34651;£27 15s ;;;Southampton;;10;
+WHEADON, Mr Edward H.;66;2nd Class;24579;£10 10s ;;;Southampton;Farmer;;
+WHEAT, Mr Joseph Thomas;29;Victualling;;;;;Belfast;Assistant Second Steward;11;
+WHEELER, Mr Edwin Charles "Fred";24;2nd Class;2159;£12 17s 6d;Servant;;Southampton;Servant;;
+WHEELTON, Mr Edneser (Ernest) Edward;29;Victualling;;;;;Belfast;Saloon Steward;11;
+WHITE, Mr Percival Wayland;54;1st Class;35281;£77 5s 9d;;;Southampton;Manufacturer;;
+WHITE, Mr Richard Frasar;21;1st Class;35281;£77 5s 9d;;;Southampton;;;169
+WHITE, Mrs Ella;55;1st Class;17760;£135 12s 8d;;;Cherbourg;;8;
+WHITE, Mr Arthur;37;Victualling;;;;;Southampton;Barber;;247
+WHITE, Mr J. W.;27;Victualling;;;;;Southampton;Glory Hole Steward;;272
+WHITE, Mr Leonard Lisle Oliver;31;Victualling;;;;;Belfast;Saloon Steward;;
+WHITE, Mr Alfred;32;Engine;;;;;Southampton;Greaser;;
+WHITE, Mr Frank Leonard;28;Engine;;;;;Southampton;Trimmer;;
+WHITE, Mr William George;23;Engine;;;;;Southampton;Trimmer;;
+WHITELEY, Mr Thomas Arthur;18;Victualling;;;;;Southampton;Saloon Steward;;
+WHITFORD, Mr Alfred Henry;39;Victualling;;;;;Southampton;Saloon Steward;;
+WICK, Mr George Dennick;57;1st Class;36928;£164 17s 4d;;;Southampton;;;
+WICK, Mrs Mary;45;1st Class;36928;£164 17s 4d;;;Southampton;;8;
+WICK, Miss Mary Natalie;31;1st Class;36928;£164 17s 4d;;;Southampton;;8;
+WIDEGREN, Mr Carl / Charles Peter;51;3rd Class;347064;£7 15s ;;;Southampton;General Labourer;;
+WIDENER, Mr George Dunton;50;1st Class;113503;£211 10s ;;;Southampton;Banker;;
+WIDENER, Mrs Eleanor;50;1st Class;113503;£211 10s ;;;Southampton;;4;
+WIDENER, Mr Harry Elkins;27;1st Class;113503;£211 10s ;;;Southampton;Bibliophile;;
+WIDGERY, Mr James George;37;Victualling;;;;;Southampton;Bath Steward;;
+WIKLUND, Mr Karl Johan;21;3rd Class;3101266;£6 9s 11d;;;Southampton;General Labourer;;
+WIKLUND, Mr Jakob Alfred;18;3rd Class;3101267;£6 9s 11d;;;Southampton;General Labourer;;314
+WILDE, Mr Henry Tingle;39;Deck;;;;;Southampton;Chief Officer;;
+WILHELMS, Mr Charles;32;2nd Class;244270;£13 ;;;Southampton;;9;
+WILKES, Mrs Ellen;47;3rd Class;363272;£7 ;;;Southampton;;16;
+WILKINSON, Mrs Elizabeth Anne;35;2nd Class;2926;£26 ;;;Southampton;;16;
+WILLARD, Miss Constance;21;1st Class;113795;£26 11s ;;;Southampton;;8;
+WILLER, Mr Aaron;37;3rd Class;3410;£8 14s 3d;;;Cherbourg;;;
+WILLEY, Mr Edward;18;3rd Class;751;£7 11s ;;;Southampton;Farm Labourer;;
+WILLIAMS, Mr Charles Duane;51;1st Class;17597;£61 7s 7d;;;Cherbourg;Lawyer;;
+WILLIAMS, Mr Richard Norris II;21;1st Class;17597;£61 7s 7d;;;Cherbourg;Sportsman;A;
+WILLIAMS, Mr Charles Eugene;23;2nd Class;244373;£13 ;;;Southampton;Sportsman;14;
+WILLIAMS, Mr Arthur J.;38;Victualling;;;;;Southampton;Storekeeper;;
+WILLIAMS, Mr Walter John;28;Victualling;;;;;Southampton;Assistant Saloon Steward;;
+WILLIAMS, Mr Howard Hugh "Harry";28;3rd Class;2466;£8 1s ;;;Southampton;Carman;;
+WILLIAMS, Mr Leslie;28;3rd Class;54636;£16 2s ;;;Southampton;Pugilist;;14
+WILLIAMS, Mr Samuel S.;26;Engine;;;;;Southampton;Fireman / Stoker;;
+WILLIAMSON, Mr James Bertram;35;Victualling;;;Postal Clerk;;Southampton;Postal Clerk;;
+WILLIS, Mr W.;46;Victualling;;;;;Southampton;Steward;;
+WILLSHER, Mr William Audrey;33;Victualling;;;;;Southampton;Butcher;;
+WILSON, Miss Helen Alice;31;1st Class;16966;£134 10s ;Servant;;Cherbourg;Personal Maid;3;
+WILSON, Mr Bertie;28;Engine;;;;;Belfast;Senior Assistant 2nd. Engineer;;
+WILTON, Mr William;45;Engine;;;;;Southampton;Trimmer;;
+WINDEBANK, Mr Alfred Edgar;38;Victualling;;;;;Southampton;Cook;;
+WINDELøV, Mr Einar;21;3rd Class;3101317;£7 5s ;;;Southampton;Dairy Worker;;
+WINSER, Mr Rowland;33;Victualling;;;;;Southampton;Steward;;
+WIRZ, Mr Albert;27;3rd Class;315154;£8 13s 3d;;;Southampton;Farmer;;131
+WISEMAN, Mr Phillippe;54;3rd Class;34244;£7 5s ;;;Southampton;Merchant;;
+WITCHER, Mr Albert Ernest;39;Engine;;;;;Southampton;Fireman / Stoker;;
+WITT, Mr Henry Dennis;37;Engine;;;;;Southampton;Fireman / Stoker;;
+WITTER, Mr James William Cheetham;31;Victualling;;;;;Southampton;Smoke Room Steward;;
+WITTEVRONGEL, Mr Camilius Aloysius;36;3rd Class;345771;£9 10s ;;;Southampton;Farmer;;
+WITTMAN, Mr Henry;34;Victualling;;;;;Southampton;Bed Room Steward;;315
+WOOD, Mr Henry;30;Engine;;;;;Southampton;Trimmer;;
+WOOD, Mr James Thomas;40;Victualling;;;;;Southampton;Assistant Saloon Steward;;
+WOODFORD, Mr Frederick;40;Engine;;;;;Southampton;Greaser;;163
+WOODWARD, Mr John Wesley;32;2nd Class;250654;;Musician;;Southampton;Musician;;
+WOODY, Mr Oscar Scott;44;Victualling;;;Postal Clerk;;Southampton;Postal Clerk;;167
+WOOLNER, Mr Hugh;45;1st Class;19947;£35 10s ;;;Southampton;Businessman;D;
+WORMALD, Mr Frederick William;36;Victualling;;;;;Southampton;Saloon Steward;;144
+WOTTON, Mr Henry Swaffin;;1st Class;86;£1 10s ;Cross Channel Passenger;;Southampton;;;
+WRAPSON, Mr Frederick Bernard;19;Victualling;;;;;Belfast;Assistant Pantryman Steward;;
+WRIGHT, Mr George;62;1st Class;113807;£26 11s ;;;Southampton;Businessman;;
+WRIGHT, Miss Marion;26;2nd Class;220844;£13 10s ;;;Southampton;;9;
+WRIGHT, Mr Frederick;24;Victualling;;;;;Southampton;Sports Instructor;;
+WRIGHT, Mr William;40;Victualling;;;;;Southampton;Glory Hole Steward;;
+WYETH, Mr James;26;Engine;;;;;Southampton;Fireman / Stoker;;
+WYNN, Mr Walter;41;Deck;;;;;Belfast;Quartermaster;9;
+YASBECK, Mr Antoni;27;3rd Class;2659;£14 9s 1d;;;Cherbourg;General Labourer;C;
+YAZBECK, Mrs Selini "Celiney";15;3rd Class;2659;£14 9s 1d;;;Cherbourg;;;
+YEARSLEY, Mr Harry;38;Victualling;;;;;Southampton;Saloon Steward;;
+YOUNG, Miss Marie Grice;36;1st Class;17760;£135 12s 8d;;;Cherbourg;;8;
+YOUNG, Mr Francis James;30;Engine;;;;;Southampton;Fireman / Stoker;;
+YOUSSEFF (ABI SAAB), Mr Gerios;45;3rd Class;2628;£7 4s 6d;;;Cherbourg;Shoemaker;;312
+YOUSSIFF (SAM'AAN), Mr Gerios;28;3rd Class;2685;£7 4s 7d;;;Cherbourg;;;
+YVOIS, Miss Henriette;24;2nd Class;248747;£13 ;;;Southampton;;;
+ZAKARIAN, Mr Ortin;27;3rd Class;2670;£7 4s 6d;;;Cherbourg;General Labourer;;
+ZAKARIAN, Mr Mapriededer;22;3rd Class;2656;£7 4s 6d;;;Cherbourg;;;304
+ZANETTI, Sig. Minio;20;A la Carte;;;;;Southampton;Assistant Waiter;;
+ZARRACCHI, Sig. L.;26;A la Carte;;;;;Southampton;Wine Butler;;
+ZIMMERMANN, Mr Leo;29;3rd Class;315082;£7 17s 6d;;;Southampton;Farmer;;
+

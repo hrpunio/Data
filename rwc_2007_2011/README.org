@@ -1,0 +1,65 @@
+# -*- org-confirm-babel-evaluate: nil -*-
+#+TITLE: Rugby World Cup 2007--2011
+#+AUTHOR: Tomasz Przechlewski
+#+EMAIL: looseheadprop1 at gmail dot com
+#+INFOJS_OPT: view:info
+#+BABEL: :session *R* :cache yes :results output graphics :exports both :tangle yes 
+
+* Źródlo danych
+
+Pliki ~rwc_all_2007.cvs~  i ~rwc_all_2011.cvs~ zawierają -- odpowiednio --
+zestawienie zawodników uczestniczących w turniejach 
+o puchar świata w Rugby w roku [[http://pl.wikipedia.org/wiki/Puchar_%C5%9Awiata_w_Rugby_2007][2007]] oraz [[http://pl.wikipedia.org/wiki/Puchar_%C5%9Awiata_w_Rugby_2011][2011]].
+Dane pochodzą ze strony [[http://www.rugbyworldcup.com/]].
+
+* Lista zmiennych
+
+Poszczególne kolumny w plikach ~rwc_all_2007.cvs~  i ~rwc_all_2011.cvs~ zawierają następujące dane:
+
+- packid :: identyfikator drużyny
+- id :: identyfikator zawodnika
+- name :: imię i nazwisko zawodnika
+- date :: rok urodzenia
+- town :: miejsce urodzenia (nazwa miasta)
+- cntry :: miejsce urodzenia (nazwa kraju)
+- weight :: waga zawodnika (kg)
+- height :: wzrost zawodnika (cm)
+- played :: łączny czas gry w turnieju (min)
+- lbc :: łączna liczba złamań linii obrony (/line-breaks/)
+- pens :: karne (procent skuteczności, /penalty goal success rate/)
+- conv :: podwyższenia (procent skuteczności, /conversion success rate/)
+	  
+* Przykład analizy z wykorzystaniem R
+
+Wczytanie obu zbiorów:
+
+#+begin_src R
+rwc2007.all <- read.csv("rwc_all_2007.csv", sep = ';',  header=T);
+rwc2011.all <- read.csv("rwc_all_2011.csv", sep = ';',  header=T);
+#+end_src
+
+Porównajmy masę ciała zawodników z obu turniejów, pomijając tych którzy łącznie grali
+w turnieju pół meczu i mniej (played <= 40):
+
+#+begin_src R
+rwc2007 <- subset (rwc2007.all, rwc2007.all$played > 40)
+rwc2011 <- subset (rwc2011.all, rwc2011.all$played > 40)
+#+end_src
+
+Policzmy średnią i pozostałe statystyki opisowe:
+
+#+begin_src R
+summary (rwc2007$weight)
+summary (rwc2011$weight)
+#+end_src
+
+oraz przedstawmy masę ciała na wykresie pudełkowym (/boxplot/)
+
+#+source: players
+#+begin_src R  :file players.png :width 400 :height 300
+boxplot(rwc2007$weight, rwc2011$weight, names=c('2007', '2011'))
+#+end_src
+
+Zawodnicy 
+w turnieju z roku 2011 są przeciętnie nieco ciężsi niż
+w roku 2007.

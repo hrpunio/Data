@@ -1,0 +1,7 @@
+#+TITLE: Przykładowe zbiory danych
+#+AUTHOR: Tomasz Przechlewski
+#+EMAIL: looseheadprop1 at gmail dot com
+#+INFOJS_OPT: view:info
+#+BABEL: :session *R* :cache yes :results output graphics :exports both :tangle yes 
+
+Przykładowe zbiory danych

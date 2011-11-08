@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+               "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+lang="en" xml:lang="en">
+<head>
+<title>Lista pasażerów i załogi Titanica z feralnego pierwszego rejsu</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<meta name="generator" content="Org-mode"/>
+<meta name="generated" content="2011-11-08 17:32:26 CET"/>
+<meta name="author" content="Tomasz Przechlewski"/>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  html { font-family: Times, serif; font-size: 12pt; }
+  .title  { text-align: center; }
+  .todo   { color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #add8e6; font-weight:normal }
+  .target { }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  {margin-left:auto; margin-right:0px;  text-align:right;}
+  .left   {margin-left:0px;  margin-right:auto; text-align:left;}
+  .center {margin-left:auto; margin-right:auto; text-align:center;}
+  p.verse { margin-left: 3% }
+  pre {
+	border: 1pt solid #AEBDCC;
+	background-color: #F3F5F7;
+	padding: 5pt;
+	font-family: courier, monospace;
+        font-size: 90%;
+        overflow:auto;
+  }
+  table { border-collapse: collapse; }
+  td, th { vertical-align: top;  }
+  th.right  { text-align:center;  }
+  th.left   { text-align:center;   }
+  th.center { text-align:center; }
+  td.right  { text-align:right;  }
+  td.left   { text-align:left;   }
+  td.center { text-align:center; }
+  dt { font-weight: bold; }
+  div.figure { padding: 0.5em; }
+  div.figure p { text-align: center; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size:smaller }
+  .code-highlighted {background-color:#ffff00;}
+  .org-info-js_info-navigation { border-style:none; }
+  #org-info-js_console-label { font-size:10px; font-weight:bold;
+                               white-space:nowrap; }
+  .org-info-js_search-highlight {background-color:#ffff00; color:#000000;
+                                 font-weight:bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript" src="http://orgmode.org/org-info.js"></script>
+<script type="text/javascript" >
+<!--/*--><![CDATA[/*><!--*/
+org_html_manager.set("TOC_DEPTH", "3");
+org_html_manager.set("LINK_HOME", "");
+org_html_manager.set("LINK_UP", "");
+org_html_manager.set("LOCAL_TOC", "1");
+org_html_manager.set("VIEW_BUTTONS", "0");
+org_html_manager.set("MOUSE_HINT", "underline");
+org_html_manager.set("FIXED_TOC", "0");
+org_html_manager.set("TOC", "1");
+org_html_manager.set("VIEW", "info");
+org_html_manager.setup();  // activate after the parameters are set
+/*]]>*///-->
+</script>
+<script type="text/javascript">
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+
+</head>
+<body>
+
+<div id="preamble">
+
+</div>
+
+<div id="content">
+<h1 class="title">Lista pasażerów i załogi Titanica z feralnego pierwszego rejsu</h1>
+
+
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1 Źródlo danych </a></li>
+<li><a href="#sec-2">2 Lista zmiennych </a></li>
+<li><a href="#sec-3">3 Uwagi </a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Źródlo danych </h2>
+<div class="outline-text-2" id="text-1">
+
+
+<p>
+Plik <code>Titanic_Passengers_and_Crew.cvs</code> zawiera 
+listę pasażerów i członków załogi <a href="http://pl.wikipedia.org/wiki/RMS_Titanic">RMS Titanic</a> z feralnego pierwszego rejsu tego statku.
+Dane zostały pobrane ze strony <a href="http://www.encyclopedia-titanica.org/titanic_passenger_list/">http://www.encyclopedia-titanica.org/titanic<sub>passenger</sub><sub>list</sub>/</a>
+i następnie zamienione z formatu HTML na CSV.
+</p>
+</div>
+
+</div>
+
+<div id="outline-container-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Lista zmiennych </h2>
+<div class="outline-text-2" id="text-2">
+
+
+<p>
+Poszczególne kolumny pliku <code>Titanic_Passengers_and_Crew.cvs</code> zawierają następujące dane:
+</p>
+<dl>
+<dt>Name</dt><dd>imię i nazwisko uczestnika rejsu
+</dd>
+<dt>Sex</dt><dd>Płeć
+</dd>
+<dt>ClassDept</dt><dd>Klasa w której podróżował albo przydział w przypadku członka załogi (pokład, maszyna itp&hellip;)
+</dd>
+<dt>Ticket</dt><dd>Numer biletu
+</dd>
+<dt>Fare</dt><dd>Cena biletu
+</dd>
+<dt>Group</dt><dd>W tym polu jest identyfikacja pasażerów typu <i>cross-channel</i>
+</dd>
+<dt>Ship</dt><dd>Te pole nie zawiera żadnych danych
+</dd>
+<dt>Joined</dt><dd>W jakim porcie wsiadł uczestnika rejsu
+</dd>
+<dt>Job</dt><dd>Wykonywany zawód, ale dane są bardzo niekompletne
+</dd>
+<dt>Boat</dt><dd>numer łodzi, w której został uratowany; brak numeru łodzi oznacza, że nie przeżył rejsu
+</dd>
+<dt>Body</dt><dd>numer ciała
+</dd>
+</dl>
+
+
+</div>
+
+</div>
+
+<div id="outline-container-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Uwagi </h2>
+<div class="outline-text-2" id="text-3">
+
+
+<p>
+W zbiorze jest łącznie 2240 pasażerów/członków załogi z tego 31 zeszło na ląd
+w Queenstown (oznaczeni jako <i>Cross Channel</i>), to daje 2209 osób na
+pokładzie w rejsie transatlantyckim.
+</p>
+<p>
+Aby usunąć osoby wyokrętowane w Queenstown można przykładowo wykonać:
+</p>
+
+
+
+<pre class="example">grep -v 'Cross Channel' Titanic_Passengers_and_Crew.cvs &gt; Titanic_Passengers_and_Crew1.cvs
+</pre>
+
+
+
+<p>
+Wg <a href="http://pl.wikipedia.org/wiki/RMS_Titanic#Liczba_ofiar">polskiej wikipedii</a> na pokładzie w rejsie transatlantyckim było 2208 osób. <i>Never mind</i>.
+Nie będziemy się przecież spierać o jednego&hellip;
+</p></div>
+</div>
+</div>
+
+<div id="postamble">
+<p class="date">Date: 2011-11-08 17:32:26 CET</p>
+<p class="author">Author: Tomasz Przechlewski</p>
+<p class="creator">Org version 7.7 with Emacs version 23</p>
+<a href="http://validator.w3.org/check?uri=referer">Validate XHTML 1.0</a>
+
+</div>
+</body>
+</html>
