@@ -1,0 +1,82 @@
+# -*- org-confirm-babel-evaluate: nil -*-
+#+TITLE:      Ubootwaffe 1939--1945
+#+AUTHOR:     Tomasz Przechlewski
+#+EMAIL:      looseheadprop1 at gmail dot com
+#+BABEL:      :session *R* :cache yes :results output graphics :exports both :tangle yes
+
+* Opis zbioru danych
+
+Niemieckie łodzie podwodne 1939--1945 ze względu na typ (~typ~), liczbę
+odbytych patroli (~patrols~), liczbę zatopionych statków (~statki~),
+liczbę zatopionych okrętów (~okręty~), tonaż zatopionych statków
+(~tonaz~).  oraz tonaż zatopionych okrętów (~okrety.tonaz~).  Kolumna
+oznaczona jako numer zawiera ~numer~ U-boota.
+
+#+begin_src R
+ubooty <- read.csv("boats_by_patrols.csv", sep = ';',  header=T);
+#+end_src
+
+* Struktura Ubootwaffe
+
+Łączna liczba U-bootów w rozbiciu na typy, w liczbach bezwzględnych:
+
+#+begin_src R 
+## liczba ubootów w rozbiciu na typy
+tapply (ubooty$statki, ubooty$typ, length)
+#+end_src
+
+oraz jako udział w całości:
+
+#+begin_src R
+## jak wyżej ale w procentach
+ubooty.lacznie <- tapply (ubooty$statki, ubooty$typ, length)
+ubooty.lacznie / sum(ubooty.lacznie) *100
+#+end_src
+
+Duża część U-bootów została zbudowana, a nawet weszła do służby
+(/commisioned/) ale nie wzięły udziału w walce.  W dalszej analizie
+usuwamy U-booty /niebojowe/, tj. takie, 
+które nie odbyły żadnego patrolu:
+
+#+begin_src R
+ubooty1 <- subset (ubooty, ubooty$patrole > 0)
+#+end_src
+
+Łączna liczba U-bootów /bojowych/ w rozbiciu na typu, w liczbach
+bezwzględnych oraz jako udział w całości:
+
+#+begin_src R 
+ubooty1.lacznie <- tapply (ubooty1$statki, ubooty1$typ, length)
+
+## typy xvii i xxi nie odbyły żadnego patrolu
+ubooty1.lacznie / sum(ubooty1.lacznie, na.rm = T) * 100
+#+end_src
+
+* Tonaż zatopionych statków
+
+Tonaż zatopionych statków łącznie oraz na U-boota
+w podziale na typ:
+
+#+begin_src R 
+tonaz.lacznie <- tapply (ubooty1$tonaz, ubooty1$typ, sum)
+
+tonaz.lacznie/ubooty1.lacznie
+#+end_src
+
+Porównanie zatopionych 
+statków przez U-booty typu VII oraz IX (wykres pudełkowy):
+
+#+source: plot1
+#+begin_src R :session :results output graphics :file ubooty1.png :width 400 :height 300
+ubooty.vii <- subset (ubooty, ubooty$typ == 'vii') 
+ubooty.ix <- subset (ubooty, ubooty$typ == 'ix') 
+
+boxplot(ubooty.vii$statki,ubooty.ix$statki, names=c('vii', 'ix'))
+#+end_src
+
+* Podsumowanie
+
+# Poniższe nie działa
+# Przeciętnie U-boot typu VII zatopił SRC_R{tt<-tonaz.lacznie/ubooty1.lacznie; tt["vii"]}.
+
+# http://www.mail-archive.com/emacs-orgmode@gnu.org/msg46246.html
