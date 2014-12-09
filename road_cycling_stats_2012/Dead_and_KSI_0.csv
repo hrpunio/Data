@@ -1,0 +1,632 @@
+England;Aldershot;4;3;7;5;8;4
+England;Aldridge-Brownhills;0;3;2;3;1;5
+England;Altrincham and Sale West;5;4;2;4;3;5
+England;Amber Valley;3;3;6;3;2;4
+England;Arundel and South Downs;5;6;4;3;14;6
+England;Ashfield;8;6;2;1;2;4
+England;Ashford;6;3;6;3;7;1
+England;Ashton-Under-Lyne;1;3;5;2;1;4
+England;Aylesbury;1;4;3;6;6;5
+England;Banbury;3;0;4;12;5;5
+England;Barking;1;4;1;2;3;1
+England;Barnsley Central;1;3;4;2;1;1
+England;Barnsley East;1;1;6;2;5;1
+England;Barrow and Furness;6;3;2;4;4;4
+England;Basildon and Billericay;2;1;1;1;2;1
+England;Basingstoke;3;2;3;2;4;4
+England;Bassetlaw;10;4;7;6;2;12
+England;Bath;7;5;1;2;1;3
+England;Batley and Spen;3;3;3;5;5;5
+England;Battersea;16;11;14;7;10;20
+England;Beaconsfield;6;2;8;7;4;4
+England;Beckenham;2;1;0;3;1;5
+England;Bedford;9;6;9;9;4;7
+England;Bermondsey and Old Southwark;10;18;12;20;18;18
+England;Berwick-Upon-Tweed;3;2;1;6;2;3
+England;Bethnal Green and Bow;7;12;14;16;10;15
+England;Beverley and Holderness;6;3;1;2;5;9
+England;Bexhill and Battle;4;3;2;7;5;6
+England;Bexleyheath and Crayford;2;1;0;1;1;5
+England;Birkenhead;6;3;5;7;3;6
+England;Birmingham, Edgbaston;4;2;5;3;5;7
+England;Birmingham, Erdington;4;3;3;4;0;8
+England;Birmingham, Hall Green;2;3;5;5;8;7
+England;Birmingham, Hodge Hill;2;2;3;7;3;3
+England;Birmingham, Ladywood;2;4;4;5;9;3
+England;Birmingham, Northfield;2;0;4;1;5;1
+England;Birmingham, Perry Barr;4;3;2;6;1;3
+England;Birmingham, Selly Oak;1;1;1;1;2;2
+England;Birmingham, Yardley;4;2;2;1;1;7
+England;Bishop Auckland;3;1;1;0;6;3
+England;Blackburn;4;10;7;3;3;3
+England;Blackley and Broughton;3;2;6;9;2;6
+England;Blackpool North and Cleveleys;1;8;8;7;3;5
+England;Blackpool South;5;3;5;3;5;6
+England;Blaydon;3;1;5;2;2;4
+England;Blyth Valley;3;4;3;2;2;1
+England;Bognor Regis and Littlehampton;6;5;7;11;8;5
+England;Bolsover;3;2;2;1;2;3
+England;Bolton North East;2;2;1;2;1;4
+England;Bolton South East;2;2;3;1;0;4
+England;Bolton West;2;4;2;2;3;6
+England;Bootle;5;3;4;1;2;4
+England;Boston and Skegness;5;3;4;0;9;4
+England;Bosworth;3;1;0;2;5;1
+England;Bournemouth East;2;8;6;10;8;3
+England;Bournemouth West;7;11;15;9;10;11
+England;Bracknell;1;7;2;1;0;0
+England;Bradford East;2;4;6;2;2;3
+England;Bradford South;3;1;2;4;1;2
+England;Bradford West;3;3;6;3;2;3
+England;Braintree;3;8;4;3;4;5
+England;Brent Central;6;4;4;1;0;3
+England;Brent North;1;1;2;2;1;1
+England;Brentford and Isleworth;5;6;7;6;8;8
+England;Brentwood and Ongar;2;4;4;2;2;4
+England;Bridgwater and West Somerset;8;6;3;4;10;5
+England;Brigg and Goole;3;6;6;2;2;4
+England;Brighton, Kemptown;2;7;5;3;6;5
+England;Brighton, Pavilion;10;11;11;12;13;12
+England;Bristol East;0;4;5;2;7;6
+England;Bristol North West;8;7;4;9;7;8
+England;Bristol South;5;5;4;2;4;7
+England;Bristol West;14;9;21;10;14;19
+England;Broadland;3;4;3;4;4;2
+England;Bromley and Chislehurst;1;0;6;2;3;3
+England;Bromsgrove;4;1;2;1;3;1
+England;Broxbourne;1;5;2;0;2;6
+England;Broxtowe;3;9;7;7;11;5
+England;Buckingham;0;2;2;1;7;1
+England;Burnley;7;5;2;6;2;2
+England;Burton;2;4;2;4;2;2
+England;Bury North;2;2;1;5;3;4
+England;Bury South;2;1;3;1;3;3
+England;Bury St Edmunds;0;2;2;4;6;6
+England;Calder Valley;7;5;8;4;6;3
+England;Camberwell and Peckham;3;2;8;6;8;10
+England;Camborne and Redruth;3;4;1;1;2;3
+England;Cambridge;17;20;7;19;26;20
+England;Cannock Chase;2;3;1;0;2;2
+England;Canterbury;4;6;3;6;3;5
+England;Carlisle;2;4;1;0;3;2
+England;Carshalton and Wallington;4;0;3;2;1;1
+England;Castle Point;2;5;4;8;2;1
+England;Central Devon;2;3;3;1;3;4
+England;Central Suffolk and North Ipswich;3;2;4;1;5;5
+England;Charnwood;4;1;3;2;3;1
+England;Chatham and Aylesford;2;2;2;2;1;1
+England;Cheadle;3;3;0;4;4;8
+England;Chelmsford;9;7;10;3;7;6
+England;Chelsea and Fulham;12;11;11;15;17;14
+England;Cheltenham;6;5;6;4;4;7
+England;Chesham and Amersham;5;5;1;2;2;2
+England;Chesterfield;3;3;3;1;3;4
+England;Chichester;8;10;9;7;12;4
+England;Chingford and Woodford Green;1;3;0;3;1;1
+England;Chippenham;3;1;0;2;1;2
+England;Chipping Barnet;1;1;1;2;1;2
+England;Chorley;14;7;7;6;6;10
+England;Christchurch;8;7;7;4;3;6
+England;Cities Of London and Westminster;31;45;48;51;52;47
+England;City of Chester;14;7;9;8;13;12
+England;City of Durham;1;1;0;4;4;2
+England;Clacton;2;3;2;2;5;3
+England;Cleethorpes;6;10;6;11;4;10
+England;Colchester;6;8;4;4;5;7
+England;Colne Valley;3;1;3;4;1;1
+England;Congleton;12;4;1;3;6;2
+England;Copeland;5;5;5;4;3;3
+England;Corby;12;8;3;3;4;3
+England;Coventry North East;4;3;4;3;6;5
+England;Coventry North West;2;4;2;2;1;2
+England;Coventry South;3;3;3;5;2;5
+England;Crawley;4;4;4;1;3;5
+England;Crewe and Nantwich;6;8;1;8;19;13
+England;Croydon Central;3;3;3;2;1;2
+England;Croydon North;4;6;2;4;4;2
+England;Croydon South;1;4;4;4;2;1
+England;Dagenham and Rainham;0;2;3;3;2;3
+England;Darlington;2;7;1;4;4;2
+England;Dartford;1;3;3;1;5;4
+England;Daventry;2;5;7;2;3;4
+England;Denton and Reddish;4;4;3;1;1;0
+England;Derby North;6;5;2;4;11;6
+England;Derby South;9;10;6;12;13;21
+England;Derbyshire Dales;5;2;7;4;3;4
+England;Devizes;0;2;1;4;2;8
+England;Dewsbury;7;4;3;4;2;1
+England;Don Valley;1;4;2;5;3;7
+England;Doncaster Central;3;3;6;13;11;10
+England;Doncaster North;0;7;5;4;4;2
+England;Dover;1;3;4;1;3;0
+England;Dudley North;2;4;5;2;3;2
+England;Dudley South;3;0;3;1;4;4
+England;Dulwich and West Norwood;4;4;9;12;5;10
+England;Ealing Central and Acton;3;9;6;6;11;9
+England;Ealing North;5;4;2;2;2;3
+England;Ealing, Southall;2;3;3;3;4;1
+England;Easington;0;2;7;4;2;4
+England;East Devon;2;4;1;2;2;3
+England;East Ham;2;4;1;3;3;3
+England;East Hampshire;5;1;2;5;5;2
+England;East Surrey;5;8;7;1;7;6
+England;East Worthing and Shoreham;6;5;6;9;9;3
+England;East Yorkshire;3;4;3;4;4;8
+England;Eastbourne;4;4;11;3;7;3
+England;Eastleigh;2;4;4;6;6;4
+England;Eddisbury;6;3;4;3;2;7
+England;Edmonton;2;0;1;0;0;2
+England;Ellesmere Port and Neston;8;4;9;4;8;6
+England;Elmet and Rothwell;4;5;3;3;2;3
+England;Eltham;4;2;2;4;2;2
+England;Enfield North;1;1;2;1;0;2
+England;Enfield, Southgate;4;3;0;2;2;1
+England;Epping Forest;1;1;1;3;1;2
+England;Epsom and Ewell;1;4;4;4;6;7
+England;Erewash;5;7;8;8;9;3
+England;Erith and Thamesmead;0;0;4;3;2;2
+England;Esher and Walton;9;4;2;4;5;11
+England;Exeter;2;1;4;7;6;5
+England;Fareham;6;5;7;3;7;9
+England;Faversham and Mid Kent;4;4;2;3;3;1
+England;Feltham and Heston;9;5;5;7;5;4
+England;Filton and Bradley Stoke;1;3;4;6;7;7
+England;Finchley and Golders Green;3;4;6;2;2;7
+England;Folkestone and Hythe;3;6;2;1;2;7
+England;Forest of Dean;3;5;1;2;2;1
+England;Fylde;6;5;6;8;9;3
+England;Gainsborough;2;3;3;1;3;3
+England;Garston and Halewood;1;5;2;2;3;3
+England;Gateshead;1;6;3;2;6;6
+England;Gedling;5;4;5;4;1;3
+England;Gillingham and Rainham;0;1;1;2;0;0
+England;Gloucester;11;4;9;10;9;4
+England;Gosport;10;2;12;10;16;11
+England;Grantham and Stamford;6;3;3;3;3;0
+England;Gravesham;2;2;2;3;2;4
+England;Great Grimsby;11;14;14;11;8;8
+England;Great Yarmouth;2;2;3;6;4;0
+England;Greenwich and Woolwich;3;2;4;6;11;7
+England;Guildford;7;3;5;2;6;4
+England;Hackney North and Stoke Newington;4;9;9;14;10;9
+England;Hackney South and Shoreditch;12;7;14;19;8;10
+England;Halesowen and Rowley Regis;3;2;2;5;0;2
+England;Halifax;4;6;4;2;5;5
+England;Haltemprice and Howden;6;5;2;3;7;8
+England;Halton;2;0;3;7;2;3
+England;Hammersmith;14;18;8;10;12;10
+England;Hampstead and Kilburn;6;2;4;7;6;3
+England;Harborough;5;3;0;3;3;3
+England;Harlow;4;3;4;3;2;4
+England;Harrogate and Knaresborough;2;2;7;4;4;8
+England;Harrow East;3;1;1;2;0;1
+England;Harrow West;3;2;0;3;1;1
+England;Hartlepool;2;5;2;5;5;5
+England;Harwich and North Essex;7;5;8;1;4;5
+England;Hastings and Rye;4;3;7;6;3;5
+England;Havant;7;3;3;7;11;4
+England;Hayes and Harlington;2;2;5;1;5;5
+England;Hazel Grove;1;5;3;2;2;1
+England;Hemel Hempstead;6;4;4;2;2;4
+England;Hemsworth;2;2;3;2;5;2
+England;Hendon;3;1;3;2;1;2
+England;Henley;2;6;7;7;4;6
+England;Hereford and South Herefordshire;2;3;8;1;7;3
+England;Hertford and Stortford;4;2;4;3;5;1
+England;Hertsmere;0;5;4;7;6;2
+England;Hexham;4;3;3;4;5;3
+England;Heywood and Middleton;3;1;0;1;2;1
+England;High Peak;5;0;3;5;1;3
+England;Hitchin and Harpenden;3;5;1;9;2;3
+England;Holborn and St Pancras;20;14;19;19;20;22
+England;Hornchurch and Upminster;1;1;2;1;2;0
+England;Hornsey and Wood Green;3;8;3;4;1;9
+England;Horsham;2;3;3;8;2;10
+England;Houghton and Sunderland South;0;3;4;5;1;3
+England;Hove;8;10;8;8;15;7
+England;Huddersfield;6;6;2;5;3;6
+England;Huntingdon;4;4;3;7;9;3
+England;Hyndburn;4;4;2;3;5;5
+England;Ilford North;3;2;1;0;4;1
+England;Ilford South;2;1;2;1;4;3
+England;Ipswich;4;5;5;4;5;6
+England;Isle of Wight;2;7;6;7;9;6
+England;Islington North;9;7;8;7;9;9
+England;Islington South and Finsbury;13;12;16;13;13;13
+England;Jarrow;1;4;5;4;0;1
+England;Keighley;4;0;2;1;5;7
+England;Kenilworth and Southam;3;5;11;5;3;7
+England;Kensington;13;18;19;13;14;8
+England;Kettering;2;4;3;3;6;7
+England;Kingston and Surbiton;5;9;4;5;7;5
+England;Kingston Upon Hull East;10;8;10;13;7;13
+England;Kingston Upon Hull North;11;5;9;5;12;6
+England;Kingston Upon Hull West and Hessle;6;13;11;10;14;9
+England;Kingswood;1;1;2;0;2;2
+England;Knowsley;4;5;4;7;3;4
+England;Lancaster and Fleetwood;7;7;8;7;5;7
+England;Leeds Central;6;12;9;10;6;6
+England;Leeds East;4;5;4;2;0;3
+England;Leeds North East;4;2;5;2;7;3
+England;Leeds North West;4;6;5;5;8;7
+England;Leeds West;2;4;8;4;3;5
+England;Leicester East;0;1;2;5;5;3
+England;Leicester South;4;4;5;4;4;5
+England;Leicester West;2;2;4;6;4;9
+England;Leigh;3;2;6;5;1;1
+England;Lewes;5;4;5;5;3;3
+England;Lewisham East;3;3;5;3;2;2
+England;Lewisham West and Penge;4;2;9;2;3;5
+England;Lewisham, Deptford;4;7;5;4;6;8
+England;Leyton and Wanstead;0;3;1;3;3;5
+England;Lichfield;1;2;1;2;0;1
+England;Lincoln;1;6;1;3;8;4
+England;Liverpool, Riverside;6;7;6;6;10;10
+England;Liverpool, Walton;2;4;3;2;1;8
+England;Liverpool, Wavertree;4;1;2;0;4;4
+England;Liverpool, West Derby;7;3;2;2;0;5
+England;Loughborough;4;3;1;4;1;1
+England;Louth and Horncastle;1;1;2;3;5;3
+England;Ludlow;2;1;3;2;1;2
+England;Luton North;2;0;4;2;1;2
+England;Luton South;1;3;1;3;2;1
+England;Macclesfield;4;6;7;8;11;9
+England;Maidenhead;2;4;5;10;5;2
+England;Maidstone and The Weald;0;1;1;2;2;4
+England;Makerfield;5;1;2;5;1;7
+England;Maldon;7;5;6;5;3;2
+England;Manchester Central;7;11;9;8;12;14
+England;Manchester, Gorton;4;5;6;6;7;8
+England;Manchester, Withington;10;3;4;4;6;5
+England;Mansfield;6;7;1;7;5;4
+England;Meon Valley;3;1;3;6;2;6
+England;Meriden;2;2;7;4;1;5
+England;Mid Bedfordshire;2;3;4;2;4;3
+England;Mid Derbyshire;3;2;2;2;4;2
+England;Mid Dorset and North Poole;4;8;3;4;4;7
+England;Mid Norfolk;1;3;5;5;3;1
+England;Mid Sussex;2;5;2;3;2;4
+England;Mid Worcestershire;4;0;2;3;3;3
+England;Middlesbrough;2;3;7;4;4;1
+England;Middlesbrough South and East Cleveland;0;2;4;1;3;0
+England;Milton Keynes North;8;4;1;4;5;3
+England;Milton Keynes South;2;8;3;3;4;2
+England;Mitcham and Morden;5;1;3;6;5;6
+England;Mole Valley;8;4;8;13;8;13
+England;Morecambe and Lunesdale;6;4;4;8;3;5
+England;Morley and Outwood;2;3;3;2;4;4
+England;New Forest East;4;6;10;3;10;6
+England;New Forest West;3;6;5;6;9;8
+England;Newark;7;5;13;9;6;4
+England;Newbury;3;4;9;1;3;3
+England;Newcastle Upon Tyne Central;5;2;4;6;6;4
+England;Newcastle Upon Tyne East;5;5;4;3;6;5
+England;Newcastle Upon Tyne North;5;2;3;3;5;5
+England;Newcastle-under-Lyme;3;2;2;0;1;1
+England;Newton Abbot;1;3;2;1;1;3
+England;Normanton, Pontefract and Castleford;3;3;2;5;7;8
+England;North Cornwall;1;0;0;0;1;1
+England;North Devon;2;0;3;3;2;7
+England;North Dorset;0;2;1;2;1;3
+England;North Durham;1;1;2;1;4;0
+England;North East Bedfordshire;3;3;7;3;4;5
+England;North East Cambridgeshire;7;7;7;3;9;10
+England;North East Derbyshire;5;0;3;4;2;2
+England;North East Hampshire;4;3;6;4;1;7
+England;North East Hertfordshire;6;3;2;2;8;5
+England;North East Somerset;1;3;2;1;1;5
+England;North Herefordshire;2;1;0;3;1;1
+England;North Norfolk;2;2;3;6;3;3
+England;North Shropshire;3;3;6;1;0;4
+England;North Somerset;1;2;4;2;2;4
+England;North Swindon;9;2;2;0;7;9
+England;North Thanet;3;4;2;3;3;4
+England;North Tyneside;1;5;6;3;4;1
+England;North Warwickshire;4;5;2;5;3;5
+England;North West Cambridgeshire;6;6;3;4;3;6
+England;North West Durham;1;1;3;1;1;0
+England;North West Hampshire;5;7;6;7;3;2
+England;North West Leicestershire;3;4;2;2;1;0
+England;North West Norfolk;4;3;1;4;6;3
+England;North Wiltshire;4;2;1;1;2;3
+England;Northampton North;4;8;2;5;1;1
+England;Northampton South;1;4;2;2;1;1
+England;Norwich North;5;7;4;5;4;2
+England;Norwich South;7;6;5;4;8;9
+England;Nottingham East;4;3;8;8;7;11
+England;Nottingham North;9;8;6;7;10;3
+England;Nottingham South;13;15;13;13;12;10
+England;Nuneaton;2;2;7;3;2;2
+England;Old Bexley and Sidcup;2;1;4;1;4;1
+England;Oldham East and Saddleworth;1;1;1;4;1;4
+England;Oldham West and Royton;2;4;3;5;2;0
+England;Orpington;0;3;4;3;1;1
+England;Oxford East;10;24;11;14;21;18
+England;Oxford West and Abingdon;5;12;14;12;15;25
+England;Pendle;2;1;0;2;2;5
+England;Penistone and Stocksbridge;5;2;4;0;1;5
+England;Penrith and The Border;8;5;2;1;5;7
+England;Peterborough;8;4;12;12;7;9
+England;Plymouth, Moor View;1;2;1;4;4;1
+England;Plymouth, Sutton and Devonport;1;2;2;6;1;2
+England;Poole;9;6;3;9;10;10
+England;Poplar and Limehouse;2;5;5;4;5;5
+England;Portsmouth North;9;8;9;10;11;13
+England;Portsmouth South;11;3;4;6;13;14
+England;Preston;6;7;7;8;4;6
+England;Pudsey;2;3;3;3;5;2
+England;Putney;6;3;12;7;7;6
+England;Rayleigh and Wickford;1;6;5;3;4;4
+England;Reading East;4;7;2;6;6;8
+England;Reading West;1;0;4;1;3;1
+England;Redcar;2;2;4;4;1;3
+England;Redditch;3;0;2;1;2;1
+England;Reigate;9;5;5;8;10;7
+England;Ribble Valley;6;11;5;9;5;8
+England;Richmond (Yorks);6;4;12;3;4;3
+England;Richmond Park;6;4;13;9;17;10
+England;Rochdale;1;2;2;1;3;1
+England;Rochester and Strood;0;5;1;5;3;5
+England;Rochford and Southend East;4;2;6;3;11;5
+England;Romford;1;2;1;1;2;2
+England;Romsey and Southampton North;1;2;3;7;4;10
+England;Rossendale and Darwen;2;6;2;1;9;4
+England;Rother Valley;0;2;4;2;3;0
+England;Rotherham;3;2;5;2;2;0
+England;Rugby;6;4;7;7;3;1
+England;Ruislip, Northwood and Pinner;3;1;1;3;1;3
+England;Runnymede and Weybridge;5;6;3;4;9;14
+England;Rushcliffe;3;5;5;9;6;7
+England;Rutland and Melton;5;2;4;6;3;1
+England;Saffron Walden;4;4;7;6;3;2
+England;Salford and Eccles;2;2;1;4;6;6
+England;Salisbury;6;1;5;6;6;5
+England;Scarborough and Whitby;2;10;3;8;7;2
+England;Scunthorpe;7;7;9;12;7;5
+England;Sedgefield;3;5;1;4;2;2
+England;Sefton Central;2;1;2;1;0;4
+England;Selby and Ainsty;2;6;9;9;5;4
+England;Sevenoaks;1;1;1;3;6;4
+England;Sheffield Central;7;15;9;6;8;8
+England;Sheffield South East;5;3;3;6;1;3
+England;Sheffield, Brightside and Hillsborough;2;8;5;2;5;2
+England;Sheffield, Hallam;4;6;3;3;5;2
+England;Sheffield, Heeley;3;2;2;3;4;3
+England;Sherwood;7;3;10;6;2;3
+England;Shipley;6;4;1;8;3;3
+England;Shrewsbury and Atcham;10;2;4;1;4;4
+England;Sittingbourne and Sheppey;2;2;3;2;5;0
+England;Skipton and Ripon;5;2;2;7;8;9
+England;Sleaford and North Hykeham;1;2;4;4;5;8
+England;Slough;3;10;7;9;2;5
+England;Solihull;3;0;1;1;5;3
+England;Somerton and Frome;2;3;3;2;5;4
+England;South Basildon and East Thurrock;3;3;2;0;0;4
+England;South Cambridgeshire;9;8;9;11;13;11
+England;South Derbyshire;1;6;3;4;8;3
+England;South Dorset;0;4;2;2;1;7
+England;South East Cambridgeshire;3;5;8;7;11;11
+England;South East Cornwall;3;0;1;1;0;2
+England;South Holland and The Deepings;2;1;4;2;3;4
+England;South Leicestershire;3;3;3;3;0;3
+England;South Norfolk;2;3;3;4;2;3
+England;South Northamptonshire;2;2;3;3;2;2
+England;South Ribble;5;11;3;11;10;7
+England;South Shields;4;6;2;3;2;3
+England;South Staffordshire;2;2;5;1;1;5
+England;South Suffolk;2;2;2;4;2;2
+England;South Swindon;4;4;6;8;7;5
+England;South Thanet;5;2;0;1;4;2
+England;South West Bedfordshire;2;3;2;3;3;5
+England;South West Devon;3;3;2;4;3;3
+England;South West Hertfordshire;6;7;7;6;7;5
+England;South West Norfolk;3;3;2;3;4;0
+England;South West Surrey;5;1;4;4;7;8
+England;South West Wiltshire;6;4;5;5;3;3
+England;Southampton, Itchen;8;5;6;9;13;9
+England;Southampton, Test;8;10;10;9;12;15
+England;Southend West;4;4;5;3;4;7
+England;Southport;3;3;4;6;5;7
+England;Spelthorne;5;6;8;3;5;12
+England;St Albans;10;7;8;2;9;6
+England;St Austell and Newquay;2;1;1;0;3;1
+England;St Helens North;5;2;3;4;2;3
+England;St Helens South and Whiston;4;4;2;2;1;2
+England;St Ives;1;2;2;0;2;3
+England;Stafford;3;2;3;6;2;2
+England;Staffordshire Moorlands;1;1;1;4;2;1
+England;Stalybridge and Hyde;3;2;1;2;2;2
+England;Stevenage;4;2;6;0;2;7
+England;Stockport;5;6;1;2;2;3
+England;Stockton North;2;5;6;5;5;2
+England;Stockton South;3;6;4;4;4;3
+England;Stoke-On-Trent Central;3;3;3;1;1;3
+England;Stoke-On-Trent North;2;0;1;1;0;3
+England;Stoke-On-Trent South;3;0;0;2;2;1
+England;Stone;4;2;2;1;2;1
+England;Stourbridge;0;1;1;4;2;3
+England;Stratford-On-Avon;3;5;3;3;4;4
+England;Streatham;3;2;10;3;6;3
+England;Stretford and Urmston;3;3;5;6;9;7
+England;Stroud;3;2;3;3;3;3
+England;Suffolk Coastal;4;3;3;4;2;7
+England;Sunderland Central;4;2;4;2;5;4
+England;Surrey Heath;4;8;7;2;6;4
+England;Sutton and Cheam;5;3;1;4;1;4
+England;Sutton Coldfield;1;1;1;3;2;5
+England;Tamworth;3;4;2;0;1;3
+England;Tatton;6;12;3;9;1;12
+England;Taunton Deane;10;8;6;4;2;9
+England;Telford;2;2;3;1;3;4
+England;Tewkesbury;4;1;4;6;8;4
+England;The Cotswolds;2;3;3;3;4;6
+England;The Wrekin;5;1;1;1;2;3
+England;Thirsk and Malton;6;8;5;4;3;6
+England;Thornbury and Yate;2;0;1;5;2;2
+England;Thurrock;3;1;7;4;0;6
+England;Tiverton and Honiton;0;1;1;4;1;2
+England;Tonbridge and Malling;2;3;0;3;5;5
+England;Tooting;8;4;12;11;9;6
+England;Torbay;0;2;1;2;2;2
+England;Torridge and West Devon;2;4;0;1;2;2
+England;Totnes;1;1;3;1;3;1
+England;Tottenham;3;5;3;4;5;6
+England;Truro and Falmouth;0;0;1;2;2;1
+England;Tunbridge Wells;2;3;5;2;5;2
+England;Twickenham;7;6;7;6;5;10
+England;Tynemouth;1;3;3;1;10;3
+England;Uxbridge and South Ruislip;4;3;4;2;2;2
+England;Vauxhall;16;23;21;15;20;29
+England;Wakefield;5;4;9;4;10;5
+England;Wallasey;6;8;1;4;3;5
+England;Walsall North;5;5;1;3;5;5
+England;Walsall South;1;4;2;0;1;0
+England;Walthamstow;2;3;5;8;6;6
+England;Wansbeck;3;4;2;2;7;4
+England;Wantage;3;7;6;2;6;3
+England;Warley;1;2;4;1;2;1
+England;Warrington North;5;4;2;8;3;8
+England;Warrington South;4;2;9;7;12;4
+England;Warwick and Leamington;8;5;4;3;5;2
+England;Washington and Sunderland West;8;4;1;2;9;4
+England;Watford;4;2;7;7;3;5
+England;Waveney;7;4;5;4;6;4
+England;Wealden;5;3;2;6;7;2
+England;Weaver Vale;5;5;5;4;1;0
+England;Wellingborough;6;7;2;4;1;5
+England;Wells;1;4;3;1;4;1
+England;Welwyn Hatfield;8;5;10;9;5;2
+England;Wentworth and Dearne;1;2;0;2;0;0
+England;West Bromwich East;0;3;2;1;2;1
+England;West Bromwich West;2;2;5;5;0;1
+England;West Dorset;2;2;1;4;3;9
+England;West Ham;3;6;6;7;5;10
+England;West Lancashire;4;6;4;2;4;11
+England;West Suffolk;1;3;2;5;3;3
+England;West Worcestershire;5;4;3;4;2;1
+England;Westminster North;10;7;16;12;9;9
+England;Westmorland and Lonsdale;3;1;9;2;3;3
+England;Weston-Super-Mare;6;3;4;4;1;4
+England;Wigan;2;6;9;4;4;2
+England;Wimbledon;6;6;7;3;2;4
+England;Winchester;5;5;5;4;3;2
+England;Windsor;4;5;7;6;5;3
+England;Wirral South;2;6;2;2;5;3
+England;Wirral West;1;0;5;1;4;2
+England;Witham;7;1;3;2;1;3
+England;Witney;2;2;3;5;3;5
+England;Woking;4;5;9;5;8;11
+England;Wokingham;2;2;5;3;4;3
+England;Wolverhampton North East;2;0;5;0;3;4
+England;Wolverhampton South East;6;2;1;1;2;5
+England;Wolverhampton South West;5;3;3;3;3;5
+England;Worcester;4;3;3;1;1;1
+England;Workington;0;3;0;2;0;3
+England;Worsley and Eccles South;4;5;4;3;2;5
+England;Worthing West;10;4;7;5;6;8
+England;Wycombe;2;4;3;3;2;5
+England;Wyre and Preston North;9;6;8;8;10;3
+England;Wyre Forest;5;2;5;3;6;1
+England;Wythenshawe and Sale East;4;4;1;0;2;6
+England;Yeovil;3;0;1;8;1;8
+England;York Central;4;7;5;10;7;7
+England;York Outer;7;6;3;7;5;6
+Scotland;Aberdeen North;1;1;1;7;3;5
+Scotland;Aberdeen South;1;1;1;6;9;1
+Scotland;Airdrie and Shotts;0;1;1;2;2;0
+Scotland;Angus;3;6;2;2;3;1
+Scotland;Argyll and Bute;3;4;2;4;1;1
+Scotland;Ayr, Carrick and Cumnock;1;1;3;4;1;2
+Scotland;Banff and Buchan;1;2;1;2;1;1
+Scotland;Berwickshire, Roxburgh and Selkirk;4;2;5;1;3;2
+Scotland;Caithness, Sutherland and Easter Ross;4;1;0;0;0;1
+Scotland;Central Ayrshire;2;2;1;3;2;1
+Scotland;Coatbridge, Chryston and Bellshill;1;0;3;1;1;0
+Scotland;Cumbernauld, Kilsyth and Kirkintilloch East;2;1;0;1;1;1
+Scotland;Dumfries and Galloway;3;1;8;2;3;3
+Scotland;Dumfriesshire, Clydesdale and Tweeddale;2;4;1;1;3;5
+Scotland;Dundee East;2;4;0;5;3;1
+Scotland;Dundee West;4;1;3;4;5;3
+Scotland;Dunfermline and West Fife;0;4;2;3;1;0
+Scotland;East Dunbartonshire;0;4;0;0;2;1
+Scotland;East Kilbride, Strathaven and Lesmahagow;1;1;3;2;1;1
+Scotland;East Lothian;2;2;6;1;2;5
+Scotland;East Renfrewshire;2;0;0;3;0;7
+Scotland;Edinburgh East;9;4;8;6;10;7
+Scotland;Edinburgh North and Leith;7;12;6;9;11;9
+Scotland;Edinburgh South;2;3;6;5;5;4
+Scotland;Edinburgh South West;4;2;6;3;4;6
+Scotland;Edinburgh West;7;5;5;6;4;5
+Scotland;Na h-Eileanan an Iar;1;0;0;1;1;1
+Scotland;Falkirk;5;6;3;3;4;2
+Scotland;Glasgow Central;5;5;8;7;4;8
+Scotland;Glasgow East;2;0;0;2;1;1
+Scotland;Glasgow North;3;1;4;3;1;1
+Scotland;Glasgow North East;0;1;1;3;4;2
+Scotland;Glasgow North West;1;2;1;3;3;6
+Scotland;Glasgow South;2;4;1;1;1;2
+Scotland;Glasgow South West;2;2;4;4;2;0
+Scotland;Glenrothes;1;1;1;2;1;1
+Scotland;Gordon;0;0;3;2;3;3
+Scotland;Inverclyde;0;3;1;3;0;1
+Scotland;Inverness, Nairn, Badenoch and Strathspey;3;2;6;4;0;3
+Scotland;Kilmarnock and Loudoun;3;0;1;1;1;2
+Scotland;Kirkcaldy and Cowdenbeath;0;2;4;2;1;0
+Scotland;Lanark and Hamilton East;2;0;3;1;1;0
+Scotland;Linlithgow and East Falkirk;4;2;3;2;5;3
+Scotland;Livingston;0;6;1;1;2;4
+Scotland;Midlothian;4;3;2;2;5;2
+Scotland;Moray;4;3;1;2;3;0
+Scotland;Motherwell and Wishaw;0;0;2;0;0;0
+Scotland;North Ayrshire and Arran;1;4;1;2;1;1
+Scotland;North East Fife;4;3;5;0;4;1
+Scotland;Ochil and South Perthshire;0;2;0;5;4;6
+Scotland;Orkney and Shetland;1;0;2;0;0;1
+Scotland;Paisley and Renfrewshire North;1;2;1;5;2;6
+Scotland;Paisley and Renfrewshire South;0;6;0;1;2;5
+Scotland;Perth and North Perthshire;4;3;3;3;0;2
+Scotland;Ross, Skye and Lochaber;2;2;3;3;1;1
+Scotland;Rutherglen and Hamilton West;0;1;2;1;1;2
+Scotland;Stirling;1;3;5;4;9;2
+Scotland;West Aberdeenshire and Kincardine;3;1;3;3;7;3
+Scotland;West Dunbartonshire;4;2;0;3;1;0
+Wales;Aberavon;4;2;1;1;4;0
+Wales;Aberconwy;0;4;4;1;2;0
+Wales;Alyn and Deeside;1;1;3;8;4;2
+Wales;Arfon;1;0;1;1;2;2
+Wales;Blaenau Gwent;5;2;1;0;0;1
+Wales;Brecon and Radnorshire;3;0;1;0;1;0
+Wales;Bridgend;4;3;1;2;2;3
+Wales;Caerphilly;1;1;0;2;2;1
+Wales;Cardiff Central;6;4;4;4;5;4
+Wales;Cardiff North;0;4;2;1;0;3
+Wales;Cardiff South and Penarth;2;6;3;2;3;5
+Wales;Cardiff West;1;2;3;2;3;3
+Wales;Carmarthen East and Dinefwr;1;2;1;1;4;2
+Wales;Carmarthen West and Pembrokeshire South;2;1;5;1;1;1
+Wales;Ceredigion;1;2;1;0;2;2
+Wales;Clwyd South;1;2;0;2;5;1
+Wales;Clwyd West;2;4;2;0;4;4
+Wales;Cynon Valley;1;0;1;1;2;1
+Wales;Delyn;0;2;3;1;3;3
+Wales;Dwyfor Meirionnydd;0;0;0;1;1;4
+Wales;Gower;2;1;0;2;1;2
+Wales;Islwyn;1;3;3;3;1;0
+Wales;Llanelli;2;0;1;4;4;1
+Wales;Merthyr Tydfil and Rhymney;4;1;1;0;0;0
+Wales;Monmouth;2;2;2;2;4;0
+Wales;Montgomeryshire;0;3;1;2;3;0
+Wales;Neath;0;1;2;1;1;1
+Wales;Newport East;1;3;2;2;1;1
+Wales;Newport West;2;0;4;2;4;0
+Wales;Ogmore;2;1;2;0;0;1
+Wales;Pontypridd;0;1;1;1;1;1
+Wales;Preseli Pembrokeshire;0;3;6;0;1;3
+Wales;Rhondda;0;3;1;1;0;0
+Wales;Swansea East;1;3;5;3;1;2
+Wales;Swansea West;2;3;3;1;1;4
+Wales;Torfaen;1;3;1;0;2;2
+Wales;Vale Of Clwyd;2;1;3;3;2;4
+Wales;Vale Of Glamorgan;1;3;1;1;2;1
+Wales;Wrexham;0;0;3;5;3;2
+Wales;Ynys Môn;3;0;1;1;2;1
