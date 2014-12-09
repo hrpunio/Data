@@ -1,0 +1,9 @@
+Dane (plik PDF) pobrane ze strony:
+http://www.sejm.gov.pl/sejm7.nsf/komunikat.xsp?documentId=9863B4EE283C6481C1257D8E004F49D2
+
+Zamienione na format arkusza: http://online2pdf.com/pdf2excel
+
+Oczyszczone
+
+Posel;Nrwniosku;Kosztytransportu;Kosztydiet";Kosztyhoteli;Dojazdy;Ubezpieczenie;Wydatkowanyfundusz;Różnicekursowe;Nierozlicz.zaliczki;Łącznykosztwyjazdu
+
