@@ -1,0 +1,24 @@
+Wybory prezydenckie w PL 2015
+Szczegółowe dane dla 27817 obwodowych komisji wyborczych. 
+Pobrane ze strony pkw.gov.pl
+
+Polish presidential elections 2015
+Detailed data from 27817 electoral districts (source pkw.gov.pl).
+
+Zauważone problemy/Problems:
+---------------------------
+
+Druga tura:
+
+14183 -- nie ma takiej komisji (a przynajmniej danych na pkw.gov)
+
+Jest manko względem tego co podaje PKW -:(
+
+awk -F';' '{k += $14; d+=$15}; END { print k " " d}' wybory2015.csv
+8630571 8112263
+
+8630627 - 8630571 = 56 różnica (Duda)
+8112263 - 8112311 = 48 różnica (Bul)
+
+
+
