@@ -1,5 +1,5 @@
 Wybory prezydenckie w PL 2015
-Szczegółowe dane dla 27817 obwodowych komisji wyborczych. 
+Szczegółowe dane dla 27817 obwodowych komisji wyborczych.
 Pobrane ze strony pkw.gov.pl
 
 Polish presidential elections 2015
@@ -9,16 +9,62 @@ Zauważone problemy/Problems:
 ---------------------------
 
 Druga tura:
-
+===========
 14183 -- nie ma takiej komisji (a przynajmniej danych na pkw.gov)
+http://prezydent2015.pkw.gov.pl/327_protokol_komisji_obwodowej/14183
 
-Jest manko względem tego co podaje PKW -:(
+Jest manko względem tegp co podaje PKW:
 
 awk -F';' '{k += $14; d+=$15}; END { print k " " d}' wybory2015.csv
 8630571 8112263
 
 8630627 - 8630571 = 56 różnica (Duda)
-8112263 - 8112311 = 48 różnica (Bul)
+8112263 - 8112311 = 48 różnica (Komorowski)
 
+Problem jest w woj. mazowieckim [w nawiasie kwadratowym różnica między PKW a pobranym danymi):
+http://prezydent2015.pkw.gov.pl/325_Ponowne_glosowanie
+---------------------------------
+perl pkw2015-summary.pl wybory2015-2.csv
 
+świętokrzyskie 203376 203376 [0] 328202 328202 [0]
+opolskie 217370 217370 [0] 159545 159545 [0]
+śląskie 1008849 1008849 [0] 961706 961706 [0]
+dolnośląskie 662381 662381 [0] 554269 554269 [0]
+zachodniopomorskie 408121 408121 [0] 271086 271086 [0]
+pomorskie 591373 591373 [0] 397943 397943 [0]
+mazowieckie 1255708 1255756 [-48] 1448791 1448847 [-56]
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+łódzkie 523359 523359 [0] 608325 608325 [0]
+lubuskie 234764 234764 [0] 155481 155481 [0]
+wielkopolskie 867404 867404 [0] 617184 617184 [0]
+małopolskie 583182 583182 [0] 955102 955102 [0]
+kujawsko-pomorskie 475177 475177 [0] 366053 366053 [0]
+podlaskie 199412 199412 [0] 290681 290681 [0]
+podkarpackie 266656 266656 [0] 665377 665377 [0]
+warmińsko-mazurskie 303754 303754 [0] 236314 236314 [0]
+lubelskie 311377 311377 [0] 614512 614512 [0]
 
+Zagranica/mazowieckie:
+----------------------
+Wszystkie powiaty woj. mazowieckiego są OK (
+Problem jest z głosami dopisywanym z zagranicy (na pkw oddzielna strona,
+dopisywana do wyników woj mazowieckiego):
+
+Liczone z zagranicą:  Mazowsze: Komorowski/Duda: 1255708 1448791
+Liczone bz zagranicy: Mazowsze: Komorowski/Duda: 1185956 1360240
+Zagranica wg pobranych danych:                     69752   88551
+Zagranica wg PKW*                                  69845   88654 
+Różnica wg PKW			                     -93    -103
+Różnica wg pobranych danych                          -48     -56
+* http://prezydent2015.pkw.gov.pl/326_Wyniki_zagranica
+
+Reasumując na strone:
+http://prezydent2015.pkw.gov.pl/325_Ponowne_glosowanie
+manko wynosi -48/-56
+A na stronie http://prezydent2015.pkw.gov.pl/325_Ponowne_glosowanie/14 +
+   http://prezydent2015.pkw.gov.pl/326_Wyniki_zagranica
+   
+Zagranica/mazowieckie -93/-103
+
+manko jest inne (ciekawostka)
+---------------------------
