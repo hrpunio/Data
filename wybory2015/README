@@ -51,12 +51,21 @@ Problem jest z głosami dopisywanym z zagranicy (na pkw oddzielna strona,
 dopisywana do wyników woj mazowieckiego):
 
 Liczone z zagranicą:  Mazowsze: Komorowski/Duda: 1255708 1448791
+Liczone z zagr wg PKW Mazowsze: Komorowski/Duda: 1255756 1448847 
 Liczone bz zagranicy: Mazowsze: Komorowski/Duda: 1185956 1360240
 Zagranica wg pobranych danych:                     69752   88551
 Zagranica wg PKW*                                  69845   88654 
 Różnica wg PKW			                     -93    -103
 Różnica wg pobranych danych                          -48     -56
 * http://prezydent2015.pkw.gov.pl/326_Wyniki_zagranica
+
+mazowieckie suma powiatów (http://prezydent2015.pkw.gov.pl/325_Ponowne_glosowanie/14):
+------------------------
+(Duda) = 1360240  + 88654  = 1448894 (powinno być)
+różnica -47
+----------
+Komorowski pewnie to samo (nie chce mi się liczyć
+
 
 Reasumując na stronie:
 http://prezydent2015.pkw.gov.pl/325_Ponowne_glosowanie
