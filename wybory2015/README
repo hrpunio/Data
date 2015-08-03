@@ -13,7 +13,7 @@ Druga tura:
 14183 -- nie ma takiej komisji (a przynajmniej danych na pkw.gov)
 http://prezydent2015.pkw.gov.pl/327_protokol_komisji_obwodowej/14183
 
-Jest manko względem tegp co podaje PKW:
+Jest manko względem tego co podaje PKW:
 
 awk -F';' '{k += $14; d+=$15}; END { print k " " d}' wybory2015.csv
 8630571 8112263
@@ -58,9 +58,10 @@ Różnica wg PKW			                     -93    -103
 Różnica wg pobranych danych                          -48     -56
 * http://prezydent2015.pkw.gov.pl/326_Wyniki_zagranica
 
-Reasumując na strone:
+Reasumując na stronie:
 http://prezydent2015.pkw.gov.pl/325_Ponowne_glosowanie
 manko wynosi -48/-56
+
 A na stronie http://prezydent2015.pkw.gov.pl/325_Ponowne_glosowanie/14 +
    http://prezydent2015.pkw.gov.pl/326_Wyniki_zagranica
    
