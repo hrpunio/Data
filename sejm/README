@@ -1,0 +1,53 @@
+OPIS DANYCH
+===========
+
+------------
+Sejm_7_u.csv
+------------
+Zmienne:
+
+id;plec;imię i nazwisko;data urodzenia;wiek;miejsce urodzenia;wsp;partia;liczba głosów;zawod;nr okregu;nazwa okregu
+id -- kolejny numer
+plec -- plec K/M
+imię i nazwisko, data urodzenia, miejsce urodzenia, nr okregu;nazwa okregu -- wiadomo
+wiek -- wiek w latach w roku 2011 (w roku wyboru)
+wsp -- współrzędne miejsca urodzenia (długość szerokość geograficzna)
+partia -- partia
+liczba głosów -- liczba oddanych na kandydata głosów
+zawód -- wykonywany zawód
+
+
+-------------------------
+Sejm_6,5,4,3,2,1,0_u.csv:
+-------------------------
+Zmienne:
+
+imię i nazwisko;data urodzenia;miejsce urodzenia;partia;nr okregu i nazwa okregu;liczba głosów;płeć 
+
+------------------
+sejm7_wg_stazu.csv
+------------------
+Zmienne:
+
+imię i nazwisko;rok urodzenia;partia;liczba kadencji
+
+liczba kadencji -- liczba kadencji na które wybrano posła łącznie z kadencją #7 (czyli najmniejsza
+możlwa wartość to 1 a największa 7)
+
+------
+Uwaga:
+------
+
+Poszczególne kadencje Sejmu zostały wyłonione w wyborach, które odbyły się w następujących latach
+
+Kadencja   = Rok
+-----------------
+7 kadencja = 2011
+6 kadencja = 2007
+5 kadencja = 2005
+4 kadencja = 2001
+3 kadencja = 1997
+2 kadencja = 1993
+1 kadencja = 1991
+
+=== koniec ===
