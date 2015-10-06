@@ -1,0 +1,11 @@
+Numer ; Nazwa ; Mandaty
+1 ; Komitet Wyborczy Samoobrona Rzeczpospolitej Polskiej ; 0
+2 ; Komitet Wyborczy Polska Partia Pracy ; 0
+3 ; Komitet Wyborczy Liga Polskich Rodzin ; 0
+4 ; Komitet Wyborczy Prawo i Sprawiedliwość ; 166
+5 ; Komitet Wyborczy Platforma Obywatelska RP ; 209
+6 ; Komitet Wyborczy Polskiego Stronnictwa Ludowego ; 31
+7 ; Koalicyjny Komitet Wyborczy Lewica i Demokraci SLD+SDPL+PD+UP ; 53
+8 ; Komitet Wyborczy Partii Kobiet ; 0
+9 ; Komitet Wyborczy Samoobrona Patriotyczna ; 0
+10 ; Komitet Wyborczy Wyborców "Mniejszość Niemiecka" ; 1
