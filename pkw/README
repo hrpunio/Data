@@ -1,0 +1,12 @@
+Dane dotyczące wyborów
+----------------------
+
+okreg;komitet -- okręg wyborczy/numer komitetu
+numer -- numer kandydata na liście
+kandydat -- imię/nazwisko
+url -- URL do strony ze szczegółowymi danymi (http://wybory2011.pkw.gov.pl/)
+glosy -- liczba głowsów na kandydata
+procent/procent.lista -- procent oddanych głosów (na listę)
+procent.all -- procent oddanych głosów w okręgu wyborczym
+wynik -- jeżeli wybrany PX albo NX jeżeli nie wybrany
+
