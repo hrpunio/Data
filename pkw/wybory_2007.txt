@@ -1,0 +1,12 @@
+Liczba kandydatów wg komitetów
+PiS;http://www.wybory2007.pkw.gov.pl/SJM/PL/KOMITETY/k4.htm;918
+PO;http://www.wybory2007.pkw.gov.pl/SJM/PL/KOMITETY/k5.htm;910
+SLD;http://www.wybory2007.pkw.gov.pl/SJM/PL/KOMITETY/k7.htm;889
+PSL;http://www.wybory2007.pkw.gov.pl/SJM/PL/KOMITETY/k6.htm;920
+MnN;http://www.wybory2007.pkw.gov.pl/SJM/PL/KOMITETY/k10.htm;21
+Razem: 3658
+
+http://www.wybory2007.pkw.gov.pl/SJM/PL/WYN/W/index.htm
+Samoobrona Rzeczpospolitej Polskiej: 1.53% (247335 głosów)
+Liga Polskich Rodzin: 1.30% (209171 głosów)
+Polska Partia Pracy: 0.99 (160476 głosów)

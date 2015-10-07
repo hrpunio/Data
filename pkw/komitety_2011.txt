@@ -1,4 +1,4 @@
-numer;komitet;stan
+numer;komitet;stan (http://wybory2011.pkw.gov.pl/kom/pl/komitety.html)
 1 ;  Komitet Wyborczy Prawo i Sprawiedliwość ; Zarejestrowana
 10 ;  Komitet Wyborczy Prawica - Zarejestrowana
 11 ;  Komitet Wyborczy Wyborców Mniejszość Niemiecka ; Zarejestrowana
