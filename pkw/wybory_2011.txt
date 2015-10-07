@@ -1,0 +1,13 @@
+1;PrawoiSprawiedliwość;41;916;93
+2;PolskaJestNajważniejsza;41;786;13
+3;SLD;41;913;68
+4;RuchPalikota;41;860;x
+5;PolskieStronnictwoLudowe;41;917;68
+6;PolskaPartiaPracy-Sierpień80;41;774;14
+7;PlatformaObywatelskaRP;41;915;93
+8;NDP-SamoobronaLeppera;9;165;3
+9;NowaPrawica-JanuszaKorwin-Mikke;21;387;10
+10;Prawica;20;378;9
+11;MniejszośćNiemiecka;1;24;2
+
+Razem=7035 kandydatów
