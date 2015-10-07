@@ -1,0 +1,20 @@
+Pozycja na liście a liczba zdobytych mandatów (mediana,
+tylko kandydaci partii, które zdobyły mandaty)
+
+Pozycja         2005      2007      2011       2015
+---------------------------------------------------
+1               9683     23755     13521
+2               3981      8365      6116
+3               2592      6051      3456
+4               1816      4935      2479
+5               1514      3419      1860
+---------------------------------------------------
+N               5148      3654      4545
+Frekwencja     40.57     53.88     48.92
+L.wyd.kart  12263640  16495045  15050027*
+---------------------------------------------------
+* Liczba kart ważnych
+
+http://wybory2011.pkw.gov.pl/wyn/pl/000000.html#tabs-1
+http://wybory2007.pkw.gov.pl/SJM/PL/WYN/F/index.htm
+http://www.wybory2005.pkw.gov.pl/SJM/PL/WYN/F/index.htm
