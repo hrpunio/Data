@@ -1,4 +1,4 @@
-Pozycja na liście a liczba zdobytych mandatów (mediana,
+Pozycja na liście a liczba zdobytych głosów (mediana,
 tylko kandydaci partii, które zdobyły mandaty)
 
 Pozycja         2005      2007      2011       2015
