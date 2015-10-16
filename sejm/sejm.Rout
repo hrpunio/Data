@@ -1,0 +1,45 @@
+
+R version 3.2.2 (2015-08-14) -- "Fire Safety"
+Copyright (C) 2015 The R Foundation for Statistical Computing
+Platform: x86_64-redhat-linux-gnu (64-bit)
+
+R jest oprogramowaniem darmowym i dostarczany jest BEZ JAKIEJKOLWIEK GWARANCJI.
+Możesz go rozpowszechniać pod pewnymi warunkami.
+Wpisz 'license()' lub 'licence()' aby uzyskać szczegóły dystrybucji.
+
+R jest projektem kolaboracyjnym z wieloma uczestnikami.
+Wpisz 'contributors()' aby uzyskać więcej informacji oraz
+'citation()' aby dowiedzieć się jak cytować R lub pakiety R w publikacjach.
+
+Wpisz 'demo()' aby zobaczyć demo, 'help()' aby uzyskać pomoc on-line, lub
+'help.start()' aby uzyskać pomoc w przeglądarce HTML.
+Wpisz 'q()' aby wyjść z R.
+
+[Poprzednio zapisany obszar roboczy został przywrócony]
+
+> poslowie <- read.csv("Sejm1-7.csv", sep = ';',  header=T, na.string="NA");
+> 
+> boxplot (wiek ~ kadencja, poslowie, xlab = "Kadencja", ylab = "Wiek", col='yellow')
+> 
+> aggregate (poslowie$wiek, list(Kadencja = poslowie$kadencja), fivenum)
+  Kadencja  x.1  x.2  x.3  x.4  x.5
+1     1991 22.0 37.0 43.0 49.0 70.0
+2     1993 24.0 39.0 45.0 50.0 74.0
+3     1997 23.0 40.5 46.0 51.0 72.0
+4     2001 26.0 43.0 49.0 54.0 78.0
+5     2005 23.0 41.0 47.0 53.0 67.0
+6     2007 22.0 41.0 48.0 54.0 78.0
+7     2011 23.0 41.0 50.0 56.0 71.0
+> aggregate (poslowie$wiek, list(Kadencja = poslowie$kadencja), na.rm=TRUE, mean)
+  Kadencja        x
+1     1991 43.19438
+2     1993 45.21535
+3     1997 46.42500
+4     2001 48.28221
+5     2005 46.55230
+6     2007 47.32948
+7     2011 48.72727
+> 
+> proc.time()
+użytkownik     system   upłynęło 
+     0.368      0.024      0.380 
