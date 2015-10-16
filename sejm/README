@@ -58,14 +58,17 @@ Uwaga:
 
 Poszczególne kadencje Sejmu zostały wyłonione w wyborach, które odbyły się w następujących latach
 
-Kadencja   = Rok
------------------
-7 kadencja = 2011
-6 kadencja = 2007
-5 kadencja = 2005
-4 kadencja = 2001
-3 kadencja = 1997
-2 kadencja = 1993
-1 kadencja = 1991
+Kadencja   = Rok  #Posłów
+------------------------
+7 kadencja = 2011   460
+6 kadencja = 2007   520 (łącznie z posłami wybranymi w trakcie kadencji)
+5 kadencja = 2005   478 (ditto)
+4 kadencja = 2001   489 (ditto)
+3 kadencja = 1997   482 (ditto)
+2 kadencja = 1993   477 (ditto)
+1 kadencja = 1991   463
+0 kadencja = 1989   460
+RAZEM         x    4290 
+
 
 === koniec ===
