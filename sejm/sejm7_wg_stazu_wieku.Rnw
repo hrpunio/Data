@@ -7,7 +7,6 @@
 
 \title{Posłowie na Sejm RP 7 kadencji wg stażu}
 \author{Tomasz Przechlewski}
-\usepackage{Sweave}
 \begin{document}
 \maketitle
 
@@ -16,13 +15,11 @@ Plik \url{sejm7_wg_stazu_wieku.csv} zawiera m.in. informacja o~liczbie kadencji 
 na jaką został wybrany poseł (kolumna \texttt{kadencje}). 
 Wartość minimalna w~tej kolumnie wynosi $1$ dla posła wybranego po raz pierwszy do Sejmu~7 kadencji.
 
-\begin{Schunk}
-\begin{Sinput}
-> library(ggplot2);
-> ## Pierszy wiersz pliku CSV: imnz;rokur;klub;kadencje
-> poslowie <- read.csv("sejm7_wg_stazu_wieku.csv", sep = ';',  header=T);
-\end{Sinput}
-\end{Schunk}
+<<>>=
+library(ggplot2);
+## Pierszy wiersz pliku CSV: imnz;rokur;klub;kadencje
+poslowie <- read.csv("sejm7_wg_stazu_wieku.csv", sep = ';',  header=T);
+@ %def 
 
 %Dane zostały pobrane ze strony \url{http://www.sejm.gov.pl/Sejm7.nsf/poslowie.xsp}.
 
@@ -30,39 +27,19 @@ Wartość minimalna w~tej kolumnie wynosi $1$ dla posła wybranego po raz pierws
 
 Posłowie~7 kadencji wg.~średniego stażu (w~podziale wg przynależności klubowej):
 
-\begin{Schunk}
-\begin{Sinput}
-> tapply (poslowie$kadencje, poslowie$klub, mean);
-\end{Sinput}
-\begin{Soutput}
-   niez.      PiS       PO      PSL       RP      SLD 
-2.000000 2.352564 2.256039 3.535714 1.073171 3.576923 
-\end{Soutput}
-\begin{Sinput}
-> # http://ww2.coastal.edu/kingw/statistics/R-tutorials/descriptive.html
-> table(poslowie$klub, poslowie$kadencje)
-\end{Sinput}
-\begin{Soutput}
-         1  2  3  4  5  6  7
-  niez.  1  0  1  0  0  0  0
-  PiS   45 30 66 12  2  1  0
-  PO    50 83 49 23  1  0  1
-  PSL    5  6  6  1  3  4  3
-  RP    39  1  1  0  0  0  0
-  SLD    5  3  4  5  6  1  2
-\end{Soutput}
-\end{Schunk}
+<<>>= 
+tapply (poslowie$kadencje, poslowie$klub, mean);
+# http://ww2.coastal.edu/kingw/statistics/R-tutorials/descriptive.html
+table(poslowie$klub, poslowie$kadencje)
+@ %def
 
 Średni staż posłów w~poszczególnych klubach przedstawia rysunek~\ref{srstaz}
 
 \begin{figure}[!tbh]
-\begin{Schunk}
-\begin{Sinput}
-> p0 <- ggplot(data=poslowie,aes(klub,kadencje))+geom_boxplot()
-> print(p0);
-\end{Sinput}
-\end{Schunk}
-\includegraphics{sejm7_wg_stazu_wieku-srstaz}
+<<label=srstaz,fig=true, echo=T, height=5, width=7 >>=
+p0 <- ggplot(data=poslowie,aes(klub,kadencje))+geom_boxplot()
+print(p0);
+@ %def
 \caption{Średni staż posłów (wykres pudełkowy) \label{srstaz}}
 \end{figure}
 
@@ -75,14 +52,11 @@ Na rysunku~\ref{wiekstazalt} przedstawiono zależność pomiędzy liczbą kadenc
 został wybrany) a~wiekiem posła.
 
 \begin{figure}[!tbh]
-\begin{Schunk}
-\begin{Sinput}
-> p1 <- qplot(kadencje, wiek, data=poslowie, facets= klub ~ ., 
-+              position = position_jitter(w = 0.2, h = 0.2) );
-> print(p1);
-\end{Sinput}
-\end{Schunk}
-\includegraphics{sejm7_wg_stazu_wieku-wiekstazalt}
+<<label=wiekstazalt,fig=true, echo=T, width=7>>=
+p1 <- qplot(kadencje, wiek, data=poslowie, facets= klub ~ ., 
+             position = position_jitter(w = 0.2, h = 0.2) );
+print(p1);
+@ %def
 \caption{Zależność między wiekiem a liczbą kadencji\label{wiekstazalt}}
 \end{figure}
 
@@ -90,7 +64,10 @@ Rysunek~\ref{wiekstazaltalt} przedstawia to samo co~rysunek~\ref{wiekstazalt} ty
 parametr \texttt{jitter}. Pozostawiamy czytelnikowi decyzję, która wersja jest bardziej zrozumiała.
 
 \begin{figure}[!tbh]
-\includegraphics{sejm7_wg_stazu_wieku-wiekstazaltalt}
+<<label=wiekstazaltalt,fig=true, echo=F, width=7>>=
+p2 <- qplot(kadencje, wiek, data=poslowie, facets= klub ~ ., );
+print(p2);
+@ %def
 \caption{Zależność między wiekiem a liczbą kadencji \label{wiekstazaltalt}}
 \end{figure}
 
@@ -99,14 +76,11 @@ wszystkie dane z~rysunków~\ref{wiekstazalt} na jednym wykresie. Poszczególne
 kluby są oznaczone kolorami i~różnymi symbolami. Rysunek jest nieczytelny -- zawiera zbyt dużo danych.
 
 \begin{figure}[!tbh]
-\begin{Schunk}
-\begin{Sinput}
-> p3 <- qplot(wiek, kadencje, data=poslowie, shape=klub, color=klub, 
-+             position = position_jitter(w = 0.2, h = 0.2));
-> print(p3);
-\end{Sinput}
-\end{Schunk}
-\includegraphics{sejm7_wg_stazu_wieku-wiekstaz}
+<<label=wiekstaz,fig=true, echo=T, width=7 >>=
+p3 <- qplot(wiek, kadencje, data=poslowie, shape=klub, color=klub, 
+            position = position_jitter(w = 0.2, h = 0.2));
+print(p3);
+@ %def
 \caption{Zależność między wiekiem a liczbą kadencji\label{wiekstaz}}
 \end{figure}
 
