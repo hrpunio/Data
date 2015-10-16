@@ -1,6 +1,12 @@
 OPIS DANYCH
 ===========
 
+Sejm1-7.csv
+
+wiek -- wiek posła obliczony jako rok_inauguracji_kadencji - rok_urodzenia
+na przykład: Juliusz Braun urodzony 1948-08-29 miał w chwili inauguracji Sejmu 1-szej kadencji: 
+1991 - 1948 = 43 lata
+
 ------------
 Sejm_7_u.csv
 ------------
