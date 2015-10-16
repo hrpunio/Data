@@ -8,3 +8,7 @@ html:
 ## 1.R is tangled
 R:
 	R --no-save --no-restore < 1.R
+
+wiek:
+	R CMD BATCH sejm.R
+	rm .RData
