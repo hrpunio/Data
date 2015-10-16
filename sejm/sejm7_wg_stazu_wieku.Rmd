@@ -19,7 +19,7 @@ pierwszy do Sejmu~7 kadencji.
 
 ```
 library(ggplot2);
-## Pierszy wiersz pliku CSV: imnz;rokur;klub;kadencje
+## Pierszy wiersz pliku CSV: imnz;wiek;klub;kadencje
 poslowie <- read.csv("sejm7_wg_stazu_wieku.csv", sep = ';',  header=T);
 ```
 
