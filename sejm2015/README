@@ -1,0 +1,9 @@
+Pobrane: ze strony http://parlament2015.pkw.gov.pl/349_Wyniki_Sejm 27.10.2015T16:30
+
+okreg -- numer okręgu wyborczego
+nrlisty;komitet -- numer i nazwa komitetu
+numer -- numer na liście
+kto -- imię nazwisko
+glosy -- liczba głosów
+procent -- procent głosów (w okręgu)
+wynik -- wybrany (PX), nie wybrany (NX)
