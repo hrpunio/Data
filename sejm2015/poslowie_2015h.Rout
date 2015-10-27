@@ -1,0 +1,30 @@
+
+R version 3.2.2 (2015-08-14) -- "Fire Safety"
+Copyright (C) 2015 The R Foundation for Statistical Computing
+Platform: x86_64-redhat-linux-gnu (64-bit)
+
+R jest oprogramowaniem darmowym i dostarczany jest BEZ JAKIEJKOLWIEK GWARANCJI.
+Możesz go rozpowszechniać pod pewnymi warunkami.
+Wpisz 'license()' lub 'licence()' aby uzyskać szczegóły dystrybucji.
+
+R jest projektem kolaboracyjnym z wieloma uczestnikami.
+Wpisz 'contributors()' aby uzyskać więcej informacji oraz
+'citation()' aby dowiedzieć się jak cytować R lub pakiety R w publikacjach.
+
+Wpisz 'demo()' aby zobaczyć demo, 'help()' aby uzyskać pomoc on-line, lub
+'help.start()' aby uzyskać pomoc w przeglądarce HTML.
+Wpisz 'q()' aby wyjść z R.
+
+[Poprzednio zapisany obszar roboczy został przywrócony]
+
+> #
+> kandydaci <- read.csv("Mandaty_2015.csv", sep = ';',  header=T, na.string="NA");
+> 
+> par(mfrow=c(2,1), mar=c(4,4,2,1))
+> 
+> hist(subset(kandydaci, komitet=="PiS")$numer, col="green", breaks=40)
+> hist(subset(kandydaci, komitet=="PO")$numer, col="green", breaks=40)
+> 
+> proc.time()
+użytkownik     system   upłynęło 
+     0.241      0.018      0.249 
