@@ -1,7 +1,8 @@
-Pobrane: ze strony http://parlament2015.pkw.gov.pl/349_Wyniki_Sejm 27.10.2015T16:30
+Pobrane: ze strony http://parlament2015.pkw.gov.pl/349_Wyniki_Sejm 28.10.2015T15:00
 
-Kandydaci_2015_f.csv -- plik z 27.10.2015 (z błędami, np. brak danych dla 41 okręgu)
-Kandydaci_2015.csv   -- plik z 28.10.2015 (poprawiony)
+Kandydaci_2015.csv -- zestawienie kandydatów
+Kandydaci_2015_f.csv -- to samo co wyżej tylko zawiera kolumnę wynik  
+Mandaty_2015.csv -- lista tych co zdobyli mandaty
 
 okreg -- numer okręgu wyborczego
 nrlisty;komitet -- numer i nazwa komitetu
