@@ -1,4 +1,4 @@
-okreg;nrlisty;komitet;numer;kto;glosy;procent;wynik
+okreg;nrlisty;komitet;numer;kto;glosy;procent;NX
 10;1;PiS;1;Antoni MACIEREWICZ;33960;11.89;PX
 10;1;PiS;2;Anna Maria MILCZANOWSKA;11562;4.05;PX
 10;1;PiS;3;Robert TELUS;18670;6.53;PX
@@ -702,34 +702,34 @@ okreg;nrlisty;komitet;numer;kto;glosy;procent;wynik
 13;14;BRAUN;20;Karolina GÓRKA;41;0.01;NX
 13;14;BRAUN;21;Lucyna Maria MARCINKOWSKA;41;0.01;NX
 13;14;BRAUN;22;Sławomir Gabriel MARCZEWSKI;56;0.01;NX
-13;15;KW Kongres Nowej Prawicy;1;Lech Karol WALICKI;331;0.06;NX
-13;15;KW Kongres Nowej Prawicy;2;Norbert Jerzy CZARNEK;130;0.02;NX
-13;15;KW Kongres Nowej Prawicy;3;Halina Irena ŻÓŁTEK;58;0.01;NX
-13;15;KW Kongres Nowej Prawicy;4;Konrad Adam MLECZKO;68;0.01;NX
-13;15;KW Kongres Nowej Prawicy;5;Maciej Zbigniew SIERANT;28;0.01;NX
-13;15;KW Kongres Nowej Prawicy;6;Stanisława Agata SUDER;48;0.01;NX
-13;15;KW Kongres Nowej Prawicy;7;Wojciech Jan PASTERNAK;39;0.01;NX
-13;15;KW Kongres Nowej Prawicy;8;Agnieszka Dorota KRZCIUK;26;0.00;NX
-13;15;KW Kongres Nowej Prawicy;9;Szymon Józef RUSEK;15;0.00;NX
-13;15;KW Kongres Nowej Prawicy;10;Marcelina Magdalena CHERJAN;14;0.00;NX
-13;15;KW Kongres Nowej Prawicy;11;Tomasz Andrzej KRZCIUK;42;0.01;NX
-13;15;KW Kongres Nowej Prawicy;12;Marta Urszula MICHAŁOWSKA;19;0.00;NX
-13;15;KW Kongres Nowej Prawicy;13;Joanna JUTKIEWICZ;10;0.00;NX
-13;15;KW Kongres Nowej Prawicy;14;Piotr Franciszek GANKIEWICZ;9;0.00;NX
-13;15;KW Kongres Nowej Prawicy;15;Andrzej Paweł MILA;21;0.00;NX
-13;15;KW Kongres Nowej Prawicy;16;Marek Marcin FRANCZYK;10;0.00;NX
-13;15;KW Kongres Nowej Prawicy;17;Grzegorz Rafał GĘBKA;5;0.00;NX
-13;15;KW Kongres Nowej Prawicy;18;Stanisław Michał ŻMIGRODZKI;22;0.00;NX
-13;15;KW Kongres Nowej Prawicy;19;Janusz SZYMUSIAK;4;0.00;NX
-13;15;KW Kongres Nowej Prawicy;20;Monika Elżbieta BORKOWSKA;32;0.01;NX
-13;15;KW Kongres Nowej Prawicy;21;Kamil Roman OGRODNIK;21;0.00;NX
-13;15;KW Kongres Nowej Prawicy;22;Sylwia BACA;23;0.00;NX
-13;15;KW Kongres Nowej Prawicy;23;Andrzej Mariusz GREGORCZYK;18;0.00;NX
-13;15;KW Kongres Nowej Prawicy;24;Sylwia Kamila GRUBA;24;0.00;NX
-13;15;KW Kongres Nowej Prawicy;25;Jakub Krzysztof NOWAK;35;0.01;NX
-13;15;KW Kongres Nowej Prawicy;26;Leszek RUDNIK;19;0.00;NX
-13;15;KW Kongres Nowej Prawicy;27;Paulina Agnieszka BOŻEK;36;0.01;NX
-13;15;KW Kongres Nowej Prawicy;28;Jarosław Kazimierz SZATAN;137;0.03;NX
+13;15;KNP;1;Lech Karol WALICKI;331;0.06;NX
+13;15;KNP;2;Norbert Jerzy CZARNEK;130;0.02;NX
+13;15;KNP;3;Halina Irena ŻÓŁTEK;58;0.01;NX
+13;15;KNP;4;Konrad Adam MLECZKO;68;0.01;NX
+13;15;KNP;5;Maciej Zbigniew SIERANT;28;0.01;NX
+13;15;KNP;6;Stanisława Agata SUDER;48;0.01;NX
+13;15;KNP;7;Wojciech Jan PASTERNAK;39;0.01;NX
+13;15;KNP;8;Agnieszka Dorota KRZCIUK;26;0.00;NX
+13;15;KNP;9;Szymon Józef RUSEK;15;0.00;NX
+13;15;KNP;10;Marcelina Magdalena CHERJAN;14;0.00;NX
+13;15;KNP;11;Tomasz Andrzej KRZCIUK;42;0.01;NX
+13;15;KNP;12;Marta Urszula MICHAŁOWSKA;19;0.00;NX
+13;15;KNP;13;Joanna JUTKIEWICZ;10;0.00;NX
+13;15;KNP;14;Piotr Franciszek GANKIEWICZ;9;0.00;NX
+13;15;KNP;15;Andrzej Paweł MILA;21;0.00;NX
+13;15;KNP;16;Marek Marcin FRANCZYK;10;0.00;NX
+13;15;KNP;17;Grzegorz Rafał GĘBKA;5;0.00;NX
+13;15;KNP;18;Stanisław Michał ŻMIGRODZKI;22;0.00;NX
+13;15;KNP;19;Janusz SZYMUSIAK;4;0.00;NX
+13;15;KNP;20;Monika Elżbieta BORKOWSKA;32;0.01;NX
+13;15;KNP;21;Kamil Roman OGRODNIK;21;0.00;NX
+13;15;KNP;22;Sylwia BACA;23;0.00;NX
+13;15;KNP;23;Andrzej Mariusz GREGORCZYK;18;0.00;NX
+13;15;KNP;24;Sylwia Kamila GRUBA;24;0.00;NX
+13;15;KNP;25;Jakub Krzysztof NOWAK;35;0.01;NX
+13;15;KNP;26;Leszek RUDNIK;19;0.00;NX
+13;15;KNP;27;Paulina Agnieszka BOŻEK;36;0.01;NX
+13;15;KNP;28;Jarosław Kazimierz SZATAN;137;0.03;NX
 14;1;PiS;1;Piotr Aleksander NAIMSKI;20408;6.57;PX
 14;1;PiS;2;Józef Krzysztof LEŚNIAK;16167;5.21;PX
 14;1;PiS;3;Anna PALUCH;15049;4.85;PX
@@ -881,24 +881,24 @@ okreg;nrlisty;komitet;numer;kto;glosy;procent;wynik
 14;10;STONOGA;12;Artur Leszek STAROWICZ;26;0.01;NX
 14;10;STONOGA;13;Monika Agnieszka BOGDAŁ;31;0.01;NX
 14;10;STONOGA;14;Wojciech Dominik TATAR;270;0.09;NX
-14;15;KW Kongres Nowej Prawicy;1;Andrzej Stefan PACIEJ;222;0.07;NX
-14;15;KW Kongres Nowej Prawicy;2;Krzysztof Ryszard WOJTASZEK;42;0.01;NX
-14;15;KW Kongres Nowej Prawicy;3;Kamil MUCHA;95;0.03;NX
-14;15;KW Kongres Nowej Prawicy;4;Krzysztof KLEMCZAK;25;0.01;NX
-14;15;KW Kongres Nowej Prawicy;5;Ryszard Marek PYZIK;49;0.02;NX
-14;15;KW Kongres Nowej Prawicy;6;Władysław ŁOWISZ;42;0.01;NX
-14;15;KW Kongres Nowej Prawicy;7;Barbara DUDA;149;0.05;NX
-14;15;KW Kongres Nowej Prawicy;8;Monika Ewa TARGOSZ;17;0.01;NX
-14;15;KW Kongres Nowej Prawicy;9;Wioletta Janina MIREK;22;0.01;NX
-14;15;KW Kongres Nowej Prawicy;10;Monika Katarzyna BEDNAREK;24;0.01;NX
-14;15;KW Kongres Nowej Prawicy;11;Zdzisław Franciszek BUDZYK;17;0.01;NX
-14;15;KW Kongres Nowej Prawicy;12;Barbara Elżbieta KLEMCZAK;19;0.01;NX
-14;15;KW Kongres Nowej Prawicy;13;Kamil Konrad STOJEK;18;0.01;NX
-14;15;KW Kongres Nowej Prawicy;14;Anna WĘDRYCHOWICZ;14;0.00;NX
-14;15;KW Kongres Nowej Prawicy;15;Stanisław DOBROWOLSKI;36;0.01;NX
-14;15;KW Kongres Nowej Prawicy;16;Grzegorz Krzysztof UZAR;18;0.01;NX
-14;15;KW Kongres Nowej Prawicy;17;Helena Kinga BORKOWSKA;13;0.00;NX
-14;15;KW Kongres Nowej Prawicy;18;Tomasz Michał CHOWANIEC;69;0.02;NX
+14;15;KNP;1;Andrzej Stefan PACIEJ;222;0.07;NX
+14;15;KNP;2;Krzysztof Ryszard WOJTASZEK;42;0.01;NX
+14;15;KNP;3;Kamil MUCHA;95;0.03;NX
+14;15;KNP;4;Krzysztof KLEMCZAK;25;0.01;NX
+14;15;KNP;5;Ryszard Marek PYZIK;49;0.02;NX
+14;15;KNP;6;Władysław ŁOWISZ;42;0.01;NX
+14;15;KNP;7;Barbara DUDA;149;0.05;NX
+14;15;KNP;8;Monika Ewa TARGOSZ;17;0.01;NX
+14;15;KNP;9;Wioletta Janina MIREK;22;0.01;NX
+14;15;KNP;10;Monika Katarzyna BEDNAREK;24;0.01;NX
+14;15;KNP;11;Zdzisław Franciszek BUDZYK;17;0.01;NX
+14;15;KNP;12;Barbara Elżbieta KLEMCZAK;19;0.01;NX
+14;15;KNP;13;Kamil Konrad STOJEK;18;0.01;NX
+14;15;KNP;14;Anna WĘDRYCHOWICZ;14;0.00;NX
+14;15;KNP;15;Stanisław DOBROWOLSKI;36;0.01;NX
+14;15;KNP;16;Grzegorz Krzysztof UZAR;18;0.01;NX
+14;15;KNP;17;Helena Kinga BORKOWSKA;13;0.00;NX
+14;15;KNP;18;Tomasz Michał CHOWANIEC;69;0.02;NX
 15;1;PiS;1;Włodzimierz BERNACKI;27673;9.49;PX
 15;1;PiS;2;Michał Jan WOJTKIEWICZ;13230;4.54;PX
 15;1;PiS;3;Urszula Beata RUSECKA;16971;5.82;PX
@@ -1045,22 +1045,22 @@ okreg;nrlisty;komitet;numer;kto;glosy;procent;wynik
 15;14;BRAUN;14;Grzegorz Stanisław GICALA;28;0.01;NX
 15;14;BRAUN;15;Paweł Robert ADAMCZYK;26;0.01;NX
 15;14;BRAUN;16;Włodzimierz Franciszek KNUROWSKI;41;0.01;NX
-15;15;KW Kongres Nowej Prawicy;1;Krystian Dawid DWORAK;195;0.07;NX
-15;15;KW Kongres Nowej Prawicy;2;Mariusz Tomasz SMOLEŃ;68;0.02;NX
-15;15;KW Kongres Nowej Prawicy;3;Agata CZAPLA-ŻUREK;40;0.01;NX
-15;15;KW Kongres Nowej Prawicy;4;Bogdan Paweł ORLIK;31;0.01;NX
-15;15;KW Kongres Nowej Prawicy;5;Ewa Maria KLUSKA;26;0.01;NX
-15;15;KW Kongres Nowej Prawicy;6;Leszek Edward JANAS;29;0.01;NX
-15;15;KW Kongres Nowej Prawicy;7;Anna Maria KUCZERA;42;0.01;NX
-15;15;KW Kongres Nowej Prawicy;8;Robert SZELĄG;31;0.01;NX
-15;15;KW Kongres Nowej Prawicy;9;Aneta Magdalena SZCZUPAK;28;0.01;NX
-15;15;KW Kongres Nowej Prawicy;10;Karol Tomasz ŻMIGRODZKI;15;0.01;NX
-15;15;KW Kongres Nowej Prawicy;11;Ewa Franciszka GANKIEWICZ;7;0.00;NX
-15;15;KW Kongres Nowej Prawicy;12;Marek Damian DROŻDŻ;21;0.01;NX
-15;15;KW Kongres Nowej Prawicy;13;Marzena Aleksandra KIWIOR;12;0.00;NX
-15;15;KW Kongres Nowej Prawicy;14;Piotr Jan CZARNEK;11;0.00;NX
-15;15;KW Kongres Nowej Prawicy;15;Magdalena Maria SZATAN;51;0.02;NX
-15;15;KW Kongres Nowej Prawicy;16;Michał Emil KASPRZYCKI;47;0.02;NX
+15;15;KNP;1;Krystian Dawid DWORAK;195;0.07;NX
+15;15;KNP;2;Mariusz Tomasz SMOLEŃ;68;0.02;NX
+15;15;KNP;3;Agata CZAPLA-ŻUREK;40;0.01;NX
+15;15;KNP;4;Bogdan Paweł ORLIK;31;0.01;NX
+15;15;KNP;5;Ewa Maria KLUSKA;26;0.01;NX
+15;15;KNP;6;Leszek Edward JANAS;29;0.01;NX
+15;15;KNP;7;Anna Maria KUCZERA;42;0.01;NX
+15;15;KNP;8;Robert SZELĄG;31;0.01;NX
+15;15;KNP;9;Aneta Magdalena SZCZUPAK;28;0.01;NX
+15;15;KNP;10;Karol Tomasz ŻMIGRODZKI;15;0.01;NX
+15;15;KNP;11;Ewa Franciszka GANKIEWICZ;7;0.00;NX
+15;15;KNP;12;Marek Damian DROŻDŻ;21;0.01;NX
+15;15;KNP;13;Marzena Aleksandra KIWIOR;12;0.00;NX
+15;15;KNP;14;Piotr Jan CZARNEK;11;0.00;NX
+15;15;KNP;15;Magdalena Maria SZATAN;51;0.02;NX
+15;15;KNP;16;Michał Emil KASPRZYCKI;47;0.02;NX
 16;1;PiS;1;Wojciech Stefan JASIŃSKI;31106;10.36;PX
 16;1;PiS;2;Marek OPIOŁA;14708;4.90;PX
 16;1;PiS;3;Maciej Roman WĄSIK;9977;3.32;PX
@@ -1366,24 +1366,24 @@ okreg;nrlisty;komitet;numer;kto;glosy;procent;wynik
 17;10;STONOGA;16;Anna Katarzyna KAZAŁA;43;0.02;NX
 17;10;STONOGA;17;Krzysztof Zbigniew GASEK;52;0.02;NX
 17;10;STONOGA;18;Magdalena Helena SADOWSKA - SNOPCZYŃSKA;61;0.02;NX
-17;15;KW Kongres Nowej Prawicy;1;Marek AUGUŚCIK;148;0.05;NX
-17;15;KW Kongres Nowej Prawicy;2;Robert Kamil KUMOR;50;0.02;NX
-17;15;KW Kongres Nowej Prawicy;3;Jakub MACIEJEWSKI;40;0.01;NX
-17;15;KW Kongres Nowej Prawicy;4;Krzysztof SKRZYPCZAK;42;0.02;NX
-17;15;KW Kongres Nowej Prawicy;5;Ewa Jadwiga KUMOR;32;0.01;NX
-17;15;KW Kongres Nowej Prawicy;6;Zofia Julia CHŁOPICKA;25;0.01;NX
-17;15;KW Kongres Nowej Prawicy;7;Cezary Józef STĄPOR;34;0.01;NX
-17;15;KW Kongres Nowej Prawicy;8;Ireneusz Paweł ROLKA;17;0.01;NX
-17;15;KW Kongres Nowej Prawicy;9;Anna Maria SZNYROWSKA;23;0.01;NX
-17;15;KW Kongres Nowej Prawicy;10;Urszula Marzena BEDNIK;29;0.01;NX
-17;15;KW Kongres Nowej Prawicy;11;Wojciech Grzegorz CZARNOCKI;18;0.01;NX
-17;15;KW Kongres Nowej Prawicy;12;Kazimierz Czesław CHŁOPICKI;11;0.00;NX
-17;15;KW Kongres Nowej Prawicy;13;Wojciech Ryszard SOKOŁOWSKI;26;0.01;NX
-17;15;KW Kongres Nowej Prawicy;14;Monika Katarzyna RAFALSKA;26;0.01;NX
-17;15;KW Kongres Nowej Prawicy;15;Jolanta Janina STEFAŃSKA;24;0.01;NX
-17;15;KW Kongres Nowej Prawicy;16;Marcin KUMOR;22;0.01;NX
-17;15;KW Kongres Nowej Prawicy;17;Alicja Maria CZARNOCKA;29;0.01;NX
-17;15;KW Kongres Nowej Prawicy;18;Dariusz GRUSZCZYŃSKI;60;0.02;NX
+17;15;KNP;1;Marek AUGUŚCIK;148;0.05;NX
+17;15;KNP;2;Robert Kamil KUMOR;50;0.02;NX
+17;15;KNP;3;Jakub MACIEJEWSKI;40;0.01;NX
+17;15;KNP;4;Krzysztof SKRZYPCZAK;42;0.02;NX
+17;15;KNP;5;Ewa Jadwiga KUMOR;32;0.01;NX
+17;15;KNP;6;Zofia Julia CHŁOPICKA;25;0.01;NX
+17;15;KNP;7;Cezary Józef STĄPOR;34;0.01;NX
+17;15;KNP;8;Ireneusz Paweł ROLKA;17;0.01;NX
+17;15;KNP;9;Anna Maria SZNYROWSKA;23;0.01;NX
+17;15;KNP;10;Urszula Marzena BEDNIK;29;0.01;NX
+17;15;KNP;11;Wojciech Grzegorz CZARNOCKI;18;0.01;NX
+17;15;KNP;12;Kazimierz Czesław CHŁOPICKI;11;0.00;NX
+17;15;KNP;13;Wojciech Ryszard SOKOŁOWSKI;26;0.01;NX
+17;15;KNP;14;Monika Katarzyna RAFALSKA;26;0.01;NX
+17;15;KNP;15;Jolanta Janina STEFAŃSKA;24;0.01;NX
+17;15;KNP;16;Marcin KUMOR;22;0.01;NX
+17;15;KNP;17;Alicja Maria CZARNOCKA;29;0.01;NX
+17;15;KNP;18;Dariusz GRUSZCZYŃSKI;60;0.02;NX
 18;1;PiS;1;Marek Tadeusz ZAGÓRSKI;19018;5.07;PX
 18;1;PiS;2;Krzysztof Józef TCHÓRZEWSKI;26372;7.03;PX
 18;1;PiS;3;Arkadiusz CZARTORYSKI;24747;6.59;PX
@@ -1572,22 +1572,22 @@ okreg;nrlisty;komitet;numer;kto;glosy;procent;wynik
 18;9;KWWJOW;16;Halina Irena POTKAJ;15;0.00;NX
 18;9;KWWJOW;17;Sławomir CYRYCH;10;0.00;NX
 18;9;KWWJOW;18;Grzegorz Emil WRZOSEK;81;0.02;NX
-18;11;RUCHSPOLECZNY;1;Robert BANASIUK;178;0.05;NX
-18;11;RUCHSPOLECZNY;2;Marta Magdalena KOZIRÓG;34;0.01;NX
-18;11;RUCHSPOLECZNY;3;Wiesław Jan RYPINA;27;0.01;NX
-18;11;RUCHSPOLECZNY;4;Stanisław WICENCIAK;13;0.00;NX
-18;11;RUCHSPOLECZNY;5;Kazimierz MIĄSEK;12;0.00;NX
-18;11;RUCHSPOLECZNY;6;Paweł Michał OŻAROWSKI;20;0.01;NX
-18;11;RUCHSPOLECZNY;7;Krzysztof MIKULISZYN;5;0.00;NX
-18;11;RUCHSPOLECZNY;8;Iwona Katarzyna WYSOCKA;46;0.01;NX
-18;11;RUCHSPOLECZNY;9;Ernest Andrzej WALASEK;14;0.00;NX
-18;11;RUCHSPOLECZNY;10;Julianna KORNELUK;10;0.00;NX
-18;11;RUCHSPOLECZNY;11;Olga SACZUK;42;0.01;NX
-18;11;RUCHSPOLECZNY;12;Wioletta FALKOWSKA-GRZYMAŁA;28;0.01;NX
-18;11;RUCHSPOLECZNY;13;Iwona Izabela KANIEWSKA;26;0.01;NX
-18;11;RUCHSPOLECZNY;14;Jacek Andrzej GRYGLAS;24;0.01;NX
-18;11;RUCHSPOLECZNY;15;Monika Małgorzata KANIA;31;0.01;NX
-18;11;RUCHSPOLECZNY;16;Edyta Danuta BRYZEK-MUSZYŃSKA;72;0.02;NX
+18;11;RUCHSPOL;1;Robert BANASIUK;178;0.05;NX
+18;11;RUCHSPOL;2;Marta Magdalena KOZIRÓG;34;0.01;NX
+18;11;RUCHSPOL;3;Wiesław Jan RYPINA;27;0.01;NX
+18;11;RUCHSPOL;4;Stanisław WICENCIAK;13;0.00;NX
+18;11;RUCHSPOL;5;Kazimierz MIĄSEK;12;0.00;NX
+18;11;RUCHSPOL;6;Paweł Michał OŻAROWSKI;20;0.01;NX
+18;11;RUCHSPOL;7;Krzysztof MIKULISZYN;5;0.00;NX
+18;11;RUCHSPOL;8;Iwona Katarzyna WYSOCKA;46;0.01;NX
+18;11;RUCHSPOL;9;Ernest Andrzej WALASEK;14;0.00;NX
+18;11;RUCHSPOL;10;Julianna KORNELUK;10;0.00;NX
+18;11;RUCHSPOL;11;Olga SACZUK;42;0.01;NX
+18;11;RUCHSPOL;12;Wioletta FALKOWSKA-GRZYMAŁA;28;0.01;NX
+18;11;RUCHSPOL;13;Iwona Izabela KANIEWSKA;26;0.01;NX
+18;11;RUCHSPOL;14;Jacek Andrzej GRYGLAS;24;0.01;NX
+18;11;RUCHSPOL;15;Monika Małgorzata KANIA;31;0.01;NX
+18;11;RUCHSPOL;16;Edyta Danuta BRYZEK-MUSZYŃSKA;72;0.02;NX
 18;14;BRAUN;1;Krzysztof Daniel GOŁAWSKI;357;0.10;NX
 18;14;BRAUN;2;Marlena PUZIA;129;0.03;NX
 18;14;BRAUN;3;Dariusz KRUSZKA;139;0.04;NX
@@ -1905,74 +1905,74 @@ okreg;nrlisty;komitet;numer;kto;glosy;procent;wynik
 19;8;PETRU;37;Magdalena Renata SAPIŃSKA;200;0.02;NX
 19;8;PETRU;38;Elżbieta Julia STAWECKA;263;0.02;NX
 19;8;PETRU;39;Adam Jan KĄDZIELA;983;0.09;NX
-19;11;RUCHSPOLECZNY;1;Piotr Igor IKONOWICZ;2127;0.19;NX
-19;11;RUCHSPOLECZNY;2;Iwona Maria ŁUKASIK;58;0.01;NX
-19;11;RUCHSPOLECZNY;3;Anna NOWAK;96;0.01;NX
-19;11;RUCHSPOLECZNY;4;Zbigniew Maciej KAŹMIERCZAK;19;0.00;NX
-19;11;RUCHSPOLECZNY;5;Irmina Lucyna WACKO-DANISZEWSKA;8;0.00;NX
-19;11;RUCHSPOLECZNY;6;Milena Dominika SAŁANOWSKA;23;0.00;NX
-19;11;RUCHSPOLECZNY;7;Beata Aneta KARDASIEWICZ;20;0.00;NX
-19;11;RUCHSPOLECZNY;8;Tomasz Łukasz JASTRZĘBSKI;20;0.00;NX
-19;11;RUCHSPOLECZNY;9;Katarzyna Agnieszka SULKOWSKA;14;0.00;NX
-19;11;RUCHSPOLECZNY;10;Jolanta Gabriela KAMIŃSKA;31;0.00;NX
-19;11;RUCHSPOLECZNY;11;Aleksander Maria SULKOWSKI;7;0.00;NX
-19;11;RUCHSPOLECZNY;12;Mirosław Janusz DOLIŃSKI;15;0.00;NX
-19;11;RUCHSPOLECZNY;13;Eugeniusz Jan ORŁOW;10;0.00;NX
-19;11;RUCHSPOLECZNY;14;Monika Klaudyna GAWINEK;24;0.00;NX
-19;11;RUCHSPOLECZNY;15;Teresa Maria DRABCZYK;5;0.00;NX
-19;11;RUCHSPOLECZNY;16;Marek Zbigniew KIEŁBOWICZ;12;0.00;NX
-19;11;RUCHSPOLECZNY;17;Maciej Karol TATARYNOWICZ;10;0.00;NX
-19;11;RUCHSPOLECZNY;18;Krzysztof CIEMNY;20;0.00;NX
-19;11;RUCHSPOLECZNY;19;Dorota Maria WOŹNIAK;20;0.00;NX
-19;11;RUCHSPOLECZNY;20;Bogdan BUGAJSKI;15;0.00;NX
-19;11;RUCHSPOLECZNY;21;Katarzyna Magdalena TYLKO;85;0.01;NX
-19;11;RUCHSPOLECZNY;22;Hanna Barbara PARADOWSKA;32;0.00;NX
-19;11;RUCHSPOLECZNY;23;Leszek NOWAK;21;0.00;NX
-19;11;RUCHSPOLECZNY;24;Beata Zofia ROMAŃSKA-WIERZBICKA;13;0.00;NX
-19;11;RUCHSPOLECZNY;25;Konrad Andrzej KARDASIEWICZ;7;0.00;NX
-19;11;RUCHSPOLECZNY;26;Krzysztof Marek SALICH;4;0.00;NX
-19;11;RUCHSPOLECZNY;27;Marek Stanisław WASIAK;17;0.00;NX
-19;11;RUCHSPOLECZNY;28;Damian Jakub DUSZCZENKO;27;0.00;NX
-19;16;KWW Obywatele do Parlamentu;1;Mariola RABCZON-MAZOWIECKA;416;0.04;NX
-19;16;KWW Obywatele do Parlamentu;2;Krystyna Anna KRZEKOTOWSKA;129;0.01;NX
-19;16;KWW Obywatele do Parlamentu;3;Bożena Beata ŁOJKO;81;0.01;NX
-19;16;KWW Obywatele do Parlamentu;4;Mariusz Aleksander SYSKA;41;0.00;NX
-19;16;KWW Obywatele do Parlamentu;5;Ewa WIERZBOWSKA;71;0.01;NX
-19;16;KWW Obywatele do Parlamentu;6;Wojciech KAŁKUSIŃSKI;18;0.00;NX
-19;16;KWW Obywatele do Parlamentu;7;Hubert Szymon OLEJNICZAK;56;0.01;NX
-19;16;KWW Obywatele do Parlamentu;8;Aleksandra Anna POTOK;49;0.00;NX
-19;16;KWW Obywatele do Parlamentu;9;Małgorzata Łucja PALCZEWSKA;28;0.00;NX
-19;16;KWW Obywatele do Parlamentu;10;Andrzej GORCZYŃSKI;21;0.00;NX
-19;16;KWW Obywatele do Parlamentu;11;Halina PRUTIS;15;0.00;NX
-19;16;KWW Obywatele do Parlamentu;12;Joanna Zofia ZIEMBA;49;0.00;NX
-19;16;KWW Obywatele do Parlamentu;13;Kazimierz Albin KŁOSIŃSKI;26;0.00;NX
-19;16;KWW Obywatele do Parlamentu;14;Jerzy Krzysztof LUBOMIRSKI;71;0.01;NX
-19;16;KWW Obywatele do Parlamentu;15;Małgorzata Zofia ZAUFAL;26;0.00;NX
-19;16;KWW Obywatele do Parlamentu;16;Hanna Danuta KOTARBA-GAJEWSKA;15;0.00;NX
-19;16;KWW Obywatele do Parlamentu;17;Jadwiga Teresa PIEKARSKA;36;0.00;NX
-19;16;KWW Obywatele do Parlamentu;18;Wioletta DE CHARRY;51;0.00;NX
-19;16;KWW Obywatele do Parlamentu;19;Małgorzata STALSKA-KAJZER;11;0.00;NX
-19;16;KWW Obywatele do Parlamentu;20;Barbara Jadwiga ROSŁON;28;0.00;NX
-19;16;KWW Obywatele do Parlamentu;21;Karol STRZAŁA;51;0.00;NX
-19;16;KWW Obywatele do Parlamentu;22;Artur Piotr MRÓZ;36;0.00;NX
-19;16;KWW Obywatele do Parlamentu;23;Dariusz JUREWICZ;14;0.00;NX
-19;16;KWW Obywatele do Parlamentu;24;Andrzej Ireneusz ŁUKASZUK;18;0.00;NX
-19;16;KWW Obywatele do Parlamentu;25;Michał GÓRSKI;59;0.01;NX
-19;16;KWW Obywatele do Parlamentu;26;Marta CHEŁCHOWSKA;25;0.00;NX
-19;16;KWW Obywatele do Parlamentu;27;Katarzyna Romana ORŁOWSKA;31;0.00;NX
-19;16;KWW Obywatele do Parlamentu;28;Jakub Antoni KOWALSKI;34;0.00;NX
-19;16;KWW Obywatele do Parlamentu;29;Sebastian Adam SZYMANEK;19;0.00;NX
-19;16;KWW Obywatele do Parlamentu;30;Waldemar Marcin ŚWIECZKA;30;0.00;NX
-19;16;KWW Obywatele do Parlamentu;31;Maximilian KAJZER;27;0.00;NX
-19;16;KWW Obywatele do Parlamentu;32;Iwona Sława KRZEKOTOWSKA-OLSZEWSKA;20;0.00;NX
-19;16;KWW Obywatele do Parlamentu;33;Grzegorz Maciej DWORAK;18;0.00;NX
-19;16;KWW Obywatele do Parlamentu;34;Małgorzata BUŃKOWSKA;31;0.00;NX
-19;16;KWW Obywatele do Parlamentu;35;Jarosław PALCZEWSKI;6;0.00;NX
-19;16;KWW Obywatele do Parlamentu;36;Łukasz Marek KRAMARSKI;4;0.00;NX
-19;16;KWW Obywatele do Parlamentu;37;Zbigniew Adam TAZBIR;34;0.00;NX
-19;16;KWW Obywatele do Parlamentu;38;Renata Grażyna WASYLÓW;17;0.00;NX
-19;16;KWW Obywatele do Parlamentu;39;Krystyna ŁOŚ-OSTROWSKA;86;0.01;NX
-19;16;KWW Obywatele do Parlamentu;40;Marcin Adam OLSZEWSKI;166;0.02;NX
+19;11;RUCHSPOL;1;Piotr Igor IKONOWICZ;2127;0.19;NX
+19;11;RUCHSPOL;2;Iwona Maria ŁUKASIK;58;0.01;NX
+19;11;RUCHSPOL;3;Anna NOWAK;96;0.01;NX
+19;11;RUCHSPOL;4;Zbigniew Maciej KAŹMIERCZAK;19;0.00;NX
+19;11;RUCHSPOL;5;Irmina Lucyna WACKO-DANISZEWSKA;8;0.00;NX
+19;11;RUCHSPOL;6;Milena Dominika SAŁANOWSKA;23;0.00;NX
+19;11;RUCHSPOL;7;Beata Aneta KARDASIEWICZ;20;0.00;NX
+19;11;RUCHSPOL;8;Tomasz Łukasz JASTRZĘBSKI;20;0.00;NX
+19;11;RUCHSPOL;9;Katarzyna Agnieszka SULKOWSKA;14;0.00;NX
+19;11;RUCHSPOL;10;Jolanta Gabriela KAMIŃSKA;31;0.00;NX
+19;11;RUCHSPOL;11;Aleksander Maria SULKOWSKI;7;0.00;NX
+19;11;RUCHSPOL;12;Mirosław Janusz DOLIŃSKI;15;0.00;NX
+19;11;RUCHSPOL;13;Eugeniusz Jan ORŁOW;10;0.00;NX
+19;11;RUCHSPOL;14;Monika Klaudyna GAWINEK;24;0.00;NX
+19;11;RUCHSPOL;15;Teresa Maria DRABCZYK;5;0.00;NX
+19;11;RUCHSPOL;16;Marek Zbigniew KIEŁBOWICZ;12;0.00;NX
+19;11;RUCHSPOL;17;Maciej Karol TATARYNOWICZ;10;0.00;NX
+19;11;RUCHSPOL;18;Krzysztof CIEMNY;20;0.00;NX
+19;11;RUCHSPOL;19;Dorota Maria WOŹNIAK;20;0.00;NX
+19;11;RUCHSPOL;20;Bogdan BUGAJSKI;15;0.00;NX
+19;11;RUCHSPOL;21;Katarzyna Magdalena TYLKO;85;0.01;NX
+19;11;RUCHSPOL;22;Hanna Barbara PARADOWSKA;32;0.00;NX
+19;11;RUCHSPOL;23;Leszek NOWAK;21;0.00;NX
+19;11;RUCHSPOL;24;Beata Zofia ROMAŃSKA-WIERZBICKA;13;0.00;NX
+19;11;RUCHSPOL;25;Konrad Andrzej KARDASIEWICZ;7;0.00;NX
+19;11;RUCHSPOL;26;Krzysztof Marek SALICH;4;0.00;NX
+19;11;RUCHSPOL;27;Marek Stanisław WASIAK;17;0.00;NX
+19;11;RUCHSPOL;28;Damian Jakub DUSZCZENKO;27;0.00;NX
+19;16;OBYWATELE;1;Mariola RABCZON-MAZOWIECKA;416;0.04;NX
+19;16;OBYWATELE;2;Krystyna Anna KRZEKOTOWSKA;129;0.01;NX
+19;16;OBYWATELE;3;Bożena Beata ŁOJKO;81;0.01;NX
+19;16;OBYWATELE;4;Mariusz Aleksander SYSKA;41;0.00;NX
+19;16;OBYWATELE;5;Ewa WIERZBOWSKA;71;0.01;NX
+19;16;OBYWATELE;6;Wojciech KAŁKUSIŃSKI;18;0.00;NX
+19;16;OBYWATELE;7;Hubert Szymon OLEJNICZAK;56;0.01;NX
+19;16;OBYWATELE;8;Aleksandra Anna POTOK;49;0.00;NX
+19;16;OBYWATELE;9;Małgorzata Łucja PALCZEWSKA;28;0.00;NX
+19;16;OBYWATELE;10;Andrzej GORCZYŃSKI;21;0.00;NX
+19;16;OBYWATELE;11;Halina PRUTIS;15;0.00;NX
+19;16;OBYWATELE;12;Joanna Zofia ZIEMBA;49;0.00;NX
+19;16;OBYWATELE;13;Kazimierz Albin KŁOSIŃSKI;26;0.00;NX
+19;16;OBYWATELE;14;Jerzy Krzysztof LUBOMIRSKI;71;0.01;NX
+19;16;OBYWATELE;15;Małgorzata Zofia ZAUFAL;26;0.00;NX
+19;16;OBYWATELE;16;Hanna Danuta KOTARBA-GAJEWSKA;15;0.00;NX
+19;16;OBYWATELE;17;Jadwiga Teresa PIEKARSKA;36;0.00;NX
+19;16;OBYWATELE;18;Wioletta DE CHARRY;51;0.00;NX
+19;16;OBYWATELE;19;Małgorzata STALSKA-KAJZER;11;0.00;NX
+19;16;OBYWATELE;20;Barbara Jadwiga ROSŁON;28;0.00;NX
+19;16;OBYWATELE;21;Karol STRZAŁA;51;0.00;NX
+19;16;OBYWATELE;22;Artur Piotr MRÓZ;36;0.00;NX
+19;16;OBYWATELE;23;Dariusz JUREWICZ;14;0.00;NX
+19;16;OBYWATELE;24;Andrzej Ireneusz ŁUKASZUK;18;0.00;NX
+19;16;OBYWATELE;25;Michał GÓRSKI;59;0.01;NX
+19;16;OBYWATELE;26;Marta CHEŁCHOWSKA;25;0.00;NX
+19;16;OBYWATELE;27;Katarzyna Romana ORŁOWSKA;31;0.00;NX
+19;16;OBYWATELE;28;Jakub Antoni KOWALSKI;34;0.00;NX
+19;16;OBYWATELE;29;Sebastian Adam SZYMANEK;19;0.00;NX
+19;16;OBYWATELE;30;Waldemar Marcin ŚWIECZKA;30;0.00;NX
+19;16;OBYWATELE;31;Maximilian KAJZER;27;0.00;NX
+19;16;OBYWATELE;32;Iwona Sława KRZEKOTOWSKA-OLSZEWSKA;20;0.00;NX
+19;16;OBYWATELE;33;Grzegorz Maciej DWORAK;18;0.00;NX
+19;16;OBYWATELE;34;Małgorzata BUŃKOWSKA;31;0.00;NX
+19;16;OBYWATELE;35;Jarosław PALCZEWSKI;6;0.00;NX
+19;16;OBYWATELE;36;Łukasz Marek KRAMARSKI;4;0.00;NX
+19;16;OBYWATELE;37;Zbigniew Adam TAZBIR;34;0.00;NX
+19;16;OBYWATELE;38;Renata Grażyna WASYLÓW;17;0.00;NX
+19;16;OBYWATELE;39;Krystyna ŁOŚ-OSTROWSKA;86;0.01;NX
+19;16;OBYWATELE;40;Marcin Adam OLSZEWSKI;166;0.02;NX
 1;1;PiS;1;Adam Józef LIPIŃSKI;26199;7.34;PX
 1;1;PiS;2;Elżbieta Barbara WITEK;22168;6.21;PX
 1;1;PiS;3;Marzena Anna MACHAŁEK;14608;4.09;PX
@@ -3024,26 +3024,26 @@ okreg;nrlisty;komitet;numer;kto;glosy;procent;wynik
 23;14;BRAUN;14;Elżbieta Weronika SOKÓŁ;25;0.00;NX
 23;14;BRAUN;15;Kazimierz ULICKI;15;0.00;NX
 23;14;BRAUN;16;Joanna Izabela KLUZ;95;0.02;NX
-23;15;KW Kongres Nowej Prawicy;1;Leszek SAMBORSKI;231;0.05;NX
-23;15;KW Kongres Nowej Prawicy;2;Krzysztof Jerzy STELMACH;58;0.01;NX
-23;15;KW Kongres Nowej Prawicy;3;Łukasz Marek BELTER;37;0.01;NX
-23;15;KW Kongres Nowej Prawicy;4;Zofia JANIEC;50;0.01;NX
-23;15;KW Kongres Nowej Prawicy;5;Magdalena Barbara GORCZYCA;39;0.01;NX
-23;15;KW Kongres Nowej Prawicy;6;Michał Elzjasz HEBDA;22;0.00;NX
-23;15;KW Kongres Nowej Prawicy;7;Elżbieta Małgorzata WOJCIECHOWSKA;34;0.01;NX
-23;15;KW Kongres Nowej Prawicy;8;Aneta Joanna MICHNO;27;0.01;NX
-23;15;KW Kongres Nowej Prawicy;9;Joanna Maria TERLECKA;22;0.00;NX
-23;15;KW Kongres Nowej Prawicy;10;Piotr Paweł JAŹWIECKI;17;0.00;NX
-23;15;KW Kongres Nowej Prawicy;11;Kamil Konrad FRYDLEWICZ;12;0.00;NX
-23;15;KW Kongres Nowej Prawicy;12;Monika Anna ŻÓŁTEK;16;0.00;NX
-23;15;KW Kongres Nowej Prawicy;13;Anna Katarzyna SZATAN;46;0.01;NX
-23;15;KW Kongres Nowej Prawicy;14;Paulina Franciszka DROŻDŻ;11;0.00;NX
-23;15;KW Kongres Nowej Prawicy;15;Grzegorz Wojciech RYKAŁA;19;0.00;NX
-23;15;KW Kongres Nowej Prawicy;16;Małgorzata Maria ŻMIGRODZKA;18;0.00;NX
-23;15;KW Kongres Nowej Prawicy;17;Linda Antonina CZARNEK;8;0.00;NX
-23;15;KW Kongres Nowej Prawicy;18;Mariusz Piotr KIWIOR;13;0.00;NX
-23;15;KW Kongres Nowej Prawicy;19;Maria Stanisława FRANCZYK;18;0.00;NX
-23;15;KW Kongres Nowej Prawicy;20;Filip Wiesław WALICKI;80;0.02;NX
+23;15;KNP;1;Leszek SAMBORSKI;231;0.05;NX
+23;15;KNP;2;Krzysztof Jerzy STELMACH;58;0.01;NX
+23;15;KNP;3;Łukasz Marek BELTER;37;0.01;NX
+23;15;KNP;4;Zofia JANIEC;50;0.01;NX
+23;15;KNP;5;Magdalena Barbara GORCZYCA;39;0.01;NX
+23;15;KNP;6;Michał Elzjasz HEBDA;22;0.00;NX
+23;15;KNP;7;Elżbieta Małgorzata WOJCIECHOWSKA;34;0.01;NX
+23;15;KNP;8;Aneta Joanna MICHNO;27;0.01;NX
+23;15;KNP;9;Joanna Maria TERLECKA;22;0.00;NX
+23;15;KNP;10;Piotr Paweł JAŹWIECKI;17;0.00;NX
+23;15;KNP;11;Kamil Konrad FRYDLEWICZ;12;0.00;NX
+23;15;KNP;12;Monika Anna ŻÓŁTEK;16;0.00;NX
+23;15;KNP;13;Anna Katarzyna SZATAN;46;0.01;NX
+23;15;KNP;14;Paulina Franciszka DROŻDŻ;11;0.00;NX
+23;15;KNP;15;Grzegorz Wojciech RYKAŁA;19;0.00;NX
+23;15;KNP;16;Małgorzata Maria ŻMIGRODZKA;18;0.00;NX
+23;15;KNP;17;Linda Antonina CZARNEK;8;0.00;NX
+23;15;KNP;18;Mariusz Piotr KIWIOR;13;0.00;NX
+23;15;KNP;19;Maria Stanisława FRANCZYK;18;0.00;NX
+23;15;KNP;20;Filip Wiesław WALICKI;80;0.02;NX
 24;1;PiS;1;Krzysztof JURGIEL;44620;10.25;PX
 24;1;PiS;2;Jarosław ZIELIŃSKI;28865;6.63;PX
 24;1;PiS;3;Dariusz PIONTKOWSKI;28378;6.52;PX
@@ -3311,22 +3311,22 @@ okreg;nrlisty;komitet;numer;kto;glosy;procent;wynik
 24;13;SAMOOBRONA;25;Krystyna ANDRACKA;3;0.00;NX
 24;13;SAMOOBRONA;26;Emil TRZASKA;15;0.00;NX
 24;13;SAMOOBRONA;27;Katarzyna OGONOWSKA;19;0.00;NX
-24;15;KW Kongres Nowej Prawicy;1;Piotr Jan RAKOWSKI;137;0.03;NX
-24;15;KW Kongres Nowej Prawicy;2;Beata Elżbieta KOPACKA;112;0.03;NX
-24;15;KW Kongres Nowej Prawicy;3;Michał HOFFMAN;72;0.02;NX
-24;15;KW Kongres Nowej Prawicy;4;Maciej WINOWSKI;13;0.00;NX
-24;15;KW Kongres Nowej Prawicy;5;Anna ŁOZIŃSKA;39;0.01;NX
-24;15;KW Kongres Nowej Prawicy;6;Grzegorz ZUBRZYCKI;34;0.01;NX
-24;15;KW Kongres Nowej Prawicy;7;Agata PARZYSZEK;21;0.00;NX
-24;15;KW Kongres Nowej Prawicy;8;Marcin PRUSZKO;27;0.01;NX
-24;15;KW Kongres Nowej Prawicy;9;Agnieszka Olga GRUDZIŃSKA;25;0.01;NX
-24;15;KW Kongres Nowej Prawicy;10;Mateusz ZAGROBA;31;0.01;NX
-24;15;KW Kongres Nowej Prawicy;11;Jadwiga Barbara LAWRO-WILCZEWSKA;23;0.01;NX
-24;15;KW Kongres Nowej Prawicy;12;Ryszard HODUN;5;0.00;NX
-24;15;KW Kongres Nowej Prawicy;13;Antonina Władysława KLEMENSOWICZ;5;0.00;NX
-24;15;KW Kongres Nowej Prawicy;14;Małgorzata RAKOWSKA;15;0.00;NX
-24;15;KW Kongres Nowej Prawicy;15;Urszula WINOWSKA;19;0.00;NX
-24;15;KW Kongres Nowej Prawicy;16;Dariusz RADEK;51;0.01;NX
+24;15;KNP;1;Piotr Jan RAKOWSKI;137;0.03;NX
+24;15;KNP;2;Beata Elżbieta KOPACKA;112;0.03;NX
+24;15;KNP;3;Michał HOFFMAN;72;0.02;NX
+24;15;KNP;4;Maciej WINOWSKI;13;0.00;NX
+24;15;KNP;5;Anna ŁOZIŃSKA;39;0.01;NX
+24;15;KNP;6;Grzegorz ZUBRZYCKI;34;0.01;NX
+24;15;KNP;7;Agata PARZYSZEK;21;0.00;NX
+24;15;KNP;8;Marcin PRUSZKO;27;0.01;NX
+24;15;KNP;9;Agnieszka Olga GRUDZIŃSKA;25;0.01;NX
+24;15;KNP;10;Mateusz ZAGROBA;31;0.01;NX
+24;15;KNP;11;Jadwiga Barbara LAWRO-WILCZEWSKA;23;0.01;NX
+24;15;KNP;12;Ryszard HODUN;5;0.00;NX
+24;15;KNP;13;Antonina Władysława KLEMENSOWICZ;5;0.00;NX
+24;15;KNP;14;Małgorzata RAKOWSKA;15;0.00;NX
+24;15;KNP;15;Urszula WINOWSKA;19;0.00;NX
+24;15;KNP;16;Dariusz RADEK;51;0.01;NX
 25;1;PiS;1;Jarosław Daniel SELLIN;34997;8.19;PX
 25;1;PiS;2;Kazimierz SMOLIŃSKI;12424;2.91;PX
 25;1;PiS;3;Andrzej JAWORSKI;25875;6.06;PX
@@ -4416,24 +4416,24 @@ okreg;nrlisty;komitet;numer;kto;glosy;procent;wynik
 30;8;PETRU;14;Jolanta BIGOS;432;0.15;NX
 30;8;PETRU;15;Kordian Kazimierz KORYTEK;217;0.07;NX
 30;8;PETRU;16;Ewa Agnieszka SZKORLA;418;0.14;NX
-30;12;KWW Zjednoczeni dla Śląska;1;Anna Kazimiera RONIN;2758;0.95;NX
-30;12;KWW Zjednoczeni dla Śląska;2;Marek Bernard POLOK;1829;0.63;NX
-30;12;KWW Zjednoczeni dla Śląska;3;Ryszard Jan UCHER;437;0.15;NX
-30;12;KWW Zjednoczeni dla Śląska;4;Marek Aleksander GRUSZKA;218;0.08;NX
-30;12;KWW Zjednoczeni dla Śląska;5;Beniamin Józef KWAŚNICA;317;0.11;NX
-30;12;KWW Zjednoczeni dla Śląska;6;Marcin Łukasz SZEWCZYK;153;0.05;NX
-30;12;KWW Zjednoczeni dla Śląska;7;Zuzanna Gabriela ORTMANNS;74;0.03;NX
-30;12;KWW Zjednoczeni dla Śląska;8;Jarosław Zbigniew SZCZĘSNY;350;0.12;NX
-30;12;KWW Zjednoczeni dla Śląska;9;Tadeusz Antoni KĄSEK;158;0.05;NX
-30;12;KWW Zjednoczeni dla Śląska;10;Henryk Sławomir POSTAWKA;345;0.12;NX
-30;12;KWW Zjednoczeni dla Śląska;11;Alicja Elżbieta KERNER;78;0.03;NX
-30;12;KWW Zjednoczeni dla Śląska;12;Filip Piotr LUBSZCZYK;118;0.04;NX
-30;12;KWW Zjednoczeni dla Śląska;13;Mateusz Piotr MIENSOPUST;82;0.03;NX
-30;12;KWW Zjednoczeni dla Śląska;14;Urszula Zofia KASPAREK;116;0.04;NX
-30;12;KWW Zjednoczeni dla Śląska;15;Franciszek Benedykt ORSZULIK;109;0.04;NX
-30;12;KWW Zjednoczeni dla Śląska;16;Aleksandra Wiktoria SMYCZEK;123;0.04;NX
-30;12;KWW Zjednoczeni dla Śląska;17;Lucyna Beata DUDA;195;0.07;NX
-30;12;KWW Zjednoczeni dla Śląska;18;Krystyna Irena ŚWIERKOT;468;0.16;NX
+30;12;ZJEDNOCZENIDLASLASKA;1;Anna Kazimiera RONIN;2758;0.95;NX
+30;12;ZJEDNOCZENIDLASLASKA;2;Marek Bernard POLOK;1829;0.63;NX
+30;12;ZJEDNOCZENIDLASLASKA;3;Ryszard Jan UCHER;437;0.15;NX
+30;12;ZJEDNOCZENIDLASLASKA;4;Marek Aleksander GRUSZKA;218;0.08;NX
+30;12;ZJEDNOCZENIDLASLASKA;5;Beniamin Józef KWAŚNICA;317;0.11;NX
+30;12;ZJEDNOCZENIDLASLASKA;6;Marcin Łukasz SZEWCZYK;153;0.05;NX
+30;12;ZJEDNOCZENIDLASLASKA;7;Zuzanna Gabriela ORTMANNS;74;0.03;NX
+30;12;ZJEDNOCZENIDLASLASKA;8;Jarosław Zbigniew SZCZĘSNY;350;0.12;NX
+30;12;ZJEDNOCZENIDLASLASKA;9;Tadeusz Antoni KĄSEK;158;0.05;NX
+30;12;ZJEDNOCZENIDLASLASKA;10;Henryk Sławomir POSTAWKA;345;0.12;NX
+30;12;ZJEDNOCZENIDLASLASKA;11;Alicja Elżbieta KERNER;78;0.03;NX
+30;12;ZJEDNOCZENIDLASLASKA;12;Filip Piotr LUBSZCZYK;118;0.04;NX
+30;12;ZJEDNOCZENIDLASLASKA;13;Mateusz Piotr MIENSOPUST;82;0.03;NX
+30;12;ZJEDNOCZENIDLASLASKA;14;Urszula Zofia KASPAREK;116;0.04;NX
+30;12;ZJEDNOCZENIDLASLASKA;15;Franciszek Benedykt ORSZULIK;109;0.04;NX
+30;12;ZJEDNOCZENIDLASLASKA;16;Aleksandra Wiktoria SMYCZEK;123;0.04;NX
+30;12;ZJEDNOCZENIDLASLASKA;17;Lucyna Beata DUDA;195;0.07;NX
+30;12;ZJEDNOCZENIDLASLASKA;18;Krystyna Irena ŚWIERKOT;468;0.16;NX
 30;14;BRAUN;1;Roman Henryk FRITZ;220;0.08;NX
 30;14;BRAUN;2;Tymoteusz Wiktor KUBICA;97;0.03;NX
 30;14;BRAUN;3;Małgorzata Ewa PISZCZEK;54;0.02;NX
@@ -4626,30 +4626,30 @@ okreg;nrlisty;komitet;numer;kto;glosy;procent;wynik
 31;8;PETRU;18;Marcin Tomasz STILLER;286;0.07;NX
 31;8;PETRU;19;Patrycja Luiza PLUTA-SZYMAJDA;546;0.13;NX
 31;8;PETRU;20;Wojciech Stefan MICIŃSKI;946;0.23;NX
-31;12;KWW Zjednoczeni dla Śląska;1;Zbigniew Marian KADŁUBEK;5010;1.22;NX
-31;12;KWW Zjednoczeni dla Śląska;2;Dietmar Artur BREHMER;1284;0.31;NX
-31;12;KWW Zjednoczeni dla Śląska;3;Leszek Janusz JODLIŃSKI;538;0.13;NX
-31;12;KWW Zjednoczeni dla Śląska;4;Piotr Jan BIAŁOŃCZYK;151;0.04;NX
-31;12;KWW Zjednoczeni dla Śląska;5;Jadwiga Julia SEBESTA;226;0.05;NX
-31;12;KWW Zjednoczeni dla Śląska;6;Dawid Konrad BREHMER;208;0.05;NX
-31;12;KWW Zjednoczeni dla Śląska;7;Maria Zofia ŚLIWOWSKA;181;0.04;NX
-31;12;KWW Zjednoczeni dla Śląska;8;Eugeniusz Adam STARZAK;181;0.04;NX
-31;12;KWW Zjednoczeni dla Śląska;9;Zuzanna Marianna GÓRECKA;337;0.08;NX
-31;12;KWW Zjednoczeni dla Śląska;10;Małgorzata Cecylia ŁASZEK;74;0.02;NX
-31;12;KWW Zjednoczeni dla Śląska;11;Oskar Henryk MANDLA;160;0.04;NX
-31;12;KWW Zjednoczeni dla Śląska;12;Katarzyna Marta ELIAS;177;0.04;NX
-31;12;KWW Zjednoczeni dla Śląska;13;Karolina Irena HELIOSZ;104;0.03;NX
-31;12;KWW Zjednoczeni dla Śląska;14;Ewelina Barbara PYRCZ;95;0.02;NX
-31;12;KWW Zjednoczeni dla Śląska;15;Aleksandra Barbara HAŁADUS;83;0.02;NX
-31;12;KWW Zjednoczeni dla Śląska;16;Ewa Eryka MAZUR;227;0.06;NX
-31;12;KWW Zjednoczeni dla Śląska;17;Alfred Franciszek BABCZYŃSKI;73;0.02;NX
-31;12;KWW Zjednoczeni dla Śląska;18;Izabela Cecylia KOŁODZIEJCZYK;203;0.05;NX
-31;12;KWW Zjednoczeni dla Śląska;19;Tomasz Domin ROCHATKA;33;0.01;NX
-31;12;KWW Zjednoczeni dla Śląska;20;Leon SŁADEK;149;0.04;NX
-31;12;KWW Zjednoczeni dla Śląska;21;Michał Łukasz BĄK;220;0.05;NX
-31;12;KWW Zjednoczeni dla Śląska;22;Roman Konrad KIERA;217;0.05;NX
-31;12;KWW Zjednoczeni dla Śląska;23;Eugeniusz Piotr NAGEL;226;0.05;NX
-31;12;KWW Zjednoczeni dla Śląska;24;Piotr Paweł SNACZKE;583;0.14;NX
+31;12;ZJEDNOCZENIDLASLASKA;1;Zbigniew Marian KADŁUBEK;5010;1.22;NX
+31;12;ZJEDNOCZENIDLASLASKA;2;Dietmar Artur BREHMER;1284;0.31;NX
+31;12;ZJEDNOCZENIDLASLASKA;3;Leszek Janusz JODLIŃSKI;538;0.13;NX
+31;12;ZJEDNOCZENIDLASLASKA;4;Piotr Jan BIAŁOŃCZYK;151;0.04;NX
+31;12;ZJEDNOCZENIDLASLASKA;5;Jadwiga Julia SEBESTA;226;0.05;NX
+31;12;ZJEDNOCZENIDLASLASKA;6;Dawid Konrad BREHMER;208;0.05;NX
+31;12;ZJEDNOCZENIDLASLASKA;7;Maria Zofia ŚLIWOWSKA;181;0.04;NX
+31;12;ZJEDNOCZENIDLASLASKA;8;Eugeniusz Adam STARZAK;181;0.04;NX
+31;12;ZJEDNOCZENIDLASLASKA;9;Zuzanna Marianna GÓRECKA;337;0.08;NX
+31;12;ZJEDNOCZENIDLASLASKA;10;Małgorzata Cecylia ŁASZEK;74;0.02;NX
+31;12;ZJEDNOCZENIDLASLASKA;11;Oskar Henryk MANDLA;160;0.04;NX
+31;12;ZJEDNOCZENIDLASLASKA;12;Katarzyna Marta ELIAS;177;0.04;NX
+31;12;ZJEDNOCZENIDLASLASKA;13;Karolina Irena HELIOSZ;104;0.03;NX
+31;12;ZJEDNOCZENIDLASLASKA;14;Ewelina Barbara PYRCZ;95;0.02;NX
+31;12;ZJEDNOCZENIDLASLASKA;15;Aleksandra Barbara HAŁADUS;83;0.02;NX
+31;12;ZJEDNOCZENIDLASLASKA;16;Ewa Eryka MAZUR;227;0.06;NX
+31;12;ZJEDNOCZENIDLASLASKA;17;Alfred Franciszek BABCZYŃSKI;73;0.02;NX
+31;12;ZJEDNOCZENIDLASLASKA;18;Izabela Cecylia KOŁODZIEJCZYK;203;0.05;NX
+31;12;ZJEDNOCZENIDLASLASKA;19;Tomasz Domin ROCHATKA;33;0.01;NX
+31;12;ZJEDNOCZENIDLASLASKA;20;Leon SŁADEK;149;0.04;NX
+31;12;ZJEDNOCZENIDLASLASKA;21;Michał Łukasz BĄK;220;0.05;NX
+31;12;ZJEDNOCZENIDLASLASKA;22;Roman Konrad KIERA;217;0.05;NX
+31;12;ZJEDNOCZENIDLASLASKA;23;Eugeniusz Piotr NAGEL;226;0.05;NX
+31;12;ZJEDNOCZENIDLASLASKA;24;Piotr Paweł SNACZKE;583;0.14;NX
 32;1;PiS;1;Ewa Danuta MALIK;28909;10.16;PX
 32;1;PiS;2;Waldemar Franciszek ANDZEL;12021;4.22;PX
 32;1;PiS;3;Dariusz Karol STARZYCKI;9039;3.18;PX
@@ -5628,141 +5628,141 @@ okreg;nrlisty;komitet;numer;kto;glosy;procent;wynik
 36;13;SAMOOBRONA;11;Tadeusz Robert KOCIARA;16;0.00;NX
 36;13;SAMOOBRONA;12;Władysława WAŚCIŃSKA;17;0.00;NX
 36;13;SAMOOBRONA;13;Aldona Cecylia JEDWABNA;51;0.01;NX
-37;1;PiS;1;Witold Wojciech CZARNECKI;0;0;PX
-37;1;PiS;2;Agnieszka MIRECKA-KATULSKA;0;0;NX
-37;1;PiS;3;Zofia Mariola ITMAN;0;0;NX
-37;1;PiS;4;Zbigniew DOLATA;0;0;PX
-37;1;PiS;5;Ryszard BARTOSIK;0;0;PX
-37;1;PiS;6;Waldemar MARCINIAK;0;0;NX
-37;1;PiS;7;Leszek Ryszard GALEMBA;0;0;PX
-37;1;PiS;8;Maryla Janina STOLAREK;0;0;NX
-37;1;PiS;9;Małgorzata Marta CICHACKA;0;0;NX
-37;1;PiS;10;Krzysztof Jan OSTROWSKI;0;0;PX
-37;1;PiS;11;Mateusz CZAPLICKI;0;0;NX
-37;1;PiS;12;Monika TWARDOWSKA;0;0;NX
-37;1;PiS;13;Anna WOŹNIAK;0;0;NX
-37;1;PiS;14;Maciej CZAJA;0;0;NX
-37;1;PiS;15;Jacek SZCZEPANKIEWICZ;0;0;NX
-37;1;PiS;16;Robert Adam POPKOWSKI;0;0;NX
-37;1;PiS;17;Halina MUSIAŁEK;0;0;NX
-37;1;PiS;18;Wojciech ZAJLER;0;0;NX
-37;2;PO;1;Paweł Antoni ARNDT;0;0;PX
-37;2;PO;2;Tomasz Piotr NOWAK;0;0;PX
-37;2;PO;3;Maria BYCHAWSKA;0;0;NX
-37;2;PO;4;Donata Teresa HEDRYCH;0;0;NX
-37;2;PO;5;Krzysztof Marceli MAZURKIEWICZ;0;0;NX
-37;2;PO;6;Jadwiga WIELAND;0;0;NX
-37;2;PO;7;Sławomir Piotr PRENTCZYŃSKI;0;0;NX
-37;2;PO;8;Piotr Paweł KOWALSKI;0;0;NX
-37;2;PO;9;Urszula Iwona MACIASZEK;0;0;NX
-37;2;PO;10;Krystyna Teresa ŻOK;0;0;NX
-37;2;PO;11;Artur Piotr MOKRACKI;0;0;NX
-37;2;PO;12;Paulina GRABOWSKA;0;0;NX
-37;2;PO;13;Krzysztof Daniel SKRZYPCZAK;0;0;NX
-37;2;PO;14;Arkadiusz Jan TOMASZEWSKI;0;0;NX
-37;2;PO;15;Żanetta Magdalena MATLEWSKA;0;0;NX
-37;2;PO;16;Andrzej Stanisław PACZKOWSKI;0;0;NX
-37;2;PO;17;Anna Agnieszka JUNG;0;0;NX
-37;2;PO;18;Dariusz Janusz MŁYNARCZYK;0;0;NX
-37;3;RAZEM;1;Małgorzata ADAMCZYK;0;0;NX
-37;3;RAZEM;2;Dawid MAJEWSKI;0;0;NX
-37;3;RAZEM;3;Paulina NOWAK;0;0;NX
-37;3;RAZEM;4;Krzysztof WOJCZEWSKI;0;0;NX
-37;3;RAZEM;5;Agnieszka FRANKOWSKA;0;0;NX
-37;3;RAZEM;6;Marcin JACUSZCZAK;0;0;NX
-37;3;RAZEM;7;Marta FRANKOWSKA;0;0;NX
-37;3;RAZEM;8;Grzegorz Andrzej KRYSTEK;0;0;NX
-37;3;RAZEM;9;Monika Jadwiga GAJ;0;0;NX
-37;3;RAZEM;10;Tomasz DARUL;0;0;NX
-37;4;KORWiN;1;Przemysław PIASTA;0;0;NX
-37;4;KORWiN;2;Przemysław DUDEK;0;0;NX
-37;4;KORWiN;3;Piotr BUKOWIECKI;0;0;NX
-37;4;KORWiN;4;Kamil Szymon CZELADZIŃSKI;0;0;NX
-37;4;KORWiN;5;Przemysław Tomasz GRONEK;0;0;NX
-37;4;KORWiN;6;Marzena PAŁASZ;0;0;NX
-37;4;KORWiN;7;Monika HOFFMAN;0;0;NX
-37;4;KORWiN;8;Maciej Jan FILIPIAK;0;0;NX
-37;4;KORWiN;9;Arletta SZANIAWSKA;0;0;NX
-37;4;KORWiN;10;Jerzy Bogdan GRALIŃSKI;0;0;NX
-37;4;KORWiN;11;Eryk KORZENIEWSKI;0;0;NX
-37;4;KORWiN;12;Renata BIELECKA;0;0;NX
-37;4;KORWiN;13;Łukasz KOMINIAREK;0;0;NX
-37;4;KORWiN;14;Aneta MARCINIAK;0;0;NX
-37;4;KORWiN;15;Agata RYCHTEROWICZ;0;0;NX
-37;4;KORWiN;16;Piotr KOSZTER;0;0;NX
-37;4;KORWiN;17;Inez SZYMAŃSKA;0;0;NX
-37;4;KORWiN;18;Justyna ROGACKA;0;0;NX
-37;5;PSL;1;Eugeniusz Tomasz GRZESZCZAK;0;0;NX
-37;5;PSL;2;Mirosława Katarzyna KAŹMIERCZAK;0;0;NX
-37;5;PSL;3;Marek Stanisław TOMICKI;0;0;NX
-37;5;PSL;4;Władysław KOCAJ;0;0;NX
-37;5;PSL;5;Tadeusz GEBLER;0;0;NX
-37;5;PSL;6;Jerzy Andrzej BERLIK;0;0;NX
-37;5;PSL;7;Urszula Barbara REMISZ;0;0;NX
-37;5;PSL;8;Krzysztof Zenon STRUŻYŃSKI;0;0;NX
-37;5;PSL;9;Zofia Czesława BIELECKA;0;0;NX
-37;5;PSL;10;Teodor STĘPA;0;0;NX
-37;5;PSL;11;Ewa SOBCZAK;0;0;NX
-37;5;PSL;12;Przemysław SZAFRAN;0;0;NX
-37;5;PSL;13;Hubert Jerzy TOMASZEWSKI;0;0;NX
-37;5;PSL;14;Elżbieta Joanna KORDYLEWSKA;0;0;NX
-37;5;PSL;15;Zofia Ewa GRUSZCZYŃSKA;0;0;NX
-37;5;PSL;16;Maciej Grzegorz GOMULSKI;0;0;NX
-37;5;PSL;17;Sylwia Dorota SMOLAREK;0;0;NX
-37;5;PSL;18;Andżelika Helena CHOJNACKA;0;0;NX
-37;6;ZLEW;1;Tadeusz TOMASZEWSKI;0;0;NX
-37;6;ZLEW;2;Jacek KWIATKOWSKI;0;0;NX
-37;6;ZLEW;3;Kazimierz Czesław PAŁASZ;0;0;NX
-37;6;ZLEW;4;Ryszard Piotr NAWROCKI;0;0;NX
-37;6;ZLEW;5;Elżbieta STREKER-DEMBIŃSKA;0;0;NX
-37;6;ZLEW;6;Karol KUJAWA;0;0;NX
-37;6;ZLEW;7;Piotr SKRZYPNIAK;0;0;NX
-37;6;ZLEW;8;Rafał PERA;0;0;NX
-37;6;ZLEW;9;Miłosława Dorota STĘPIEŃ;0;0;NX
-37;6;ZLEW;10;Jan Stanisław LUBAS;0;0;NX
-37;6;ZLEW;11;Jadwiga Elżbieta JARONIEWSKA;0;0;NX
-37;6;ZLEW;12;Mirosława WIECZORKIEWICZ;0;0;NX
-37;6;ZLEW;13;Marcin JAGODZIŃSKI;0;0;NX
-37;6;ZLEW;14;Eleonora MATUSZEWSKA;0;0;NX
-37;6;ZLEW;15;Agnieszka Kazimiera FRĄCKOWIAK;0;0;NX
-37;6;ZLEW;16;Eleonora Krystyna MĄDRA;0;0;NX
-37;6;ZLEW;17;Adrian KRÓL;0;0;NX
-37;6;ZLEW;18;Marian Mirosław MARCZEWSKI;0;0;NX
-37;7;KUKIZ;1;Bartosz JÓZWIAK;0;0;PX
-37;7;KUKIZ;2;Sławomir Krzysztof PRZEKAZA;0;0;NX
-37;7;KUKIZ;3;Michał Tadeusz KOTLARSKI;0;0;NX
-37;7;KUKIZ;4;Urszula REWERS-ŁECHTAŃSKA;0;0;NX
-37;7;KUKIZ;5;Karolina PIASECKA;0;0;NX
-37;7;KUKIZ;6;Anna PIETRZAK;0;0;NX
-37;7;KUKIZ;7;Małgorzata WOJCIECHOWSKA;0;0;NX
-37;7;KUKIZ;8;Jakub PERA;0;0;NX
-37;7;KUKIZ;9;Małgorzata Agnieszka WAGNER;0;0;NX
-37;7;KUKIZ;10;Elżbieta Franciszka BISKUP-KAŁWAK;0;0;NX
-37;7;KUKIZ;11;Aleksandra GALOR;0;0;NX
-37;7;KUKIZ;12;Bogusław Karol POTOCKI;0;0;NX
-37;7;KUKIZ;13;Mariusz ĆWIKLIŃSKI;0;0;NX
-37;7;KUKIZ;14;Ilona Wanda JAGIELSKA;0;0;NX
-37;7;KUKIZ;15;Jan Stanisław DĘBIEC;0;0;NX
-37;7;KUKIZ;16;Natalia JABŁOŃSKA;0;0;NX
-37;7;KUKIZ;17;Jerzy Józef LEŚNIEWSKI;0;0;NX
-37;8;PETRU;1;Paulina HENNIG-KLOSKA;0;0;PX
-37;8;PETRU;2;Dariusz KAŁUŻNY;0;0;NX
-37;8;PETRU;3;Ernest Janusz IWAŃCZUK;0;0;NX
-37;8;PETRU;4;Marcin Andrzej CHWAŁCZYŃSKI;0;0;NX
-37;8;PETRU;5;Krzysztof Igor LEWICKI;0;0;NX
-37;8;PETRU;6;Przemysław Krzysztof NIEZBECKI;0;0;NX
-37;8;PETRU;7;Artur Paweł PRZYSZŁO;0;0;NX
-37;8;PETRU;8;Hanna KMIECIAK;0;0;NX
-37;8;PETRU;9;Monika KOSIŃSKA;0;0;NX
-37;8;PETRU;10;Jarosław Marek IGNASIAK;0;0;NX
-37;8;PETRU;11;Magdalena SEKULSKA;0;0;NX
-37;8;PETRU;12;Emilia WASIELEWSKA;0;0;NX
-37;8;PETRU;13;Łukasz Mieczysław MUCIOK;0;0;NX
-37;8;PETRU;14;Leszek Jan DRĄŻKIEWICZ;0;0;NX
-37;8;PETRU;15;Magdalena SOBISIAK;0;0;NX
-37;8;PETRU;16;Lilianna SZWARC;0;0;NX
-37;8;PETRU;17;Lucyna DUTKIEWICZ-BZOWA;0;0;NX
-37;8;PETRU;18;Marek GOLA;0;0;NX
+37;1;PiS;1;Witold Wojciech CZARNECKI;26399;9.52;PX
+37;1;PiS;2;Agnieszka MIRECKA-KATULSKA;7520;2.71;NX
+37;1;PiS;3;Zofia Mariola ITMAN;6913;2.49;NX
+37;1;PiS;4;Zbigniew DOLATA;18060;6.51;PX
+37;1;PiS;5;Ryszard BARTOSIK;8163;2.94;PX
+37;1;PiS;6;Waldemar MARCINIAK;3942;1.42;NX
+37;1;PiS;7;Leszek Ryszard GALEMBA;7708;2.78;PX
+37;1;PiS;8;Maryla Janina STOLAREK;2184;0.79;NX
+37;1;PiS;9;Małgorzata Marta CICHACKA;1635;0.59;NX
+37;1;PiS;10;Krzysztof Jan OSTROWSKI;9443;3.40;PX
+37;1;PiS;11;Mateusz CZAPLICKI;1120;0.40;NX
+37;1;PiS;12;Monika TWARDOWSKA;840;0.30;NX
+37;1;PiS;13;Anna WOŹNIAK;1875;0.68;NX
+37;1;PiS;14;Maciej CZAJA;1332;0.48;NX
+37;1;PiS;15;Jacek SZCZEPANKIEWICZ;1394;0.50;NX
+37;1;PiS;16;Robert Adam POPKOWSKI;1650;0.59;NX
+37;1;PiS;17;Halina MUSIAŁEK;912;0.33;NX
+37;1;PiS;18;Wojciech ZAJLER;2691;0.97;NX
+37;2;PO;1;Paweł Antoni ARNDT;17925;6.46;PX
+37;2;PO;2;Tomasz Piotr NOWAK;11820;4.26;PX
+37;2;PO;3;Maria BYCHAWSKA;5053;1.82;NX
+37;2;PO;4;Donata Teresa HEDRYCH;1388;0.50;NX
+37;2;PO;5;Krzysztof Marceli MAZURKIEWICZ;2674;0.96;NX
+37;2;PO;6;Jadwiga WIELAND;1638;0.59;NX
+37;2;PO;7;Sławomir Piotr PRENTCZYŃSKI;720;0.26;NX
+37;2;PO;8;Piotr Paweł KOWALSKI;1819;0.66;NX
+37;2;PO;9;Urszula Iwona MACIASZEK;2178;0.79;NX
+37;2;PO;10;Krystyna Teresa ŻOK;1207;0.44;NX
+37;2;PO;11;Artur Piotr MOKRACKI;1536;0.55;NX
+37;2;PO;12;Paulina GRABOWSKA;1216;0.44;NX
+37;2;PO;13;Krzysztof Daniel SKRZYPCZAK;680;0.25;NX
+37;2;PO;14;Arkadiusz Jan TOMASZEWSKI;1520;0.55;NX
+37;2;PO;15;Żanetta Magdalena MATLEWSKA;805;0.29;NX
+37;2;PO;16;Andrzej Stanisław PACZKOWSKI;557;0.20;NX
+37;2;PO;17;Anna Agnieszka JUNG;1050;0.38;NX
+37;2;PO;18;Dariusz Janusz MŁYNARCZYK;2325;0.84;NX
+37;3;RAZEM;1;Małgorzata ADAMCZYK;4834;1.74;NX
+37;3;RAZEM;2;Dawid MAJEWSKI;1148;0.41;NX
+37;3;RAZEM;3;Paulina NOWAK;1104;0.40;NX
+37;3;RAZEM;4;Krzysztof WOJCZEWSKI;436;0.16;NX
+37;3;RAZEM;5;Agnieszka FRANKOWSKA;702;0.25;NX
+37;3;RAZEM;6;Marcin JACUSZCZAK;388;0.14;NX
+37;3;RAZEM;7;Marta FRANKOWSKA;410;0.15;NX
+37;3;RAZEM;8;Grzegorz Andrzej KRYSTEK;225;0.08;NX
+37;3;RAZEM;9;Monika Jadwiga GAJ;595;0.21;NX
+37;3;RAZEM;10;Tomasz DARUL;1190;0.43;NX
+37;4;KORWiN;1;Przemysław PIASTA;4580;1.65;NX
+37;4;KORWiN;2;Przemysław DUDEK;1486;0.54;NX
+37;4;KORWiN;3;Piotr BUKOWIECKI;797;0.29;NX
+37;4;KORWiN;4;Kamil Szymon CZELADZIŃSKI;444;0.16;NX
+37;4;KORWiN;5;Przemysław Tomasz GRONEK;402;0.14;NX
+37;4;KORWiN;6;Marzena PAŁASZ;446;0.16;NX
+37;4;KORWiN;7;Monika HOFFMAN;548;0.20;NX
+37;4;KORWiN;8;Maciej Jan FILIPIAK;437;0.16;NX
+37;4;KORWiN;9;Arletta SZANIAWSKA;191;0.07;NX
+37;4;KORWiN;10;Jerzy Bogdan GRALIŃSKI;129;0.05;NX
+37;4;KORWiN;11;Eryk KORZENIEWSKI;199;0.07;NX
+37;4;KORWiN;12;Renata BIELECKA;184;0.07;NX
+37;4;KORWiN;13;Łukasz KOMINIAREK;173;0.06;NX
+37;4;KORWiN;14;Aneta MARCINIAK;167;0.06;NX
+37;4;KORWiN;15;Agata RYCHTEROWICZ;70;0.03;NX
+37;4;KORWiN;16;Piotr KOSZTER;121;0.04;NX
+37;4;KORWiN;17;Inez SZYMAŃSKA;258;0.09;NX
+37;4;KORWiN;18;Justyna ROGACKA;429;0.15;NX
+37;5;PSL;1;Eugeniusz Tomasz GRZESZCZAK;6609;2.38;NX
+37;5;PSL;2;Mirosława Katarzyna KAŹMIERCZAK;1437;0.52;NX
+37;5;PSL;3;Marek Stanisław TOMICKI;1290;0.47;NX
+37;5;PSL;4;Władysław KOCAJ;839;0.30;NX
+37;5;PSL;5;Tadeusz GEBLER;2761;1.00;NX
+37;5;PSL;6;Jerzy Andrzej BERLIK;852;0.31;NX
+37;5;PSL;7;Urszula Barbara REMISZ;449;0.16;NX
+37;5;PSL;8;Krzysztof Zenon STRUŻYŃSKI;540;0.19;NX
+37;5;PSL;9;Zofia Czesława BIELECKA;300;0.11;NX
+37;5;PSL;10;Teodor STĘPA;1073;0.39;NX
+37;5;PSL;11;Ewa SOBCZAK;526;0.19;NX
+37;5;PSL;12;Przemysław SZAFRAN;288;0.10;NX
+37;5;PSL;13;Hubert Jerzy TOMASZEWSKI;344;0.12;NX
+37;5;PSL;14;Elżbieta Joanna KORDYLEWSKA;150;0.05;NX
+37;5;PSL;15;Zofia Ewa GRUSZCZYŃSKA;417;0.15;NX
+37;5;PSL;16;Maciej Grzegorz GOMULSKI;281;0.10;NX
+37;5;PSL;17;Sylwia Dorota SMOLAREK;159;0.06;NX
+37;5;PSL;18;Andżelika Helena CHOJNACKA;712;0.26;NX
+37;6;ZLEW;1;Tadeusz TOMASZEWSKI;15350;5.53;NX
+37;6;ZLEW;2;Jacek KWIATKOWSKI;1384;0.50;NX
+37;6;ZLEW;3;Kazimierz Czesław PAŁASZ;5174;1.87;NX
+37;6;ZLEW;4;Ryszard Piotr NAWROCKI;1499;0.54;NX
+37;6;ZLEW;5;Elżbieta STREKER-DEMBIŃSKA;1379;0.50;NX
+37;6;ZLEW;6;Karol KUJAWA;1043;0.38;NX
+37;6;ZLEW;7;Piotr SKRZYPNIAK;397;0.14;NX
+37;6;ZLEW;8;Rafał PERA;486;0.18;NX
+37;6;ZLEW;9;Miłosława Dorota STĘPIEŃ;573;0.21;NX
+37;6;ZLEW;10;Jan Stanisław LUBAS;634;0.23;NX
+37;6;ZLEW;11;Jadwiga Elżbieta JARONIEWSKA;534;0.19;NX
+37;6;ZLEW;12;Mirosława WIECZORKIEWICZ;526;0.19;NX
+37;6;ZLEW;13;Marcin JAGODZIŃSKI;514;0.19;NX
+37;6;ZLEW;14;Eleonora MATUSZEWSKA;159;0.06;NX
+37;6;ZLEW;15;Agnieszka Kazimiera FRĄCKOWIAK;358;0.13;NX
+37;6;ZLEW;16;Eleonora Krystyna MĄDRA;370;0.13;NX
+37;6;ZLEW;17;Adrian KRÓL;585;0.21;NX
+37;6;ZLEW;18;Marian Mirosław MARCZEWSKI;1684;0.61;NX
+37;7;KUKIZ;1;Bartosz JÓZWIAK;8747;3.15;PX
+37;7;KUKIZ;2;Sławomir Krzysztof PRZEKAZA;1233;0.44;NX
+37;7;KUKIZ;3;Michał Tadeusz KOTLARSKI;2139;0.77;NX
+37;7;KUKIZ;4;Urszula REWERS-ŁECHTAŃSKA;854;0.31;NX
+37;7;KUKIZ;5;Karolina PIASECKA;2478;0.89;NX
+37;7;KUKIZ;6;Anna PIETRZAK;1601;0.58;NX
+37;7;KUKIZ;7;Małgorzata WOJCIECHOWSKA;1054;0.38;NX
+37;7;KUKIZ;8;Jakub PERA;1324;0.48;NX
+37;7;KUKIZ;9;Małgorzata Agnieszka WAGNER;866;0.31;NX
+37;7;KUKIZ;10;Elżbieta Franciszka BISKUP-KAŁWAK;289;0.10;NX
+37;7;KUKIZ;11;Aleksandra GALOR;434;0.16;NX
+37;7;KUKIZ;12;Bogusław Karol POTOCKI;482;0.17;NX
+37;7;KUKIZ;13;Mariusz ĆWIKLIŃSKI;466;0.17;NX
+37;7;KUKIZ;14;Ilona Wanda JAGIELSKA;254;0.09;NX
+37;7;KUKIZ;15;Jan Stanisław DĘBIEC;328;0.12;NX
+37;7;KUKIZ;16;Natalia JABŁOŃSKA;947;0.34;NX
+37;7;KUKIZ;17;Jerzy Józef LEŚNIEWSKI;990;0.36;NX
+37;8;PETRU;1;Paulina HENNIG-KLOSKA;7306;2.63;PX
+37;8;PETRU;2;Dariusz KAŁUŻNY;2364;0.85;NX
+37;8;PETRU;3;Ernest Janusz IWAŃCZUK;1008;0.36;NX
+37;8;PETRU;4;Marcin Andrzej CHWAŁCZYŃSKI;1315;0.47;NX
+37;8;PETRU;5;Krzysztof Igor LEWICKI;455;0.16;NX
+37;8;PETRU;6;Przemysław Krzysztof NIEZBECKI;898;0.32;NX
+37;8;PETRU;7;Artur Paweł PRZYSZŁO;509;0.18;NX
+37;8;PETRU;8;Hanna KMIECIAK;529;0.19;NX
+37;8;PETRU;9;Monika KOSIŃSKA;848;0.31;NX
+37;8;PETRU;10;Jarosław Marek IGNASIAK;847;0.31;NX
+37;8;PETRU;11;Magdalena SEKULSKA;491;0.18;NX
+37;8;PETRU;12;Emilia WASIELEWSKA;355;0.13;NX
+37;8;PETRU;13;Łukasz Mieczysław MUCIOK;303;0.11;NX
+37;8;PETRU;14;Leszek Jan DRĄŻKIEWICZ;139;0.05;NX
+37;8;PETRU;15;Magdalena SOBISIAK;172;0.06;NX
+37;8;PETRU;16;Lilianna SZWARC;231;0.08;NX
+37;8;PETRU;17;Lucyna DUTKIEWICZ-BZOWA;191;0.07;NX
+37;8;PETRU;18;Marek GOLA;1276;0.46;NX
 38;1;PiS;1;Maks KRACZKOWSKI;20503;7.59;PX
 38;1;PiS;2;Krzysztof Paweł ŁAPIŃSKI;8114;3.00;PX
 38;1;PiS;3;Marta Ryszarda KUBIAK;4816;1.78;NX
@@ -6446,189 +6446,189 @@ okreg;nrlisty;komitet;numer;kto;glosy;procent;wynik
 40;8;PETRU;11;Joanna FUDALI-OSAK;223;0.10;NX
 40;8;PETRU;12;Marzena Teresa NOWACKA;875;0.40;NX
 40;8;PETRU;13;Marek Paweł ŚPIECHOWICZ;688;0.32;NX
-41;1;PiS;1;Joachim Stanisław BRUDZIŃSKI;0;0;PX
-41;1;PiS;2;Leszek DOBRZYŃSKI;0;0;PX
-41;1;PiS;3;Artur Lesław SZAŁABAWKA;0;0;PX
-41;1;PiS;4;Michał JACH;0;0;PX
-41;1;PiS;5;Halina Barbara SZYMAŃSKA;0;0;NX
-41;1;PiS;6;Krzysztof Piotr ZAREMBA;0;0;PX
-41;1;PiS;7;Rafał Marek MUCHA;0;0;NX
-41;1;PiS;8;Agnieszka Janina STÓJ;0;0;NX
-41;1;PiS;9;Mariusz Roman RÓŻYCKI;0;0;NX
-41;1;PiS;10;Magdalena ZARĘBSKA-KULESZA;0;0;NX
-41;1;PiS;11;Grzegorz Czesław BURCZA;0;0;NX
-41;1;PiS;12;Maria Romualda BRZOZOWSKA;0;0;NX
-41;1;PiS;13;Justyna ŁYJAK;0;0;NX
-41;1;PiS;14;Tadeusz Józef JAKUBOWSKI;0;0;NX
-41;1;PiS;15;Wanda MAZUR;0;0;NX
-41;1;PiS;16;Anna Małgorzata KRÓLIKOWSKA;0;0;NX
-41;1;PiS;17;Agnieszka PRZYBYLSKA;0;0;NX
-41;1;PiS;18;Magdalena Maria GRABOWSKA-JÓŹWIAK;0;0;NX
-41;1;PiS;19;Zbigniew BOGUCKI;0;0;NX
-41;1;PiS;20;Agnieszka KURZAWA;0;0;NX
-41;1;PiS;21;Aleksandra MUSZYŃSKA;0;0;NX
-41;1;PiS;22;Andrzej Tadeusz STRZEBOŃSKI;0;0;NX
-41;1;PiS;23;Jolanta KAWSZYN;0;0;NX
-41;1;PiS;24;Włodzimierz Antoni KOTUNIAK;0;0;NX
-41;2;PO;1;Norbert Piotr OBRYCKI;0;0;PX
-41;2;PO;2;Sławomir Witold NITRAS;0;0;PX
-41;2;PO;3;Magdalena Maria KOCHAN;0;0;PX
-41;2;PO;4;Renata ZAREMBA;0;0;NX
-41;2;PO;5;Zofia ŁAWRYNOWICZ;0;0;NX
-41;2;PO;6;Arkadiusz LITWIŃSKI;0;0;NX
-41;2;PO;7;Konstanty Tomasz OŚWIĘCIMSKI;0;0;NX
-41;2;PO;8;Arkadiusz MARCHEWKA;0;0;PX
-41;2;PO;9;Ewa Ilona ŻMUDA-TRZEBIATOWSKA;0;0;NX
-41;2;PO;10;Joanna ŻUROWSKA;0;0;NX
-41;2;PO;11;Mariusz Piotr ADAMSKI;0;0;NX
-41;2;PO;12;Beata KIRYLUK;0;0;NX
-41;2;PO;13;Maria Alina ŻUKROWSKA-MRÓZ;0;0;NX
-41;2;PO;14;Wiktor TOŁOCZKO;0;0;NX
-41;2;PO;15;Józef DROZDOWSKI;0;0;NX
-41;2;PO;16;Elżbieta JABŁOŃSKA;0;0;NX
-41;2;PO;17;Marcin Radosław WOJCIECHOWSKI;0;0;NX
-41;2;PO;18;Antoni Stanisław MICHNOWICZ;0;0;NX
-41;2;PO;19;Jarosław Roman RĘBIASZ;0;0;NX
-41;2;PO;20;Adam FEDEŃCZAK;0;0;NX
-41;2;PO;21;Jarosław Patryk PRZYGODA;0;0;NX
-41;2;PO;22;Piotr RĘBACZ;0;0;NX
-41;2;PO;23;Urszula PAŃKA;0;0;NX
-41;2;PO;24;Bartosz Adam ARŁUKOWICZ;0;0;PX
-41;3;RAZEM;1;Maciej Rafał DŻUS;0;0;NX
-41;3;RAZEM;2;Maria Magdalena SERAFINOWICZ;0;0;NX
-41;3;RAZEM;3;Stanisław Ignacy MATUSEWICZ;0;0;NX
-41;3;RAZEM;4;Dorota Łucja SANECKA;0;0;NX
-41;3;RAZEM;5;Norbert Andrzej LITWICKI;0;0;NX
-41;3;RAZEM;6;Ewa Maria DĄBROWSKA;0;0;NX
-41;3;RAZEM;7;Zlatko Maciej GOGAROWSKI;0;0;NX
-41;3;RAZEM;8;Elżbieta Danuta DYMITRIADIS;0;0;NX
-41;3;RAZEM;9;Michał Jacek SOKOLSKI;0;0;NX
-41;3;RAZEM;10;Julita ZIELIŃSKA;0;0;NX
-41;3;RAZEM;11;Miron Krzysztof ZBLEWSKI;0;0;NX
-41;3;RAZEM;12;Anna Maria RÓŻAŃSKA;0;0;NX
-41;3;RAZEM;13;Marek ODOROWSKI;0;0;NX
-41;3;RAZEM;14;Jaśmina Magdalena RÓŻAŃSKA;0;0;NX
-41;3;RAZEM;15;Łukasz Mikołaj SADŁOWSKI;0;0;NX
-41;4;KORWiN;1;Paweł Jan SZUT;0;0;NX
-41;4;KORWiN;2;Wacław KLUKOWSKI;0;0;NX
-41;4;KORWiN;3;Agnieszka PODGÓRSKA;0;0;NX
-41;4;KORWiN;4;Piotr Edmund KASPRZAK;0;0;NX
-41;4;KORWiN;5;Katarzyna Alina RADZISZEWSKA;0;0;NX
-41;4;KORWiN;6;Ludwik Szczepan WEBER;0;0;NX
-41;4;KORWiN;7;Julia SERAFINOWSKA;0;0;NX
-41;4;KORWiN;8;Marek Wojciech CHMIELEWSKI;0;0;NX
-41;4;KORWiN;9;Rafał GALEWSKI;0;0;NX
-41;4;KORWiN;10;Marek Paweł ZAKRZEWSKI;0;0;NX
-41;4;KORWiN;11;Radosław Michał JUSZCZYSZYN;0;0;NX
-41;4;KORWiN;12;Magda Agnieszka CHUDZIK;0;0;NX
-41;4;KORWiN;13;Agata Iza SKOTNICKA;0;0;NX
-41;4;KORWiN;14;Marek KAFARSKI;0;0;NX
-41;4;KORWiN;15;Andrzej BIAŁOKOZ;0;0;NX
-41;4;KORWiN;16;Jacek JĘDRZEJKO;0;0;NX
-41;4;KORWiN;17;Alicja Helena DĘBOWSKA;0;0;NX
-41;4;KORWiN;18;Jakub Jan PRUSKO;0;0;NX
-41;4;KORWiN;19;Anna Magdalena KWIECIEŃ;0;0;NX
-41;4;KORWiN;20;Mateusz Tomasz JOŃCZYK;0;0;NX
-41;4;KORWiN;21;Katarzyna Aleksandra KORCABA;0;0;NX
-41;4;KORWiN;22;Krzysztof Wiesław JUREWICZ;0;0;NX
-41;4;KORWiN;23;Korynna Natalia KORWIN-MIKKE;0;0;NX
-41;4;KORWiN;24;Jan GŁADKOW;0;0;NX
-41;5;PSL;1;Jarosław Michał RZEPA;0;0;NX
-41;5;PSL;2;Zygmunt DZIEWGUĆ;0;0;NX
-41;5;PSL;3;Olgierd KUSTOSZ;0;0;NX
-41;5;PSL;4;Tadeusz JARZĘBAK;0;0;NX
-41;5;PSL;5;Stanisława BODNAR;0;0;NX
-41;5;PSL;6;Dorota Marta KORCZYŃSKA;0;0;NX
-41;5;PSL;7;Arkadiusz Zygmunt JANOWICZ;0;0;NX
-41;5;PSL;8;Paweł MAREK;0;0;NX
-41;5;PSL;9;Jan KOZAK;0;0;NX
-41;5;PSL;10;Ewa Agnieszka DELĄG;0;0;NX
-41;5;PSL;11;Mieczysław SYPIEŃ;0;0;NX
-41;5;PSL;12;Kazimierz LIPIŃSKI;0;0;NX
-41;5;PSL;13;Marek Marcin SYNOWIECKI;0;0;NX
-41;5;PSL;14;Dorota Ewa EKIERT;0;0;NX
-41;5;PSL;15;Bohdan January ROSZKOWSKI;0;0;NX
-41;5;PSL;16;Elżbieta ZIÓŁKOWSKA;0;0;NX
-41;5;PSL;17;Justyna JAKUBOWICZ;0;0;NX
-41;5;PSL;18;Joanna STASIAK;0;0;NX
-41;5;PSL;19;Lilia Julia ŁAWICKA;0;0;NX
-41;5;PSL;20;Andrzej Zdzisław DURKA;0;0;NX
-41;5;PSL;21;Anna NOWAK;0;0;NX
-41;5;PSL;22;Anna Agnieszka MATUSZEWSKA;0;0;NX
-41;5;PSL;23;Eugeniusz JASIEWICZ;0;0;NX
-41;5;PSL;24;Damian SIMIŃSKI;0;0;NX
-41;6;ZLEW;1;Adam Edward OSTOLSKI;0;0;NX
-41;6;ZLEW;2;Dariusz Krzysztof WIECZOREK;0;0;NX
-41;6;ZLEW;3;Marcin SAMPŁAWSKI;0;0;NX
-41;6;ZLEW;4;Bogusława Małgorzata RESZKO-SZYDŁOWSKA;0;0;NX
-41;6;ZLEW;5;Amadou SY;0;0;NX
-41;6;ZLEW;6;Jarosław Cezary WŁODARCZYK;0;0;NX
-41;6;ZLEW;7;Ewa Izabela KOŚ;0;0;NX
-41;6;ZLEW;8;Kazimierz LEMBAS;0;0;NX
-41;6;ZLEW;9;Maria ŚWIERCZEK;0;0;NX
-41;6;ZLEW;10;Hanna BYRCZAK;0;0;NX
-41;6;ZLEW;11;Ewa Wanda SYRENICZ-TRYBURSKA;0;0;NX
-41;6;ZLEW;12;Andrzej Tadeusz GIZA;0;0;NX
-41;6;ZLEW;13;Monika Magdalena BLUMENSZTEJN-CZERWIŃSKA;0;0;NX
-41;6;ZLEW;14;Sasza Radosław KORDZIELEWSKI;0;0;NX
-41;6;ZLEW;15;Magdalena Elżbieta OBUCHOWICZ;0;0;NX
-41;6;ZLEW;16;Bogdan Radosław SZEPIŁŁO;0;0;NX
-41;6;ZLEW;17;Barbara Wanda ZBOROWSKA;0;0;NX
-41;6;ZLEW;18;Tomasz Władysław KOWALCZYK;0;0;NX
-41;6;ZLEW;19;Ewa SOBIERAJSKA;0;0;NX
-41;6;ZLEW;20;Hubert Marcin LECHOWSKI;0;0;NX
-41;6;ZLEW;21;Elżbieta Janina SUCHARZEWSKA;0;0;NX
-41;6;ZLEW;22;Magdalena Marta MANGOLD;0;0;NX
-41;6;ZLEW;23;Małgorzata Katarzyna ŚMIGIELSKA-MATULANIEC;0;0;NX
-41;6;ZLEW;24;Dawid Wojciech KRYSTEK;0;0;NX
-41;7;KUKIZ;1;Sylwester Arkadiusz CHRUSZCZ;0;0;PX
-41;7;KUKIZ;2;Dawid Andrzej WOJTON;0;0;NX
-41;7;KUKIZ;3;Stanisław Kazimierz NOWOPOLSKI;0;0;NX
-41;7;KUKIZ;4;Mariusz Józef KUCHTA;0;0;NX
-41;7;KUKIZ;5;Emilia Maria LECHOWICZ;0;0;NX
-41;7;KUKIZ;6;Zbigniew Piotr KASIARZ;0;0;NX
-41;7;KUKIZ;7;Adrian Antoni WYCHOWAŃSKI;0;0;NX
-41;7;KUKIZ;8;Piotr Stanisław ZARZYCKI;0;0;NX
-41;7;KUKIZ;9;Małgorzata Alicja FARYNIARZ;0;0;NX
-41;7;KUKIZ;10;Mariusz CZARNECKI;0;0;NX
-41;7;KUKIZ;11;Celina Agnieszka RUDZKA;0;0;NX
-41;7;KUKIZ;12;Helena IDZIOR;0;0;NX
-41;7;KUKIZ;13;Sławomir Antoni BACIOCHA;0;0;NX
-41;7;KUKIZ;14;Marcin SAJNIAK;0;0;NX
-41;7;KUKIZ;15;Julia Agnieszka STANKIEWICZ;0;0;NX
-41;7;KUKIZ;16;Anna Maria KIEZIK;0;0;NX
-41;7;KUKIZ;17;Józef Romuald LEWANDOWSKI;0;0;NX
-41;7;KUKIZ;18;Małgorzata ZASADA;0;0;NX
-41;7;KUKIZ;19;Marta Zenona WIŚNIEWSKA;0;0;NX
-41;7;KUKIZ;20;Grzegorz GIEREK;0;0;NX
-41;7;KUKIZ;21;Małgorzata MARKOWSKA;0;0;NX
-41;7;KUKIZ;22;Grzegorz Norbert DYBCZAK;0;0;NX
-41;7;KUKIZ;23;Andrzej Waldemar BUGAJSKI;0;0;NX
-41;7;KUKIZ;24;Paweł Bernard SŁOMSKI;0;0;NX
-41;8;PETRU;1;Piotr Paweł MISIŁO;0;0;PX
-41;8;PETRU;2;Zbigniew Władysław PASZKOWSKI;0;0;NX
-41;8;PETRU;3;Dorota Beata SUBICKA-BEDNARCZYK;0;0;NX
-41;8;PETRU;4;Katarzyna Anna DZIURDZIKOWSKA;0;0;NX
-41;8;PETRU;5;Karolina Elżbieta BEYER;0;0;NX
-41;8;PETRU;6;Rafał Tadeusz ZAHORSKI;0;0;NX
-41;8;PETRU;7;Dorota Teresa KONKOLEWSKA;0;0;NX
-41;8;PETRU;8;Piotr Wiesław ĆWIKŁA;0;0;NX
-41;8;PETRU;9;Camilla Anna PUSTUŁKA;0;0;NX
-41;8;PETRU;10;Marcin Kazimierz WÓJTOWICZ;0;0;NX
-41;8;PETRU;11;Przemysław Szczepan SŁOWIK;0;0;NX
-41;8;PETRU;12;Karolina Krystyna CZYŻEWSKA;0;0;NX
-41;8;PETRU;13;Łukasz Józef JAKACKI;0;0;NX
-41;8;PETRU;14;Adam Damian OSENKOWSKI;0;0;NX
-41;8;PETRU;15;Agnieszka Monika WERSOCKA;0;0;NX
-41;8;PETRU;16;Robert Jerzy MERECZ;0;0;NX
-41;8;PETRU;17;Mirosław Paweł JOŃCA;0;0;NX
-41;8;PETRU;18;Ewa Agata CIEŚLIK;0;0;NX
-41;8;PETRU;19;Mirosław Dariusz SZCZEŚNIAK;0;0;NX
-41;8;PETRU;20;Katarzyna Teresa PIETRUKOWSKA;0;0;NX
-41;8;PETRU;21;Remigiusz Sebastian BĘBEN;0;0;NX
-41;8;PETRU;22;Anna FRANECKA;0;0;NX
-41;8;PETRU;23;Marcin Stanisław GRĘBLICKI;0;0;NX
-41;8;PETRU;24;Piotr KOZŁOWSKI;0;0;NX
+41;1;PiS;1;Joachim Stanisław BRUDZIŃSKI;46918;12.33;PX
+41;1;PiS;2;Leszek DOBRZYŃSKI;8738;2.30;PX
+41;1;PiS;3;Artur Lesław SZAŁABAWKA;7024;1.85;PX
+41;1;PiS;4;Michał JACH;6183;1.62;PX
+41;1;PiS;5;Halina Barbara SZYMAŃSKA;5240;1.38;NX
+41;1;PiS;6;Krzysztof Piotr ZAREMBA;7857;2.06;PX
+41;1;PiS;7;Rafał Marek MUCHA;5000;1.31;NX
+41;1;PiS;8;Agnieszka Janina STÓJ;2840;0.75;NX
+41;1;PiS;9;Mariusz Roman RÓŻYCKI;2109;0.55;NX
+41;1;PiS;10;Magdalena ZARĘBSKA-KULESZA;1382;0.36;NX
+41;1;PiS;11;Grzegorz Czesław BURCZA;1973;0.52;NX
+41;1;PiS;12;Maria Romualda BRZOZOWSKA;1910;0.50;NX
+41;1;PiS;13;Justyna ŁYJAK;1149;0.30;NX
+41;1;PiS;14;Tadeusz Józef JAKUBOWSKI;539;0.14;NX
+41;1;PiS;15;Wanda MAZUR;1029;0.27;NX
+41;1;PiS;16;Anna Małgorzata KRÓLIKOWSKA;869;0.23;NX
+41;1;PiS;17;Agnieszka PRZYBYLSKA;1475;0.39;NX
+41;1;PiS;18;Magdalena Maria GRABOWSKA-JÓŹWIAK;794;0.21;NX
+41;1;PiS;19;Zbigniew BOGUCKI;1619;0.43;NX
+41;1;PiS;20;Agnieszka KURZAWA;1038;0.27;NX
+41;1;PiS;21;Aleksandra MUSZYŃSKA;1431;0.38;NX
+41;1;PiS;22;Andrzej Tadeusz STRZEBOŃSKI;624;0.16;NX
+41;1;PiS;23;Jolanta KAWSZYN;1241;0.33;NX
+41;1;PiS;24;Włodzimierz Antoni KOTUNIAK;1715;0.45;NX
+41;2;PO;1;Norbert Piotr OBRYCKI;16617;4.37;PX
+41;2;PO;2;Sławomir Witold NITRAS;20930;5.50;PX
+41;2;PO;3;Magdalena Maria KOCHAN;8972;2.36;PX
+41;2;PO;4;Renata ZAREMBA;5616;1.48;NX
+41;2;PO;5;Zofia ŁAWRYNOWICZ;6881;1.81;NX
+41;2;PO;6;Arkadiusz LITWIŃSKI;6765;1.78;NX
+41;2;PO;7;Konstanty Tomasz OŚWIĘCIMSKI;5412;1.42;NX
+41;2;PO;8;Arkadiusz MARCHEWKA;7147;1.88;PX
+41;2;PO;9;Ewa Ilona ŻMUDA-TRZEBIATOWSKA;5351;1.41;NX
+41;2;PO;10;Joanna ŻUROWSKA;4356;1.14;NX
+41;2;PO;11;Mariusz Piotr ADAMSKI;656;0.17;NX
+41;2;PO;12;Beata KIRYLUK;736;0.19;NX
+41;2;PO;13;Maria Alina ŻUKROWSKA-MRÓZ;997;0.26;NX
+41;2;PO;14;Wiktor TOŁOCZKO;938;0.25;NX
+41;2;PO;15;Józef DROZDOWSKI;604;0.16;NX
+41;2;PO;16;Elżbieta JABŁOŃSKA;2366;0.62;NX
+41;2;PO;17;Marcin Radosław WOJCIECHOWSKI;728;0.19;NX
+41;2;PO;18;Antoni Stanisław MICHNOWICZ;998;0.26;NX
+41;2;PO;19;Jarosław Roman RĘBIASZ;279;0.07;NX
+41;2;PO;20;Adam FEDEŃCZAK;1454;0.38;NX
+41;2;PO;21;Jarosław Patryk PRZYGODA;1051;0.28;NX
+41;2;PO;22;Piotr RĘBACZ;327;0.09;NX
+41;2;PO;23;Urszula PAŃKA;1620;0.43;NX
+41;2;PO;24;Bartosz Adam ARŁUKOWICZ;20678;5.43;PX
+41;3;RAZEM;1;Maciej Rafał DŻUS;5414;1.42;NX
+41;3;RAZEM;2;Maria Magdalena SERAFINOWICZ;3008;0.79;NX
+41;3;RAZEM;3;Stanisław Ignacy MATUSEWICZ;753;0.20;NX
+41;3;RAZEM;4;Dorota Łucja SANECKA;958;0.25;NX
+41;3;RAZEM;5;Norbert Andrzej LITWICKI;650;0.17;NX
+41;3;RAZEM;6;Ewa Maria DĄBROWSKA;910;0.24;NX
+41;3;RAZEM;7;Zlatko Maciej GOGAROWSKI;473;0.12;NX
+41;3;RAZEM;8;Elżbieta Danuta DYMITRIADIS;352;0.09;NX
+41;3;RAZEM;9;Michał Jacek SOKOLSKI;373;0.10;NX
+41;3;RAZEM;10;Julita ZIELIŃSKA;700;0.18;NX
+41;3;RAZEM;11;Miron Krzysztof ZBLEWSKI;198;0.05;NX
+41;3;RAZEM;12;Anna Maria RÓŻAŃSKA;462;0.12;NX
+41;3;RAZEM;13;Marek ODOROWSKI;240;0.06;NX
+41;3;RAZEM;14;Jaśmina Magdalena RÓŻAŃSKA;461;0.12;NX
+41;3;RAZEM;15;Łukasz Mikołaj SADŁOWSKI;726;0.19;NX
+41;4;KORWiN;1;Paweł Jan SZUT;8225;2.16;NX
+41;4;KORWiN;2;Wacław KLUKOWSKI;728;0.19;NX
+41;4;KORWiN;3;Agnieszka PODGÓRSKA;947;0.25;NX
+41;4;KORWiN;4;Piotr Edmund KASPRZAK;436;0.11;NX
+41;4;KORWiN;5;Katarzyna Alina RADZISZEWSKA;370;0.10;NX
+41;4;KORWiN;6;Ludwik Szczepan WEBER;442;0.12;NX
+41;4;KORWiN;7;Julia SERAFINOWSKA;255;0.07;NX
+41;4;KORWiN;8;Marek Wojciech CHMIELEWSKI;493;0.13;NX
+41;4;KORWiN;9;Rafał GALEWSKI;173;0.05;NX
+41;4;KORWiN;10;Marek Paweł ZAKRZEWSKI;347;0.09;NX
+41;4;KORWiN;11;Radosław Michał JUSZCZYSZYN;173;0.05;NX
+41;4;KORWiN;12;Magda Agnieszka CHUDZIK;342;0.09;NX
+41;4;KORWiN;13;Agata Iza SKOTNICKA;192;0.05;NX
+41;4;KORWiN;14;Marek KAFARSKI;265;0.07;NX
+41;4;KORWiN;15;Andrzej BIAŁOKOZ;94;0.02;NX
+41;4;KORWiN;16;Jacek JĘDRZEJKO;150;0.04;NX
+41;4;KORWiN;17;Alicja Helena DĘBOWSKA;76;0.02;NX
+41;4;KORWiN;18;Jakub Jan PRUSKO;145;0.04;NX
+41;4;KORWiN;19;Anna Magdalena KWIECIEŃ;238;0.06;NX
+41;4;KORWiN;20;Mateusz Tomasz JOŃCZYK;152;0.04;NX
+41;4;KORWiN;21;Katarzyna Aleksandra KORCABA;112;0.03;NX
+41;4;KORWiN;22;Krzysztof Wiesław JUREWICZ;160;0.04;NX
+41;4;KORWiN;23;Korynna Natalia KORWIN-MIKKE;4784;1.26;NX
+41;4;KORWiN;24;Jan GŁADKOW;992;0.26;NX
+41;5;PSL;1;Jarosław Michał RZEPA;3063;0.80;NX
+41;5;PSL;2;Zygmunt DZIEWGUĆ;1534;0.40;NX
+41;5;PSL;3;Olgierd KUSTOSZ;1156;0.30;NX
+41;5;PSL;4;Tadeusz JARZĘBAK;247;0.06;NX
+41;5;PSL;5;Stanisława BODNAR;729;0.19;NX
+41;5;PSL;6;Dorota Marta KORCZYŃSKA;428;0.11;NX
+41;5;PSL;7;Arkadiusz Zygmunt JANOWICZ;750;0.20;NX
+41;5;PSL;8;Paweł MAREK;661;0.17;NX
+41;5;PSL;9;Jan KOZAK;319;0.08;NX
+41;5;PSL;10;Ewa Agnieszka DELĄG;352;0.09;NX
+41;5;PSL;11;Mieczysław SYPIEŃ;456;0.12;NX
+41;5;PSL;12;Kazimierz LIPIŃSKI;778;0.20;NX
+41;5;PSL;13;Marek Marcin SYNOWIECKI;373;0.10;NX
+41;5;PSL;14;Dorota Ewa EKIERT;238;0.06;NX
+41;5;PSL;15;Bohdan January ROSZKOWSKI;222;0.06;NX
+41;5;PSL;16;Elżbieta ZIÓŁKOWSKA;270;0.07;NX
+41;5;PSL;17;Justyna JAKUBOWICZ;123;0.03;NX
+41;5;PSL;18;Joanna STASIAK;255;0.07;NX
+41;5;PSL;19;Lilia Julia ŁAWICKA;263;0.07;NX
+41;5;PSL;20;Andrzej Zdzisław DURKA;397;0.10;NX
+41;5;PSL;21;Anna NOWAK;559;0.15;NX
+41;5;PSL;22;Anna Agnieszka MATUSZEWSKA;331;0.09;NX
+41;5;PSL;23;Eugeniusz JASIEWICZ;355;0.09;NX
+41;5;PSL;24;Damian SIMIŃSKI;917;0.24;NX
+41;6;ZLEW;1;Adam Edward OSTOLSKI;6444;1.69;NX
+41;6;ZLEW;2;Dariusz Krzysztof WIECZOREK;8100;2.13;NX
+41;6;ZLEW;3;Marcin SAMPŁAWSKI;620;0.16;NX
+41;6;ZLEW;4;Bogusława Małgorzata RESZKO-SZYDŁOWSKA;1372;0.36;NX
+41;6;ZLEW;5;Amadou SY;2160;0.57;NX
+41;6;ZLEW;6;Jarosław Cezary WŁODARCZYK;1746;0.46;NX
+41;6;ZLEW;7;Ewa Izabela KOŚ;1268;0.33;NX
+41;6;ZLEW;8;Kazimierz LEMBAS;1583;0.42;NX
+41;6;ZLEW;9;Maria ŚWIERCZEK;672;0.18;NX
+41;6;ZLEW;10;Hanna BYRCZAK;280;0.07;NX
+41;6;ZLEW;11;Ewa Wanda SYRENICZ-TRYBURSKA;458;0.12;NX
+41;6;ZLEW;12;Andrzej Tadeusz GIZA;289;0.08;NX
+41;6;ZLEW;13;Monika Magdalena BLUMENSZTEJN-CZERWIŃSKA;266;0.07;NX
+41;6;ZLEW;14;Sasza Radosław KORDZIELEWSKI;166;0.04;NX
+41;6;ZLEW;15;Magdalena Elżbieta OBUCHOWICZ;568;0.15;NX
+41;6;ZLEW;16;Bogdan Radosław SZEPIŁŁO;90;0.02;NX
+41;6;ZLEW;17;Barbara Wanda ZBOROWSKA;460;0.12;NX
+41;6;ZLEW;18;Tomasz Władysław KOWALCZYK;254;0.07;NX
+41;6;ZLEW;19;Ewa SOBIERAJSKA;580;0.15;NX
+41;6;ZLEW;20;Hubert Marcin LECHOWSKI;344;0.09;NX
+41;6;ZLEW;21;Elżbieta Janina SUCHARZEWSKA;489;0.13;NX
+41;6;ZLEW;22;Magdalena Marta MANGOLD;223;0.06;NX
+41;6;ZLEW;23;Małgorzata Katarzyna ŚMIGIELSKA-MATULANIEC;644;0.17;NX
+41;6;ZLEW;24;Dawid Wojciech KRYSTEK;3508;0.92;NX
+41;7;KUKIZ;1;Sylwester Arkadiusz CHRUSZCZ;11052;2.90;PX
+41;7;KUKIZ;2;Dawid Andrzej WOJTON;2262;0.59;NX
+41;7;KUKIZ;3;Stanisław Kazimierz NOWOPOLSKI;1405;0.37;NX
+41;7;KUKIZ;4;Mariusz Józef KUCHTA;1658;0.44;NX
+41;7;KUKIZ;5;Emilia Maria LECHOWICZ;1407;0.37;NX
+41;7;KUKIZ;6;Zbigniew Piotr KASIARZ;1024;0.27;NX
+41;7;KUKIZ;7;Adrian Antoni WYCHOWAŃSKI;388;0.10;NX
+41;7;KUKIZ;8;Piotr Stanisław ZARZYCKI;1098;0.29;NX
+41;7;KUKIZ;9;Małgorzata Alicja FARYNIARZ;1275;0.34;NX
+41;7;KUKIZ;10;Mariusz CZARNECKI;1007;0.26;NX
+41;7;KUKIZ;11;Celina Agnieszka RUDZKA;627;0.16;NX
+41;7;KUKIZ;12;Helena IDZIOR;293;0.08;NX
+41;7;KUKIZ;13;Sławomir Antoni BACIOCHA;319;0.08;NX
+41;7;KUKIZ;14;Marcin SAJNIAK;226;0.06;NX
+41;7;KUKIZ;15;Julia Agnieszka STANKIEWICZ;858;0.23;NX
+41;7;KUKIZ;16;Anna Maria KIEZIK;444;0.12;NX
+41;7;KUKIZ;17;Józef Romuald LEWANDOWSKI;761;0.20;NX
+41;7;KUKIZ;18;Małgorzata ZASADA;830;0.22;NX
+41;7;KUKIZ;19;Marta Zenona WIŚNIEWSKA;385;0.10;NX
+41;7;KUKIZ;20;Grzegorz GIEREK;853;0.22;NX
+41;7;KUKIZ;21;Małgorzata MARKOWSKA;1502;0.39;NX
+41;7;KUKIZ;22;Grzegorz Norbert DYBCZAK;356;0.09;NX
+41;7;KUKIZ;23;Andrzej Waldemar BUGAJSKI;544;0.14;NX
+41;7;KUKIZ;24;Paweł Bernard SŁOMSKI;1456;0.38;NX
+41;8;PETRU;1;Piotr Paweł MISIŁO;13871;3.65;PX
+41;8;PETRU;2;Zbigniew Władysław PASZKOWSKI;3490;0.92;NX
+41;8;PETRU;3;Dorota Beata SUBICKA-BEDNARCZYK;2420;0.64;NX
+41;8;PETRU;4;Katarzyna Anna DZIURDZIKOWSKA;1134;0.30;NX
+41;8;PETRU;5;Karolina Elżbieta BEYER;972;0.26;NX
+41;8;PETRU;6;Rafał Tadeusz ZAHORSKI;1618;0.43;NX
+41;8;PETRU;7;Dorota Teresa KONKOLEWSKA;1003;0.26;NX
+41;8;PETRU;8;Piotr Wiesław ĆWIKŁA;544;0.14;NX
+41;8;PETRU;9;Camilla Anna PUSTUŁKA;684;0.18;NX
+41;8;PETRU;10;Marcin Kazimierz WÓJTOWICZ;484;0.13;NX
+41;8;PETRU;11;Przemysław Szczepan SŁOWIK;523;0.14;NX
+41;8;PETRU;12;Karolina Krystyna CZYŻEWSKA;528;0.14;NX
+41;8;PETRU;13;Łukasz Józef JAKACKI;256;0.07;NX
+41;8;PETRU;14;Adam Damian OSENKOWSKI;197;0.05;NX
+41;8;PETRU;15;Agnieszka Monika WERSOCKA;229;0.06;NX
+41;8;PETRU;16;Robert Jerzy MERECZ;127;0.03;NX
+41;8;PETRU;17;Mirosław Paweł JOŃCA;322;0.08;NX
+41;8;PETRU;18;Ewa Agata CIEŚLIK;642;0.17;NX
+41;8;PETRU;19;Mirosław Dariusz SZCZEŚNIAK;278;0.07;NX
+41;8;PETRU;20;Katarzyna Teresa PIETRUKOWSKA;384;0.10;NX
+41;8;PETRU;21;Remigiusz Sebastian BĘBEN;727;0.19;NX
+41;8;PETRU;22;Anna FRANECKA;515;0.14;NX
+41;8;PETRU;23;Marcin Stanisław GRĘBLICKI;445;0.12;NX
+41;8;PETRU;24;Piotr KOZŁOWSKI;1571;0.41;NX
 4;1;PiS;1;Tomasz Edward LATOS;40288;10.76;PX
 4;1;PiS;2;Piotr Marek KRÓL;10773;2.88;PX
 4;1;PiS;3;Bartosz Józef KOWNACKI;9044;2.42;PX
@@ -7257,22 +7257,22 @@ okreg;nrlisty;komitet;numer;kto;glosy;procent;wynik
 6;8;PETRU;27;Mariusz NOBIS;95;0.02;NX
 6;8;PETRU;28;Maciej ZDUNEK;213;0.04;NX
 6;8;PETRU;29;Paweł CEGIEŁKO;669;0.14;NX
-6;11;RUCHSPOLECZNY;1;Joanna Stanisława SZADURA;130;0.03;NX
-6;11;RUCHSPOLECZNY;2;Wojciech MATEŃKA;62;0.01;NX
-6;11;RUCHSPOLECZNY;3;Irena DZIDO;48;0.01;NX
-6;11;RUCHSPOLECZNY;4;Mieczysław Bartłomiej DRYGAŁA;17;0.00;NX
-6;11;RUCHSPOLECZNY;5;Magdalena Teresa REMBIELIŃSKA;11;0.00;NX
-6;11;RUCHSPOLECZNY;6;Tomasz Piotr KUKIEŁKA;37;0.01;NX
-6;11;RUCHSPOLECZNY;7;Urszula Janina MUCHA;84;0.02;NX
-6;11;RUCHSPOLECZNY;8;Agnieszka Milena WYSOCKI;17;0.00;NX
-6;11;RUCHSPOLECZNY;9;Aneta WIECZOREK;34;0.01;NX
-6;11;RUCHSPOLECZNY;10;Piotr Jerzy SAMOJŁOWICZ;28;0.01;NX
-6;11;RUCHSPOLECZNY;11;Paulina Wioletta BRZOZOWSKA;22;0.00;NX
-6;11;RUCHSPOLECZNY;12;Paweł Andrzej SZADURA;13;0.00;NX
-6;11;RUCHSPOLECZNY;13;Olga Weronika TOKARCZYK;22;0.00;NX
-6;11;RUCHSPOLECZNY;14;Radosław Robert KNAP;9;0.00;NX
-6;11;RUCHSPOLECZNY;15;Barbara Agnieszka CIEŚLAK;26;0.01;NX
-6;11;RUCHSPOLECZNY;16;Stanisława Celina CZARNECKA;39;0.01;NX
+6;11;RUCHSPOL;1;Joanna Stanisława SZADURA;130;0.03;NX
+6;11;RUCHSPOL;2;Wojciech MATEŃKA;62;0.01;NX
+6;11;RUCHSPOL;3;Irena DZIDO;48;0.01;NX
+6;11;RUCHSPOL;4;Mieczysław Bartłomiej DRYGAŁA;17;0.00;NX
+6;11;RUCHSPOL;5;Magdalena Teresa REMBIELIŃSKA;11;0.00;NX
+6;11;RUCHSPOL;6;Tomasz Piotr KUKIEŁKA;37;0.01;NX
+6;11;RUCHSPOL;7;Urszula Janina MUCHA;84;0.02;NX
+6;11;RUCHSPOL;8;Agnieszka Milena WYSOCKI;17;0.00;NX
+6;11;RUCHSPOL;9;Aneta WIECZOREK;34;0.01;NX
+6;11;RUCHSPOL;10;Piotr Jerzy SAMOJŁOWICZ;28;0.01;NX
+6;11;RUCHSPOL;11;Paulina Wioletta BRZOZOWSKA;22;0.00;NX
+6;11;RUCHSPOL;12;Paweł Andrzej SZADURA;13;0.00;NX
+6;11;RUCHSPOL;13;Olga Weronika TOKARCZYK;22;0.00;NX
+6;11;RUCHSPOL;14;Radosław Robert KNAP;9;0.00;NX
+6;11;RUCHSPOL;15;Barbara Agnieszka CIEŚLAK;26;0.01;NX
+6;11;RUCHSPOL;16;Stanisława Celina CZARNECKA;39;0.01;NX
 6;13;SAMOOBRONA;1;Marian Andrzej WIDZ;194;0.04;NX
 6;13;SAMOOBRONA;2;Stefan GÓRECKI;50;0.01;NX
 6;13;SAMOOBRONA;3;Grażyna Nina KOCOŃ-NAKONIECZNA;24;0.00;NX
