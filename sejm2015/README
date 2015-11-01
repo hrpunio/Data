@@ -42,3 +42,18 @@ kody_adresy.csv
 idkomisji
 tkod
 adres 
+
+obwody_wyniki_areszty0.csv
+--------------------------
+Dane dla 181 obwodów w aresztach i więzieniach (por plik areszty.sh)
+Pierwsze 6 pól jak w pliku kandydaci_obwody_wyniki.csv
+
+idkomisji
+nrlisty 
+numer 
+kto
+komitet
+glosy 
+tkod
+adres
+
