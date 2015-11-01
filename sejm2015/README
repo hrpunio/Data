@@ -55,5 +55,21 @@ kto
 komitet
 glosy 
 tkod
+woj -- kod województwa (zgodny z kodem systemu TERYT)
 adres
 
+tkod (TERYT)
+------------
+Por http://www.stat.gov.pl/broker/access/definitionTree.jspa
+http://bip.stat.gov.pl/dzialalnosc-statystyki-publicznej/rejestr-teryt/zakres-rejestru-teryt/
+WOJ -- kod województwa:
+ 02 -- dolnośląskie; 04 -- KUJAWSKO-POMORSKIE; 06 -- LUBELSKIE ;
+ 08 -- LUBUSKIE ; 10 -- ŁÓDZKIE; 12 -- MAŁOPOLSKIE ; 14 -- MAZOWIECKIE;
+ 16 -- OPOLSKIE ; 18 -- PODKARPACKIE; 20 -- PODLASKIE ; 22 -- POMORSKIE;
+ 24 -- ŚLĄSKIE ; 26 -- ŚWIĘTOKRZYSKIE; 28 -- WARMIŃSKO-MAZURSKIE ;
+ 30 -- WIELKOPOLSKIE ; 32 -- ZACHODNIOPOMORSKIE
+POW -- kod powiatu
+GMI -- kod gminy
+RODZ -- kod rodzaju jednostki (nie występuje w danych PKW)
+
+http://zylla.wipos.p.lodz.pl/ut/kody-GUS.html
