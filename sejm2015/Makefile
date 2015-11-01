@@ -3,3 +3,9 @@ all:
 hist:
 	R CMD BATCH poslowie_2015h.R && mv Rplots.pdf rozklad_wg_numeru.pdf && convert -density 600 rozklad_wg_numeru.pdf rozklad_wg_numeru.png
 
+
+histk:
+	R CMD BATCH kandydaci_2015.R && mv Rplots.pdf rozklad_wg_glosow.pdf && convert -density 600 rozklad_wg_glosow.pdf rozklad_wg_glosow.png
+
+areszty:
+	R CMD BATCH areszty.R
