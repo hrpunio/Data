@@ -6,8 +6,33 @@ Mandaty_2015.csv -- lista tych co zdobyli mandaty
 
 okreg -- numer okręgu wyborczego
 nrlisty;komitet -- numer i nazwa komitetu
-numer -- numer na liście
+numer -- numer kandydata na liście
 kto -- imię nazwisko
 glosy -- liczba głosów
 procent -- procent głosów (w okręgu)
 wynik -- wybrany (PX), nie wybrany (NX)
+
+
+kody_komisji_s.csv
+------------------
+okreg -- nr okręgu wyborczego
+tkod -- kod terytorialny
+idkomisji -- id komisji
+
+kandydaci_obwody_wyniki.csv.gz (po rozpakowaniu 250Mb)
+------------------------------
+idkomisji -- id komisji
+nrlisty -- numer komitetu
+numer -- numer kandydata na liście
+kto -- imię nazwisko
+komitet -- nazwa komitetu
+glosy -- liczba głosów
+
+komisje_2015_S.csv
+-----------------
+$kod  -- kod obwodu (tkod z pliku kody_komisji_s.csv)
+$numer -- numer porządkowy komisji?
+$adres -- adres obwodu
+$obszar -- obszar działania (spis ulic)
+$nr_sejm -- numer obwodu w wyborach do sejmu (1--41)
+$nr_senat -- numer obwodu w wyborach do senatu (1--100)
