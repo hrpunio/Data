@@ -30,9 +30,15 @@ glosy -- liczba głosów
 
 komisje_2015_S.csv
 -----------------
-$kod  -- kod obwodu (tkod z pliku kody_komisji_s.csv)
-$numer -- numer porządkowy komisji?
-$adres -- adres obwodu
-$obszar -- obszar działania (spis ulic)
-$nr_sejm -- numer obwodu w wyborach do sejmu (1--41)
-$nr_senat -- numer obwodu w wyborach do senatu (1--100)
+kod  -- kod obwodu (tkod z pliku kody_komisji_s.csv)
+numer -- numer porządkowy komisji?
+adres -- adres obwodu
+obszar -- obszar działania (spis ulic)
+nr_sejm -- numer obwodu w wyborach do sejmu (1--41)
+nr_senat -- numer obwodu w wyborach do senatu (1--100)
+
+kody_adresy.csv
+---------------
+idkomisji
+tkod
+adres 
