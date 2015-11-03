@@ -29,14 +29,16 @@ komitet -- nazwa komitetu
 glosy -- liczba głosów
 
 Ten plik został sprawdzony następująco:
-Liczba mandatów na PiS
+Liczba mandatów na PiS:
 
 awk -F ';' '$5 == "PiS" { s+= $6} ; END { print s}' kandydaci_obwody_wyniki.csv
 5711661 (oficjalnie: 5711687, różnica -26 głosów)
 
+Liczba mandatów na PO:
 awk -F ';' '$5 == "PO" { s+= $6} ; END { print s}' kandydaci_obwody_wyniki.csv
 3661455 (3661474, różnica -19 głosów)
 
+Liczba mandatów na KUKIZ:
 awk -F ';' '$5 == "KUKIZ" { s+= $6} ; END { print s}' kandydaci_obwody_wyniki.csv
 1338610 (1339094, różnica -484 głosów albo 0.9996%)
 
@@ -45,6 +47,8 @@ na szukanie w 28,000 komisji gdzie jest problem, że z praktycznego
 punktu widzenia można przyjąć iż pobrano ze strony
 http://parlament2015.pkw.gov.pl/ komplet danych
 
+Drukuj wszystkie komitety:
+awk -F ';' '{K[$5] =1} ; END { for (k in K) {print k} } ' kandydaci_obwody_wyniki.csv
 
 komisje_2015_S.csv
 -----------------
