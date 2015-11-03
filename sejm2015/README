@@ -28,19 +28,26 @@ kto -- imię nazwisko
 komitet -- nazwa komitetu
 glosy -- liczba głosów
 
-Ten plik został sprawdzony następująco:
-Liczba mandatów na PiS:
+Sprawdzenie liczby głosów:
+                                                 Liczba głosów wg PKW
+1                              KORWIN  722921    	 722999
+2                               KUKIZ 1338610   	1339094
+3            KW Kongres Nowej Prawicy    4852      	   4852 v
+4                            KW Razem  550343    	 550349 
+5                       KW Samoobrona    4266      	   4852 
+6  KWW Grzegorza Brauna Szczęść Boże!   13113     	  13113 v
+7                 KWW JOW Bezpartyjni   15184     	  15656
+8            KWW Mniejszość Niemiecka   27530             27530 v
+9         KWW Obywatele do Parlamentu    1964              1964 v
+10              KWW Ruch Społeczny RP    3941              3941 v
+11              KWW Zbigniewa Stonogi   42668             42731
+12         KWW Zjednoczeni dla Śląska   18668             18668 v
+13                              PETRU 1155364           1155370
+14                                PiS 5711661           5711687
+15                                 PO 3661455           3661474
+16                                PSL  779874            779875
+17                               ZLEW 1146837           1147102
 
-awk -F ';' '$5 == "PiS" { s+= $6} ; END { print s}' kandydaci_obwody_wyniki.csv
-5711661 (oficjalnie: 5711687, różnica -26 głosów)
-
-Liczba mandatów na PO:
-awk -F ';' '$5 == "PO" { s+= $6} ; END { print s}' kandydaci_obwody_wyniki.csv
-3661455 (3661474, różnica -19 głosów)
-
-Liczba mandatów na KUKIZ:
-awk -F ';' '$5 == "KUKIZ" { s+= $6} ; END { print s}' kandydaci_obwody_wyniki.csv
-1338610 (1339094, różnica -484 głosów albo 0.9996%)
 
 Coś się faktycznie pogubiło, ale różnice są tak małe, a ja nie mam czasu
 na szukanie w 28,000 komisji gdzie jest problem, że z praktycznego
