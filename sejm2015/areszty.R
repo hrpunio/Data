@@ -3,6 +3,7 @@ str(kandydaci);
 
 partie <- aggregate (kandydaci$glosy, list(Numer = kandydaci$komitet), na.rm=TRUE, sum);
 wojtotal <- aggregate (kandydaci$glosy, list(Numer = kandydaci$woj), na.rm=TRUE, sum);
+wojtotal;
 
 total <- sum (kandydaci$glosy, na.rm=TRUE);
 total;
@@ -26,7 +27,7 @@ pokandydaci <- subset(kandydaci, grepl("PO", komitet, ignore.case = TRUE) )
 piskandydaci <- subset(kandydaci, grepl("PiS", komitet, ignore.case = TRUE) )
 kkandydaci <- subset(kandydaci, grepl("KUKIZ", komitet, ignore.case = TRUE) )
 
-#str(zkandydaci)
+str(kkandydaci)
 
 #head(zkandydaci, n=99)
 pototal <- aggregate (pokandydaci$glosy, list(Numer = pokandydaci$woj), na.rm=TRUE, sum);
