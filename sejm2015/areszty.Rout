@@ -32,6 +32,24 @@ Wpisz 'q()' aby wyjść z R.
 > 
 > partie <- aggregate (kandydaci$glosy, list(Numer = kandydaci$komitet), na.rm=TRUE, sum);
 > wojtotal <- aggregate (kandydaci$glosy, list(Numer = kandydaci$woj), na.rm=TRUE, sum);
+> wojtotal;
+   Numer    x
+1      2 2891
+2      4 1734
+3      6 1364
+4      8  894
+5     10 1522
+6     12 1522
+7     14 3235
+8     16 1492
+9     18  959
+10    20  826
+11    22 2175
+12    24 2869
+13    26  523
+14    28 1550
+15    30 1790
+16    32 1943
 > 
 > total <- sum (kandydaci$glosy, na.rm=TRUE);
 > total;
@@ -73,15 +91,22 @@ Wpisz 'q()' aby wyjść z R.
 > piskandydaci <- subset(kandydaci, grepl("PiS", komitet, ignore.case = TRUE) )
 > kkandydaci <- subset(kandydaci, grepl("KUKIZ", komitet, ignore.case = TRUE) )
 > 
-> #str(zkandydaci)
-> 
-> 
+> str(kkandydaci)
+'data.frame':	3785 obs. of  9 variables:
+ $ idkomisji: int  100259 100259 100259 100259 100259 100259 100259 100259 100259 100259 ...
+ $ nrlisty  : int  7 7 7 7 7 7 7 7 7 7 ...
+ $ numer    : int  1 2 3 4 5 6 7 8 9 10 ...
+ $ kto      : Factor w/ 7859 levels "Ada Dorota KARCZ-ZIELIŃSKA",..: 7590 6621 4583 7215 7719 7383 7269 1619 2191 7726 ...
+ $ komitet  : Factor w/ 17 levels "KORWIN","KUKIZ",..: 2 2 2 2 2 2 2 2 2 2 ...
+ $ glosy    : int  2 0 0 0 0 1 1 1 0 0 ...
+ $ tkod     : int  181701 181701 181701 181701 181701 181701 181701 181701 181701 181701 ...
+ $ woj      : int  18 18 18 18 18 18 18 18 18 18 ...
+ $ adres    : Factor w/ 180 levels "Areszt Śledczy - Oddział Zewnętrzny|Choszczno|ul. Matejki 3 |73-200 Choszczno",..: 52 52 52 52 52 52 52 52 52 52 ...
 > 
 > #head(zkandydaci, n=99)
 > pototal <- aggregate (pokandydaci$glosy, list(Numer = pokandydaci$woj), na.rm=TRUE, sum);
 > pistotal <- aggregate (piskandydaci$glosy, list(Numer = piskandydaci$woj), na.rm=TRUE, sum);
 > kuktotal <- aggregate (kkandydaci$glosy, list(Numer = kkandydaci$woj), na.rm=TRUE, sum);
-> 
 > 
 > str(kuktotal);
 'data.frame':	16 obs. of  2 variables:
@@ -123,6 +148,22 @@ Wpisz 'q()' aby wyjść z R.
 > total <- sum (zkandydaci$glosy, na.rm=TRUE); total;
 [1] 16880
 > 
+> ##
+> #Najpopularniejsi:
+> #-----------------
+> #Stefan Konstanty NIESIOŁOWSKI (PO) ... 179
+> #Jacek PROTAS (PO) ... 184
+> #Borys Piotr BUDKA (PO) ... 188
+> #Leszek Sylwester KORZENIOWSKI (PO) ... 215
+> #Marek BIERNACKI (PO) ... 218
+> #Paweł Piotr KUKIZ (KUKIZ) ... 234
+> #Jacek PROTASIEWICZ (PO) ... 241
+> #Adam Marek KOROL (PO) ... 279
+> #Alicja Paulina CHYBICKA (PO) ... 337
+> #Ewa Bożena KOPACZ (PO) ... 915
+> #
+> #
+> 
 > proc.time()
 użytkownik     system   upłynęło 
-     0.955      0.028      0.965 
+     0.966      0.019      0.972 
