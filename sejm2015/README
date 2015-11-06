@@ -19,7 +19,7 @@ okreg -- nr okręgu wyborczego
 tkod -- kod terytorialny
 idkomisji -- id komisji
 
-kandydaci_obwody_wyniki.csv.gz (po rozpakowaniu 250Mb)
+kandydaci_obwody_wyniki.csv.gz (po rozpakowaniu 250Mb, 5730125 wierszy)
 ------------------------------
 idkomisji -- id komisji
 nrlisty -- numer komitetu
@@ -29,30 +29,33 @@ komitet -- nazwa komitetu
 glosy -- liczba głosów
 
 Sprawdzenie liczby głosów:
-                                                 Liczba głosów wg PKW
-1                              KORWIN  722921    	 722999
-2                               KUKIZ 1338610   	1339094
-3            KW Kongres Nowej Prawicy    4852      	   4852 v
-4                            KW Razem  550343    	 550349 
-5                       KW Samoobrona    4266      	   4852 
-6  KWW Grzegorza Brauna Szczęść Boże!   13113     	  13113 v
-7                 KWW JOW Bezpartyjni   15184     	  15656
-8            KWW Mniejszość Niemiecka   27530             27530 v
-9         KWW Obywatele do Parlamentu    1964              1964 v
-10              KWW Ruch Społeczny RP    3941              3941 v
-11              KWW Zbigniewa Stonogi   42668             42731
-12         KWW Zjednoczeni dla Śląska   18668             18668 v
-13                              PETRU 1155364           1155370
-14                                PiS 5711661           5711687
-15                                 PO 3661455           3661474
-16                                PSL  779874            779875
-17                               ZLEW 1146837           1147102
+                                                         wg PKW  różnica
+1                              KORWIN  722921         -	 722999       78
+2                               KUKIZ 1338610         - 1339094      484
+3            KW Kongres Nowej Prawicy    4852         -    4852        0 
+4                            KW Razem  550343         -	 550349        6
+5                       KW Samoobrona    4266         -    4266        0 
+6  KWW Grzegorza Brauna Szczęść Boże!   13113         -	  13113        0
+7                 KWW JOW Bezpartyjni   15184         -	  15656      472
+8            KWW Mniejszość Niemiecka   27530         -   27530        0
+9         KWW Obywatele do Parlamentu    1964         -     1964       0
+10              KWW Ruch Społeczny RP    3941         -     3941       0
+11              KWW Zbigniewa Stonogi   42668         -    42731      63
+12         KWW Zjednoczeni dla Śląska   18668         -    18668       0
+13                              PETRU 1155364         -  1155370       6
+14                                PiS 5711661         -  5711687      26
+15                                 PO 3661455         -  3661474      19
+16                                PSL  779874         -   779875       1
+17                               ZLEW 1146837         -  1147102     265
 
 
 Coś się faktycznie pogubiło, ale różnice są tak małe, a ja nie mam czasu
 na szukanie w 28,000 komisji gdzie jest problem, że z praktycznego
 punktu widzenia można przyjąć iż pobrano ze strony
 http://parlament2015.pkw.gov.pl/ komplet danych
+
+Uwaga: 9 kandydatów ma NA w polu glosy. Są to kandydaci skreślenie z listy
+przed głosowaniem.
 
 Drukuj wszystkie komitety:
 awk -F ';' '{K[$5] =1} ; END { for (k in K) {print k} } ' kandydaci_obwody_wyniki.csv
@@ -102,3 +105,53 @@ GMI -- kod gminy
 RODZ -- kod rodzaju jednostki (nie występuje w danych PKW)
 
 http://zylla.wipos.p.lodz.pl/ut/kody-GUS.html
+
+
+Sprawdzenie danych
+------------------
+Liczba kandydatów
+
+PETRU = 858
+KW Samoobrona = 119
+ZLEW = 905
+PiS = 918
+KORWIN = 899
+KWW JOW Bezpartyjni = 138
+KWW Obywatele do Parlamentu = 40
+KWW Ruch Społeczny RP = 59
+KWW Zbigniewa Stonogi = 299
+PO = 914
+KWW Grzegorza Brauna "Szczęść Boże!" = 202
+KW Kongres Nowej Prawicy = 116
+PSL = 916
+KUKIZ = 839
+KWW Mniejszość Niemiecka = 24
+KW Razem = 571
+KWW Zjednoczeni dla Śląska = 42
+
+RAZEM=7859 (wg 7858 PKW)
+
+Problem stwarza okręg nr 19 (zagranica)
+Reszta danych wydaje się OK
+
+# http://parlament2015.pkw.gov.pl/321_protokol_komisji_obwodowej/97770
+# Bagram – Polish Military Camp, Baza Lotnicza Parwan
+# Bagram 
+Okręg zagranica
+http://parlament2015.pkw.gov.pl/349_Wyniki_Sejm/0/0/19/1499
+
+1                       KORWIN 21757 - 21767   10
+2                        KUKIZ 26546 - 26573   27
+3                     KW Razem  9469 -  9475    6
+4  KWW Obywatele do Parlamentu   266 -   266    0
+5        KWW Ruch Społeczny RP   186 -   186    0
+6                        PETRU 15942 - 15948    6
+7                          PiS 58317 - 58343   26
+8                           PO 32240 - 32259   19
+9                          PSL   796 -   797    1
+10                        ZLEW  7948 -  7956    8 
+                          -----------------------
+                                       razem  -103
+** 103 głosy za mało ** (w bagram wydano 104:-)
+Ten protokół wydaje się utajniony:
+103/104.0 0.9903846153846154 (taka frekwencja jest na stronie)
