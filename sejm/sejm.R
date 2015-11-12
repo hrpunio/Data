@@ -1,4 +1,4 @@
-poslowie <- read.csv("Sejm1-7.csv", sep = ';',  header=T, na.string="NA");
+poslowie <- read.csv("Sejm1-8.csv", sep = ';',  header=T, na.string="NA");
 
 boxplot (wiek ~ kadencja, poslowie, xlab = "Kadencja", ylab = "Wiek", col='yellow')
 

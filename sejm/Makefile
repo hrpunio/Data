@@ -20,5 +20,9 @@ knitr:
 
 
 wiek:
-	R CMD BATCH sejm.R
+	R CMD BATCH sejm.R && mv Rplots.pdf sejmy_wg_wieku.pdf && convert -density 600 sejmy_wg_wieku.pdf sejmy_wg_wieku.jpg
+	rm .RData
+
+sejm2015:
+	R CMD BATCH sejm2015.R && mv Rplots.pdf sejm2015_wg_wieku.pdf && convert -density 600 sejm2015_wg_wieku.pdf sejm2015_wg_wieku.jpg
 	rm .RData
