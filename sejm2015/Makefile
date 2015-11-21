@@ -12,3 +12,12 @@ areszty:
 
 wszyscy:
 	R CMD BATCH wszyscy.R
+
+zagranica:
+	R CMD BATCH zagranica.R
+
+komisje:
+	R CMD BATCH komisje_glosy_razem.R
+#kandydaci:
+#	time perl sumuj_wg_kandydatow.R kandydaci_obwody_wyniki_T.csv 
+
