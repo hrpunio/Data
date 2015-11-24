@@ -11,6 +11,8 @@ histk:
 
 areszty:
 	R CMD BATCH areszty.R
+dss:
+	R CMD BATCH dss.R
 
 wszyscy:
 	R CMD BATCH wszyscy.R
