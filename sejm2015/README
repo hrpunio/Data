@@ -164,34 +164,41 @@ komisje-frekwencja.csv -- dane dot frekwencji
 komisje-frekwencja-wyniki.csv -- frekwencja + liczba oddanych głosów na komitety
 (w przypadku komitetów zmienna z przedrostkiem p oznacza odsetek)
 
-nrk             -- id komisji
-KORWIN;pKORWIN  -- Korwin
-K15;pK15        -- Kukiz15
-NP;pNP          -- Nowa Prawica
-Razem;pRazem    -- partia Razem
-SO;pSO          -- Samoobrona
-Braun;pBraun    -- Braun
-BP;pBP          -- Bezpartyjni
-MN;pMN          -- Mniejszość Niemiecka
-OdoP;pOdoP      -- Obywatele do Parlamentu
-RS;pRS          -- Ruch Społeczny
-Stonoga;pStonoga -- Stonoga
-ZdS;pZdS        -- Zjednoczeni dla Śląska
-PETRU;pPETRU    -- Petru
-PO;pPO          -- PO
-PSL;pPSL        -- PSL
-PiS;pPiS        -- PiS
-ZLEW;pZLEW      -- ZLEW
-total           -- razem oddane głosy ważne dla wszystkich komitetów
-nrk             -- id komisji
-teryt           -- kod teryt
-gdzie           -- siedziba
-adres           -- adres
-lwug            -- liczba wyborców uprawnionych do głosowania
-lkw             -- liczba kart ważnych
-lkwzu           -- liczba kart wyjętych z urny
-lgnw            -- liczba głosów nieważnych
-lgw             -- liczba głosów ważnych
-freq            -- frekwencja (lkw/lwug lub -99 jeżeli nie da się obliczyć)
-pgnw            -- procent głosów nieważnych  (lgnw/lkw lub -99 jeżeli nie da się obliczyć)
+Nr Zmienna         -- Opis
+--------------------------------
+1  nrk             -- id komisji
+2  KORWIN;pKORWIN  -- Korwin
+4  K15;pK15        -- Kukiz15
+6  NP;pNP          -- Nowa Prawica
+8  Razem;pRazem    -- partia Razem
+10 SO;pSO          -- Samoobrona
+12 Braun;pBraun    -- Braun
+14 BP;pBP          -- Bezpartyjni
+16 MN;pMN          -- Mniejszość Niemiecka
+18 OdoP;pOdoP      -- Obywatele do Parlamentu
+20 RS;pRS          -- Ruch Społeczny
+22 Stonoga;pStonoga -- Stonoga
+24 ZdS;pZdS        -- Zjednoczeni dla Śląska
+26 PETRU;pPETRU    -- Petru
+28 PO;pPO          -- PO
+30 PSL;pPSL        -- PSL
+32 PiS;pPiS         -- PiS
+34 ZLEW;pZLEW      -- ZLEW
+36 total           -- razem oddane głosy ważne dla wszystkich komitetów
+37 nrk             -- id komisji (to samo co 1)
+38 teryt           -- kod teryt
+39 adres           -- adres
+40 lwug            -- liczba wyborców uprawnionych do głosowania
+41 lkw             -- liczba kart ważnych
+42 lkwzu           -- liczba kart wyjętych z urny
+43 lgnw            -- liczba głosów nieważnych
+44 lgw             -- liczba głosów ważnych
+45 freq            -- frekwencja (lkw/lwug lub -99 jeżeli nie da się obliczyć)
+46 pgnw            -- procent głosów nieważnych  (lgnw/lkw lub -99 jeżeli nie da się obliczyć)
+
+
+W ilu komisjach (liczba kart wyjętych z urny - liczba kart ważnych była większa ) / liczba kart wyjętych z urny
+była większa niż 3% (wynik w 11 komisjach)
+
+awk -F ';' '(NR > 1) && (0 + $41 > 0) && (($42 - $41)/$42 * 100 > 2.99) {print "lkw=>" $41 " lkwzu=>" $42 " diff=> " ($42 - $41)/$41 * 100, " = ", $39  }' komisje-frekwencja-wyniki.csv | wc -l
 
