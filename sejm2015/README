@@ -155,3 +155,43 @@ http://parlament2015.pkw.gov.pl/349_Wyniki_Sejm/0/0/19/1499
 ** 103 głosy za mało ** (w bagram wydano 104:-)
 Ten protokół wydaje się utajniony:
 103/104.0 0.9903846153846154 (taka frekwencja jest na stronie)
+
+
+kody_adresy_poprawiony_Coords.csv -- adresy obwodowych komisji wyborczych wraz ze współrzędnym geo (na podstawie kodu-pocztowego)
+
+komisje-frekwencja.csv -- dane dot frekwencji 
+
+komisje-frekwencja-wyniki.csv -- frekwencja + liczba oddanych głosów na komitety
+(w przypadku komitetów zmienna z przedrostkiem p oznacza odsetek)
+
+nrk             -- id komisji
+KORWIN;pKORWIN  -- Korwin
+K15;pK15        -- Kukiz15
+NP;pNP          -- Nowa Prawica
+Razem;pRazem    -- partia Razem
+SO;pSO          -- Samoobrona
+Braun;pBraun    -- Braun
+BP;pBP          -- Bezpartyjni
+MN;pMN          -- Mniejszość Niemiecka
+OdoP;pOdoP      -- Obywatele do Parlamentu
+RS;pRS          -- Ruch Społeczny
+Stonoga;pStonoga -- Stonoga
+ZdS;pZdS        -- Zjednoczeni dla Śląska
+PETRU;pPETRU    -- Petru
+PO;pPO          -- PO
+PSL;pPSL        -- PSL
+PiS;pPiS        -- PiS
+ZLEW;pZLEW      -- ZLEW
+total           -- razem oddane głosy ważne dla wszystkich komitetów
+nrk             -- id komisji
+teryt           -- kod teryt
+gdzie           -- siedziba
+adres           -- adres
+lwug            -- liczba wyborców uprawnionych do głosowania
+lkw             -- liczba kart ważnych
+lkwzu           -- liczba kart wyjętych z urny
+lgnw            -- liczba głosów nieważnych
+lgw             -- liczba głosów ważnych
+freq            -- frekwencja (lkw/lwug lub -99 jeżeli nie da się obliczyć)
+pgnw            -- procent głosów nieważnych  (lgnw/lkw lub -99 jeżeli nie da się obliczyć)
+
