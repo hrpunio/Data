@@ -1,0 +1,106 @@
+
+R version 3.2.2 (2015-08-14) -- "Fire Safety"
+Copyright (C) 2015 The R Foundation for Statistical Computing
+Platform: x86_64-redhat-linux-gnu (64-bit)
+
+R jest oprogramowaniem darmowym i dostarczany jest BEZ JAKIEJKOLWIEK GWARANCJI.
+Możesz go rozpowszechniać pod pewnymi warunkami.
+Wpisz 'license()' lub 'licence()' aby uzyskać szczegóły dystrybucji.
+
+R jest projektem kolaboracyjnym z wieloma uczestnikami.
+Wpisz 'contributors()' aby uzyskać więcej informacji oraz
+'citation()' aby dowiedzieć się jak cytować R lub pakiety R w publikacjach.
+
+Wpisz 'demo()' aby zobaczyć demo, 'help()' aby uzyskać pomoc on-line, lub
+'help.start()' aby uzyskać pomoc w przeglądarce HTML.
+Wpisz 'q()' aby wyjść z R.
+
+[Poprzednio zapisany obszar roboczy został przywrócony]
+
+> ## http://www.statmethods.net/stats/regression.html
+> ## http://www.cookbook-r.com/Statistical_analysis/Regression_and_correlation/
+> ## google:: trust wvs  Heston et al.
+> ## http://tdhock.github.io/animint/geoms.html
+> library(reshape)
+> require(ggplot2)
+Ładowanie wymaganego pakietu: ggplot2
+> library(scales)
+> library(zoo)
+
+Dołączanie pakietu: ‘zoo’
+
+Następujące obiekty zostały zakryte z ‘package:base’:
+
+    as.Date, as.Date.numeric
+
+> 
+> # http://stackoverflow.com/questions/7381455/filtering-a-data-frame-by-values-in-a-column
+> d <- read.csv("ToF.csv", sep = ';',  header=T, na.string="NA");
+> 
+> fivenum(d$speed);
+[1] 25.170 34.900 38.553 40.890 43.580
+> 
+> d$rok <- paste(d$rok, "-04-01", sep="");
+> d$rok
+  [1] "1913-04-01" "1914-04-01" "1915-04-01" "1916-04-01" "1917-04-01"
+  [6] "1918-04-01" "1919-04-01" "1920-04-01" "1921-04-01" "1922-04-01"
+ [11] "1923-04-01" "1924-04-01" "1925-04-01" "1926-04-01" "1927-04-01"
+ [16] "1928-04-01" "1929-04-01" "1930-04-01" "1931-04-01" "1932-04-01"
+ [21] "1933-04-01" "1934-04-01" "1935-04-01" "1936-04-01" "1937-04-01"
+ [26] "1938-04-01" "1939-04-01" "1940-04-01" "1941-04-01" "1942-04-01"
+ [31] "1943-04-01" "1944-04-01" "1945-04-01" "1946-04-01" "1947-04-01"
+ [36] "1948-04-01" "1949-04-01" "1950-04-01" "1951-04-01" "1952-04-01"
+ [41] "1953-04-01" "1954-04-01" "1955-04-01" "1956-04-01" "1957-04-01"
+ [46] "1958-04-01" "1959-04-01" "1960-04-01" "1961-04-01" "1962-04-01"
+ [51] "1963-04-01" "1964-04-01" "1965-04-01" "1966-04-01" "1967-04-01"
+ [56] "1968-04-01" "1969-04-01" "1970-04-01" "1971-04-01" "1972-04-01"
+ [61] "1973-04-01" "1974-04-01" "1975-04-01" "1976-04-01" "1977-04-01"
+ [66] "1978-04-01" "1979-04-01" "1980-04-01" "1981-04-01" "1982-04-01"
+ [71] "1983-04-01" "1984-04-01" "1985-04-01" "1986-04-01" "1987-04-01"
+ [76] "1988-04-01" "1989-04-01" "1990-04-01" "1991-04-01" "1992-04-01"
+ [81] "1993-04-01" "1995-04-01" "1996-04-01" "1997-04-01" "1998-04-01"
+ [86] "1999-04-01" "2000-04-01" "2001-04-01" "2002-04-01" "2003-04-01"
+ [91] "2004-04-01" "2005-04-01" "2006-04-01" "2007-04-01" "2008-04-01"
+ [96] "2009-04-01" "2010-04-01" "2011-04-01" "2012-04-01" "2013-04-01"
+[101] "2014-04-01" "2015-04-01"
+> 
+> ggplot(d, aes(x = as.Date(rok))) +
++   geom_line(aes(y = speed, colour = 'average speed (winner)', group = 1), size=2) +
++   ylab(label="Average speed") +
++   xlab(label="Year (1900/2000+)") +
++   scale_x_date(breaks = date_breaks("4 years"), labels = date_format("%y")) +
++   annotate("text", x = as.Date("1990-04-01"), y = 25, 
++     label = "Summary (1913--2015):min = 25.17 kmph; median = 38.55 kmph; max = 43.58 kmph\n") +
++   labs(color = "rondevanVlaanderen (http://www.bikeraceinfo.com/classics/): ") +
++   theme(legend.position="top") +
++   theme(legend.text=element_text(size=12));
+>   ##geom_smooth(aes(x=time, y=speed), method=lm,se=T, size=2);
+> 
+> ggsave(file="rondevanVlaanderen.pdf", width=15, height=8)
+> 
+> d2 <- read.csv("paris-roubaix.csv", sep = ';',  header=T, na.string="NA");
+> d2$rok <- paste(d2$rok, "-04-01", sep="");
+> 
+> 
+> d3 <- merge(d,d2, by.x='rok', by.y='rok')
+> 
+> fivenum(d3$speed.y);
+[1] 22.857 35.782 39.123 41.562 45.129
+> 
+> ggplot(d3, aes(x = as.Date(rok))) +
++   geom_line(aes(y = speed.x, colour = 'winner (ronde vlaanderen)', group = 1), size=2) +
++   geom_line(aes(y = speed.y, colour = 'winner (paris-roubaix)', group = 2), size=2) +
++   ylab(label="Average speed") +
++   xlab(label="Year (1900/2000+)") +
++   scale_x_date(breaks = date_breaks("4 years"), labels = date_format("%y")) +
++   annotate("text", x = as.Date("1990-04-01"), y = 25, 
++     label = "Summary (1913--2015):\nR-V min = 25.17 kmph; median = 38.55 kmph; max = 43.58 kmph\nP-R min = 22.86 kmph; median = 39.12 kmph; max = 45.13 kmph") +
++   labs(color = "Ronde Vlaanderen/Paris-Roubaix (http://www.bikeraceinfo.com/classics/): ") +
++   theme(legend.position="top") +
++   theme(legend.text=element_text(size=12));
+> 
+> ggsave(file="ronde_roubaix.pdf", width=15, height=8)
+> 
+> proc.time()
+użytkownik     system   upłynęło 
+     1.306      0.029      1.326 

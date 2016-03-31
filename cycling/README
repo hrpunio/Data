@@ -1,0 +1,7 @@
+http://www.bikeraceinfo.com/classics/paris-roubaix/paris-roubaix-index.html
+
+
+http://www.bikeraceinfo.com/classics/Tour%20of%20Flanders/flandndx.html
+=========
+awk '/tour-of-flanders/,/<\/tr>/ { print}' flandndx.html > ToF.txt
+
