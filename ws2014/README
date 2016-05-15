@@ -1,0 +1,2 @@
+perl kandydaci_obwody_wyniki.pl ALL.txt > kandydaci_obwody_wyniki.csv
+awkF 'NF != 5 { print $0}' kandydaci_obwody_wyniki.csv
