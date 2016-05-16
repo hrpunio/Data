@@ -1,9 +1,13 @@
 require (ggplot2)
+library(dplyr)
 
-d <- read.csv("komisje_komitety7_wyniki.csv", sep = ';',  header=T, na.string="NA");
+d <- read.csv("komisje_komitety7_wyniki.csv", 
+  colClasses = c( "teryt"="character", "adres"="character"), sep = ';',  header=T, na.string="NA");
 
-#nrk;teryt;nro;adres;lwug;lkw;lkwzu;lgnw;lgw;freq;pgnw;lwug15;lkw15;lkwzu15;lgnw15;lgw15;freq15;pgnw15;
-#lwug14;lkw14;lkwzu14;lgnw14;lgw14;freq14;pgnw14;psl;dbezp;pis;po;rn;sld;npjkm
+str(d);
+
+## Tylko duże komisje 
+d <- subset (d, ( lkw14 > 20 ));
 
 str(d);
 
@@ -26,9 +30,31 @@ cor(d$pgnw14, d$pop, use = "complete")
 cor(d$pgnw14, d$pgnw, use = "complete")
 cor(d$pgnw14, d$pgnw15, use = "complete")
 
-## Tylko duże komisje
-d <- subset (d, ( lkw14 > 20 ));
+powiat <- substr(d$teryt, 0, 4)
 
+powiat
+
+# http://stackoverflow.com/questions/16181750/correlation-of-subsets-of-dataframe-using-aggregate
+d[,"powiat"] <- powiat;
+p.psl <- d %>% group_by(powiat) %>% summarise(V1=cor(pgnw14,pslp))
+p.pis <- d %>% group_by(powiat) %>% summarise(V1=cor(pgnw14,pis))
+p.po  <- d %>% group_by(powiat) %>% summarise(V1=cor(pgnw14,po))
+
+print(p.psl, n=Inf)
+print(p.pis, n=Inf)
+print(p.po, n=Inf)
+
+m.pgnw <- d %>% group_by(powiat) %>% summarise(V2=mean(pgnw14))
+m.psl <- d %>% group_by(powiat) %>% summarise(V2=mean(pslp))
+m.pis <- d %>% group_by(powiat) %>% summarise(V2=mean(pisp))
+m.po <- d %>% group_by(powiat) %>% summarise(V2=mean(pop))
+
+print(m.pgnw, n=Inf)
+print(m.psl, n=Inf)
+print(m.pis, n=Inf)
+print(m.po, n=Inf)
+
+## ## ##
 ggplot(d, aes(x = pgnw14 )) +
   geom_point(aes(y = pslp), colour = 'blue') +
   xlab(label="pgnw") +
