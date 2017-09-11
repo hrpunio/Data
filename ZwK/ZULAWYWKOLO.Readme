@@ -1,0 +1,27 @@
+https://convertio.co/pl/pdf-xls/
+
+awk -F ';' 'NF != 9 {print NR, NF}' wyniki_zulawy_2016S.csv
+
+awk -F ';' '$7 ==140 {print $0}' wyniki_zulawy_2016S.csv  | wc -l
+133
+awk -F ';' '$7 ==55 {print $0}' wyniki_zulawy_2016S.csv  | wc -l
+167
+awk -F ';' '$7 ==75 {print $0}' wyniki_zulawy_2016S.csv  | wc -l
+267
+
+razem: 567
+
+cat wyniki_zulawy_2016S.csv | wc -l
+568 # <-- ok nagłówek
+
+
+## średnia prędkość
+perl -e 'while (<>) { @f = split /;/; ($t, $m) = split " ", $f[7]; $M +=$m ;$N++; print "$m\n"}; print "R = ", $M/$N' wyniki_zulawy_2016S.csv
+perl -e 'while (<>) { @f = split /;/; if ($f[6] != 140 ) {next} ; ($t, $m) = split " ", $f[7]; $M +=$m ;$N++; print "$m\n"}; print "R = ", $M/$N' wyniki_zulawy_2016S.csv
+
+w grupach 140 = 25.00kmh
+  75 = 22.40 kmh
+  55 = 17.44 kmh
+
+
+perl -e 'while (<>) {chomp(); @f = split /;/; ($t, $m) = split " ", $f[7]; print "$_;$m\n"}' wyniki_zulawy_2016S.csv
