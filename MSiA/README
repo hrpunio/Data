@@ -1,0 +1,10 @@
+Mass Shootings in America
+
+https://library.stanford.edu/projects/mass-shootings-america
+(copy from https://www.kaggle.com/carlosparadis )
+
+Create colum latlon which contains a pair of coordinates
+(latitude longitude). Using OOcalc use for example concatenate.
+Remove source and description columns
+
+Import to fusiontables
