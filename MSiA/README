@@ -1,10 +1,28 @@
 Mass Shootings in America
 
+Files: 
+------
+dictionary_stanford_msa_release_06142016.pdf
+dictionary_stanford_msa_release_06142016.csv
+mass_shooting_events_stanford_msa_release_06142016.csv
+mass_shooting_events_stanford_msa_release_06142016_short.csv
+
+https://www.kaggle.com/carlosparadis/stanford-msa
+
+The definition of mass shooting used for the Stanford database is 3 or more 
+shooting victims (not necessarily fatalities), not including the shooter. 
+Identifiably gang, drug or organized 
+crime related shootings are not included in the database.
+
+The key difference between the Stanford MSA and other similar projects is 
+the scope of definition and the focus on mass shooting incidents versus mass murder. 
+Instead of limiting our data collection to incidents in which 4 or more fatalities occurred 
+(the FBI definition for Mass Murder), we instead collect incidents of 3 or more 
+shooting victims (not necessarily fatalities). All mass shooting definitions are arbitrary 
+in that there is no natural way to quantify such an event. 
+In setting up our threshold we wanted to focus on the shootings over the outcomes.
+
+See also:
+---------
 https://library.stanford.edu/projects/mass-shootings-america
 (copy from https://www.kaggle.com/carlosparadis )
-
-Create colum latlon which contains a pair of coordinates
-(latitude longitude). Using OOcalc use for example concatenate.
-Remove source and description columns
-
-Import to fusiontables
