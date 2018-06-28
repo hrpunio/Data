@@ -1,0 +1,737 @@
+team;no;who;born;height;weight;club;city;age
+ARG;1;Nahuel Guzman;10.02.1986;192;90;Tigres;Monterrey, MX;32
+ARG;12;Franco Armani ;16.10.1986;189;85;River Plate;Buenos Aires;32
+ARG;23;Wilfredo Caballero;28.09.1981;186;80;Chelsea Londyn;Londyn;37
+ARG;2;Gabriel Mercado;18.03.1987;181;81;Sevilla;Sevilla;31
+ARG;3;Nicolas Tagliafico;31.08.1992;169;65;Ajax Amsterdam;Amsterdam;26
+ARG;4;Cristian Ansaldi;20.09.1986;181;73;Torino;Turyn;32
+ARG;6;Federico Fazio;17.03.1987;199;85;AS Roma;Rzym;31
+ARG;8;Marcos Acuna;28.10.1991;172;77;Sporting Lizbona;Lizbona;27
+ARG;14;Javier Mascherano;08.06.1984;174;73;Hebei Fortune;Hebei, CN;34
+ARG;16;Marcos Rojo;20.03.1990;189;82;Manchester United;Manchester;28
+ARG;17;Nicolas Otamendi;12.02.1988;181;81;Manchester City;Manchester;30
+ARG;18;Eduardo Salvio;13.07.1990;167;69;Benfica Lizbona;Lizbona;28
+ARG;5;Lucas Biglia;30.01.1986;175;73;AC Milan;Milan;32
+ARG;7;Ever Banega;29.06.1988;175;73;Sevilla;Sevilla;30
+ARG;11;Angel di Maria;14.02.1988;178;75;Paris Saint-Germain;Paris;30
+ARG;13;Maximiliano Meza;15.12.1992;180;76;Independiente;Avellaneda, AR;26
+ARG;15;Manuel Lanzini ;15.02.1993;167;66;West Ham United;Londyn;25
+ARG;20;Giovani Lo Celso;09.04.1996;177;75;Paris Saint-Germain;Paris;22
+ARG;22;Cristian Pavon;21.01.1996;169;65;Boca Juniors;Buenos Aires;22
+ARG;9;Gonzalo Higuain;10.12.1987;184;75;Juventus Turyn;Turyn;31
+ARG;10;Lionel Messi ;24.06.1987;170;72;Barcelona;Barcelona;31
+ARG;19;Sergio Aguero;02.06.1988;172;74;Manchester City;Manchester;30
+ARG;21;Paulo Dybala;15.11.1993;177;73;Juventus Turyn;Turyn;25
+AUS;1;Mathew Ryan;08.04.1992;184;82;Brighton&Hove Albion;Brighton;26
+AUS;12;Brad Jones;19.03.1982;193;87;Feyenoord Rotterdam;Rotterdam;36
+AUS;18;Danny Vuković;27.03.1985;187;94;Genk;Genk;33
+AUS;2;Milos Degenek;28.04.1994;187;85;Yokohama F. Marino;Yokohama;24
+AUS;3;James Meredith;05.04.1988;179;71;Millwall;Londyn;30
+AUS;5;Mark Milligan;04.08.1985;178;78;Al-Ahli;Dżudda, SA;33
+AUS;6;Matthew Jurman;08.12.1989;190;83;Suwon Bluewings;Suwon, KR;29
+AUS;16;Aziz Behich;16.12.1990;170;63;Bursaspor;Bursa, TR;28
+AUS;19;Josh Risdon;27.07.1992;169;70;Western Sydney;Sydney;26
+AUS;20;Trent Sainsbury;05.01.1992;183;76;Grasshoppers;Zurich;26
+AUS;8;Massimo Luongo;25.09.1992;176;76;Queens Park Rangers;Glasgow;26
+AUS;13;Aaron Mooy;15.09.1990;173;72;Huddersfield Town;Huddersfield;28
+AUS;15;Mile Jedinak;03.08.1984;188;78;Aston Villa;Birmingham;34
+AUS;22;Jackson Irvine;07.03.1993;180;77;Hull City;Hull;25
+AUS;23;Tom Rogic;16.12.1992;189;88;Celtic Glasgow;Glasgow;26
+AUS;4;Tim Cahill;06.12.1979;180;76;Millwall;Londyn;39
+AUS;7;Matthew Leckie;04.02.1991;181;84;Hertha Berlin;Berlin;27
+AUS;9;Tomi Juric;22.07.1991;190;80;FC Luzern;Luzern;27
+AUS;10;Robbie Kruse;05.10.1988;180;66;VfL Bochum;Bochum;30
+AUS;11;Andrew Nabbout;17.12.1992;178;85;Urawa Red Diamonds;Saitama, JP;26
+AUS;14;Jamie Maclaren;29.07.1993;178;72;Hibernian;Edynburg;25
+AUS;17;Daniel Arzani;04.01.1999;171;73;Melbourne City;Melbourne;19
+AUS;21;Dimitri Petratos;10.11.1992;176;72;Newcastle Jets;Newcastle, AU;26
+BEL;1;Thibaut Courtois;11.05.1992;199;92;Chelsea Londyn;Londyn;26
+BEL;12;Simon Mignolet;06.03.1988;193;87;Liverpool FC;Liverpool;30
+BEL;13;Koen Casteels;25.06.1992;197;78;VfL Wolfsburg;Wolfsburg;26
+BEL;2;Toby Alderweireld;02.03.1989;187;91;Tottenham Hotspur;Londyn;29
+BEL;3;Thomas Vermaelen;14.11.1985;183;82;FC Barcelona;Barcelona;33
+BEL;4;Vincent Kompany;10.04.1986;193;85;Manchester City;Manchester;32
+BEL;5;Jan Vertonghen;24.04.1987;189;88;Tottenham Hotspur;Londyn;31
+BEL;15;Thomas Meunier;12.09.1991;190;78;Paris Saint-Germain;Paris;27
+BEL;20;Dedryck Boyata;28.11.1990;188;84;Celtic Glasgow;Glasgow;28
+BEL;23;Leander Dendoncker;15.04.1995;188;67;RSC Anderlecht;Bruksela;23
+BEL;6;Axel Witsel;12.01.1989;186;80;Tianjin Quanjian;Tiencin, CN;29
+BEL;7;Kevin De Bruyne;28.06.1991;181;68;Manchester City;Manchester;27
+BEL;8;Marouane Fellaini;22.11.1987;194;85;Manchester United;Manchester;31
+BEL;11;Yannick Carrasco;04.09.1993;181;71;Dalian Yifang;Dalian, CN;25
+BEL;16;Thorgan Hazard;29.03.1993;174;67;Borussia Moenchengladbach;Moenchengladbach;25
+BEL;17;Youri Tielemans;07.05.1997;176;72;AS Monaco;Monaco;21
+BEL;22;Nacer Chadli;02.08.1989;187;85;West Bromwich Albion;West Bromwich;29
+BEL;9;Romelu Lukaku;13.05.1993;191;94;Manchester United;Manchester;25
+BEL;10;Eden Hazard;07.01.1991;173;69;Chelsea Londyn;Londyn;27
+BEL;14;Dries Mertens;06.05.1987;169;61;SSC Napoli;Napoli;31
+BEL;18;Adnan Januzaj;05.02.1995;186;76;Real Sociedad;San Sebastian;23
+BEL;19;Mousa Dembele;16.07.1987;185;88;Tottenham Hotspur;Londyn;31
+BEL;21;Michy Batshuayi;02.10.1993;185;78;Chelsea Londyn;Londyn;25
+BRA;1;Alisson;02.10.1992;193;91;AS Roma;Rzym;26
+BRA;16;Cassio;06.06.1987;195;92;SC Corinthians;São Paulo;31
+BRA;23;Ederson;17.08.1993;188;86;Manchester City;Manchester;25
+BRA;2;Thiago Silva;22.09.1984;183;79;Paris Saint-Germain;Paris;34
+BRA;3;Miranda;07.09.1984;186;78;Inter Mediolan;Mediolan;34
+BRA;4;Pedro Geromel;21.09.1985;190;84;Gremio Porto Alegre;Porto Alegre;33
+BRA;6;Filipe Luis;09.08.1985;182;73;Atletico Madryt;Madryt;33
+BRA;12;Marcelo;12.05.1988;174;80;Real Madryt;Madryt;30
+BRA;13;Marquinhos;14.05.1994;183;75;Paris Saint-Germain;Paris;24
+BRA;14;Danilo;15.07.1991;184;78;Manchester City;Manchester;27
+BRA;22;Fagner;11.06.1989;168;67;Corinthians;São Paulo;29
+BRA;5;Casemiro;23.02.1992;185;84;Real Madryt;Madryt;26
+BRA;8;Renato Augusto;08.02.1988;186;86;Beijing Guoan;Beijing, CN;30
+BRA;11;Philippe Coutinho;12.06.1992;172;68;FC Barcelona;Barcelona;26
+BRA;15;Paulinho;25.07.1988;181;81;FC Barcelona;Barcelona;30
+BRA;17;Fernandinho;04.05.1985;179;67;Manchester City;Manchester;33
+BRA;18;Fred;05.03.1993;169;64;Szachtar Donieck;Donieck;25
+BRA;19;Willian;09.08.1988;175;77;Chelsea Londyn;Londyn;30
+BRA;7;Douglas Costa;14.09.1990;182;70;Juventus Turyn;Turyn;28
+BRA;9;Gabriel Jesus;03.04.1997;175;73;Manchester City;Manchester;21
+BRA;10;Neymar;05.02.1992;175;68;Paris Saint-Germain;Paris;26
+BRA;20;Roberto Firmino;02.10.1991;181;76;Liverpool FC;Liverpool;27
+BRA;21;Taison;13.01.1988;172;64;Szachtar Donieck;Donieck;30
+COL;1;David Ospina;31.08.1988;183;80;Arsenal Londyn;Londyn;30
+COL;12;Camilo Vargas;09.03.1989;188;80;Deportivo Cali;Cali;29
+COL;22;Jose Fernando Cuadrado;01.08.1985;181;80;Once Caldas;Manizales;33
+COL;2;Cristian Zapata;30.09.1986;187;82;AC Milan;Milan;32
+COL;3;Oscar Murillo;18.04.1988;184;80;Pachuca;Pachuca, MX;30
+COL;4;Santiago Arias;13.01.1992;177;71;PSV Eindhoven;Eindhoven;26
+COL;13;Yerry Mina;23.09.1994;195;75;FC Barcelona;Barcelona;24
+COL;17;Johan Mojica;21.08.1995;179;66;Girona;Girona;23
+COL;18;Farid Diaz;20.07.1983;168;70;Club Olimpia;Asunción, PY;35
+COL;23;Davinson Sanchez;12.06.1996;187;81;Tottenham;Londyn;22
+COL;5;Wilmar Barrios;16.10.1993;178;84;Boca Juniors;Buenos Aires;25
+COL;6;Carlos Sanchez;06.02.1986;182;82;Espanyol;Barcelona;32
+COL;8;Abel Aguilar;06.01.1985;185;80;Deportivo Cali;Cali;33
+COL;10;James Rodriguez;12.07.1991;180;78;Bayern Monachium;Monachium;27
+COL;11;Juan Cuadrado;26.05.1988;179;72;Juventus Turyn;Turyn;30
+COL;15;Mateus Uribe;21.03.1991;182;71;America;Meksyk, MX;27
+COL;16;Jefferson Lerma;25.10.1994;179;70;Levante;Walencja, ES;24
+COL;20;Juan Quintero;18.01.1993;169;62;Rennes;Rennes;25
+COL;7;Carlos Bacca;08.09.1986;181;77;Villarreal CF;Villarreal, ES;32
+COL;9;Radamel Falcao;10.02.1986;177;72;AS Monaco;Monaco;32
+COL;14;Luis Muriel;16.04.1991;178;79;Sevilla FC;Sevilla ES;27
+COL;19;Miguel Borja;26.01.1993;183;74;Palmeiras;São Paulo;25
+COL;21;Jose Izquierdo;07.07.1992;171;73;Brighton;Brighton;26
+CRC;1;Keylor Navas;15.12.1986;185;80;Real Madryt;Madryt;32
+CRC;18;Patrick Pemberton;24.04.1982;178;72;LDA;Alajuela, CR;36
+CRC;23;Leonel Moreira;02.04.1990;179;70;Herediano;Heredia, CR;28
+CRC;2;Johnny Acosta;21.07.1983;176;75;Aguilas Dorados;Rionegro, CO;35
+CRC;3;Giancarlo Gonzalez;08.02.1988;186;78;Bologna;Bologna;30
+CRC;4;Ian Smith;06.03.1998;177;68;Norrköping;Norrköping;20
+CRC;6;Oscar Duarte;03.06.1989;186;81;Espanyol Barcelona;Barcelona;29
+CRC;8;Bryan Oviedo;18.02.1990;172;70;Sunderland;Sunderland;28
+CRC;15;Francisco Calvo;08.07.1992;180;78;Minnesota United;Minnesota;26
+CRC;16;Cristian Gamboa;24.10.1989;175;67;Celtic Glasgow;Glasgow;29
+CRC;19;Kendall Waston;01.01.1988;196;87;Vancouver Whitecaps;Vancouver;30
+CRC;22;Ronald Matarrita;09.07.1994;175;70;New York City FC;New York City;24
+CRC;5;Celso Borges;27.05.1988;187;79;Deportivo La Coruna;La Coruna, ES;30
+CRC;7;Christian Bolanos;17.05.1984;178;67;Saprissa;San José, CR;34
+CRC;9;Daniel Colindres;10.01.1985;180;75;Saprissa;San José, CR;33
+CRC;10;Bryan Ruiz;18.08.1985;187;73;Sporting Lizbona;Lizbona;33
+CRC;13;Rodney Wallace;17.06.1988;180;70;New York City FC;New York City;30
+CRC;14;Randall Azofeifa;30.12.1984;182;83;Herediano;Heredia CR;34
+CRC;17;Yeltsin Tejeda;17.03.1992;179;67;Lausanne;Lausanne;26
+CRC;20;David Guzman;18.02.1990;176;78;Portland Timbers;Portland;28
+CRC;11;Johan Venegas;27.11.1988;183;76;Saprissa;San José, CR;30
+CRC;12;Joel Campbell;26.06.1992;178;71;Real Betis;Sevilla, ES;26
+CRC;21;Marco Urena;05.03.1990;181;70;Los Angeles FC;Los Angeles;28
+CRO;1;Dominik Livaković;09.01.1995;188;82;Dinamo Zagrzeb;Zagrzeb;23
+CRO;12;Lovre Kalinić;03.04.1990;201;96;KAA Gent;Gent;28
+CRO;23;Danijel Subasić;27.10.1984;191;84;AS Monaco;Monaco;34
+CRO;2;Sime Vrsaljko ;10.01.1992;181;76;Atletico Madryt;Madryt;26
+CRO;3;Ivan Strinic ;17.07.1987;186;78;Sampdoria Genua;Genua;31
+CRO;5;Vedran Corluka;05.02.1986;192;84;Lokomotiw Moskwa;Moskwa;32
+CRO;6;Dejan Lovren;05.07.1989;188;84;Liverpool;Liverpool;29
+CRO;13;Tin Jedvaj;28.11.1995;184;81;Bayer Leverkusen;Leverkusen;23
+CRO;15;Duje Caleta-Car ;17.09.1996;192;89;Red Bull Salzburg;Salzburg;22
+CRO;21;Domagoj Vida;29.04.1989;184;76;Besiktas Stambuł;Stambuł;29
+CRO;22;Josip Pivaric;30.01.1989;176;69;Dynamo Kijów;Kijów;29
+CRO;7;Ivan Rakitić ;10.03.1988;184;78;Barcelona;Barcelona;30
+CRO;8;Mateo Kovacić;06.05.1994;178;78;Real Madryt;Madryt;24
+CRO;10;Luka Modrić ;09.09.1985;172;66;Real Madryt;Madryt;33
+CRO;11;Marcelo Brozović ;16.11.1992;181;68;Inter Mediolan;Mediolan;26
+CRO;14;Filip Bradarić ;11.01.1992;186;78;HNK Rijeka;Rijeka;26
+CRO;19;Milan Badelj ;25.02.1989;186;76;Fiorentina;Florencja;29
+CRO;4;Ivan Perisić;02.02.1989;186;81;Inter Mediolan;Mediolan;29
+CRO;9;Andrej Kramarić;19.06.1991;177;73;Hoffenheim;Hoffenheim;27
+CRO;16;Nikola Kalinić ;05.01.1988;187;81;AC Milan;Milan;30
+CRO;17;Mario Mandzukić;21.05.1986;190;85;Juventus Turyn;Turyn;32
+CRO;18;Ante Rebić;21.09.1993;185;78;Eintracht Frankfurt;Frankfurt;25
+CRO;20;Marko Pjaca;06.05.1995;186;83;Schalke 04 Gelsenkirchen;Gelsenkirchen;23
+DEN;1;Kasper Schmeichel;05.11.1986;190;92;Leicester City;Leicester;32
+DEN;16;Jonas Loessl ;01.02.1989;195;90;Huddersfield;Huddersfield;29
+DEN;22;Frederik Ronnow ;04.08.1992;190;85;Broendby;Broendby;26
+DEN;3;Jannik Vestergaard;03.08.1992;200;98;Borussia Moenchengladbach;Moenchengladbach;26
+DEN;4;Simon Kjaer;26.03.1989;191;84;Sevilla;Sevilla;29
+DEN;5;Jonas Knudsen ;16.09.1992;187;82;Ipswich Town;Ipswich;26
+DEN;6;Andreas Christensen ;10.04.1996;192;85;Chelsea Londyn;Londyn;22
+DEN;13;Mathias Joergensen;23.04.1990;191;85;Huddersfield;Huddersfield;28
+DEN;14;Henrik Dalsgaard;27.07.1989;190;81;Brentford;Brentford;29
+DEN;17;Jens Stryger ;21.02.1991;182;82;Udinese;Udinese;27
+DEN;2;Michael Krohn-Dehli;06.06.1983;171;69;Deportivo La Coruna;La Coruna, ES;35
+DEN;7;William Kvist;24.02.1985;185;80;FC Kopenhaga;Kopenhaga;33
+DEN;8;Thomas Delaney;03.09.1991;180;78;Werder Brema;Brema;27
+DEN;10;Christian Eriksen;14.02.1992;181;76;Tottenham Hotspur;Londyn;26
+DEN;18;Lukas Lerager;12.07.1993;186;85;Girondins Bordeaux;Bordeaux;25
+DEN;19;Lasse Schone;27.05.1986;178;80;Ajax Amsterdam;Amsterdam;32
+DEN;9;Nicolai Joergensen;15.01.1991;194;86;Feyenoord Rotterdam;Rotterdam;27
+DEN;11;Martin Braithwaite ;05.06.1991;180;73;Girondins Bordeaux;Bordeaux;27
+DEN;12;Kasper Dolberg;06.10.1997;187;85;Ajax Amsterdam;Amsterdam;21
+DEN;15;Viktor Fischer ;09.06.1994;181;80;FC Kopenhaga;Kopenhaga;24
+DEN;20;Yussuf Poulsen ;15.06.1994;193;84;RB Lipsk;Lipsk;24
+DEN;21;Andreas Cornelius;16.03.1993;195;91;Atalanta Bergamo;Bergamo;25
+DEN;23;Pione Sisto;04.02.1995;173;69;Celta Vigo;Vigo;23
+EGY;1;Essam El Hadary;15.01.1973;190;90;Al Taawoun;Burajda, SA;45
+EGY;16;Sherif Ekramy;10.07.1983;193;93;Al Ahly;Kair;35
+EGY;23;Mohamed El-Shennawy;18.12.1988;191;86;Al Ahly;Kair;30
+EGY;2;Ali Gabr;01.01.1989;191;88;West Bromwich;West Bromwich;29
+EGY;3;Ahmed Elmohamady;09.09.1987;183;76;Aston Villa;Birmingham;31
+EGY;6;Ahmed Hegazi;25.01.1991;194;95;West Bromwich;West Bromwich;27
+EGY;7;Ahmed Fathi;10.11.1984;176;76;Al Ahly;Kair;34
+EGY;12;Ayman Ashraf;09.04.1991;176;73;Al Ahly;Kair;27
+EGY;13;Mohamed Abdelshafy;01.07.1985;171;72;Al Fateh;Al-Hasa, SA;33
+EGY;15;Mahmoud Hamdy;01.06.1995;173;72;Zamalek;Kair;23
+EGY;20;Samir Saad;01.04.1989;183;82;Al Ahly;Kair;29
+EGY;4;Omar Gaber;30.01.1992;175;71;Los Angeles FC;Los Angeles;26
+EGY;5;Sam Morsy;10.09.1991;173;75;Wigan Athletic;Wigan;27
+EGY;8;Tarek Hamed;24.10.1988;169;67;Zamalek;Kair;30
+EGY;17;Mohamed Elneny;11.07.1992;181;74;Arsenal;Londyn;26
+EGY;19;Abdalla Said;13.07.1985;176;75;Kuopion PS;Kuopion;33
+EGY;21;Mahmoud Hassan (Trezegeut);01.10.1994;181;77;Kasimpasa;Stambuł, TR;24
+EGY;9;Marwan Mohsen;26.02.1989;185;81;Al Ahly;Kair;29
+EGY;10;Mohamed Salah;15.06.1992;175;71;Liverpool;Liverpool;26
+EGY;11;Mahmoud Kahraba;13.04.1994;182;76;Al-Ittihad;Dżudda, SA;24
+EGY;14;Ramadan Sobhy;23.01.1997;183;77;Stoke City;Stoke;21
+EGY;18;Shikabala;05.03.1986;183;80;Al Raed;Burajda, SA;32
+EGY;22;Amr Warda;17.09.1993;179;77;Atromitos;Ateny, GR;25
+ENG;1;Jordan Pickford;07.03.1994;185;77;Everton;Liverpool;24
+ENG;13;Jack Butland;10.03.1993;196;94;Stoke;Stoke;25
+ENG;23;Nick Pope;19.04.1992;191;76;Burnley;Burnley;26
+ENG;2;Kyle Walker;28.05.1990;178;83;Tottenham;Londyn;28
+ENG;3;Danny Rose;02.07.1990;173;76;Tottenham;Londyn;28
+ENG;5;John Stones;28.05.1994;188;70;Manchester City;Manchester;24
+ENG;5;Harry Maguire;05.03.1993;193;100;Leicester;Leicester;25
+ENG;12;Kieran Trippier;19.09.1990;178;71;Tottenham;Londyn;28
+ENG;15;Gary Cahill;19.12.1985;193;86;Chelsea;Londyn;33
+ENG;16;Phil Jones;21.02.1992;180;71;Manchester United;Manchester;26
+ENG;17;Fabian Delph;21.11.1989;174;60;Manchester City;Manchester;29
+ENG;18;Ashley Young;09.07.1985;175;66;Manchester United;Manchester;33
+ENG;22;Trent Alexander-Arnold;07.10.1998;175;69;Liverpool;Liverpool;20
+ENG;4;Eric Dier;15.01.1994;188;90;Tottenham;Londyn;24
+ENG;7;Jesse Lingard;15.12.1992;175;58;Manchester United;Manchester;26
+ENG;8;Jordan Henderson;17.06.1990;182;67;Liverpool;Liverpool;28
+ENG;20;Dele Alli;11.04.1996;188;80;Tottenham;Londyn;22
+ENG;21;Ruben Loftus-Cheek;23.01.1996;190;71;Chelsea;Londyn;22
+ENG;9;Harry Kane;28.07.1993;188;86;Tottenham;Londyn;25
+ENG;10;Raheem Sterling;08.12.1994;170;69;Manchester City;Manchester;24
+ENG;11;Jamie Vardy;11.01.1987;178;76;Leicester;Leicester;31
+ENG;14;Danny Welbeck;26.11.1990;185;73;Arsenal Londyn;Londyn;28
+ENG;19;Marcus Rashford;31.10.1997;180;70;Manchester United;Manchester;21
+ESP;1;David de Gea;07.11.1990;190;71;Manchester United;Manchester;28
+ESP;13;Kepa Arrizabalaga ;03.10.1994;189;84;Athletic Bilbao;Bilbao;24
+ESP;23;Pepe Reina;31.08.1982;188;92;Napoli;Napoli;36
+ESP;2;Dani Carvajal ;11.01.1992;173;73;Real Madryt;Madryt;26
+ESP;3;Gerard Pique;02.02.1987;194;85;Barcelona;Barcelona;31
+ESP;4;Nacho Fernandez;18.01.1990;179;77;Real Madryt;Madryt;28
+ESP;12;Alvaro Odriozola;14.12.1995;178;67;Real Sociedad;San Sebastian;23
+ESP;14;Cesar Azpilicueta;28.08.1989;178;78;Chelsea Londyn;Londyn;29
+ESP;15;Sergio Ramos;30.03.1986;183;75;Real Madryt;Madryt;32
+ESP;16;Nacho Monreal ;26.02.1986;179;72;Arsenal Londyn;Londyn;32
+ESP;18;Jordi Alba;21.03.1989;170;68;Barcelona;Barcelona;29
+ESP;5;Sergio Busquets ;16.07.1988;189;78;Barcelona;Barcelona;30
+ESP;6;Andres Iniesta;11.05.1984;171;68;Barcelona;Barcelona;34
+ESP;7;Saul Niguez;21.11.1994;183;76;Atletico Madryt;Madryt;24
+ESP;8;Koke ;08.01.1992;176;73;Atletico Madryt;Madryt;26
+ESP;10;Thiago Alcantara ;11.04.1991;174;70;Bayern Monachium;Monachium;27
+ESP;20;Marco Asensio ;21.01.1996;182;76;Real Madryt;Madryt;22
+ESP;22;Isco ;21.04.1992;176;74;Real Madryt;Madryt;26
+ESP;9;Rodrigo Moreno;06.03.1991;182;72;Valencia;Valencia;27
+ESP;11;Lucas Vazquez;01.07.1991;173;70;Real Madryt;Madryt;27
+ESP;17;Iago Aspas;01.08.1987;176;67;Celta Vigo;Vigo;31
+ESP;19;Diego Costa;07.10.1988;185;86;Atletico Madryt;Madryt;30
+ESP;21;David Silva ;08.01.1986;170;67;Manchester City;Manchester;32
+FRA;1;Hugo Lloris;26.12.1986;188;82;Tottenham;Londyn;32
+FRA;16;Steve Mandanda;28.03.1985;187;88;Olympique Marsylia;Marsylia;33
+FRA;23;Alphonse Areola;27.02.1993;195;95;Paris Saint-Germain;Paris;25
+FRA;2;Benjamin Pavard;28.03.1996;186;76;VfB Stuttgart;Stuttgart;22
+FRA;3;Presnel Kimpembe;13.08.1995;182;78;Paris Saint-Germain;Paris;23
+FRA;4;Raphael Varane;25.04.1993;191;79;Real Madryt;Madryt;25
+FRA;5;Samuel Umtiti;14.11.1993;183;84;FC Barcelona;Barcelona;25
+FRA;17;Adil Rami;27.12.1985;190;90;Olympique Marsylia;Marsylia;33
+FRA;19;Djibril Sidibe;29.07.1992;184;81;AS Monaco;Monaco;26
+FRA;21;Lucas Hernandez;14.02.1996;183;76;Atletico Madryt;Madryt;22
+FRA;22;Benjamin Mendy;17.07.1994;183;84;Manchester City;Manchester;24
+FRA;6;Paul Pogba;15.03.1993;191;86;Manchester United;Manchester;25
+FRA;12;Corentin Tolisso;03.08.1994;180;82;Bayern Monachium;Monachium;24
+FRA;13;N'Golo Kante;29.03.1991;168;70;Chelsea Londyn;Londyn;27
+FRA;14;Blaise Matuidi;09.04.1987;180;74;Juventus Turyn;Turyn;31
+FRA;15;Steven Nzonzi ;15.12.1988;197;87;Sevilla;Sevilla;30
+FRA;7;Antoine Griezmann;21.03.1991;174;72;Atletico Madryt;Madryt;27
+FRA;8;Thomas Lemar;12.11.1995;172;65;AS Monaco;Monaco;23
+FRA;9;Olivier Giroud ;30.09.1986;193;91;Chelsea Londyn;Londyn;32
+FRA;10;Kylian Mbappe;20.12.1998;178;78;Paris Saint-Germain;Paris;20
+FRA;11;Ousmane Dembele ;15.05.1997;178;70;FC Barcelona;Barcelona;21
+FRA;18;Nabil Fekir;18.07.1993;173;76;Olympique Lyon;Lyon;25
+FRA;20;Florian Thauvin;26.01.1993;180;76;Olympique Marsylia;Marsylia;25
+GER;1;Manuel Neuer;27.03.1986;193;93;Bayern Monachium;Monachium;32
+GER;12;Kevin Trapp;08.07.1990;189;88;Paris Saint-Germain;Paris;28
+GER;22;Marc-Andre Ter Stegen;30.04.1992;187;85;FC Barcelona;Barcelona;26
+GER;2;Marvin Plattenhardt;26.01.1992;181;76;Hertha Berlin;Berlin;26
+GER;3;Jonas Hector;27.05.1990;185;75;1. FC Koeln;Koeln;28
+GER;4;Matthias Ginter;19.01.1994;189;85;Borussia Moenchengladbach;Moenchengladbach;24
+GER;5;Mats Hummels;16.12.1988;192;90;Bayern Monachium;Monachium;30
+GER;6;Sami Khedira;04.04.1987;189;81;Juventus Turyn;Turyn;31
+GER;15;Niklas Suele;03.09.1995;195;89;Bayern Monachium;Monachium;23
+GER;16;Antonio Ruediger;03.03.1993;191;85;Chelsea Londyn;Londyn;25
+GER;17;Jerome Boateng;03.09.1988;192;90;Bayern Monachium;Monachium;30
+GER;18;Joshua Kimmich;08.02.1995;176;72;Bayern Monachium;Monachium;23
+GER;7;Julian Draxler;20.09.1993;185;74;Paris Saint-Germain;Paris;25
+GER;8;Toni Kroos;04.01.1990;182;78;Real Madryt;Madryt;28
+GER;10;Mesut Oezil;15.10.1988;180;70;Arsenal Londyn;Londyn;30
+GER;13;Thomas Mueller;13.09.1989;186;75;Bayern Monachium;Monachium;29
+GER;14;Leon Goretzka;06.02.1995;189;76;Schalke Gelsenkirchen;Gelsenkirchen;23
+GER;19;Sebastian Rudy;28.02.1990;179;74;Bayern Monachium;Monachium;28
+GER;20;Julian Brandt;02.05.1996;183;82;Bayer Leverkusen;Leverkusen;22
+GER;21;Ilkay Guendogan;24.10.1990;180;79;Manchester City;Manchester;28
+GER;9;Timo Werner;06.03.1996;181;75;RB Lipsk;Lipsk;22
+GER;11;Marco Reus;31.05.1989;180;67;Borussia Dortmund;Dortmund;29
+GER;23;Mario Gomez;10.07.1985;189;82;VfB Stuttgart;Stuttgart;33
+IRA;1;Ali Beiranvand;21.09.1992;194;85;Persepolis;Persepolis;26
+IRA;12;Rashid Mazaheri ;18.05.1989;192;84;Zob Ahan Isfahan;Isfahan;29
+IRA;22;Amir Abedzadeh;26.04.1993;186;80;Maritimo Funchal;Funchal;25
+IRA;3;Ehsan Haji Safi;25.02.1990;178;75;Olympiakos Pireus;Pireus;28
+IRA;4;Roozbeh Cheshmi ;24.07.1993;192;80;Esteghlal Teheran;Teheran;25
+IRA;5;Milad Mohammad ;29.09.1993;178;69;Achmat Grozny;Grozny;25
+IRA;8;Morteza Pouraliganji;19.04.1992;187;83;Al-Sadd;Doha, QA;26
+IRA;13;Mohammad Reza Khanzadeh ;11.05.1991;186;80;Padideh Meszhed;Meszhed;27
+IRA;15;Pejman Montazeri ;06.09.1983;185;77;Esteghlal Teheran;Teheran;35
+IRA;19;Majid Hosseini ;20.06.1996;183;78;Esteghlal Teheran;Teheran;22
+IRA;23;Ramin Rezaeian;21.03.1990;185;75;KV Oostende;Oostende;28
+IRA;2;Mehdi Torabi;10.09.1994;185;71;Saipa Alborz;Teheran;24
+IRA;6;Saeid Ezatolahi;01.10.1996;190;82;Amkar Perm;Perm, RU;22
+IRA;7;Masoud Shojaei;09.06.1984;187;79;AEK Ateny;Ateny;34
+IRA;9;Omid Ebrahimi ;16.09.1987;178;75;Esteghlal Teheran;Teheran;31
+IRA;11;Vahid Amiri ;02.04.1988;179;71;Persepolis;Persepolis;30
+IRA;10;Karim Ansarifard;03.04.1990;187;80;Olympiakos Pireus;Pireus;28
+IRA;14;Saman Ghoddos;06.09.1993;177;79;Oestersund FK;Oestersund;25
+IRA;16;Reza Ghoochannejhad;20.09.1987;180;79;Heerenveen;Heerenveen;31
+IRA;17;Mehdi Taremi ;18.07.1992;187;80;Al-Gharafa;Doha, QA;26
+IRA;18;Alireza Jahanbakhsh;11.08.1993;180;77;AZ Alkmaar;Alkmaar;25
+IRA;20;Sardar Azmoun;01.01.1995;186;80;Rubin Kazań;Kazań;23
+IRA;21;Ashkan Dejagah;05.07.1986;181;78;Nottingham Forest;Nottingham;32
+ISL;1;Hannes Thor Halldorsson;27.04.1984;193;88;Randers FC;Randers, DK;34
+ISL;12;Frederik Schram;19.01.1995;198;92;Roskilde;Roskilde;23
+ISL;13;Runar Alex Runarsson;18.02.1995;186;76;FC Nordsjaelland;Nordsjaelland;23
+ISL;2;Birkir Mer Saevarsson;11.11.1984;186;75;Hammarby IF;Hammarby;34
+ISL;5;Sverrir Ingi Ingason;05.08.1993;188;80;FK Rostów;Rostów;25
+ISL;6;Ragnar Sigurdsson;19.06.1986;187;86;FK Rostów;Rostów;32
+ISL;14;Kari Arnason;13.10.1982;191;82;Aberdeen;Aberdeen;36
+ISL;15;Holmar Orn Eyjolfsson;06.08.1990;188;81;Lewski Sofia;Sofia;28
+ISL;18;Lily Bergen Magnusson;11.02.1993;191;85;Bristol City;Bristol;25
+ISL;23;Ari Freyr Skulason;14.05.1987;170;63;Lokeren;Lokeren;31
+ISL;3;Samuel Kari Fridjonsson;22.02.1996;185;78;Valerenga Oslo;Oslo;22
+ISL;4;Albert Gudmundsson;15.06.1997;177;80;PSV Eindhoven;Eindhoven;21
+ISL;7;Johann Berg Gudmundsson;27.10.1990;179;77;Burnley;Burnley;28
+ISL;8;Birkir Bjarnason ;27.05.1988;183;77;Aston Villa;Birmingham;30
+ISL;10;Gylfi Sigurdsson;08.09.1989;186;82;Everton;Liverpool;29
+ISL;16;Olafur Ingi Skulason;01.04.1983;184;79;Karabukspor;Karabuk, TR;35
+ISL;17;Aron Einar Gunnarsson;22.04.1989;181;86;Cardiff City;Cardiff;29
+ISL;19;Rurik Gislason;25.02.1988;184;78;SV Sandhausen;Sandhausen;30
+ISL;20;Emil Hallfredhsson;29.06.1984;186;86;Udinese Calcio;Udinese;34
+ISL;21;Arnor Ingvi Traustason;30.04.1993;183;73;Malmoe FF;Malmoe;25
+ISL;9;Bjoern Bergmann Sigurdarson;26.02.1991;187;85;FK Rostów;Rostów;27
+ISL;11;Alfred Finnbogason;01.02.1989;185;79;Augsburg;Augsburg;29
+ISL;22;Jon Dadi Bodvarsson;25.05.1992;189;89;Reading;Reading;26
+JPN;1;Eiji Kawashima;20.03.1983;185;82;FC Metz;Metz;35
+JPN;12;Masaaki Higashiguchi;12.05.1986;184;78;Gamba Osaka;Osaka;32
+JPN;23;Kosuke Nakamura;27.02.1995;185;82;Kashiwa Reysol;Kashiwa;23
+JPN;2;Naomichi Ueda;24.10.1994;186;79;Kashima Antlers;Kashima, JP;24
+JPN;3;Gen Shoji;11.12.1992;182;74;Kashima Antlers;Kashima, JP;26
+JPN;5;Yuto Nagatomo;12.09.1986;170;59;Galatasaray;Galatasaray, TR;32
+JPN;6;Wataru Endo;09.02.1993;178;75;Urawa Red Diamonds;Saitama, JP;25
+JPN;19;Hiroki Sakai;12.04.1990;185;70;Olympique Marsylia;Marsylia;28
+JPN;20;Tomoaki Makino;11.05.1987;182;74;Urawa Red Diamonds;Saitama, JP;31
+JPN;21;Gotoku Sakai;14.03.1991;176;74;HSV Hamburg;Hamburg;27
+JPN;22;Maya Yoshida;24.08.1988;189;78;Southampton FC;Southampton;30
+JPN;4;Keisuke Honda;13.06.1986;182;77;Pachuca;Pachuca, MX;32
+JPN;7;Gaku Shibasaki;28.05.1992;175;64;Getafe;Getafe;26
+JPN;8;Genki Haraguchi;09.05.1991;177;68;Fortuna Dusseldorf;Dusseldorf;27
+JPN;10;Shinji Kagawa;17.03.1989;175;68;Fortuna Dusseldorf;Dusseldorf;29
+JPN;11;Takashi Usami;06.05.1992;178;80;Borussia Dortmund;Dortmund;26
+JPN;14;Takashi Inui;02.06.1988;169;63;Eibar;Eibar, ES;30
+JPN;16;Hotaru Yamaguchi;06.10.1990;173;64;Cerezo Osaka;Osaka;28
+JPN;17;Makoto Hasebe;18.01.1984;180;72;Eintracht Frankfurt;Frankfurt;34
+JPN;18;Ryota Oshima;23.01.1993;168;64;Kawasaki Frontale;Kawasaki;25
+JPN;9;Shinji Okazaki;16.04.1986;174;76;Leicester City FC;Leicester;32
+JPN;13;Yoshinori Muto;15.07.1992;178;72;FSV Mainz;Mainz;26
+JPN;15;Yuya Osako;18.05.1990;182;70;FC Koeln;Koeln;28
+KOR;1;Kim Seung-gyu;30.09.1990;187;80;Vissel Kobe;Kobe;28
+KOR;21;Kim Jin-hyeon;06.07.1987;193;82;Cerezo Osaka;Osaka;31
+KOR;23;Cho Hyun-woo;25.09.1991;189;75;Daegu FC;Taegu, KR;27
+KOR;2;Lee Yong;24.12.1986;180;74;Jeonbuk Hyundai Motors;Chŏnju, KR;32
+KOR;3;Jung Seung-hyun;03.04.1994;188;74;Segan Tosu FC;Tosu, JP;24
+KOR;4;Oh Ban-suk;20.05.1988;189;79;Jeju United;Sŏgwip'o, KR;30
+KOR;5;Yun Yong-sun;04.10.1988;185;75;Seongnam FC;Sŏngnam, KR;30
+KOR;6;Park Joo-ho;16.01.1987;174;71;Ulsan Hyundai;Ulsan, KR;31
+KOR;12;Kim Min-woo;25.02.1990;172;69;Sangju Sangmu;Sangju, KR;28
+KOR;14;Hong Chul;17.09.1990;176;67;Sangju Sangmu;Sangju, KR;28
+KOR;19;Kim Young-gwon;27.02.1990;184;74;Evergrande Kanton;Kanton, CN;28
+KOR;20;Jang Hyun-soo;28.09.1991;187;77;FC Tokio;Tokio, JP;27
+KOR;22;Go Yo-han;10.03.1988;170;65;FC Seul;Seul, KR;30
+KOR;8;Ju Se-jong;30.10.1990;176;70;Asan Mugunghwa FC;Asan, KR;28
+KOR;10;Lee Seung-woo;06.01.1998;170;63;Hellas Verona;Verona;20
+KOR;13;Koo Ja-cheol;27.02.1989;182;73;FC Augsburg;Augsburg;29
+KOR;15;Jung Woo-young;14.12.1989;186;78;Vissel Kobe;Kobe;29
+KOR;16;Ki Sung-yueng;24.01.1989;186;75;Swansea City;Swansea;29
+KOR;17;Lee Jae-sung;10.08.1992;180;70;Jeonbuk Hyundai Motors;Chŏnju, KR;26
+KOR;18;Moon Seon-min;09.06.1992;172;68;Incheon United;Inczon, KR;26
+KOR;7;Son Heung-min;08.07.1992;183;76;Tottenham Hotspur;Londyn;26
+KOR;9;Kim Shin-wook;14.04.1988;197;97;Jeonbuk Hyundai Motors;Chŏnju, KR;30
+KOR;11;Hwang Hee-chan;26.01.1996;177;77;FC Red Bull Salzburg;Salzburg;22
+MAR;1;Yassine Bounou;05.04.1991;190;77;Girona;Girona;27
+MAR;12;Mounir El Kajoui;10.05.1989;190;88;Numancia;Soria, ES;29
+MAR;22;Ahmad Reda Tagnaouti;05.04.1996;186;70;Ittihad Tanger;Tanger;22
+MAR;2;Achraf Hakimi ;04.11.1998;179;65;Real Madryt;Madryt;20
+MAR;3;Hamza Mendyl;21.10.1997;179;70;Lille;Lille;21
+MAR;4;Manuel Da Costa;06.05.1986;187;78;Basakaehir;Stambuł;32
+MAR;5;Mehdi Benatia;17.04.1987;188;88;Juventus;Turyn;31
+MAR;6;Romain Saiss ;26.03.1990;190;76;Wolverhampton;Wolverhampton;28
+MAR;17;Nabil Dirar;25.02.1986;187;82;Fenerbahce;Stambuł;32
+MAR;7;Hakim Ziyech;19.03.1993;180;70;Ajax;Amsterdam;25
+MAR;8;Karim El Ahmadi ;27.01.1985;179;78;Feyenoord;Feyenoord;33
+MAR;10;Younes Belhanda;25.02.1990;174;75;Galatasaray;Stambuł;28
+MAR;11;Faycal Fajr;01.08.1988;178;72;Getafe;Getafe;30
+MAR;14;Mbark Boussoufa;15.08.1984;167;59;Al-Jazira;Abu Zabi, AE;34
+MAR;15;Youssef Ait Bennasser;07.07.1996;184;75;Caen;Caen;22
+MAR;16;Noureddine Amrabat;31.03.1987;178;77;Leganes;Leganes, ES;31
+MAR;18;Amine Harit ;18.06.1997;179;66;Schalke 04;Schalke;21
+MAR;21;Sofyan Amrabat;21.08.1996;183;77;Feyenoord;Feyenoord;22
+MAR;23;Mehdi Carcela-Gonzalez;01.07.1989;176;67;Standard Liege;Liege;29
+MAR;9;Ayoub El Kaabi;25.06.1993;182;72;RS Berkane;Berkane;25
+MAR;13;Khalid Boutaib;24.04.1987;190;80;Malatyaspor;Malatya, TR;31
+MAR;19;Youssef En Nesyri;01.06.1997;188;75;Malaga;Malaga;21
+MAR;20;Aziz Bouhaddouz;30.03.1987;188;80;St. Pauli;Pauli, DE;31
+MEX;1;Jesus Corona;26.01.1981;182;80;Cruz Azul;Meksyk, MX;37
+MEX;12;Alfredo Talavera;18.09.1982;188;84;Toluca;Toluca, MX;36
+MEX;13;Guillermo Ochoa;13.07.1985;185;76;Standard Liege;Liege;33
+MEX;2;Hugo Ayala;31.03.1987;188;82;Tigres;San Nicolas de los Garza, MX;31
+MEX;3;Carlos Salcedo;29.09.1993;189;83;Eintracht Frankfurt;Frankfurt;25
+MEX;4;Rafael Marquez;13.02.1979;184;77;Atlas;Guadalajara, MX;39
+MEX;5;Diego Reyes;19.09.1992;190;77;FC Porto;Porto, PT;26
+MEX;15;Hector Moreno;17.01.1988;182;82;Real Sociedad;San Sebastian, ES;30
+MEX;16;Hector Herrera;19.04.1990;180;79;FC Porto;Porto, PT;28
+MEX;6;Jonathan Dos Santos;26.04.1990;173;69;LA Galaxy;Los Angeles;28
+MEX;7;Miguel Layun;25.06.1988;180;72;Sevilla FC;Sevilla, ES;30
+MEX;10;Giovani Dos Santos;11.05.1989;178;70;LA Galaxy;Los Angeles;29
+MEX;17;Jesus Manuel Corona;06.01.1993;174;69;FC Porto;Porto, PT;25
+MEX;18;Andres Guardado;28.09.1986;167;63;Betis Sevilla;Sevilla, ES;32
+MEX;20;Javier Aquino;11.02.1990;166;59;Tigres;Monterrey, MX;28
+MEX;23;Jesus Gallardo;15.08.1994;177;74;Pumas UNAM;Meksyk, MX;24
+MEX;8;Marco Fabian;21.07.1989;171;70;Eintracht Frankfurt;Frankfurt;29
+MEX;9;Raul Jimenez;05.05.1991;188;79;Benfica Lizbona;Lizbona;27
+MEX;11;Carlos Vela;01.03.1989;178;78;Los Angeles FC;Los Angeles;29
+MEX;14;Javier Hernandez;01.06.1988;175;71;West Ham United;Londyn;30
+MEX;19;Oribe Peralta;12.01.1984;178;72;America;Meksyk, MX;34
+MEX;21;Edson Alvarez;24.10.1997;186;72;America;Meksyk, MX;21
+MEX;22;Hirving Lozano;30.07.1995;176;66;PSV Eindhoven;Eindhoven;23
+NGR;1;Ikechukwu Ezenwa ;16.10.1988;181;80;Enyimba;Aba, NG;30
+NGR;16;Daniel Akpeyi;08.03.1986;187;94;Chippa United;Chippa, NG;32
+NGR;23;Francis Uzoho;28.10.1998;196;91;Deportivo La Coruna;La Coruna, ES;20
+NGR;2;Brian Idowu;18.05.1992;179;75;Amkar Perm;Perm, RU;26
+NGR;3;Elderson Echiejiole;20.01.1988;185;82;Cercle Brugge;Brugge;30
+NGR;5;William Ekong Troost;01.09.1993;191;85;Bursaspor;Bursa, TR;25
+NGR;6;Leon Balogun;28.06.1988;190;89;Brighton & Hove Albion;Brighton;30
+NGR;12;Abdullahi Shehu;12.03.1993;182;75;Bursaspor;Bursa, TR;25
+NGR;20;Chidozie Awaziem;01.01.1997;192;76;Nantes;Nantes;21
+NGR;21;Tyronne Ebuehi;16.12.1995;187;74;ADO Den Haag;Haag;23
+NGR;22;Kenneth Omeruo;17.10.1993;185;82;Kasimpasa;Stambuł, TR;25
+NGR;4;Wilfred Ndidi;16.12.1996;184;73;Leicester City;Leicester;22
+NGR;8;Oghenekaro Etebo;09.11.1995;174;74;Las Palmas;Las Palmas, ES;23
+NGR;10;John Obi Mikel;22.04.1987;188;82;Tianjin Teda;Tiencin, CN;31
+NGR;15;Joel Obi;22.05.1991;177;77;Torino;Turyn;27
+NGR;17;Ogenyi Onazi ;25.12.1992;172;74;Trabzonspor;Trabzon, TR;26
+NGR;19;John Ogu;20.04.1988;191;90;Hapoel Be'er Sheva;Beer Szewa, IL;30
+NGR;7;Ahmed Musa;14.10.1992;173;65;CSKA Moskwa;Moskwa;26
+NGR;9;Odion Ighalo;16.06.1989;188;83;Changchun Yatai;Changchun, CN;29
+NGR;11;Victor Moses ;12.12.1990;177;75;Chelsea Londyn;Londyn;28
+NGR;13;Simoen Nwankwo;07.05.1992;197;89;Crotone;Crotone, IT;26
+NGR;14;Kelechi Iheanacho;10.03.1996;183;80;Leicester City;Leicester;22
+NGR;18;Alex Iwobi ;03.05.1996;185;86;Arsenal Londyn;Londyn;22
+PAN;1;Jaime Penedo;26.09.1981;186;79;Dinamo Bukareszt;Bukareszt;37
+PAN;12;Jose Calderon;14.08.1985;187;84;Chorrillo FC;Panama;33
+PAN;22;Alex Rodriguez;05.08.1990;195;65;San Francisco FC;San Francisco;28
+PAN;2;Michael Murillo;11.02.1996;183;75;New York Red Bulls;New York City;22
+PAN;3;Harold Cummings;01.03.1992;180;84;San José Earthquakes;San José;26
+PAN;4;Fidel Escobar;09.01.1995;181;74;New York Red Bulls;New York City;23
+PAN;5;Roman Torres;20.03.1986;188;83;Seattle Sounders SC;Seattle;32
+PAN;13;Adolfo Machado;14.02.1985;183;72;Houston Dynamo;Houston;33
+PAN;15;Eric Davis;31.03.1991;172;78;DAC Dunajska Streda;Dunajska Streda, SK;27
+PAN;17;Luis Ovalle;07.09.1988;177;71;CD Olimpia;Tegucigalpa, HN;30
+PAN;23;Felipe Baloy;24.02.1981;184;90;CSD Municipal;Gwatemala, GT;37
+PAN;6;Gabriel Gómez;29.05.1984;183;81;Bucaramanga;Bucaramanga, CO;34
+PAN;8;Edgar Barcenas;23.10.1993;175;75;Cafetaleros de Tapachula;Tapachula, MX;25
+PAN;11;Armando Cooper;26.11.1987;182;68;Club Universidad de Chile;Santiago, CL;31
+PAN;14;Valentin Pimentel;30.05.1991;185;77;Plaza Amador;Panama;27
+PAN;19;Ricardo Avila;04.02.1997;182;80;KAA Gent;Gent;21
+PAN;20;Aníbal Godoy;10.02.1990;182;79;San José Earthquakes;San José;28
+PAN;21;Jose Luis Rodriguez;19.06.1999;180;70;KAA Gent;Gent;19
+PAN;7;Blas Perez;13.03.1981;185;79;CSD Municipal;Gwatemala, GT;37
+PAN;9;Gabriel Torres;31.10.1988;180;78;CD Huachipato;Talcahuano, CL;30
+PAN;10;Ismael Diaz;12.05.1997;181;77;Deportivo La Coruna;La Coruna, ES;21
+PAN;16;Abdiel Arroyo;13.12.1993;187;80;LD Alajuelense;Alajuela, CR;25
+PAN;18;Luis Tejada;28.03.1982;185;80;Sports Boys;Callao, PE;36
+PER;1;Pedro Gallese;23.02.1990;189;79;Tiburones Rojos de Veracruz;Veracruz, MX;28
+PER;12;Carlos Caceda;27.09.1991;184;78;Deportivo Municipal;Lima;27
+PER;21;Jose Carvallo ;01.03.1986;182;84;U.T. Cajamarca;Cajamarca;32
+PER;2;Alberto Rodriguez;31.03.1984;179;78;Atletico Junior;Barranquilla, CO;34
+PER;3;Aldo Corzo ;20.05.1989;172;75;Universitario Lima;Lima;29
+PER;4;Anderson Santamaria;10.01.1992;183;84;Puebla;Puebla, MX;26
+PER;5;Miguel Araujo;24.10.1994;178;77;Alianza Lima;Lima;24
+PER;6;Miguel Trauco;25.08.1992;169;74;Flamengo;Rio de Janeiro;26
+PER;15;Christian Ramos;04.11.1988;182;72;Veracruz;Veracruz, MX;30
+PER;17;Luis Advincula ;02.03.1990;178;80;Lobos BUAP;Puebla, MX;28
+PER;22;Nilson Loyola;26.10.1994;179;68;FBC Melgar;Arequipa;24
+PER;7;Paolo Hurtado ;27.07.1990;174;66;Vitoria Guimaraes;Guimaraes, PT;28
+PER;8;Christian Cueva;23.11.1991;169;69;FC Sao Paulo;Sao Paulo;27
+PER;13;Renato Tapia ;28.07.1995;185;85;Feyenoord Rotterdam;Rotterdam;23
+PER;14;Andy Polo ;29.09.1994;174;71;Portland Timbers;Portland;24
+PER;16;Wilder Cartagena ;23.09.1994;179;76;Veracruz;Veracruz, MX;24
+PER;19;Yoshimar Yotun;07.04.1990;172;69;Orlando City;Orlando;28
+PER;23;Pedro Aquino;13.04.1995;174;71;Lobos BUAP;Puebla, MX;23
+PER;9;Paolo Guerrero ;01.01.1984;185;88;Flamengo;Rio de Janeiro;34
+PER;10;Jefferson Farfan;26.10.1984;177;85;Lokomotiw Moskwa;Moskwa;34
+PER;11;Raul Ruidiaz;25.07.1990;169;67;Morelia;Morelia, MX;28
+PER;18;Andre Carrillo;14.06.1991;182;77;Watford;Watford;27
+PER;20;Edison Flores;14.05.1994;170;72;Aalborg;Aalborg;24
+POL;1;Wojciech Szczęsny;18.04.1990;195;84;Juventus Turyn;Turyn;28
+POL;12;Bartosz Białkowski;06.07.1987;194;82;Ipswich Town;Ipswich;31
+POL;22;Łukasz Fabiański;18.04.1985;190;83;Swansea City AFC;Swansea;33
+POL;2;Michał Pazdan;21.09.1987;181;78;Legia Warszawa;Warszawa;31
+POL;3;Artur Jędrzejczyk;04.11.1987;189;78;Legia Warszawa;Warszawa;31
+POL;4;Thiago Cionek;21.04.1986;184;81;SPAL 2013;Ferrara, IT;32
+POL;5;Jan Bednarek;12.04.1986;190;77;Southampton FC;Southampton;32
+POL;15;Kamil Glik;03.02.1988;190;80;AS Monaco;Monaco;30
+POL;18;Bartosz Bereszyński;12.07.1992;182;72;Sampdoria Genua;Genua;26
+POL;20;Łukasz Piszczek;03.06.1985;184;78;Borussia Dortmund;Dortmund;33
+POL;6;Jacek Góralski;21.09.1992;172;66;Łudogorec Razgrad;Razgrad, BG;26
+POL;8;Karol Linetty;02.02.1995;176;73;Sampdoria Genua;Genua;23
+POL;10;Grzegorz Krychowiak;29.01.1990;186;83;Paris Saint-Germain;Paris;28
+POL;11;Kamil Grosicki;08.06.1988;180;76;Hull City;Hull;30
+POL;13;Maciej Rybus;19.08.1989;173;75;Lokomotiw Moskwa;Moskwa;29
+POL;16;Jakub Błaszczykowski;14.12.1985;175;76;VfL Wolfsburg;Wolfsburg;33
+POL;17;Sławomir Peszko;19.02.1985;173;68;Lechia Gdańsk;Gdańsk;33
+POL;19;Piotr Zieliński;20.05.1994;180;64;SSC Napoli;Napoli;24
+POL;21;Rafał Kurzawa;29.01.1993;182;73;Górnik Zabrze;Zabrze;25
+POL;7;Arkadiusz Milik;28.02.1994;186;78;SSC Napoli;Napoli;24
+POL;9;Robert Lewandowski;21.08.1988;185;79;Bayern Monachium;Monachium;30
+POL;14;Łukasz Teodorczyk;03.06.1991;185;76;RSC Anderlecht;Bruksela;27
+POL;23;Dawid Kownacki;14.03.1997;185;75;Sampdoria Genua;Genua;21
+POR;1;Rui Patricio;15.02.1988;189;84;Sporting Lizbona;Lizbona;30
+POR;12;Anthony Lopes;01.10.1990;184;81;Olympique Lyon;Lyon;28
+POR;22;Beto ;01.05.1982;183;79;Goztepe;Izmir, TR;36
+POR;2;Bruno Alves ;27.11.1981;187;83;Rangers;Glasgow;37
+POR;3;Pepe ;26.02.1983;188;81;Besiktas;Stambuł;35
+POR;5;Raphael Guerreiro;22.12.1993;170;64;Borussia Dortmund;Dortmund;25
+POR;6;Jose Fonte;22.12.1983;191;84;Dalian Yifang;Dalian, CN;35
+POR;13;Ruben Dias ;14.05.1997;187;83;Benfica Lizbona;Lizbona;21
+POR;15;Ricardo Pereira;06.10.1993;174;70;FC Porto;Porto;25
+POR;19;Mario Rui;27.05.1991;168;67;Napoli;Napoli;27
+POR;21;Cedric Soares ;31.08.1991;172;67;Southampton;Southampton;27
+POR;4;Manuel Fernandes;05.02.1986;174;69;Lokomotiw Moskwa;Moskwa;32
+POR;8;Joao Moutinho;08.09.1986;170;61;Monaco;Monaco;32
+POR;10;Joao Mario;19.01.1993;179;73;West Ham;Londyn;25
+POR;11;Bernardo Silva;10.08.1994;173;65;Manchester City;Manchester;24
+POR;14;William Carvalho;07.04.1992;190;80;Sporting Lizbona;Lizbona;26
+POR;16;Bruno Fernandes ;08.09.1994;183;64;Sporting Lizbona;Lizbona;24
+POR;23;Adrien Silva;15.03.1989;176;72;Leicester City;Leicester;29
+POR;7;Cristiano Ronaldo;05.02.1985;185;80;Real Madryt;Madryt;33
+POR;9;Andre Silva;06.11.1995;184;78;AC Milan;Milan;23
+POR;17;Goncalo Guedes ;29.11.1996;179;72;Valencia;Valencia;22
+POR;18;Gelson Martins;11.05.1995;173;63;Sporting Lizbona;Lizbona;23
+POR;20;Ricardo Quaresma;26.09.1983;175;73;Besiktas;Stambuł, TR;35
+RUS;1;Igor Akinfiejew;08.04.1986;185;83;CSKA Moskwa;Moskwa;32
+RUS;12;Andriej Łuniow;13.11.1991;189;80;Zenit Sankt Petersburg;Petersburg;27
+RUS;20;Władimir Gabułow;19.10.1983;190;81;Club Brugge;Brugge;35
+RUS;2;Mario Fernandes;19.09.1990;187;79;CSKA Moskwa;Moskwa;28
+RUS;3;Ilja Kutiepow ;29.07.1993;190;82;Spartak Moskwa;Moskwa;25
+RUS;4;Siergiej Ignaszewicz;14.07.1979;186;84;CSKA Moskwa;Moskwa;39
+RUS;5;Andriej Siemionow;24.03.1989;191;87;Achmat Grozny;Grozny;29
+RUS;13;Fiodor Kudriaszow ;05.04.1987;187;78;Rubin Kazań;Kazań;31
+RUS;14;Władimir Granat;22.05.1987;184;80;Rubin Kazań;Kazań;31
+RUS;23;Igor Smolnikow;08.08.1988;179;72;Zenit Sankt Petersburg;Petersburg;30
+RUS;6;Denis Czeryszew;26.12.1990;173;68;Villarreal;Villarreal, ES;28
+RUS;7;Daler Kuzjajew;15.01.1993;182;74;Zenit Sankt Petersburg;Petersburg;25
+RUS;8;Jurij Gazinski ;20.07.1989;180;75;FK Krasnodar;Krasnodar;29
+RUS;9;Alan Dzagojew;17.06.1990;178;73;CSKA Moskwa;Moskwa;28
+RUS;11;Roman Zobnin;11.02.1994;185;77;Spartak Moskwa;Moskwa;24
+RUS;15;Aleksiej Miranczuk;17.10.1995;185;77;Lokomotiw Moskwa;Moskwa;23
+RUS;16;Anton Miranczuk;17.10.1995;182;67;Lokomotiw Moskwa;Moskwa;23
+RUS;17;Aleksandr Gołowin ;30.05.1996;178;70;CSKA Moskwa;Moskwa;22
+RUS;18;Jurij Żyrkow;20.08.1983;180;76;Zenit Sankt Petersburg;Petersburg;35
+RUS;19;Aleksandr Samiedow ;19.07.1984;178;74;Spartak Moskwa;Moskwa;34
+RUS;21;Aleksandr Jerochin ;13.10.1989;191;79;Zenit Sankt Petersburg;Petersburg;29
+RUS;10;Fiodor Smołow ;09.02.1990;185;79;FK Krasnodar;Krasnodar;28
+RUS;22;Artiom Dziuba ;22.08.1988;196;90;Arsienał Tuła;Tuła;30
+SAR;1;Abdullah Al-Mayuf;23.01.1987;178;98;Al-Hilal;Rijad, SA;31
+SAR;21;Yasser Al-Musailem;27.02.1984;186;88;Al-Ahli;Dżudda, SA;34
+SAR;22;Mohammed Al-Owais;10.10.1991;187;79;Al-Ahli;Dżudda, SA;27
+SAR;2;Mansoor Al-Harbi;19.10.1987;173;68;Al-Ahli;Dżudda, SA;31
+SAR;3;Osama Hawsawi;31.03.1984;188;83;Al-Hilal;Rijad, SA;34
+SAR;4;Ali Al-Bulaihi;21.11.1989;182;83;Al-Hilal;Rijad, SA;29
+SAR;5;Omar Othman;27.09.1985;185;76;Al-Nassr;Rijad, SA;33
+SAR;6;Mohammed Al-Breik;15.09.1992;173;61;Al-Hilal;Rijad, SA;26
+SAR;13;Yasser Al-Shahrani ;25.05.1992;170;63;Al-Hilal;Rijad, SA;26
+SAR;23;Motaz Hawsawi;17.02.1992;180;79;Al-Ahli;Dżudda, SA;26
+SAR;7;Salman Al-Faraj ;01.08.1989;179;63;Al-Hilal;Rijad, SA;29
+SAR;8;Yehya Al-Shehri;26.06.1990;165;63;Leganes;Leganes, ES;28
+SAR;9;Hattan Bahebri;16.07.1992;170;66;Al-Shabab;Rijad, SA;26
+SAR;11;Abdulmalek Al-Khaibri;13.03.1986;177;73;Al-Hilal;Rijad, SA;32
+SAR;12;Mohamed Kanno;22.09.1994;192;73;Al-Hilal;Rijad, SA;24
+SAR;14;Abdullah Otayf;03.08.1992;177;66;Al-Hilal;Rijad, SA;26
+SAR;15;Abdullah Al-Khaibari;16.08.1996;175;66;Al-Shabab;Rijad, SA;22
+SAR;16;Houssain Al-Mogahwi;24.03.1988;174;76;Al-Ahli;Dżudda, SA;30
+SAR;17;Taiseer Al-Jassim;25.07.1984;169;69;Al-Ahli;Dżudda, SA;34
+SAR;18;Salem Al-Dawsari;19.08.1991;174;68;Villarreal;Villarreal, ES;27
+SAR;10;Mohammad Al-Sahlawi;10.01.1987;179;75;Al-Nassr;Rijad, SA;31
+SAR;19;Fahad Al-Muwallad;14.09.1994;168;65;Levante;Levante;24
+SAR;20;Muhannad Assiri;14.10.1986;185;79;Al-Ahli;Dżudda, SA;32
+SEN;1;Abdoulaye Diallo;30.03.1992;189;79;Stade Rennais;Rennais;26
+SEN;16;Khadim N’Diaye;30.11.1984;185;78;Horoya AC;Konakry, GN;34
+SEN;23;Alfred Gomis;05.09.1993;196;80;SPAL 2013;Ferrara, IT;25
+SEN;2;Saliou Ciss;15.09.1989;175;70;Valenciennes FC;Valenciennes;29
+SEN;3;Kalidou Koulibaly;20.06.1991;195;89;SSC Napoli;Napoli;27
+SEN;4;Kara Mbodj;11.11.1989;192;85;RSC Anderlecht;Bruksela;29
+SEN;12;Youssouf Sabaly;05.03.1993;174;67;FC Girondins de Bordeaux;Bordeaux;25
+SEN;21;Lamine Gassama;20.10.1989;181;74;Alanyaspor Kulubu;Alanya, TR;29
+SEN;22;Moussa Wague;04.10.1998;177;70;KAS Eupen;Eupen;20
+SEN;5;Idrissa Gueye;26.09.1989;174;66;Everton FC;Liverpool;29
+SEN;6;Salif Sane;25.08.1990;194;78;Hannover 96;Hannover;28
+SEN;8;Cheikhou Kouyate;21.12.1989;192;75;West Ham United;Londyn;29
+SEN;11;Cheikh N’Doye;29.03.1986;192;90;Birmingham City;Birmingham;32
+SEN;13;Alfred N’Diaye;06.03.1990;186;80;Wolverhampton Wanderers;Wolverhampton;28
+SEN;17;Papa Alioune Ndiaye;27.09.1990;179;74;Stoke City;Stoke;28
+SEN;7;Moussa Sow;19.01.1986;180;81;Bursaspor Kulubu;Bursa, TR;32
+SEN;9;Mame Biram Diouf;16.12.1987;185;79;Stoke City;Stoke;31
+SEN;10;Sadio Mane;10.04.1992;175;69;Liverpool FC;Liverpool;26
+SEN;14;Moussa Konate;03.04.1993;181;78;Amiens SC;Amiens;25
+SEN;15;Diafra Sakho;24.12.1989;184;79;Stade Rennais FC;Rennais;29
+SEN;18;Ismaïla Sarr;25.02.1998;185;76;Stade Rennais;Rennais;20
+SEN;19;M’Baye Niang;19.12.1994;184;75;Torino FC;Turyn, IT;24
+SEN;20;Keïta Balde;08.03.1995;181;77;AS Monaco FC;Monaco;23
+SRB;1;Vladimir Stojković;28.07.1983;195;92;Partizan Belgrad;Belgrad;35
+SRB;12;Predrag Rajković;31.10.1995;191;85;Maccabi Tel Awiw;Tel Awiw, IL;23
+SRB;23;Marko Dmitrović;24.01.1992;194;90;SD Eibar;Eibar, ES;26
+SRB;2;Antonio Rukavina;26.01.1984;177;71;Villarreal CF;Villarreal, ES;34
+SRB;3;Dusko Tosić;19.01.1985;185;79;Guangzhou R&F;Kanton, CN;33
+SRB;5;Uros Spajić;13.02.1993;188;82;RSC Anderlecht;Bruksela;25
+SRB;6;Branislav Ivanović;22.02.1984;185;89;Zenit Petersburg;St. Petersburg;34
+SRB;11;Aleksandar Kolarov;10.11.1985;187;83;AS Roma;Rzym;33
+SRB;13;Milos Veljkovic;26.09.1995;188;77;Werder Brema;Brema;23
+SRB;14;Milan Rodić;02.04.1991;185;69;Crvena Zvezda Belgrad;Belgrad;27
+SRB;15;Nikola Milenković;12.10.1997;195;90;ACF Fiorentina;Florencja;21
+SRB;4;Luka Milivojević;07.04.1991;186;80;Crystal Palace;Londyn;27
+SRB;7;Andrija Zivković;11.07.1996;169;68;Benfica Lizbona;Lizbona;22
+SRB;10;Dusan Tadić;20.11.1988;181;76;Southampton FC;Southampton;30
+SRB;16;Marko Grujić;13.04.1996;190;82;Liverpool FC;Liverpool;22
+SRB;17;Filip Kostić;01.11.1992;184;82;Hamburger SV;Hamburg;26
+SRB;20;Sergej Milinković-Savić;27.02.1995;192;76;Lazio Rzym;Rzym;23
+SRB;21;Nemanja Matić;01.08.1988;194;86;Manchester United;Manchester;30
+SRB;22;Adem Ljajić;29.09.1991;182;74;FC Torino;Turyn;27
+SRB;8;Aleksandar Prijović;21.04.1990;191;88;PAOK Saloniki;Saloniki;28
+SRB;9;Aleksandar Mitrović;16.09.1994;189;82;Newcastle FC;Newcastle, UK;24
+SRB;18;Nemanja Radonjić;15.02.1996;185;76;Crvena Zvezda Belgrad;Belgrad;22
+SRB;19;Luka Jović;23.12.1997;181;75;Eintracht Frankfurt;Frankfurt;21
+SUI;1;Yann Sommer;17.12.1988;183;81;Borussia Moenchengladbach;Moenchengladbach;30
+SUI;12;Yvon Mvogo;06.06.1994;186;84;RB Lipsk;Lipsk;24
+SUI;21;Roman Buerki;14.11.1990;188;83;Borussia Dortmund;Dortmund;28
+SUI;2;Stephan Lichtsteiner;16.01.1994;181;77;Juventus Turyn;Turyn;24
+SUI;3;Jacques-Francois Moubandje;21.06.1990;180;76;FC Toulouse;Toulouse;28
+SUI;4;Nico Elvedi;30.09.1996;187;77;Borussia Moenchengladbach;Moenchengladbach;22
+SUI;5;Akanji Manual;19.07.1995;186;85;Borussia Dortmund;Dortmund;23
+SUI;6;Michael Lang;08.02.1991;185;78;FC Basel;Basel;27
+SUI;13;Ricardo Rodriguez;25.08.1992;180;79;AC Milan;Milan;26
+SUI;20;Johan Djourou;18.01.1987;192;90;Antalyaspor AS;Antalya, TR;31
+SUI;22;Fabian Schaer;20.12.1991;186;83;Deportivo La Coruna;La Coruna, ES;27
+SUI;8;Remo Freuler;15.04.1992;181;75;Atalanta Bergamo;Bergamo;26
+SUI;10;Granit Xhaka;27.09.1992;183;82;Arsenal Londyn;Londyn;26
+SUI;11;Valon Behrami;19.04.1995;184;78;Udinese;Udinese;23
+SUI;14;Steven Zuber;17.08.1991;182;79;TSG Hoffenheim;Hoffenheim;27
+SUI;15;Blerim Dżemaili;12.04.1986;180;77;Bologna;Bologna;32
+SUI;16;Gelson Fernandes;02.09.1986;180;72;Eintracht Frankfurt;Frankfurt;32
+SUI;17;Denis Zakaria;20.11.1996;189;77;Borussia Moenchengladbach;Moenchengladbach;22
+SUI;23;Xherdan Shaqiri;10.10.1991;165;78;Stoke City;Stoke;27
+SUI;7;Breel Embolo;14.02.1997;184;86;Schalke 04 Gelsenkirchen;Gelsenkirchen;21
+SUI;9;Har Seferovic;22.02.1992;186;88;Benfica Lizbona;Lizbona;26
+SUI;18;Mario Gavranovic;24.11.1989;175;75;Dinamo Zagrzeb;Zagrzeb;29
+SUI;19;Josip Drmic;08.08.1992;184;78;Borussia Moenchengladbach;Moenchengladbach;26
+SWE;1;Robin Olsen;08.01.1990;198;89;FC Kopenhaga;Kopenhaga;28
+SWE;12;Karl Johan Johnsson;28.01.1990;187;83;Guingamp;Guingamp, FR;28
+SWE;23;Kristoffer Nordfeldt;23.06.1989;190;85;Swansea City;Swansea;29
+SWE;2;Mikael Lustig;13.12.1986;189;77;Celtic Glasgow;Glasgow;32
+SWE;3;Victor Lindeloef;17.07.1994;187;81;Manchester United;Manchester;24
+SWE;4;Andreas Granqvist;16.04.1985;192;84;FK Krasnodar;Krasnodar;33
+SWE;5;Martin Olsson;17.05.1988;177;71;Swansea City;Swansea;30
+SWE;6;Ludwig Augustinsson;21.04.1994;181;76;Werder Brema;Brema;24
+SWE;14;Filip Helander;22.04.1993;192;83;Bologna;Bologna;25
+SWE;16;Emil Krafth;02.08.1994;181;72;Bologna;Bologna;24
+SWE;18;Pontus Jansson;13.02.1991;194;89;Leeds United;Leeds;27
+SWE;7;Sebastian Larsson;06.06.1985;178;70;Hull City;Hull;33
+SWE;8;Albin Ekdal;28.07.1989;186;75;Hamburger SV;Hamburg;29
+SWE;10;Emil Forsberg;23.10.1991;179;78;RB Lipsk;Lipsk;27
+SWE;13;Gustav Svensson;07.02.1987;183;77;Seattle Sounders;Seattle;31
+SWE;15;Oscar Hiljemark;28.06.1992;184;73;Genoa CFC;Genoa;26
+SWE;17;Victor Claesson;02.01.1992;183;79;FK Krasnodar;Krasnodar;26
+SWE;19;Marcus Rohden;11.05.1991;182;76;Crotone;Crotone, IT;27
+SWE;21;Jimmy Durmaz;22.03.1989;180;69;Toulouse;Toulouse;29
+SWE;9;Marcus Berg;17.08.1986;183;76;Al Ain;Al-Ajn, AE;32
+SWE;11;John Guidetti;15.04.1992;185;79;Deportivo Alaves;Alaves;26
+SWE;20;Ola Toivonen;03.07.1986;192;78;Toulouse;Toulouse;32
+SWE;22;Isaac Kiese Thelin;24.06.1992;189;83;Waasland-Beveren;Beveren;26
+TUN;1;Farouk Ben Mustapha;01.07.1989;194;83;Al-Shabab;Rijad, SA;29
+TUN;16;Aymen Mathlouthi;14.09.1984;183;84;Al-Batin;Hafar Al-Batin, SA;34
+TUN;22;Mouez Hassen;05.03.1995;184;70;Chateauroux;Chateauroux;23
+TUN;2;Syam Ben Youssef;31.03.1989;189;82;Kasimpasa;Stambuł, TR;29
+TUN;3;Yohan Benalouane;28.03.1987;187;85;Leicester City;Leicester;31
+TUN;4;Yassine Meriah;02.07.1993;188;70;Club Sportif Sfax;Safakis, TN;25
+TUN;5;Oussama Haddadi;28.01.1992;188;79;Dijon;Dijon, FR;26
+TUN;6;Rami Bedoui;19.01.1990;187;77;Etoile Sportive du Sahel;Susa, TN;28
+TUN;11;Dylan Bronn;19.06.1995;186;77;KAA Gent;Gent;23
+TUN;12;Ali Maaloul;01.01.1990;175;72;Al-Ahly Kair;Kair, EG;28
+TUN;21;Hamdi Nagguez;28.10.1992;195;75;Zamalek;Kair, EG;26
+TUN;9;Anice Badri;18.09.1990;177;70;Esperance;Tunis, TN;28
+TUN;13;Farjani Sassi;18.03.1992;186;80;Al-Nasr;Dubaj, AE;26
+TUN;14;Mohamed Amine Ben Amor;03.05.1992;180;75;Al-Ahli Dżudda;Dżudda, SA;26
+TUN;17;Ellyes Skhiri;10.05.1995;185;69;Montpellier;Montpellier;23
+TUN;7;Seifeddine El Khaoui;27.04.1995;180;70;Troyes;Troyes;23
+TUN;8;Fakhreddine Ben Youssef;21.06.1991;192;80;Ettifaq;Ad-Dammam, SA;27
+TUN;10;Wahbi Khazri;08.02.1991;182;76;Rennes;Rennes;27
+TUN;15;Ahmed Khalil;08.06.1991;180;85;Club Africain;Tunis, TN;27
+TUN;18;Bassem Srarfi;25.06.1997;176;71;Nice;Nice;21
+TUN;19;Sabeur Khalifa;14.10.1986;183;73;Club Africain;Tunis, TN;32
+TUN;20;Ghaylene Chalali;28.02.1994;179;70;Esperance Tunis;Tunis, TN;24
+TUN;23;Naim Sliti;27.07.1992;173;75;Dijon;Dijon;26
+URU;1;Fernando Muslera;16.06.1986;190;74;Galatasaray Stambuł;Stambuł;32
+URU;12;Martin Campana;29.05.1989;184;79;Independiente;Avellaneda, AR;29
+URU;23;Martin Silva;25.03.1983;187;82;Vasco da Gama;Rio de Janeiro, BR;35
+URU;2;Jose Maria Gimenez;20.01.1995;185;77;Atletico Madryt;Madryt;23
+URU;3;Diego Godin;16.02.1986;185;73;Atletico Madryt;Madryt;32
+URU;4;Guillermo Varela ;24.03.1993;173;70;Penarol Montevideo;Montevideo;25
+URU;13;Gaston Silva ;05.03.1994;185;74;Independiente;Avellaneda, AR;24
+URU;16;Maximiliano Pereira;08.06.1984;173;73;FC Porto;Porto;34
+URU;19;Sebastian Coates;07.10.1990;196;89;Sporting Lizbona;Lizbona;28
+URU;22;Martin Caceres ;07.04.1987;178;75;Lazio Rzym;Rzym;31
+URU;5;Carlos Sanchez;02.12.1984;171;74;Monterrey;Monterrey, MX;34
+URU;6;Rodrigo Bentancur;25.06.1997;187;73;Juventus Turyn;Turyn;21
+URU;7;Cristian Rodriguez;30.09.1985;178;79;Penarol Montevideo;Montevideo;33
+URU;8;Nahitan Nandez;28.12.1995;171;61;Boca Juniors;Buenos Aires;23
+URU;14;Lucas Torreira;11.02.1996;168;61;Sampdoria Genua;Genua;22
+URU;15;Matias Vecino;24.08.1991;189;80;Inter Mediolan;Mediolan;27
+URU;17;Diego Laxalt;07.02.1993;178;66;Genoa;Genoa;25
+URU;9;Luis Suarez ;24.01.1987;182;85;Barcelona;Barcelona;31
+URU;10;Giorgian De Arrascaeta;01.06.1994;172;64;Cruzeiro;Belo Horizonte;24
+URU;11;Cristhian Stuani;12.10.1986;186;78;Girona;Girona;32
+URU;18;Maximiliano Gomez;14.08.1996;186;85;Celta Vigo;Vigo;22
+URU;20;Jonathan Urretaviscaya;19.03.1990;172;66;Monterrey;Monterrey, MX;28
+URU;21;Edinson Cavani ;14.02.1987;188;78;Paris Saint-Germain;Paris;31
