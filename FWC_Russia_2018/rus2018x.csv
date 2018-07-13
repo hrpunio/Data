@@ -19,7 +19,7 @@ ARG;15;Manuel Lanzini;15.02.1993;167;66;West Ham United;Londyn;25;Londyn, UK
 ARG;20;Giovani Lo Celso;09.04.1996;177;75;Paris Saint-Germain;Paris;22;Paris, FR
 ARG;22;Cristian Pavon;21.01.1996;169;65;Boca Juniors;Buenos Aires;22;Buenos Aires, AR
 ARG;9;Gonzalo Higuain;10.12.1987;184;75;Juventus Turyn;Turyn;31;Turyn, IT
-ARG;10;Lionel Messi;24.06.1987;170;72;Barcelona;Barcelona;31;Barcelona, ES
+ARG;10;Lionel Messi;24.06.1987;170;72;FC Barcelona;Barcelona;31;Barcelona, ES
 ARG;19;Sergio Aguero;02.06.1988;172;74;Manchester City;Manchester;30;Manchester, UK
 ARG;21;Paulo Dybala;15.11.1993;177;73;Juventus Turyn;Turyn;25;Turyn, IT
 AUS;1;Mathew Ryan;08.04.1992;184;82;Brighton&Hove Albion;Brighton;26;Brighton, UK
@@ -148,7 +148,7 @@ CRO;13;Tin Jedvaj;28.11.1995;184;81;Bayer Leverkusen;Leverkusen;23;Leverkusen, D
 CRO;15;Duje Caleta-Car;17.09.1996;192;89;Red Bull Salzburg;Salzburg;22;Salzburg, AT
 CRO;21;Domagoj Vida;29.04.1989;184;76;Besiktas;Stambuł;29;Stambuł, TR
 CRO;22;Josip Pivaric;30.01.1989;176;69;Dynamo Kijów;Kijów;29;Kijów, UA
-CRO;7;Ivan Rakitić;10.03.1988;184;78;Barcelona;Barcelona;30;Barcelona, ES
+CRO;7;Ivan Rakitić;10.03.1988;184;78;FC Barcelona;Barcelona;30;Barcelona, ES
 CRO;8;Mateo Kovacić;06.05.1994;178;78;Real Madryt;Madryt;24;Madryt, ES
 CRO;10;Luka Modrić;09.09.1985;172;66;Real Madryt;Madryt;33;Madryt, ES
 CRO;11;Marcelo Brozović;16.11.1992;181;68;Inter Mediolan;Mediolan;26;Mediolan, IT
@@ -233,15 +233,15 @@ ESP;1;David de Gea;07.11.1990;190;71;Manchester United;Manchester;28;Manchester,
 ESP;13;Kepa Arrizabalaga;03.10.1994;189;84;Athletic Bilbao;Bilbao;24;Bilbao, ES
 ESP;23;Pepe Reina;31.08.1982;188;92;Napoli;Napoli;36;Napoli, IT
 ESP;2;Dani Carvajal;11.01.1992;173;73;Real Madryt;Madryt;26;Madryt, ES
-ESP;3;Gerard Pique;02.02.1987;194;85;Barcelona;Barcelona;31;Barcelona, ES
+ESP;3;Gerard Pique;02.02.1987;194;85;FC Barcelona;Barcelona;31;Barcelona, ES
 ESP;4;Nacho Fernandez;18.01.1990;179;77;Real Madryt;Madryt;28;Madryt, ES
 ESP;12;Alvaro Odriozola;14.12.1995;178;67;Real Sociedad;San Sebastian;23;San Sebastian, ES
 ESP;14;Cesar Azpilicueta;28.08.1989;178;78;Chelsea Londyn;Londyn;29;Londyn, UK
 ESP;15;Sergio Ramos;30.03.1986;183;75;Real Madryt;Madryt;32;Madryt, ES
 ESP;16;Nacho Monreal;26.02.1986;179;72;Arsenal Londyn;Londyn;32;Londyn, UK
-ESP;18;Jordi Alba;21.03.1989;170;68;Barcelona;Barcelona;29;Barcelona, ES
-ESP;5;Sergio Busquets;16.07.1988;189;78;Barcelona;Barcelona;30;Barcelona, ES
-ESP;6;Andres Iniesta;11.05.1984;171;68;Barcelona;Barcelona;34;Barcelona, ES
+ESP;18;Jordi Alba;21.03.1989;170;68;FC Barcelona;Barcelona;29;Barcelona, ES
+ESP;5;Sergio Busquets;16.07.1988;189;78;FC Barcelona;Barcelona;30;Barcelona, ES
+ESP;6;Andres Iniesta;11.05.1984;171;68;FC Barcelona;Barcelona;34;Barcelona, ES
 ESP;7;Saul Niguez;21.11.1994;183;76;Atletico Madryt;Madryt;24;Madryt, ES
 ESP;8;Koke;08.01.1992;176;73;Atletico Madryt;Madryt;26;Madryt, ES
 ESP;10;Thiago Alcantara;11.04.1991;174;70;Bayern Monachium;Monachium;27;Monachium, DE
@@ -729,7 +729,7 @@ URU;8;Nahitan Nandez;28.12.1995;171;61;Boca Juniors;Buenos Aires;23;Buenos Aires
 URU;14;Lucas Torreira;11.02.1996;168;61;Sampdoria Genua;Genua;22;Genua, IT
 URU;15;Matias Vecino;24.08.1991;189;80;Inter Mediolan;Mediolan;27;Mediolan, IT
 URU;17;Diego Laxalt;07.02.1993;178;66;Genoa;Genoa;25;Genoa, IT
-URU;9;Luis Suarez;24.01.1987;182;85;Barcelona;Barcelona;31;Barcelona, ES
+URU;9;Luis Suarez;24.01.1987;182;85;FC Barcelona;Barcelona;31;Barcelona, ES
 URU;10;Giorgian De Arrascaeta;01.06.1994;172;64;Cruzeiro;Belo Horizonte;24;Belo Horizonte, BR
 URU;11;Cristhian Stuani;12.10.1986;186;78;Girona;Girona;32;Girona, ES
 URU;18;Maximiliano Gomez;14.08.1996;186;85;Celta Vigo;Vigo;22;Vigo, ES
