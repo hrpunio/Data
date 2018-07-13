@@ -1,0 +1,179 @@
+
+R version 3.2.2 (2015-08-14) -- "Fire Safety"
+Copyright (C) 2015 The R Foundation for Statistical Computing
+Platform: x86_64-redhat-linux-gnu (64-bit)
+
+R jest oprogramowaniem darmowym i dostarczany jest BEZ JAKIEJKOLWIEK GWARANCJI.
+Możesz go rozpowszechniać pod pewnymi warunkami.
+Wpisz 'license()' lub 'licence()' aby uzyskać szczegóły dystrybucji.
+
+R jest projektem kolaboracyjnym z wieloma uczestnikami.
+Wpisz 'contributors()' aby uzyskać więcej informacji oraz
+'citation()' aby dowiedzieć się jak cytować R lub pakiety R w publikacjach.
+
+Wpisz 'demo()' aby zobaczyć demo, 'help()' aby uzyskać pomoc on-line, lub
+'help.start()' aby uzyskać pomoc w przeglądarce HTML.
+Wpisz 'q()' aby wyjść z R.
+
+[Poprzednio zapisany obszar roboczy został przywrócony]
+
+> require(ggplot2)
+Ładowanie wymaganego pakietu: ggplot2
+> 
+> d <- read.csv("rus2018x.csv", sep = ';', dec = ",",  header=T, na.string="NA");
+> c <- read.csv("panstwa.csv", sep = ';', dec = ",",  header=T, na.string="NA");
+> 
+> hist(d$age, breaks=seq(18, 46, by=2),
++        freq=TRUE,col="orange",main="Wiek",
++        xlab="# wiek",ylab="# N",yaxs="i",xaxs="i")
+> 
+> ggplot(d, aes(x=d$team, y=age, fill=d$team))  +
++    geom_boxplot() +
++    ylab("Lata") +
++    xlab("Kraj") +
++    guides(fill=FALSE) ;
+> 
+> 
+> ###
+> d <- merge(d, c, by = "team")
+> 
+> 
+> d$perf1
+  [1] 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ [38] 4 4 4 4 4 4 4 4 4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ [75] 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+[112] 1 1 1 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 1 1 1 1 1 1 1 1 1
+[149] 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 4
+[186] 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+[223] 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+[260] 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+[297] 4 4 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4
+[334] 4 4 4 4 4 4 4 4 4 4 4 4 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3
+[371] 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+[408] 4 4 4 4 4 4 4 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3
+[445] 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+[482] 4 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4
+[519] 4 4 4 4 4 4 4 4 4 4 4 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+[556] 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+[593] 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+[630] 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+[667] 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 3 3 3 3 3 3 3 3 3 3 3
+[704] 3 3 3 3 3 3 3 3 3 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+> 
+> ggplot(d, aes(x=as.factor(d$perf1), y=age, fill=as.factor(d$perf1)))  +
++    geom_boxplot() +
++    ylab("Lata") +
++    xlab("Kraj") +
++    guides(fill=FALSE) ;
+> 
+> 
+> ##ggsave(file="FWC2018.pdf", width=15, height=8)
+> ggplot(d, aes(x=as.factor(d$continent), y=age, fill=as.factor(d$continent)))  +
++    geom_boxplot() +
++    ylab("Lata") +
++    xlab("Kontynent") +
++    guides(fill=FALSE) ;
+> 
+> ## 16 która przeszła do drugiej rundy
+> d2 <- subset (d, (perf1 < 3))
+> hist(d2$age, breaks=seq(18, 46, by=2),
++        freq=TRUE,col="orange",main="Wiek",
++        xlab="# wiek",ylab="# N",yaxs="i",xaxs="i")
+> 
+> ggplot(d2, aes(x=as.factor(d2$continent), y=age, fill=as.factor(d2$continent)))  +
++    geom_boxplot() +
++    ylab("Lata") +
++    xlab("Kontynent") +
++    guides(fill=FALSE) ;
+> 
+> 
+> qplot(age, data=d, geom="histogram", facets=continent ~ .)
+`stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
+> qplot(age, data=d2, geom="histogram", facets=continent ~ .)
+`stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
+> 
+> ###
+> aggregate (d$age, list(Team = d$team), fivenum)
+   Team  x.1  x.2  x.3  x.4  x.5
+1   ARG 22.0 26.5 30.0 31.5 37.0
+2   AUS 19.0 26.0 27.0 30.0 39.0
+3   BEL 21.0 25.0 27.0 30.5 33.0
+4   BRA 21.0 26.0 29.0 30.5 34.0
+5   COL 22.0 25.0 27.0 32.0 35.0
+6   CRC 20.0 28.0 30.0 32.5 36.0
+7   CRO 22.0 25.5 29.0 30.0 34.0
+8   DEN 21.0 25.0 27.0 29.0 35.0
+9   EGY 21.0 26.0 29.0 31.5 45.0
+10  ENG 20.0 24.0 26.0 28.0 33.0
+11  ESP 22.0 26.0 28.0 31.0 36.0
+12  FRA 20.0 23.5 25.0 28.5 33.0
+13  GER 22.0 24.5 28.0 29.5 33.0
+14  IRA 22.0 25.0 26.0 29.5 35.0
+15  ISL 21.0 25.0 29.0 31.5 36.0
+16  JPN 23.0 26.0 28.0 31.5 35.0
+17  KOR 20.0 26.5 28.0 30.0 32.0
+18  MAR 20.0 22.0 28.0 31.0 34.0
+19  MEX 21.0 26.5 29.0 31.5 39.0
+20  NGR 20.0 23.0 26.0 29.5 32.0
+21  PAN 19.0 25.0 28.0 33.0 37.0
+22  PER 23.0 24.0 27.0 28.5 34.0
+23  POL 21.0 26.0 30.0 31.5 33.0
+24  POR 21.0 24.5 27.0 32.5 37.0
+25  RUS 22.0 26.0 29.0 31.0 39.0
+26  SAR 22.0 26.0 29.0 31.5 34.0
+27  SEN 20.0 25.0 28.0 29.0 34.0
+28  SRB 21.0 23.0 26.0 30.0 35.0
+29  SUI 21.0 24.0 26.0 28.0 32.0
+30  SWE 24.0 26.0 28.0 30.5 33.0
+31  TUN 21.0 24.5 26.0 28.0 34.0
+32  URU 21.0 24.0 28.0 32.0 35.0
+> aggregate (d$age, list(Team = d$team), mean)
+   Team        x
+1   ARG 29.21739
+2   AUS 28.21739
+3   BEL 27.56522
+4   BRA 28.60870
+5   COL 28.21739
+6   CRC 29.52174
+7   CRO 27.82609
+8   DEN 27.08696
+9   EGY 28.95652
+10  ENG 26.08696
+11  ESP 28.43478
+12  FRA 26.08696
+13  GER 27.08696
+14  IRA 27.26087
+15  ISL 28.52174
+16  JPN 28.52174
+17  KOR 27.78261
+18  MAR 27.17391
+19  MEX 29.30435
+20  NGR 26.04348
+21  PAN 28.78261
+22  PER 27.47826
+23  POL 28.69565
+24  POR 28.43478
+25  RUS 28.91304
+26  SAR 28.78261
+27  SEN 27.30435
+28  SRB 26.78261
+29  SUI 26.39130
+30  SWE 28.17391
+31  TUN 26.60870
+32  URU 28.08696
+> 
+> 
+> mean(d$age)
+[1] 27.87364
+> mean(d2$age)
+[1] 27.93478
+> 
+> fivenum(d$age)
+[1] 19 25 28 31 45
+> fivenum(d2$age)
+[1] 20 25 28 31 39
+> 
+> 
+> proc.time()
+użytkownik     system   upłynęło 
+     1.930      0.037      1.958 
