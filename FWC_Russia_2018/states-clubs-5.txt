@@ -3,15 +3,14 @@ ManchesterCity 15
 ChelseaLondyn 13
 TottenhamHotspur 13
 ManchesterUnited 11
-Liverpool 8
 LeicesterCity 8
+Liverpool 8
 ArsenalLondyn 7
 StokeCity 5
 ==> ES (81)
 RealMadryt 15
+FCBarcelona 14
 AtleticoMadryt 9
-FCBarcelona 7
-Barcelona 7
 SevillaFC 6
 DeportivoLaCoruna 5
 ==> DE (65)
@@ -21,14 +20,14 @@ BorussiaDortmund 6
 EintrachtFrankfurt 6
 ==> IT (58)
 JuventusTuryn 11
-SampdoriaGenua 5
 ACMilan 5
+SampdoriaGenua 5
 ==> FR (43)
 ParisSaint-Germain 13
 ==> RU (38)
-LokomotiwMoskwa 6
-ZenitSanktPetersburg 6
 CSKAMoskwa 6
+ZenitSanktPetersburg 6
+LokomotiwMoskwa 6
 ==> SA (29)
 Al-Hilal 9
 Al-Ahli 8
@@ -40,49 +39,49 @@ BenficaLizbona 5
 FCPorto 5
 ==> US (19)
 ==> BE (16)
-==> JP (15)
 ==> NL (15)
 FeyenoordRotterdam 5
+==> JP (15)
 ==> KR (13)
-==> DK (9)
-==> EG (9)
-AlAhly 5
+==> CN (9)
 ==> BR (9)
 ==> IR (9)
-==> CN (9)
+==> EG (9)
+AlAhly 5
+==> DK (9)
 ==> MC (8)
 ASMonaco 6
 ==> CR (7)
 ==> AR (7)
 ==> CO (6)
-==> PE (6)
 ==> TN (6)
+==> PE (6)
 ==> GR (5)
 ==> PL (4)
 ==> SE (4)
+==> AE (3)
+==> HR (3)
 ==> RS (3)
 ==> AU (3)
-==> HR (3)
-==> AE (3)
-==> IL (2)
-==> CL (2)
-==> QA (2)
-==> AT (2)
-==> SU (2)
 ==> UY (2)
-==> CH (2)
+==> BG (2)
+==> CL (2)
+==> IL (2)
+==> NG (2)
 ==> MA (2)
 ==> PA (2)
+==> CH (2)
+==> AT (2)
+==> SU (2)
 ==> GT (2)
-==> BG (2)
-==> NG (2)
-==> HN (1)
-==> PY (1)
-==> EH (1)
+==> QA (2)
 ==> SK (1)
-==> RO (1)
-==> CA (1)
-==> GN (1)
-==> NO (1)
-==> UA (1)
 ==> FI (1)
+==> RO (1)
+==> NO (1)
+==> GN (1)
+==> PY (1)
+==> HN (1)
+==> EH (1)
+==> CA (1)
+==> UA (1)
