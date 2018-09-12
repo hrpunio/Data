@@ -1,0 +1,918 @@
+Year;Sex;Category;Name;Birthdate;Age;BirthPlace;County;BirthPlaceNow;Coords
+1901;M;chemistry;Jacobus Henricus van't Hoff;[1852];1901;Rotterdam;the Netherlands;Rotterdam, the Netherlands;51.9244201,4.4777326
+1901;M;literature;Sully Prudhomme;[1839];1901;Paris;France;Paris, France;48.856614,2.3522219
+1901;M;medicine;Emil Adolf von Behring;[1854];1901;Hansdorf;Prussia;Jankowa Żagańska, Poland;51.5786336,15.1723382
+1901;M;peace;Frédéric Passy;[1822];1901;Paris;France;Paris, France;51.5786336,15.1723382
+1901;M;peace;Jean Henry Dunant;[1828];1901;Geneva;Switzerland;Geneva, Switzerland;46.2043907,6.1431577
+1901;M;physics;Wilhelm Conrad Röntgen;[1845];1901;Lennep;Prussia;Remscheid, Germany;51.1787418,7.1896963
+1902;M;chemistry;Hermann Emil Fischer;[1852];1902;Euskirchen;Prussia;Euskirchen, Germany;50.6574392,6.7899945
+1902;M;literature;Christian Matthias Theodor Mommsen;[1817];1902;Garding;Schleswig;Garding, Germany;54.3295187,8.7865482
+1902;M;medicine;Ronald Ross;[1857];1902;Almora;India;Almora, India;29.5892407,79.646666
+1902;M;peace;Charles Albert Gobat;[1843];1902;Tramelan;Switzerland;Tramelan, Switzerland;47.2235029,7.102975
+1902;M;peace;Élie Ducommun;[1833];1902;Geneva;Switzerland;Geneva, Switzerland;47.2235029,7.102975
+1902;M;physics;Hendrik Antoon Lorentz;[1853];1902;Arnhem;the Netherlands;Arnhem, the Netherlands;51.9851034,5.8987296
+1902;M;physics;Pieter Zeeman;[1865];1902;Zonnemaire;the Netherlands;Zonnemaire, the Netherlands;51.7130521,3.9518196
+1903;M;chemistry;Svante August Arrhenius;[1859];1903;Vik;Sweden;Vik, Sweden;55.6144259,14.2851622
+1903;M;literature;Bjøjrnstjerne Martinus Bjørnson;[1832];1903;Kvikne;Norway;Kvikne, Norway;62.5822116,10.2872981
+1903;M;medicine;Niels Ryberg Finsen;[1860];1903;Thorshavn;Faroe Islands;Thorshavn, Faroe Islands;62.007864,-6.7909817
+1903;M;peace;William Randal Cremer;[1828];1903;Fareham;United Kingdom;Fareham, United Kingdom;50.8548464,-1.1865868
+1903;M;physics;Antoine Henri Becquerel;[1852];1903;Paris;France;Paris, France;50.8548464,-1.1865868
+1903;F;physics;Marie Curie, née Sklodowska;[1867];1903;Warsaw;Russian Empire;Warsaw, Poland;52.2296756,21.0122287
+1903;M;physics;Pierre Curie;[1859];1903;Paris;France;Paris, France;52.2296756,21.0122287
+1904;M;chemistry;Sir William Ramsay;[1852];1904;Glasgow;Scotland;Glasgow, Scotland;55.864237,-4.251806
+1904;M;literature;Frédéric Mistral;[1830];1904;Maillane;France;Maillane, France;43.832349,4.782098
+1904;M;literature;José Echegaray y Eizaguirre;[1832];1904;Madrid;Spain;Madrid, Spain;40.4167754,-3.7037902
+1904;M;medicine;Ivan Petrovich Pavlov;[1849];1904;Ryazan;Russia;Ryazan, Russia;54.6095418,39.7125857
+1904;NA;peace;Institut de droit international (Institute of International Law);[1873];1904;;Belgium;, Belgium;50.503887,4.469936
+1904;M;physics;Lord Rayleigh (John William Strutt);[1842];1904;Langford Grove Maldon Essex;United Kingdom;Langford Grove Maldon Essex, United Kingdom;51.7597899,0.6704065
+1905;M;chemistry;Johann Friedrich Wilhelm Adolf von Baeyer;[1835];1905;Berlin;Prussia;Berlin, Germany;52.5200066,13.404954
+1905;M;literature;Henryk Sienkiewicz;[1846];1905;Wola Okrzejska;Poland;Wola Okrzejska, Poland;51.7494805,22.1336435
+1905;M;medicine;Robert Koch;[1843];1905;Clausthal;Germany;Clausthal-Zellerfeld, Germany;51.8080063,10.3407069
+1905;F;peace;Baroness Bertha Sophie Felicita von Suttner, née Countess Kinsky von Chinic und Tettau;[1843];1905;Prague;Austrian Empire;Prague, Czech Republic;50.0755381,14.4378005
+1905;M;physics;Philipp Eduard Anton von Lenard;[1862];1905;Pressburg;Hungary;Bratislava, Slovakia;48.1485965,17.1077478
+1906;M;chemistry;Henri Moissan;[1852];1906;Paris;France;Paris, France;48.1485965,17.1077478
+1906;M;literature;Giosuč Carducci;[1835];1906;Val di Castello;Tuscany;Val di Castello, Italy;43.2423636,10.9678668
+1906;M;medicine;Camillo Golgi;[1843];1906;Corteno;Italy;Corteno, Italy;46.1652608,10.2365387
+1906;M;medicine;Santiago Ramón y Cajal;[1852];1906;Petilla de Aragó;Spain;Petilla de Aragó, Spain;42.4614395,-1.0924468
+1906;M;peace;Theodore Roosevelt;[1858];1906;New York NY;USA;New York NY, USA;40.7127753,-74.0059728
+1906;M;physics;Joseph John Thomson;[1856];1906;Cheetham Hill near Manchester;United Kingdom;Cheetham Hill near Manchester, United Kingdom;53.5021101,-2.2368975
+1907;M;chemistry;Eduard Buchner;[1860];1907;Munich;Bavaria;Munich, Germany;48.1351253,11.5819805
+1907;M;literature;Rudyard Kipling;[1865];1907;Bombay;British India;Bombay, British India;19.0759837,72.8776559
+1907;M;medicine;Charles Louis Alphonse Laveran;[1845];1907;Paris;France;Paris, France;19.0759837,72.8776559
+1907;M;peace;Ernesto Teodoro Moneta;[1833];1907;Milan;Austrian Empire;Milan, Italy;45.4642035,9.189982
+1907;M;peace;Louis Renault;[1843];1907;Autun;France;Autun, France;46.950914,4.301565
+1907;M;physics;Albert Abraham Michelson;[1852];1907;Strelno;Prussia;Strzelno, Poland;52.62772,18.1726601
+1908;M;chemistry;Ernest Rutherford;[1871];1908;Nelson;New Zealand;Nelson, New Zealand;-41.2706319,173.2839653
+1908;M;literature;Rudolf Christoph Eucken;[1846];1908;Aurich;East Friesland;Aurich, Germany;53.4708393,7.4848308
+1908;M;medicine;Ilya Ilyich Mechnikov;[1845];1908;Kharkov;Russian Empire;Kharkiv, Ukraine;49.9935,36.230383
+1908;M;medicine;Paul Ehrlich;[1854];1908;Strehlen;Prussia;Strzelin, Poland;50.7812167,17.0646124
+1908;M;peace;Fredrik Bajer;[1837];1908;Næstved;Denmark;Næsstved, Denmark;NOK[ZERO_RESULTS]
+1908;M;peace;Klas Pontus Arnoldson;[1844];1908;Gothenburg;Sweden;Gothenburg, Sweden;57.70887,11.97456
+1908;M;physics;Gabriel Lippmann;[1845];1908;Hollerich;Luxembourg;Hollerich, Luxembourg;49.6040705,6.1121429
+1909;M;chemistry;Wilhelm Ostwald;[1853];1909;Riga Latvia;Russian Empire;Riga Latvia, Russian Empire;56.9496487,24.1051865
+1909;F;literature;Selma Ottilia Lovisa Lagerlöf;[1858];1909;Mĺrbacka;Sweden;Mĺrbacka, Sweden;NOK[ZERO_RESULTS]
+1909;M;medicine;Emil Theodor Kocher;[1841];1909;Berne;Switzerland;Berne, Switzerland;46.9479739,7.4474468
+1909;M;peace;Auguste Marie François Beernaert;[1829];1909;Ostend;Belgium;Ostend, Belgium;51.21543,2.928656
+1909;M;physics;Guglielmo Marconi;[1874];1909;Bologna;Italy;Bologna, Italy;44.494887,11.3426162
+1909;M;physics;Karl Ferdinand Braun;[1850];1909;Fulda;Hesse-Kassel;Fulda, Germany;50.5558095,9.6808449
+1910;M;chemistry;Otto Wallach;[1847];1910;Koenigsberg;Germany;Kaliningrad, Russia;54.7104264,20.4522144
+1910;M;literature;Paul Johann Ludwig Heyse;[1830];1910;Berlin;Prussia;Berlin, Germany;54.7104264,20.4522144
+1910;M;medicine;Albrecht Kossel;[1853];1910;Rostock;Mecklenburg;Rostock, Germany;54.0924406,12.0991466
+1910;NA;peace;Bureau international permanent de la Paix (Permanent International Peace Bureau);[1891];1910;;Switzerland;, Switzerland;46.818188,8.227512
+1910;M;physics;Johannes Diderik van der Waals;[1837];1910;Leiden;the Netherlands;Leiden, the Netherlands;52.1601144,4.4970097
+1911;F;chemistry;Marie Curie, née Sklodowska;[1867];1911;Warsaw;Russian Empire;Warsaw, Poland;52.1601144,4.4970097
+1911;M;literature;Count Maurice (Mooris) Polidore Marie Bernhard Maeterlinck;[1862];1911;Ghent;Belgium;Ghent, Belgium;51.0543422,3.7174243
+1911;M;medicine;Allvar Gullstrand;[1862];1911;Landskrona;Sweden;Landskrona, Sweden;55.8703477,12.8300802
+1911;M;peace;Alfred Hermann Fried;[1864];1911;Vienna;Austria;Vienna, Austria;48.2081743,16.3738189
+1911;M;peace;Tobias Michael Carel Asser;[1838];1911;Amsterdam;the Netherlands;Amsterdam, the Netherlands;52.3702157,4.8951679
+1911;M;physics;Wilhelm Wien;[1864];1911;Gaffken;Prussia;Parusnoye, Russia;48.325695,142.147781
+1912;M;chemistry;Paul Sabatier;[1854];1912;Carcassonne;France;Carcassonne, France;43.212161,2.353663
+1912;M;chemistry;Victor Grignard;[1871];1912;Cherbourg;France;Cherbourg, France;49.6337308,-1.622137
+1912;M;literature;Gerhart Johann Robert Hauptmann;[1862];1912;Bad Salzbrunn;Prussia;Bad Salzbrunn, Germany;NOK[ZERO_RESULTS]
+1912;M;medicine;Alexis Carrel;[1873];1912;Sainte-Foy-lčs-Lyon;France;Sainte-Foy-lčs-Lyon, France;45.7310652,4.8058909
+1912;M;peace;Elihu Root;[1845];1912;Clinton NY;USA;Clinton NY, USA;43.0484029,-75.3785034
+1912;M;physics;Nils Gustaf Dalén;[1869];1912;Stenstorp;Sweden;Stenstorp, Sweden;58.2740016,13.7142087
+1913;M;chemistry;Alfred Werner;[1866];1913;Mulhouse;France;Mulhouse, France;47.750839,7.335888
+1913;M;literature;Rabindranath Tagore;[1861];1913;Calcutta;India;Calcutta, India;22.572646,88.363895
+1913;M;medicine;Charles Robert Richet;[1850];1913;Paris;France;Paris, France;22.572646,88.363895
+1913;M;peace;Henri La Fontaine;[1854];1913;Brussels;Belgium;Brussels, Belgium;50.8503463,4.3517211
+1913;M;physics;Heike Kamerlingh Onnes;[1853];1913;Groningen;the Netherlands;Groningen, the Netherlands;53.2193835,6.5665017
+1914;M;chemistry;Theodore William Richards;[1868];1914;Germantown PA;USA;Germantown PA, USA;40.028521,-75.1749671
+1914;M;medicine;Robert Bárány;[1876];1914;Vienna;Austria;Vienna, Austria;40.028521,-75.1749671
+1914;M;physics;Max von Laue;[1879];1914;Pfaffendorf;Germany;Pfaffendorf, Germany;50.911275,14.0748638
+1915;M;chemistry;Richard Martin Willstätter;[1872];1915;Karlsruhe;Germany;Karlsruhe, Germany;49.0068901,8.4036527
+1915;M;literature;Romain Rolland;[1866];1915;Clamecy;France;Clamecy, France;47.459605,3.518769
+1915;M;physics;Sir William Henry Bragg;[1862];1915;Wigton;United Kingdom;Wigton, United Kingdom;54.825544,-3.161231
+1915;M;physics;William Lawrence Bragg;[1890];1915;Adelaide;Australia;Adelaide, Australia;-34.9284989,138.6007456
+1916;M;literature;Carl Gustaf Verner von Heidenstam;[1859];1916;Olshammar;Sweden;Olshammar, Sweden;58.7536282,14.7980293
+1917;M;literature;Henrik Pontoppidan;[1857];1917;Fredericia;Denmark;Fredericia, Denmark;55.5689298,9.749517
+1917;M;literature;Karl Adolph Gjellerup;[1857];1917;Roholte;Denmark;Roholte, Denmark;55.194519,12.089752
+1917;NA;peace;Comité international de la Croix Rouge (International Committee of the Red Cross);[1863];1917;;Switzerland;, Switzerland;55.194519,12.089752
+1917;M;physics;Charles Glover Barkla;[1877];1917;Widnes;United Kingdom;Widnes, United Kingdom;53.361024,-2.733637
+1918;M;chemistry;Fritz Haber;[1868];1918;Breslau;Prussia;Wroclaw, Poland;51.1078852,17.0385376
+1918;M;physics;Max Karl Ernst Ludwig Planck;[1858];1918;Kiel;Schleswig;Kiel, Germany;54.3232927,10.1227651
+1919;M;literature;Carl Friedrich Georg Spitteler;[1845];1919;Liestal;Switzerland;Liestal, Switzerland;47.4866143,7.7334272
+1919;M;medicine;Jules Bordet;[1870];1919;Soignies;Belgium;Soignies, Belgium;50.5764245,4.0706869
+1919;M;peace;Thomas Woodrow Wilson;[1856];1919;Staunton VA;USA;Staunton VA, USA;38.149576,-79.0716958
+1919;M;physics;Johannes Stark;[1874];1919;Schickenhof;Germany;Schickenhof, Germany;49.4558488,11.0874083
+1920;M;chemistry;Walther Hermann Nernst;[1864];1920;Briesen;Prussia;Briesen, Germany;52.3401613,14.2767893
+1920;M;literature;Knut Pedersen Hamsun;[1895];1920;Lom;Norway;Lom, Norway;61.6750129,8.4359014
+1920;M;medicine;Schack August Steenberg Krogh;[1874];1920;Grenĺ;Denmark;Grenĺ, Denmark;NOK[ZERO_RESULTS]
+1920;M;peace;Léon Victor Auguste Bourgeois;[1851];1920;Paris;France;Paris, France;NOK[ZERO_RESULTS]
+1920;M;physics;Charles Edouard Guillaume;[1861];1920;Fleurier;Switzerland;Fleurier, Switzerland;46.9023107,6.5808426
+1921;M;chemistry;Frederick Soddy;[1877];1921;Eastbourne;United Kingdom;Eastbourne, United Kingdom;50.768035,0.290472
+1921;M;literature;Anatole France;[1844];1921;Paris;France;Paris, France;50.768035,0.290472
+1921;M;peace;Christian Lous Lange;[1869];1921;Stavanger;Norway;Stavanger, Norway;58.9699756,5.7331074
+1921;M;peace;Karl Hjalmar Branting;[1860];1921;Stockholm;Sweden;Stockholm, Sweden;59.3293235,18.0685808
+1921;M;physics;Albert Einstein;[1879];1921;Ulm;Germany;Ulm, Germany;48.4010822,9.9876076
+1922;M;chemistry;Francis William Aston;[1877];1922;Harborne;United Kingdom;Harborne, United Kingdom;52.4597094,-1.961668
+1922;M;literature;Jacinto Benavente;[1866];1922;Madrid;Spain;Madrid, Spain;52.4597094,-1.961668
+1922;M;medicine;Archibald Vivian Hill;[1886];1922;Bristol;United Kingdom;Bristol, United Kingdom;51.454513,-2.58791
+1922;M;medicine;Otto Fritz Meyerhof;[1884];1922;Hanover;Germany;Hanover, Germany;52.3758916,9.7320104
+1922;M;peace;Fridtjof Nansen;[1861];1922;Kristiania;Norway;Oslo, Norway;59.9138688,10.7522454
+1922;M;physics;Niels Henrik David Bohr;[1885];1922;Copenhagen;Denmark;Copenhagen, Denmark;55.6760968,12.5683372
+1923;M;chemistry;Fritz Pregl;[1869];1923;Laibach;Austria-Hungary;Ljubljana, Slovenia;46.0569465,14.5057515
+1923;M;literature;William Butler Yeats;[1865];1923;Dublin;Ireland;Dublin, Ireland;53.3498053,-6.2603097
+1923;M;medicine;Frederick Grant Banting;[1891];1923;Alliston;Canada;Alliston, Canada;44.1539514,-79.8691544
+1923;M;medicine;John James Rickard Macleod;[1876];1923;Cluny;Scotland;Cluny, Scotland;57.204922,-2.5173009
+1923;M;physics;Robert Andrews Millikan;[1868];1923;Morrison IL;USA;Morrison IL, USA;41.809751,-89.9651186
+1924;M;literature;Wladyslaw Stanislaw Reymont;[1867];1924;Kobiele Wielkie;Russian Empire;Kobiele Wielkie, Poland;51.0183369,19.6116419
+1924;M;medicine;Willem Einthoven;[1860];1924;Semarang Java;Dutch East Indies;Semarang Java, Indonesia;-7.0051453,110.4381254
+1924;M;physics;Karl Manne Georg Siegbahn;[1886];1924;Lund;Sweden;Lund, Sweden;55.7046601,13.1910073
+1925;M;chemistry;Richard Adolf Zsigmondy;[1865];1925;Vienna;Austrian Empire;Vienna, Austria;55.7046601,13.1910073
+1925;M;literature;George Bernard Shaw;[1856];1925;Dublin;Ireland;Dublin, Ireland;55.7046601,13.1910073
+1925;M;peace;Charles Gates Dawes;[1865];1925;Marietta OH;USA;Marietta OH, USA;39.415352,-81.4548436
+1925;M;peace;Sir Austen Chamberlain;[1863];1925;Birmingham;United Kingdom;Birmingham, United Kingdom;52.486243,-1.890401
+1925;M;physics;Gustav Ludwig Hertz;[1887];1925;Hamburg;Germany;Hamburg, Germany;53.5510846,9.9936819
+1925;M;physics;James Franck;[1882];1925;Hamburg;Germany;Hamburg, Germany;53.5510846,9.9936819
+1926;M;chemistry;The (Theodor) Svedberg;[1884];1926;Fleräng;Sweden;Fleräng, Sweden;NOK[ZERO_RESULTS]
+1926;F;literature;Grazia Deledda;[1871];1926;Nuoro Sardinia;Italy;Nuoro Sardinia, Italy;40.3202421,9.3264377
+1926;M;medicine;Johannes Andreas Grib Fibiger;[1867];1926;Silkeborg;Denmark;Silkeborg, Denmark;56.176362,9.5549217
+1926;M;peace;Aristide Briand;[1862];1926;Nantes;France;Nantes, France;47.218371,-1.553621
+1926;M;peace;Gustav Stresemann;[1878];1926;Berlin;Germany;Berlin, Germany;47.218371,-1.553621
+1926;M;physics;Jean Baptiste Perrin;[1870];1926;Lille;France;Lille, France;50.62925,3.057256
+1927;M;chemistry;Heinrich Otto Wieland;[1877];1927;Pforzheim;Germany;Pforzheim, Germany;48.8921862,8.6946286
+1927;M;literature;Henri Bergson;[1859];1927;Paris;France;Paris, France;48.8921862,8.6946286
+1927;M;medicine;Julius Wagner-Jauregg;[1857];1927;Wels;Austria;Wels, Austria;48.16542,14.03664
+1927;M;peace;Ferdinand Buisson;[1841];1927;Paris;France;Paris, France;48.16542,14.03664
+1927;M;peace;Ludwig Quidde;[1858];1927;Bremen;Germany;Bremen, Germany;53.0792962,8.8016936
+1927;M;physics;Arthur Holly Compton;[1892];1927;Wooster OH;USA;Wooster OH, USA;40.8050565,-81.935143
+1927;M;physics;Charles Thomson Rees Wilson;[1869];1927;Glencorse;Scotland;Glencorse, Scotland;55.8619946,-3.2526271
+1928;M;chemistry;Adolf Otto Reinhold Windaus;[1876];1928;Berlin;Germany;Berlin, Germany;55.8619946,-3.2526271
+1928;M;literature;Sigrid Undset;[1882];1928;Kalundborg;Denmark;Kalundborg, Denmark;55.686429,11.089188
+1928;M;medicine;Charles Jules Henri Nicolle;[1866];1928;Rouen;France;Rouen, France;49.443232,1.099971
+1928;M;physics;Owen Willans Richardson;[1879];1928;Dewsbury;United Kingdom;Dewsbury, United Kingdom;53.689833,-1.6296949
+1929;M;chemistry;Arthur Harden;[1865];1929;Manchester;United Kingdom;Manchester, United Kingdom;53.4807593,-2.2426305
+1929;M;chemistry;Hans Karl August Simon von Euler-Chelpin;[1873];1929;Augsburg;Germany;Augsburg, Germany;48.3705449,10.89779
+1929;M;literature;Thomas Mann;[1875];1929;Lübeck;Germany;Lübeck, Germany;53.8654673,10.6865593
+1929;M;medicine;Christiaan Eijkman;[1858];1929;Nijkerk;the Netherlands;Nijkerk, the Netherlands;52.2224835,5.4835625
+1929;M;medicine;Sir Frederick Gowland Hopkins;[1861];1929;Eastbourne;United Kingdom;Eastbourne, United Kingdom;52.2224835,5.4835625
+1929;M;peace;Frank Billings Kellogg;[1856];1929;Potsdam NY;USA;Potsdam NY, USA;44.6697805,-74.9813084
+1929;M;physics;Prince Louis-Victor Pierre Raymond de Broglie;[1892];1929;Dieppe;France;Dieppe, France;49.922992,1.077483
+1930;M;chemistry;Hans Fischer;[1881];1930;Hoechst;Germany;Hoechst, Germany;50.102482,8.5474571
+1930;M;literature;Sinclair Lewis;[1885];1930;Sauk Centre MN;USA;Sauk Centre MN, USA;45.737465,-94.9525216
+1930;M;medicine;Karl Landsteiner;[1868];1930;Vienna;Austrian Empire;Vienna, Austria;45.737465,-94.9525216
+1930;M;peace;Lars Olof Jonathan (Nathan) Söderblom;[1866];1930;Trönö;Sweden;Trönö, Sweden;61.3965122,16.8336652
+1930;M;physics;Sir Chandrasekhara Venkata Raman;[1888];1930;Trichinopoly;India;Trichinopoly, India;10.7904833,78.7046725
+1931;M;chemistry;Carl Bosch;[1874];1931;Cologne;Germany;Cologne, Germany;50.937531,6.9602786
+1931;M;chemistry;Friedrich Bergius;[1884];1931;Goldschmieden near Breslau;Germany;Złotniki, Poland;52.4932064,16.8448409
+1931;M;literature;Erik Axel Karlfeldt;[1864];1931;Karlbo;Sweden;Karlbo, Sweden;60.1309558,16.2159444
+1931;M;medicine;Otto Heinrich Warburg;[1883];1931;Freiburg im Breisgau;Germany;Freiburg im Breisgau, Germany;47.9990077,7.8421043
+1931;F;peace;Jane Addams;[1860];1931;Cedarville IL;USA;Cedarville IL, USA;42.3758493,-89.6331727
+1931;M;peace;Nicholas Murray Butler;[1862];1931;Elizabeth NJ;USA;Elizabeth NJ, USA;40.6639916,-74.2107006
+1932;M;chemistry;Irving Langmuir;[1881];1932;Brooklyn NY;USA;Brooklyn NY, USA;40.6781784,-73.9441579
+1932;M;literature;John Galsworthy;[1867];1932;Kingston Hill;United Kingdom;Kingston Hill, United Kingdom;51.43361,-0.257451
+1932;M;medicine;Edgar Douglas Adrian;[1889];1932;London;United Kingdom;London, United Kingdom;51.5073509,-0.1277583
+1932;M;medicine;Sir Charles Scott Sherrington;[1857];1932;London;United Kingdom;London, United Kingdom;51.5073509,-0.1277583
+1932;M;physics;Werner Karl Heisenberg;[1901];1932;Würzburg;Germany;Würzburg, Germany;49.7913044,9.9533548
+1933;M;literature;Ivan Alekseyevich Bunin;[1870];1933;Voronezh;Russia;Voronezh, Russia;51.6754966,39.2088823
+1933;M;medicine;Thomas Hunt Morgan;[1866];1933;Lexington KY;USA;Lexington KY, USA;38.0405837,-84.5037164
+1933;M;peace;Sir Norman Angell (Ralph Lane);[1873];1933;Holbeach;United Kingdom;Holbeach, United Kingdom;52.803991,0.013434
+1933;M;physics;Erwin Schrödinger;[1887];1933;Vienna;Austria;Vienna, Austria;52.803991,0.013434
+1933;M;physics;Paul Adrien Maurice Dirac;[1902];1933;Bristol;United Kingdom;Bristol, United Kingdom;52.803991,0.013434
+1934;M;chemistry;Harold Clayton Urey;[1893];1934;Walkerton IN;USA;Walkerton IN, USA;41.4667113,-86.4830681
+1934;M;literature;Luigi Pirandello;[1867];1934;Agrigento Sicily;Italy;Agrigento Sicily, Italy;37.3094075,13.5859823
+1934;M;medicine;George Hoyt Whipple;[1878];1934;Ashland NH;USA;Ashland NH, USA;43.695318,-71.6306318
+1934;M;medicine;George Richards Minot;[1885];1934;Boston MA;USA;Boston MA, USA;42.3600825,-71.0588801
+1934;M;medicine;William Parry Murphy;[1892];1934;Stoughton WI;USA;Stoughton WI, USA;42.9169462,-89.2178937
+1934;M;peace;Arthur Henderson;[1863];1934;Glasgow;Scotland;Glasgow, Scotland;42.9169462,-89.2178937
+1935;M;chemistry;Frédéric Joliot;[1900];1935;Paris;France;Paris, France;42.9169462,-89.2178937
+1935;F;chemistry;Iréne Joliot-Curie;[1897];1935;Paris;France;Paris, France;42.9169462,-89.2178937
+1935;M;medicine;Hans Spemann;[1869];1935;Stuttgart;Württemberg;Stuttgart, Germany;48.7758459,9.1829321
+1935;M;peace;Carl von Ossietzky;[1889];1935;Hamburg;Germany;Hamburg, Germany;48.7758459,9.1829321
+1935;M;physics;James Chadwick;[1891];1935;Manchester;United Kingdom;Manchester, United Kingdom;48.7758459,9.1829321
+1936;M;chemistry;Petrus (Peter) Josephus Wilhelmus Debye;[1884];1936;Maastricht;the Netherlands;Maastricht, the Netherlands;50.8513682,5.6909725
+1936;M;literature;Eugene Gladstone O'Neill;[1888];1936;New York NY;USA;New York NY, USA;50.8513682,5.6909725
+1936;M;medicine;Otto Loewi;[1873];1936;Frankfurt-on-the-Main;Germany;Frankfurt-on-the-Main, Germany;50.1109221,8.6821267
+1936;M;medicine;Sir Henry Hallett Dale;[1875];1936;London;United Kingdom;London, United Kingdom;50.1109221,8.6821267
+1936;M;peace;Carlos Saavedra Lamas;[1878];1936;Buenos Aires;Argentina;Buenos Aires, Argentina;-34.6036844,-58.3815591
+1936;M;physics;Carl David Anderson;[1905];1936;New York NY;USA;New York NY, USA;-34.6036844,-58.3815591
+1936;M;physics;Victor Franz Hess;[1883];1936;Frauenfeld;Switzerland;Frauenfeld, Switzerland;47.5535997,8.8987541
+1937;M;chemistry;Paul Karrer;[1889];1937;Moscow;Russia;Moscow, Russia;55.755826,37.6172999
+1937;M;chemistry;Walter Norman Haworth;[1883];1937;Chorley;United Kingdom;Chorley, United Kingdom;53.653511,-2.632596
+1937;M;literature;Roger Martin du Gard;[1881];1937;Neuilly-sur-Seine;France;Neuilly-sur-Seine, France;48.884831,2.26851
+1937;M;medicine;Albert von Szent-Györgyi Nagyrápolt;[1893];1937;Budapest;Austria-Hungary;Budapest, Hungary;47.497912,19.040235
+1937;M;peace;Cecil of Chelwood, Viscount (Lord Edgar Algernon Robert Gascoyne Cecil);[1864];1937;London;United Kingdom;London, United Kingdom;47.497912,19.040235
+1937;M;physics;Clinton Joseph Davisson;[1881];1937;Bloomington IL;USA;Bloomington IL, USA;40.4842027,-88.9936873
+1937;M;physics;George Paget Thomson;[1892];1937;Cambridge;United Kingdom;Cambridge, United Kingdom;52.205337,0.121817
+1938;M;chemistry;Richard Kuhn;[1900];1938;Vienna;Austria-Hungary;Vienna, Austria-Hungary;48.210496,16.3631031
+1938;F;literature;Pearl Buck;[1892];1938;Hillsboro WV;USA;Hillsboro WV, USA;38.1353972,-80.2131261
+1938;M;medicine;Corneille Jean François Heymans;[1892];1938;Ghent;Belgium;Ghent, Belgium;38.1353972,-80.2131261
+1938;NA;peace;Office international Nansen pour les Réfugiés (Nansen International Office for Refugees);[1921];1938;;Switzerland.; Switzerland;46.818188,8.227512
+1938;M;physics;Enrico Fermi;[1901];1938;Rome;Italy;Rome, Italy;41.9027835,12.4963655
+1939;M;chemistry;Adolf Friedrich Johann Butenandt;[1903];1939;Bremerhaven-Lehe;Germany;Bremerhaven-Lehe, Germany;53.5745837,8.5985456
+1939;M;chemistry;Leopold Ruzicka;[1887];1939;Vukovar;Austria-Hungary;Vukovar, Croatia;45.3452377,19.0010204
+1939;M;literature;Frans Eemil Sillanpää;[1888];1939;Hämeenkyrö;Russian Empire;Hämeenkyrö, Finland;61.6383264,23.196349
+1939;M;medicine;Gerhard Domagk;[1895];1939;Lagow;Germany;Lagow, Germany;51.1580895,15.043917
+1939;M;physics;Ernest Orlando Lawrence;[1901];1939;Canton SD;USA;Canton SD, USA;43.3008146,-96.5928198
+1943;M;chemistry;George de Hevesy;[1885];1943;Budapest;Austria-Hungary;Budapest, Hungary;43.3008146,-96.5928198
+1943;M;medicine;Edward Adelbert Doisy;[1893];1943;Hume IL;USA;Hume IL, USA;39.7967015,-87.8686414
+1943;M;medicine;Henrik Carl Peter Dam;[1895];1943;Copenhagen;Denmark;Copenhagen, Denmark;39.7967015,-87.8686414
+1943;M;physics;Otto Stern;[1888];1943;Sorau;Germany;Żory, Poland;50.0447236,18.7006401
+1944;M;chemistry;Otto Hahn;[1879];1944;Frankfurt-on-the-Main;Germany;Frankfurt-on-the-Main, Germany;50.0447236,18.7006401
+1944;M;literature;Johannes Vilhelm Jensen;[1873];1944;Farsř;Denmark;Farsř, Denmark;NOK[ZERO_RESULTS]
+1944;M;medicine;Herbert Spencer Gasser;[1888];1944;Platteville WI;USA;Platteville WI, USA;42.73416,-90.4784621
+1944;M;medicine;Joseph Erlanger;[1874];1944;San Francisco CA;USA;San Francisco CA, USA;37.7749295,-122.4194155
+1944;NA;peace;Comité international de la Croix Rouge (International Committee of the Red Cross);[1863];1944;;Switzerland;, Switzerland;37.7749295,-122.4194155
+1944;M;physics;Isidor Isaac Rabi;[1898];1944;Rymanow;Austria-Hungary;Rymanow, Poland;49.57642,21.86815
+1945;M;chemistry;Artturi Ilmari Virtanen;[1895];1945;Helsinki;Russian Empire;Helsinki, Finland;60.1698557,24.9383791
+1945;F;literature;Gabriela Mistral;[1889];1945;Vicuńa;Chile;Vicuńa, Chile;-30.0319,-70.7081
+1945;M;medicine;Ernst Boris Chain;[1906];1945;Berlin;Germany;Berlin, Germany;-30.0319,-70.7081
+1945;M;medicine;Sir Alexander Fleming;[1881];1945;Lochfield;Scotland;Lochfield, Scotland;55.609843,-4.286513
+1945;M;medicine;Sir Howard Walter Florey;[1898];1945;Adelaide;Australia;Adelaide, Australia;55.609843,-4.286513
+1945;M;peace;Cordell Hull;[1871];1945;Olympus TN;USA;Olympus TN, USA;35.20559,-89.809929
+1945;M;physics;Wolfgang Pauli;[1900];1945;Vienna;Austria;Vienna, Austria;35.20559,-89.809929
+1946;M;chemistry;James Batcheller Sumner;[1887];1946;Canton MA;USA;Canton MA, USA;42.1584324,-71.1447732
+1946;M;chemistry;John Howard Northrop;[1891];1946;Yonkers NY;USA;Yonkers NY, USA;40.9312099,-73.8987469
+1946;M;chemistry;Wendell Meredith Stanley;[1904];1946;Ridgeville IN;USA;Ridgeville IN, USA;40.2892107,-85.028857
+1946;M;literature;Hermann Hesse;[1877];1946;Calw;Germany;Calw, Germany;48.7122107,8.7472439
+1946;M;medicine;Hermann Joseph Muller;1890;56;New York NY;USA;New York NY, USA;48.7122107,8.7472439
+1946;F;peace;Emily Greene Balch;[1867];1946;Jamaica Plain MA;USA;Boston MA, USA;48.7122107,8.7472439
+1946;M;peace;John Raleigh Mott;[1865];1946;Livingston Manor NY;USA;Livingston Manor NY, USA;41.9003667,-74.8282167
+1946;M;physics;Percy Williams Bridgman;[1882];1946;Cambridge MA;USA;Cambridge MA, USA;42.3736158,-71.1097335
+1947;M;chemistry;Sir Robert Robinson;[1886];1947;Rufford near Chesterfield;United Kingdom;Rufford near Chesterfield, United Kingdom;53.2286554,-1.4400147
+1947;M;literature;André Paul Guillaume Gide;[1869];1947;Paris;France;Paris, France;53.2286554,-1.4400147
+1947;M;medicine;Bernardo Alberto Houssay;[1887];1947;Buenos Aires;Argentina;Buenos Aires, Argentina;53.2286554,-1.4400147
+1947;M;medicine;Carl Ferdinand Cori;[1896];1947;Prague;Austria-Hungary;Prague, Czech Republic;53.2286554,-1.4400147
+1947;F;medicine;Gerty Theresa Cori, née Radnitz;[1896];1947;Prague;Austria-Hungary;Prague, Czech Republic;53.2286554,-1.4400147
+1947;NA;peace;American Friends Service Committee (The Quakers);[1917];1947;DC;USA;DC, USA;38.929591,-77.0331936
+1947;NA;peace;Friends Service Council (The Quakers);[1647];1947;;United Kingdom;, United Kingdom;55.378051,-3.435973
+1947;M;physics;Sir Edward Victor Appleton;[1892];1947;Bradford;United Kingdom;Bradford, United Kingdom;53.795984,-1.759398
+1948;M;chemistry;Arne Wilhelm Kaurin Tiselius;[1902];1948;Stockholm;Sweden;Stockholm, Sweden;53.795984,-1.759398
+1948;M;literature;Thomas Stearns Eliot;[1888];1948;St. Louis MO;USA;St. Louis MO, USA;38.6270025,-90.1994042
+1948;M;medicine;Paul Hermann Müller;[1899];1948;Olten;Switzerland;Olten, Switzerland;47.3499624,7.9037034
+1948;M;physics;Patrick Maynard Stuart Blackett;[1897];1948;London;United Kingdom;London, United Kingdom;47.3499624,7.9037034
+1949;M;chemistry;William Francis Giauque;[1895];1949;Niagara Falls;Canada;Niagara Falls, Canada;43.0895577,-79.0849436
+1949;M;literature;William Faulkner;[1897];1949;New Albany MO;USA;New Albany MO, USA;38.2837371,-85.7491581
+1949;M;medicine;Antonio Caetano de Abreu Freire Egas Moniz;[1874];1949;Avança;Portugal;Avança, Portugal;40.8068092,-8.5666077
+1949;M;medicine;Walter Rudolf Hess;[1881];1949;Frauenfeld;Switzerland;Frauenfeld, Switzerland;40.8068092,-8.5666077
+1949;M;peace;Lord (John) Boyd Orr of Brechin;[1880];1949;Kilmaurs;Scotland;Kilmaurs, Scotland;55.639161,-4.527757
+1949;M;physics;Hideki Yukawa;[1907];1949;Tokyo;Japan;Tokyo, Japan;35.6894875,139.6917064
+1950;M;chemistry;Kurt Alder;[1902];1950;Königshütte;Prussia;Chorzów, Poland;50.2974884,18.9545728
+1950;M;chemistry;Otto Paul Hermann Diels;[1876];1950;Hamburg;Germany;Hamburg, Germany;50.2974884,18.9545728
+1950;M;literature;Earl (Bertrand Arthur William) Russell;[1872];1950;Trelleck;United Kingdom;Trelleck, United Kingdom;51.741594,-2.724085
+1950;M;medicine;Edward Calvin Kendall;[1886];1950;South Norwalk CT;USA;South Norwalk CT, USA;41.0937079,-73.4187303
+1950;M;medicine;Philip Showalter Hench;[1896];1950;Pittsburgh PA;USA;Pittsburgh PA, USA;40.4406248,-79.9958864
+1950;M;medicine;Tadeus Reichstein;[1897];1950;Wloclawek;Poland;Wloclawek, Poland;52.6483303,19.0677357
+1950;M;peace;Ralph Bunche;[1904];1950;Detroit MI;USA;Detroit MI, USA;42.331427,-83.0457538
+1950;M;physics;Cecil Frank Powell;[1903];1950;Tonbridge;United Kingdom;Tonbridge, United Kingdom;51.195043,0.27568
+1951;M;chemistry;Edwin Mattison McMillan;[1907];1951;Redondo Beach CA;USA;Redondo Beach CA, USA;33.8491816,-118.3884078
+1951;M;chemistry;Glenn Theodore Seaborg;[1912];1951;Ishpeming MI;USA;Ishpeming MI, USA;46.4885469,-87.6676358
+1951;M;literature;Pär Fabian Lagerkvist;[1891];1951;Växjö;Sweden;Växjö, Sweden;56.8790044,14.8058523
+1951;M;medicine;Max Theiler;[1899];1951;Pretoria;South Africa;Pretoria, South Africa;-25.7478676,28.2292712
+1951;M;peace;Léon Jouhaux;[1879];1951;Paris;France;Paris, France;-25.7478676,28.2292712
+1951;M;physics;Ernest Thomas Sinton Walton;[1903];1951;Dungarvan;Ireland;Dungarvan, Ireland;52.0936763,-7.6203627
+1951;M;physics;Sir John Douglas Cockcroft;[1897];1951;Todmorden;United Kingdom;Todmorden, United Kingdom;53.716344,-2.0987969
+1952;M;chemistry;Archer John Porter Martin;[1910];1952;London;United Kingdom;London, United Kingdom;53.716344,-2.0987969
+1952;M;chemistry;Richard Laurence Millington Synge;[1914];1952;Liverpool;United Kingdom;Liverpool, United Kingdom;53.4083714,-2.9915726
+1952;M;literature;François Mauriac;[1885];1952;Bordeaux;France;Bordeaux, France;44.837789,-0.57918
+1952;M;medicine;Selman Abraham Waksman;[1888];1952;Priluka;Russian Empire;Pryluky, Ukraine;50.5884714,32.3875825
+1952;M;peace;Albert Schweitzer;[1875];1952;Kaysersberg;Germany;Kaysersberg, France;48.13889,7.264023
+1952;M;physics;Edward Mills Purcell;[1912];1952;Taylorville IL;USA;Taylorville IL, USA;39.548935,-89.294533
+1952;M;physics;Felix Bloch;[1905];1952;Zurich;Switzerland;Zurich, Switzerland;47.3768866,8.541694
+1953;M;chemistry;Hermann Staudinger;[1881];1953;Worms;Germany;Worms, Germany;49.6341372,8.3507182
+1953;M;literature;Sir Winston Leonard Spencer Churchill;[1874];1953;Woodstock;United Kingdom;Woodstock, United Kingdom;51.847267,-1.354091
+1953;M;medicine;Fritz Albert Lipmann;[1899];1953;Koenigsberg;Germany;Kaliningrad, Russia;51.847267,-1.354091
+1953;M;medicine;Hans Adolf Krebs;[1900];1953;Hildesheim;Germany;Hildesheim, Germany;52.154778,9.9579652
+1953;M;peace;George Catlett Marshall;[1880];1953;Uniontown PA;USA;Uniontown PA, USA;39.900076,-79.7164326
+1953;M;physics;Frits (Frederik) Zernike;[1888];1953;Amsterdam;the Netherlands;Amsterdam, the Netherlands;39.900076,-79.7164326
+1954;M;chemistry;Linus Carl Pauling;[1901];1954;Portland OR;USA;Portland OR, USA;45.5230622,-122.6764815
+1954;M;literature;Ernest Miller Hemingway;[1899];1954;Oak Park IL;USA;Oak Park IL, USA;41.8850317,-87.7845025
+1954;M;medicine;Frederick Chapman Robbins;[1916];1954;Auburn AL;USA;Auburn AL, USA;32.6098566,-85.4807825
+1954;M;medicine;John Franklin Enders;[1897];1954;West Hartford CT;USA;West Hartford CT, USA;41.7620842,-72.7420151
+1954;M;medicine;Thomas Huckle Weller;[1915];1954;Ann Arbor MI;USA;Ann Arbor MI, USA;42.2808256,-83.7430378
+1954;NA;peace;Office of the United Nations High Commissioner for Refugees (UNHCR);[1951];1954;;Switzerland;, Switzerland;42.2808256,-83.7430378
+1954;M;physics;Max Born;[1882];1954;Breslau;Germany;Wroclaw, Poland;42.2808256,-83.7430378
+1954;M;physics;Walther Bothe;[1891];1954;Oranienburg;Germany;Oranienburg, Germany;52.7537284,13.2366809
+1955;M;chemistry;Vincent du Vigneaud;[1901];1955;Chicago IL;USA;Chicago IL, USA;41.8781136,-87.6297982
+1955;M;literature;Halldór Kiljan Laxness;[1902];1955;Reykjavik;Iceland;Reykjavik, Iceland;64.1265206,-21.8174392
+1955;M;medicine;Axel Hugo Theodor Theorell;[1903];1955;Linköping;Sweden;Linköping, Sweden;58.410807,15.6213728
+1955;M;physics;Polykarp Kusch;[1911];1955;Blankenburg;Germany;Blankenburg, Germany;51.8164261,10.9773091
+1955;M;physics;Willis Eugene Lamb;[1913];1955;Los Angeles CA;USA;Los Angeles CA, USA;34.0522342,-118.2436849
+1956;M;chemistry;Nikolay Nikolaevich Semenov;[1896];1956;Saratov;Russia;Saratov, Russia;51.5923654,45.9608031
+1956;M;chemistry;Sir Cyril Norman Hinshelwood;[1897];1956;London;United Kingdom;London, United Kingdom;51.5923654,45.9608031
+1956;M;literature;Juan Ramón Jiménez;[1881];1956;Michelena;Venezuela;Michelena, Venezuela;7.9574344,-72.2452617
+1956;M;medicine;André Frédéric Cournand;[1895];1956;Paris;France;Paris, France;7.9574344,-72.2452617
+1956;M;medicine;Dickinson W. Richards;[1895];1956;Orange NJ;USA;Orange NJ, USA;40.7706187,-74.2326478
+1956;M;medicine;Werner Forssmann;[1904];1956;Berlin;Germany;Berlin, Germany;40.7706187,-74.2326478
+1956;M;physics;John Bardeen;[1908];1956;Madison WI;USA;Madison WI, USA;43.0730517,-89.4012302
+1956;M;physics;Walter Houser Brattain;[1902];1956;Amoy;China;Amoy, China;24.479833,118.089425
+1956;M;physics;William Bradford Shockley;[1910];1956;London;United Kingdom;London, United Kingdom;24.479833,118.089425
+1957;M;chemistry;Lord (Alexander R.) Todd;[1907];1957;Glasgow;Scotland;Glasgow, Scotland;24.479833,118.089425
+1957;M;literature;Albert Camus;[1913];1957;Mondovi;Algeria;Mondovi, Algeria;36.6923855,7.730807
+1957;M;medicine;Daniel Bovet;[1907];1957;Neuchâtel;Switzerland;Neuchâtel, Switzerland;46.9899874,6.9292732
+1957;M;peace;Lester Bowles Pearson;[1897];1957;Toronto;Canada;Toronto, Canada;43.653226,-79.3831843
+1957;M;physics;Chen Ning Yang;[1922];1957;Hofei Anhwei;China;Hofei Anhwei, China;31.820591,117.227219
+1957;M;physics;Tsung-Dao (T.D.) Lee;[1926];1957;Shanghai;China;Shanghai, China;31.2303904,121.4737021
+1958;M;chemistry;Frederick Sanger;[1918];1958;Rendcombe;United Kingdom;Rendcombe, United Kingdom;51.798937,-1.964228
+1958;M;literature;Boris Leonidovich Pasternak;[1890];1958;Moscow;Russia;Moscow, Russia;51.798937,-1.964228
+1958;M;medicine;Edward Lawrie Tatum;[1909];1958;Boulder CO;USA;Boulder CO, USA;40.0149856,-105.2705456
+1958;M;medicine;George Wells Beadle;[1903];1958;Wahoo NE;USA;Wahoo NE, USA;41.2115023,-96.6212604
+1958;M;medicine;Joshua Lederberg;[1925];1958;Montclair NJ;USA;Montclair NJ, USA;40.8259007,-74.2090053
+1958;M;peace;Georges Pire;[1910];1958;Dinant;Belgium;Dinant, Belgium;50.260494,4.9127457
+1958;M;physics;Igor Yevgenyevich Tamm;[1895];1958;Vladivostok;Russia;Vladivostok, Russia;43.1198091,131.8869243
+1958;M;physics;Il´ja Mikhailovich Frank;1908;50;St Petersburg;Russia;St Petersburg, Russia;59.9342802,30.3350986
+1958;M;physics;Pavel Alekseyevich Cherenkov;[1904];1958;Novaya Chigla;Russia;Novaya Chigla, Russia;51.2221617,40.4794612
+1959;M;chemistry;Jaroslav Heyrovsky;[1890];1959;Prague;Hungarian Empire;Prague, Czech Republic;51.2221617,40.4794612
+1959;M;literature;Salvatore Quasimodo;[1901];1959;Modica;Italy;Modica, Italy;36.8588355,14.7608152
+1959;M;medicine;Arthur Kornberg;[1918];1959;Brooklyn NY;USA;Brooklyn NY, USA;36.8588355,14.7608152
+1959;M;medicine;Severo Ochoa;[1905];1959;Luarca;Spain;Luarca, Spain;43.5419932,-6.536124
+1959;M;peace;Philip J. Noel-Baker;[1889];1959;London;United Kingdom;London, United Kingdom;43.5419932,-6.536124
+1959;M;physics;Emilio Gino Segrč;[1905];1959;Tivoli;Italy;Tivoli, Italy;41.959817,12.8022261
+1959;M;physics;Owen Chamberlain;[1920];1959;Birmingham;United Kingdom;Birmingham, United Kingdom;41.959817,12.8022261
+1960;M;chemistry;Willard Frank Libby;[1908];1960;Grand Valley CO;USA;Grand Valley CO, USA;39.0638705,-108.5506486
+1960;M;literature;Saint-John Perse;[1887];1960;Saint-Léger-les-Feuilles;Guadeloupe Island;Saint-Léger-les-Feuilles, Guadeloupe Island;NOK[ZERO_RESULTS]
+1960;M;medicine;Peter Brian Medawar;[1915];1960;Rio de Janeiro;Brazil;Rio de Janeiro, Brazil;-22.9068467,-43.1728965
+1960;M;medicine;Sir Frank Macfarlane Burnet;[1899];1960;Traralgon;Australia;Traralgon, Australia;-38.2033531,146.519786
+1960;M;peace;Albert John Lutuli;0 1898;1960;Bulawayo;Southern Rhodesia;Bulawayo, Zimbabwe;-20.1325066,28.626479
+1960;M;physics;Donald Arthur Glaser;[1926];1960;Cleveland OH;USA;Cleveland OH, USA;41.49932,-81.6943605
+1961;M;chemistry;Melvin Calvin;[1911];1961;St. Paul MN;USA;St. Paul MN, USA;44.9537029,-93.0899578
+1961;M;literature;Ivo Andric;[1892];1961;Dolac;Bosnia;Dolac, Bosnia;44.0860686,17.9900999
+1961;M;medicine;Georg von Békésy;[1899];1961;Budapest;Hungary;Budapest, Hungary;44.0860686,17.9900999
+1961;M;peace;Dag Hjalmar Agne Carl Hammarskjöld;[1905];1961;Jönköping;Sweden;Jönköping, Sweden;57.7826137,14.1617876
+1961;M;physics;Robert Hofstadter;[1915];1961;New York NY;USA;New York NY, USA;57.7826137,14.1617876
+1961;M;physics;Rudolf Ludwig Mössbauer;[1929];1961;Munich;Germany;Munich, Germany;57.7826137,14.1617876
+1962;M;chemistry;John Cowdery Kendrew;[1917];1962;Oxford;United Kingdom;Oxford, United Kingdom;51.7520209,-1.2577263
+1962;M;chemistry;Max Ferdinand Perutz;[1914];1962;Vienna;Austria;Vienna, Austria;51.7520209,-1.2577263
+1962;M;literature;John Steinbeck;[1902];1962;Salinas CA;USA;Salinas CA, USA;36.6777372,-121.6555013
+1962;M;medicine;Francis Harry Compton Crick;[1916];1962;Northampton;United Kingdom;Northampton, United Kingdom;52.240477,-0.902656
+1962;M;medicine;James Dewey Watson;[1928];1962;Chicago IL;USA;Chicago IL, USA;52.240477,-0.902656
+1962;M;medicine;Maurice Hugh Frederick Wilkins;[1916];1962;Pongaroa;New Zealand;Pongaroa, New Zealand;-40.5414029,176.194649
+1962;M;peace;Linus Carl Pauling;[1901];1962;Portland OR;USA;Portland OR, USA;-40.5414029,176.194649
+1962;M;physics;Lev Davidovich Landau;[1908];1962;Baku;Russian Empire;Baku, Azerbaijan;40.4092617,49.8670924
+1963;M;chemistry;Giulio Natta;[1903];1963;Imperia;Italy;Imperia, Italy;43.8896857,8.039517
+1963;M;chemistry;Karl Ziegler;[1898];1963;Helsa;Germany;Helsa, Germany;51.2573397,9.6863827
+1963;M;literature;Giorgos Seferis;[1900];1963;Smyrna;Ottoman Empire;Izmir, Turkey;38.423734,27.142826
+1963;M;medicine;Alan Lloyd Hodgkin;[1914];1963;Banbury;United Kingdom;Banbury, United Kingdom;52.0629009,-1.339775
+1963;M;medicine;Andrew Fielding Huxley;[1917];1963;Hampstead;United Kingdom;Hampstead, United Kingdom;51.5556461,-0.1761749
+1963;M;medicine;Sir John Carew Eccles;[1903];1963;Melbourne;Australia;Melbourne, Australia;-37.8136276,144.9630576
+1963;NA;peace;Comité international de la Croix Rouge (International Committee of the Red Cross);[1863];1963;;Switzerland;, Switzerland;-37.8136276,144.9630576
+1963;NA;peace;Ligue des Sociétés de la Croix-Rouge (League of Red Cross Societies);[1919];1963;;France;France;46.227638,2.213749
+1963;M;physics;Eugene Paul Wigner;[1902];1963;Budapest;Austria-Hungary;Budapest, Austria-Hungary;47.499148,19.0115954
+1963;M;physics;J. Hans D. Jensen;[1907];1963;Hamburg;Germany;Hamburg, Germany;47.499148,19.0115954
+1963;F;physics;Maria Goeppert-Mayer;[1906];1963;Kattowitz;Germany;Katowice, Poland;50.2648919,19.0237815
+1964;F;chemistry;Dorothy Crowfoot Hodgkin;[1910];1964;Cairo;Egypt;Cairo, Egypt;30.0444196,31.2357116
+1964;M;literature;Jean-Paul Sartre;[1905];1964;Paris;France;Paris, France;30.0444196,31.2357116
+1964;M;medicine;Feodor Lynen;[1911];1964;Munich;Germany;Munich, Germany;30.0444196,31.2357116
+1964;M;medicine;Konrad Bloch;[1912];1964;Neisse;Germany;Nysa, Poland;50.4822855,17.3295861
+1964;M;peace;Martin Luther King Jr.;[1929];1964;Atlanta GA;USA;Atlanta GA, USA;33.7489954,-84.3879824
+1964;M;physics;Aleksandr Mikhailovich Prokhorov;[1916];1964;Atherton;Australia;Atherton, Australia;-17.2660801,145.4858599
+1964;M;physics;Charles Hard Townes;[1915];1964;Greenville SC;USA;Greenville SC, USA;34.8526176,-82.3940104
+1964;M;physics;Nicolay Gennadiyevich Basov;[1922];1964;Usman Russia;Soviet Union;Usman Russia, Soviet Union;52.0407835,39.7406193
+1965;M;chemistry;Robert Burns Woodward;[1917];1965;Boston MA;USA;Boston MA, USA;52.0407835,39.7406193
+1965;M;literature;Mikhail Aleksandrovich Sholokhov;[1905];1965;Veshenskaya;Russia;Veshenskaya, Russia;49.6315639,41.7147171
+1965;M;medicine;André Lwoff;[1902];1965;Ainay-le-Château;France;Ainay-le-Château, France;46.709714,2.691018
+1965;M;medicine;François Jacob;[1920];1965;Nancy;France;Nancy, France;48.692054,6.184417
+1965;M;medicine;Jacques Monod;[1910];1965;Paris;France;Paris, France;48.692054,6.184417
+1965;NA;peace;United Nations Children's Fund (UNICEF);[1946];1965;NY;USA;NY, USA;40.7127753,-74.0059728
+1965;M;physics;Julian Schwinger;[1918];1965;New York NY;USA;New York NY, USA;40.7127753,-74.0059728
+1965;M;physics;Richard P. Feynman;[1918];1965;New York NY;USA;New York NY, USA;40.7127753,-74.0059728
+1965;M;physics;Sin-Itiro Tomonaga;[1906];1965;Kyoto;Japan;Kyoto, Japan;35.0116363,135.7680294
+1966;M;chemistry;Robert S. Mulliken;[1896];1966;Newburyport MA;USA;Newburyport MA, USA;42.8125913,-70.8772751
+1966;F;literature;Nelly Sachs;[1891];1966;Berlin;Germany;Berlin, Germany;42.8125913,-70.8772751
+1966;M;literature;Shmuel Yosef Agnon;[1888];1966;Buczacz;Austria-Hungary;Buchach, Ukraine;49.064831,25.3817159
+1966;M;medicine;Charles Brenton Huggins;[1901];1966;Halifax;Canada;Halifax, Canada;44.6487635,-63.5752387
+1966;M;medicine;Peyton Rous;[1879];1966;Baltimore MD;USA;Baltimore MD, USA;39.2903848,-76.6121893
+1966;M;physics;Alfred Kastler;[1902];1966;Guebwiller;Germany;Guebwiller, France;47.911586,7.209336
+1967;M;chemistry;George Porter;[1920];1967;Stainforth;United Kingdom;Stainforth, United Kingdom;54.099248,-2.273164
+1967;M;chemistry;Manfred Eigen;[1927];1967;Bochum;Germany;Bochum, Germany;51.4818445,7.2162363
+1967;M;chemistry;Ronald George Wreyford Norrish;[1897];1967;Cambridge;United Kingdom;Cambridge, United Kingdom;51.4818445,7.2162363
+1967;M;literature;Miguel Angel Asturias;[1899];1967;Guatemala City;Guatemala;Guatemala City, Guatemala;14.6349149,-90.5068824
+1967;M;medicine;George Wald;[1906];1967;New York NY;USA;New York NY, USA;14.6349149,-90.5068824
+1967;M;medicine;Haldan Keffer Hartline;[1903];1967;Bloomsburg PA;USA;Bloomsburg PA, USA;41.003698,-76.4549457
+1967;M;medicine;Ragnar Granit;[1900];1967;Helsinki;Finland;Helsinki, Finland;41.003698,-76.4549457
+1967;M;physics;Hans Albrecht Bethe;[1906];1967;Strassburg;Germany;Strasbourg, France;48.5734053,7.7521113
+1968;M;chemistry;Lars Onsager;[1903];1968;Kristiania;Norway;Oslo, Norway;48.5734053,7.7521113
+1968;M;literature;Yasunari Kawabata;[1899];1968;Osaka;Japan;Osaka, Japan;34.6937378,135.5021651
+1968;M;medicine;Har Gobind Khorana;[1922];1968;Raipur;India;Raipur, India;21.2513844,81.6296413
+1968;M;medicine;Marshall W. Nirenberg;[1927];1968;New York NY;USA;New York NY, USA;21.2513844,81.6296413
+1968;M;medicine;Robert W. Holley;[1922];1968;Urbana IL;USA;Urbana IL, USA;40.1105875,-88.2072697
+1968;M;peace;René Cassin;[1887];1968;Bayonne;France;Bayonne, France;43.492949,-1.474841
+1968;M;physics;Luis Walter Alvarez;[1911];1968;San Francisco CA;USA;San Francisco CA, USA;43.492949,-1.474841
+1969;M;chemistry;Derek H. R. Barton;[1918];1969;Gravesend;United Kingdom;Gravesend, United Kingdom;51.441884,0.370759
+1969;M;chemistry;Odd Hassel;[1897];1969;Kristiania;Norway;Oslo, Norway;51.441884,0.370759
+1969;M;economics;Jan Tinbergen;[1903];1969;the Hague;the Netherlands;the Hague, the Netherlands;52.0704978,4.3006999
+1969;M;economics;Ragnar Frisch;[1895];1969;Oslo;Norway;Oslo, Norway;52.0704978,4.3006999
+1969;M;literature;Samuel Beckett;[1906];1969;Dublin;Ireland;Dublin, Ireland;52.0704978,4.3006999
+1969;M;medicine;Alfred D. Hershey;[1908];1969;Owosso MI;USA;Owosso MI, USA;42.9978049,-84.1766358
+1969;M;medicine;Max Delbrück;[1906];1969;Berlin;Germany;Berlin, Germany;42.9978049,-84.1766358
+1969;M;medicine;Salvador E. Luria;[1912];1969;Torino;Italy;Torino, Italy;45.070312,7.6868565
+1969;NA;peace;International Labour Organization (I.L.O.);[1919];1969;;Switzerland;, Switzerland;45.070312,7.6868565
+1969;M;physics;Murray Gell-Mann;[1929];1969;New York NY;USA;New York NY, USA;45.070312,7.6868565
+1970;M;chemistry;Luis F. Leloir;[1906];1970;Paris;France;Paris, France;45.070312,7.6868565
+1970;M;economics;Paul A. Samuelson;[1915];1970;Gary IN;USA;Gary IN, USA;41.5933696,-87.3464271
+1970;M;literature;Aleksandr Isayevich Solzhenitsyn;[1918];1970;Kislovodsk;Russia;Kislovodsk, Russia;43.9056014,42.7280949
+1970;M;medicine;Julius Axelrod;[1912];1970;New York NY;USA;New York NY, USA;43.9056014,42.7280949
+1970;M;medicine;Sir Bernard Katz;[1911];1970;Leipzig;Germany;Leipzig, Germany;51.3396955,12.3730747
+1970;M;medicine;Ulf von Euler;[1905];1970;Stockholm;Sweden;Stockholm, Sweden;51.3396955,12.3730747
+1970;M;peace;Norman E. Borlaug;[1914];1970;Cresco IA;USA;Cresco IA, USA;43.3813568,-92.1140547
+1970;M;physics;Hannes Olof Gösta Alfvén;[1908];1970;Norrköping;Sweden;Norrköping, Sweden;58.587745,16.192421
+1970;M;physics;Louis Eugčne Félix Néel;[1904];1970;Lyon;France;Lyon, France;45.764043,4.835659
+1971;M;chemistry;Gerhard Herzberg;[1904];1971;Hamburg;Germany;Hamburg, Germany;45.764043,4.835659
+1971;M;economics;Simon Kuznets;[1901];1971;Kharkov;Russian Empire;Kharkiv, Ukraine;45.764043,4.835659
+1971;M;literature;Pablo Neruda;[1904];1971;Parral;Chile;Parral, Chile;-36.1406484,-71.8227528
+1971;M;medicine;Earl W. Sutherland, Jr.;[1915];1971;Burlingame KS;USA;Burlingame KS, USA;38.7538946,-95.8349868
+1971;M;peace;Willy Brandt;[1913];1971;Lübeck;Germany;Lübeck, Germany;38.7538946,-95.8349868
+1971;M;physics;Dennis Gabor;[1900];1971;Budapest;Hungary;Budapest, Hungary;38.7538946,-95.8349868
+1972;M;chemistry;Christian B. Anfinsen;[1916];1972;Monessen PA;USA;Monessen PA, USA;40.1484053,-79.8878254
+1972;M;chemistry;Stanford Moore;[1913];1972;Chicago IL;USA;Chicago IL, USA;40.1484053,-79.8878254
+1972;M;chemistry;William H. Stein;[1911];1972;New York NY;USA;New York NY, USA;40.1484053,-79.8878254
+1972;M;economics;John R. Hicks;[1904];1972;Warwick;United Kingdom;Warwick, United Kingdom;52.282316,-1.584927
+1972;M;economics;Kenneth J. Arrow;[1921];1972;New York NY;USA;New York NY, USA;52.282316,-1.584927
+1972;M;literature;Heinrich Böll;[1917];1972;Cologne;Germany;Cologne, Germany;52.282316,-1.584927
+1972;M;medicine;Gerald M. Edelman;[1929];1972;New York NY;USA;New York NY, USA;52.282316,-1.584927
+1972;M;medicine;Rodney R. Porter;[1917];1972;Newton-le-Willows;United Kingdom;Newton-le-Willows, United Kingdom;53.452889,-2.63508
+1972;M;physics;John Bardeen;[1908];1972;Madison WI;USA;Madison WI, USA;53.452889,-2.63508
+1972;M;physics;John Robert Schrieffer;[1931];1972;Oak Park IL;USA;Oak Park IL, USA;53.452889,-2.63508
+1972;M;physics;Leon Neil Cooper;[1930];1972;New York NY;USA;New York NY, USA;53.452889,-2.63508
+1973;M;chemistry;Ernst Otto Fischer;[1918];1973;Munich;Germany;Munich, Germany;53.452889,-2.63508
+1973;M;chemistry;Geoffrey Wilkinson;[1921];1973;Todmorden;United Kingdom;Todmorden, United Kingdom;53.452889,-2.63508
+1973;M;economics;Wassily Leontief;[1906];1973;St. Petersburg;Russia;St. Petersburg, Russia;59.9342802,30.3350986
+1973;M;literature;Patrick White;[1912];1973;London;United Kingdom;London, United Kingdom;59.9342802,30.3350986
+1973;M;medicine;Karl von Frisch;[1886];1973;Vienna;Austria;Vienna, Austria;59.9342802,30.3350986
+1973;M;medicine;Konrad Lorenz;[1903];1973;Vienna;Austria;Vienna, Austria;59.9342802,30.3350986
+1973;M;medicine;Nikolaas Tinbergen;[1907];1973;the Hague;the Netherlands;the Hague, the Netherlands;59.9342802,30.3350986
+1973;M;peace;Henry A. Kissinger;[1923];1973;Fürth;Germany;Fürth, Germany;49.4771169,10.988667
+1973;M;peace;Le Duc Tho;[1911];1973;Nam Ha province;Vietnam;Nam Ha province, Vietnam;20.5835196,105.92299
+1973;M;physics;Brian David Josephson;[1940];1973;Cardiff;United Kingdom;Cardiff, United Kingdom;51.481581,-3.17909
+1973;M;physics;Ivar Giaever;[1929];1973;Bergen;Norway;Bergen, Norway;60.3912628,5.3220544
+1973;M;physics;Leo Esaki;[2025];1973;Osaka;Japan;Osaka, Japan;60.3912628,5.3220544
+1974;M;chemistry;Paul J. Flory;[1910];1974;Sterling IL;USA;Sterling IL, USA;41.788642,-89.6962194
+1974;M;economics;Friedrich August von Hayek;[1899];1974;Vienna;Austria;Vienna, Austria;41.788642,-89.6962194
+1974;M;economics;Gunnar Myrdal;[1898];1974;Skattungbyn;Sweden;Skattungbyn, Sweden;61.1866825,14.8531629
+1974;M;literature;Eyvind Johnson;[1900];1974;Svartbjörnsbyn;Sweden;Svartbjörnsbyn, Sweden;NOK[ZERO_RESULTS]
+1974;M;literature;Harry Martinson;[1904];1974;Jämshög;Sweden;Jämshög, Sweden;56.2403103,14.5308835
+1974;M;medicine;Albert Claude;[1898];1974;Longlier;Belgium;Longlier, Belgium;49.85544,5.45288
+1974;M;medicine;Christian de Duve;[1917];1974;Thames Ditton;United Kingdom;Thames Ditton, United Kingdom;51.389686,-0.339189
+1974;M;medicine;George E. Palade;[1912];1974;Iasi;Romania;Iasi, Romania;47.1584549,27.6014418
+1974;M;peace;Eisaku Sato;[1901];1974;Tabuse;Japan;Tabuse, Japan;33.9547026,132.0413731
+1974;M;peace;Seán MacBride;[1904];1974;Paris;France;Paris, France;33.9547026,132.0413731
+1974;M;physics;Antony Hewish;[1924];1974;Fowey;United Kingdom;Fowey, United Kingdom;50.33499,-4.636525
+1974;M;physics;Sir Martin Ryle;[1918];1974;Brighton;United Kingdom;Brighton, United Kingdom;50.82253,-0.137163
+1975;M;chemistry;John Warcup Cornforth;[1917];1975;Sydney;Australia;Sydney, Australia;-33.8688197,151.2092955
+1975;M;chemistry;Vladimir Prelog;[1906];1975;Sarajevo;Austria-Hungary;Sarajevo, Bosnia and Herzegovina;43.8562586,18.4130763
+1975;M;economics;Leonid Vitaliyevich Kantorovich;[1912];1975;St. Petersburg;Russian Empire;St. Petersburg, Russian Empire;59.9358282,30.3206509
+1975;M;economics;Tjalling C. Koopmans;[1910];1975;s Graveland;the Netherlands;s Graveland, the Netherlands;52.2446819,5.1314775
+1975;M;literature;Eugenio Montale;[1896];1975;Genoa;Italy;Genoa, Italy;44.4056499,8.946256
+1975;M;medicine;David Baltimore;[1938];1975;New York NY;USA;New York NY, USA;44.4056499,8.946256
+1975;M;medicine;Howard Martin Temin;[1934];1975;Philadelphia PA;USA;Philadelphia PA, USA;39.9525839,-75.1652215
+1975;M;medicine;Renato Dulbecco;[1914];1975;Catanzaro;Italy;Catanzaro, Italy;38.9097919,16.5876516
+1975;M;peace;Andrei Dmitrievich Sakharov;[1921];1975;Moscow;Russia;Moscow, Russia;38.9097919,16.5876516
+1975;M;physics;Aage Niels Bohr;[1922];1975;Copenhagen;Denmark;Copenhagen, Denmark;38.9097919,16.5876516
+1975;M;physics;Ben Roy Mottelson;[1926];1975;Chicago IL;USA;Chicago IL, USA;38.9097919,16.5876516
+1975;M;physics;Leo James Rainwater;[1917];1975;Council ID;USA;Council ID, USA;44.7298876,-116.4381985
+1976;M;chemistry;William N. Lipscomb;[1919];1976;Cleveland OH;USA;Cleveland OH, USA;44.7298876,-116.4381985
+1976;M;economics;Milton Friedman;[1912];1976;Brooklyn NY;USA;Brooklyn NY, USA;44.7298876,-116.4381985
+1976;M;literature;Saul Bellow;[1915];1976;Montreal;Canada;Montreal, Canada;45.5016889,-73.567256
+1976;M;medicine;Baruch S. Blumberg;[1925];1976;New York NY;USA;New York NY, USA;45.5016889,-73.567256
+1976;M;medicine;D. Carleton Gajdusek;[1923];1976;Yonkers NY;USA;Yonkers NY, USA;45.5016889,-73.567256
+1976;F;peace;Betty Williams;[1943];1976;Belfast;Northern Ireland;Belfast, Northern Ireland;54.597285,-5.93012
+1976;F;peace;Mairead Corrigan;[1944];1976;Belfast;Northern Ireland;Belfast, Northern Ireland;54.597285,-5.93012
+1976;M;physics;Burton Richter;[1931];1976;Brooklyn NY;USA;Brooklyn NY, USA;54.597285,-5.93012
+1976;M;physics;Samuel Chao Chung Ting;[1936];1976;Ann Arbor MI;USA;Ann Arbor MI, USA;54.597285,-5.93012
+1977;M;chemistry;Ilya Prigogine;[1917];1977;Moscow;Russia;Moscow, Russia;54.597285,-5.93012
+1977;M;economics;Bertil Ohlin;[1899];1977;Klippan;Sweden;Klippan, Sweden;56.1348998,13.1290409
+1977;M;economics;James E. Meade;[1907];1977;Swanage;United Kingdom;Swanage, United Kingdom;50.608277,-1.960769
+1977;M;literature;Vicente Aleixandre;[1898];1977;Sevilla;Spain;Sevilla, Spain;37.3890924,-5.9844589
+1977;M;medicine;Andrew V. Schally;[1926];1977;Wilno;Poland;Vilnius, Lithuania;54.6871555,25.2796514
+1977;M;medicine;Roger Guillemin;[1924];1977;Dijon;France;Dijon, France;47.322047,5.04148
+1977;F;medicine;Rosalyn Yalow;[1921];1977;New York NY;USA;New York NY, USA;47.322047,5.04148
+1977;NA;peace;Amnesty International;[1961];1977;;United Kingdom;, United Kingdom;47.322047,5.04148
+1977;M;physics;John Hasbrouck van Vleck;[1899];1977;Middletown CT;USA;Middletown CT, USA;41.5623209,-72.6506488
+1977;M;physics;Philip Warren Anderson;[1923];1977;Indianapolis IN;USA;Indianapolis IN, USA;39.768403,-86.158068
+1977;M;physics;Sir Nevill Francis Mott;[1905];1977;Leeds;United Kingdom;Leeds, United Kingdom;53.8007554,-1.5490774
+1978;M;chemistry;Peter D. Mitchell;[1920];1978;Mitcham;United Kingdom;Mitcham, United Kingdom;51.402869,-0.166709
+1978;M;economics;Herbert A. Simon;[1916];1978;Milwaukee WI;USA;Milwaukee WI, USA;43.0389025,-87.9064736
+1978;M;literature;Isaac Bashevis Singer;[1904];1978;Leoncin;Russian Empire;Leoncin, Poland;52.3937748,20.5341061
+1978;M;medicine;Daniel Nathans;[1928];1978;Wilmington DE;USA;Wilmington DE, USA;39.7390721,-75.5397878
+1978;M;medicine;Hamilton O. Smith;[1931];1978;New York NY;USA;New York NY, USA;39.7390721,-75.5397878
+1978;M;medicine;Werner Arber;[1929];1978;Gränichen;Switzerland;Gränichen, Switzerland;47.3621015,8.0980292
+1978;M;peace;Menachem Begin;[1913];1978;Brest Litovsk;Russian Empire;Brest Litovsk, Belarus;52.0976214,23.7340503
+1978;M;peace;Mohamed Anwar al-Sadat;[1918];1978;Mit Abu al-Kawm;Egypt;Mit Abu al-Kawm, Egypt;30.6362958,30.91351
+1978;M;physics;Arno Allan Penzias;[1933];1978;Munich;Germany;Munich, Germany;30.6362958,30.91351
+1978;M;physics;Pyotr Leonidovich Kapitsa;[1894];1978;Kronshtadt;Russian Empire;Kronshtadt, Russian Empire;NOK[ZERO_RESULTS]
+1978;M;physics;Robert Woodrow Wilson;[1936];1978;Houston TX;USA;Houston TX, USA;29.7604267,-95.3698028
+1979;M;chemistry;Georg Wittig;[1897];1979;Berlin;Germany;Berlin, Germany;29.7604267,-95.3698028
+1979;M;chemistry;Herbert C. Brown;[1912];1979;London;United Kingdom;London, United Kingdom;29.7604267,-95.3698028
+1979;M;economics;Sir Arthur Lewis;[1915];1979;Castries;British West Indies;Castries, Saint Lucia;14.0101094,-60.9874687
+1979;M;economics;Theodore W. Schultz;[1902];1979;Arlington SD;USA;Arlington SD, USA;44.3644133,-97.1331212
+1979;M;literature;Odysseus Elytis;[1911];1979;Iráklion;Crete;Iráklion, Greece;35.3387352,25.1442126
+1979;M;medicine;Allan M. Cormack;[1924];1979;Johannesburg;South Africa;Johannesburg, South Africa;-26.2041028,28.0473051
+1979;M;medicine;Godfrey N. Hounsfield;[1919];1979;Newark;United Kingdom;Newark, United Kingdom;53.0700391,-0.80657
+1979;F;peace;Mother Teresa;[1910];1979;Uskup;Ottoman Empire;Skopje, Republic of Macedonia;41.9973462,21.4279956
+1979;M;physics;Abdus Salam;[1926];1979;Jhang ;India;Jhang, Pakistan;31.2780683,72.3316761
+1979;M;physics;Sheldon Lee Glashow;[1932];1979;New York NY;USA;New York NY, USA;31.2780683,72.3316761
+1979;M;physics;Steven Weinberg;[1933];1979;New York NY;USA;New York NY, USA;31.2780683,72.3316761
+1980;M;chemistry;Frederick Sanger;[1918];1980;Rendcombe;United Kingdom;Rendcombe, United Kingdom;31.2780683,72.3316761
+1980;M;chemistry;Paul Berg;[1926];1980;New York NY;USA;New York NY, USA;31.2780683,72.3316761
+1980;M;chemistry;Walter Gilbert;[1932];1980;Boston MA;USA;Boston MA, USA;31.2780683,72.3316761
+1980;M;economics;Lawrence R. Klein;[1920];1980;Omaha NE;USA;Omaha NE, USA;41.2565369,-95.9345034
+1980;M;literature;Czeslaw Milosz;[1911];1980;Šateiniai;Russian Empire;Šateiniai, Lithuania;55.3950409,24.034183
+1980;M;medicine;Baruj Benacerraf;[1920];1980;Caracas;Venezuela;Caracas, Venezuela;10.4805937,-66.9036063
+1980;M;medicine;George D. Snell;[1903];1980;Bradford MA;USA;Bradford MA, USA;42.7695348,-71.0758905
+1980;M;medicine;Jean Dausset;[1916];1980;Toulouse;France;Toulouse, France;43.604652,1.444209
+1980;M;peace;Adolfo Pérez Esquivel;[1931];1980;Buenos Aires;Argentina;Buenos Aires, Argentina;43.604652,1.444209
+1980;M;physics;James Watson Cronin;[1931];1980;Chicago IL;USA;Chicago IL, USA;43.604652,1.444209
+1980;M;physics;Val Logsdon Fitch;[2023];1980;Merriman NE;USA;Merriman NE, USA;42.9197225,-101.7007033
+1981;M;chemistry;Kenichi Fukui;[1918];1981;Nara;Japan;Nara, Japan;34.6850869,135.8050002
+1981;M;chemistry;Roald Hoffmann;[1937];1981;Zloczov;Poland;Zloczov, Poland;51.4171963,18.6035594
+1981;M;economics;James Tobin;[1918];1981;Champaign IL;USA;Champaign IL, USA;40.1164204,-88.2433829
+1981;M;literature;Elias Canetti;[1905];1981;Ruse;Bulgaria;Ruse, Bulgaria;43.8355713,25.9656554
+1981;M;medicine;David H. Hubel;[1926];1981;Windsor ON;Canada;Windsor ON, Canada;42.3149367,-83.0363633
+1981;M;medicine;Roger W. Sperry;[1913];1981;Hartford CT;USA;Hartford CT, USA;41.7658043,-72.6733723
+1981;M;medicine;Torsten N. Wiesel;[1924];1981;Uppsala;Sweden;Uppsala, Sweden;59.8585638,17.6389267
+1981;NA;peace;Office of the United Nations High Commissioner for Refugees (UNHCR);[1951];1981;;Switzerland;, Switzerland;59.8585638,17.6389267
+1981;M;physics;Arthur Leonard Schawlow;[1921];1981;Mount Verno NY;USA;Mount Verno NY, USA;40.9125992,-73.8370786
+1981;M;physics;Kai M. Siegbahn;[1918];1981;Lund;Sweden;Lund, Sweden;40.9125992,-73.8370786
+1981;M;physics;Nicolaas Bloembergen;[2020];1981;Dordrecht;the Netherlands;Dordrecht, the Netherlands;51.8132979,4.6900929
+1982;M;chemistry;Aaron Klug;[1926];1982;Zelvas;Lithuania;Zelvas, Lithuania;55.2186369,25.1004961
+1982;M;economics;George J. Stigler;[1911];1982;Renton WA;USA;Renton WA, USA;47.4828776,-122.2170661
+1982;M;literature;Gabriel García Márquez;[2028];1982;Aracataca;Colombia;Aracataca, Colombia;10.591925,-74.186103
+1982;M;medicine;Bengt I. Samuelsson;[1934];1982;Halmstad;Sweden;Halmstad, Sweden;56.6743748,12.8577885
+1982;M;medicine;John R. Vane;[2027];1982;Tardebigg;United Kingdom;Tardebigg, United Kingdom;52.3226928,-2.0068986
+1982;M;medicine;Sune K. Bergström;[1916];1982;Stockholm;Sweden;Stockholm, Sweden;52.3226928,-2.0068986
+1982;M;peace;Alfonso García Robles;[1911];1982;Zamora;Mexico;Zamora, Mexico;19.9901766,-102.2834075
+1982;F;peace;Alva Myrdal;[1902];1982;Uppsala;Sweden;Uppsala, Sweden;19.9901766,-102.2834075
+1982;M;physics;Kenneth G. Wilson;[1936];1982;Waltham MA;USA;Waltham MA, USA;42.3764852,-71.2356113
+1983;M;chemistry;Henry Taube;[1915];1983;Neudorf;Canada;Neudorf, Canada;50.7131318,-103.0121315
+1983;M;economics;Gerard Debreu;[1921];1983;Calais;France;Calais, France;50.95129,1.858686
+1983;M;literature;William Golding;[1911];1983;St. Columb Minor;United Kingdom;St. Columb Minor, United Kingdom;50.417808,-5.045908
+1983;F;medicine;Barbara McClintock;[1902];1983;Hartford CT;USA;Hartford CT, USA;50.417808,-5.045908
+1983;M;peace;Lech Walesa;[1943];1983;Popowo;Poland;Popowo, Poland;52.6870511,19.4243781
+1983;M;physics;Subramanyan Chandrasekhar;[1910];1983;Lahore;India;Lahore, Pakistan;31.5203696,74.3587473
+1983;M;physics;William Alfred Fowler;[1911];1983;Pittsburgh PA;USA;Pittsburgh PA, USA;31.5203696,74.3587473
+1984;M;chemistry;Robert Bruce Merrifield;[1921];1984;Fort Worth TX;USA;Fort Worth TX, USA;32.7554883,-97.3307658
+1984;M;economics;Richard Stone;[1913];1984;London;United Kingdom;London, United Kingdom;32.7554883,-97.3307658
+1984;M;literature;Jaroslav Seifert;[1901];1984;Prague;Austria-Hungary;Prague, Czech Republic;32.7554883,-97.3307658
+1984;M;medicine;César Milstein;[1927];1984;Bahia Blanca;Argentina;Bahia Blanca, Argentina;-38.7183177,-62.2663478
+1984;M;medicine;Georges J.F. Köhler;[1946];1984;Munich;Germany;Munich, Germany;-38.7183177,-62.2663478
+1984;M;medicine;Niels K. Jerne;[1911];1984;London;United Kingdom;London, United Kingdom;-38.7183177,-62.2663478
+1984;M;peace;Desmond Mpilo Tutu;[1931];1984;Klerksdorp;South Africa;Klerksdorp, South Africa;-26.8598225,26.6317514
+1984;M;physics;Carlo Rubbia;[1934];1984;Gorizia;Italy;Gorizia, Italy;45.9401812,13.6201754
+1984;M;physics;Simon van der Meer;[1925];1984;the Hague;the Netherlands;the Hague, the Netherlands;45.9401812,13.6201754
+1985;M;chemistry;Herbert A. Hauptman;[1917];1985;New York NY;USA;New York NY, USA;45.9401812,13.6201754
+1985;M;chemistry;Jerome Karle;[1918];1985;New York NY;USA;New York NY, USA;45.9401812,13.6201754
+1985;M;economics;Franco Modigliani;[1918];1985;Rome;Italy;Rome, Italy;45.9401812,13.6201754
+1985;M;literature;Claude Simon;[1913];1985;Tananarive;Madagascar;Antananarivo, Madagascar;-18.8791902,47.5079055
+1985;M;medicine;Joseph L. Goldstein;[1940];1985;Sumter SC;USA;Sumter SC, USA;33.9204354,-80.3414693
+1985;M;medicine;Michael S. Brown;[1941];1985;New York NY;USA;New York NY, USA;33.9204354,-80.3414693
+1985;NA;peace;International Physicians for the Prevention of Nuclear War;[1980];1985;MA;USA;MA, USA;42.4072107,-71.3824374
+1985;M;physics;Klaus von Klitzing;[1943];1985;Schroda;German-occupied Poland;Schroda, German-occupied Poland;NOK[ZERO_RESULTS]
+1986;M;chemistry;Dudley R. Herschbach;[1932];1986;San José CA;USA;San José CA, USA;37.3382082,-121.8863286
+1986;M;chemistry;John C. Polanyi;[1929];1986;Berlin;Germany;Berlin, Germany;37.3382082,-121.8863286
+1986;M;chemistry;Yuan T. Lee;[1936];1986;Hsinchu;Taiwan;Hsinchu, Taiwan;24.8138287,120.9674798
+1986;M;economics;James M. Buchanan Jr.;[1919];1986;Murfreesboro TN;USA;Murfreesboro TN, USA;35.8456213,-86.39027
+1986;M;literature;Wole Soyinka;[1934];1986;Abeokuta;Nigeria;Abeokuta, Nigeria;7.147502,3.3619356
+1986;F;medicine;Rita Levi-Montalcini;[1909];1986;Turin;Italy;Turin, Italy;45.070312,7.6868565
+1986;M;medicine;Stanley Cohen;[1922];1986;Brooklyn NY;USA;Brooklyn NY, USA;45.070312,7.6868565
+1986;M;peace;Elie Wiesel;[1928];1986;Sighet;Romania;Sighet, Romania;47.927707,23.8976506
+1986;M;physics;Ernst Ruska;[1906];1986;Heidelberg;Germany;Heidelberg, Germany;49.3987524,8.6724335
+1986;M;physics;Gerd Binnig;[1947];1986;Frankfurt-on-the-Main;West Germany;Frankfurt-on-the-Main, West Germany;50.1109221,8.6821267
+1986;M;physics;Heinrich Rohrer;[1933];1986;Buchs;Switzerland;Buchs, Switzerland;47.1655403,9.4708594
+1987;M;chemistry;Charles J. Pedersen;[1904];1987;Pusan;Korea;Pusan, Korea;35.1795543,129.0756416
+1987;M;chemistry;Donald J. Cram;[1919];1987;Chester VT;USA;Chester VT, USA;43.2628476,-72.5951082
+1987;M;chemistry;Jean-Marie Lehn;[1939];1987;Rosheim;France;Rosheim, France;48.496665,7.470529
+1987;M;economics;Robert M. Solow;[1924];1987;Brooklyn NY;USA;Brooklyn NY, USA;48.496665,7.470529
+1987;M;literature;Joseph Brodsky;[1940];1987;Leningrad;USSR;Saint Petersburg, Russia;59.9342802,30.3350986
+1987;M;medicine;Susumu Tonegawa;[1939];1987;Nagoya;Japan;Nagoya, Japan;35.1814464,136.906398
+1987;M;peace;Oscar Arias Sánchez;[1941];1987;Heredia;Costa Rica;Heredia, Costa Rica;9.9981413,-84.1197643
+1987;M;physics;J. Georg Bednorz;[1950];1987;Neuenkirchen;West Germany;Neuenkirchen, West Germany;52.2394623,7.3714554
+1987;M;physics;K. Alexander Müller;[1927];1987;Basel;Switzerland;Basel, Switzerland;47.5595986,7.5885761
+1988;M;chemistry;Hartmut Michel;[1948];1988;Ludwigsburg;West Germany;Ludwigsburg, West Germany;48.8940624,9.195464
+1988;M;chemistry;Johann Deisenhofer;[1943];1988;Zusamaltheim;Germany;Zusamaltheim, Germany;48.5313776,10.6360613
+1988;M;chemistry;Robert Huber;[1937];1988;Munich;Germany;Munich, Germany;48.5313776,10.6360613
+1988;M;economics;Maurice Allais;[1911];1988;Paris;France;Paris, France;48.5313776,10.6360613
+1988;M;literature;Naguib Mahfouz;[1911];1988;Cairo;Egypt;Cairo, Egypt;48.5313776,10.6360613
+1988;M;medicine;George H. Hitchings;[1905];1988;Hoquiam WA;USA;Hoquiam WA, USA;46.9809247,-123.8893348
+1988;F;medicine;Gertrude B. Elion;[1918];1988;New York NY;USA;New York NY, USA;46.9809247,-123.8893348
+1988;M;medicine;Sir James W. Black;[1924];1988;Uddingston;Scotland;Uddingston, Scotland;55.815735,-4.0791271
+1988;NA;peace;United Nations Peacekeeping Forces;[1948];1988;NY;USA;NY, USA;55.815735,-4.0791271
+1988;M;physics;Jack Steinberger;[1921];1988;Bad Kissingen;Germany;Bad Kissingen, Germany;50.2007337,10.080392
+1988;M;physics;Leon M. Lederman;[1922];1988;New York NY;USA;New York NY, USA;50.2007337,10.080392
+1988;M;physics;Melvin Schwartz;[1932];1988;New York NY;USA;New York NY, USA;50.2007337,10.080392
+1989;M;chemistry;Sidney Altman;[1939];1989;Montreal;Canada;Montreal, Canada;50.2007337,10.080392
+1989;M;chemistry;Thomas R. Cech;[1947];1989;Chicago IL;USA;Chicago IL, USA;50.2007337,10.080392
+1989;M;economics;Trygve Haavelmo;[1911];1989;Skedsmo;Norway;Skedsmo, Norway;59.9929184,11.0421988
+1989;M;literature;Camilo José Cela;[1916];1989;Iria Flavia;Spain;Iria Flavia, Spain;42.7459331,-8.6555896
+1989;M;medicine;Harold E. Varmus;[1939];1989;Oceanside NY;USA;Oceanside NY, USA;40.6387141,-73.6401296
+1989;M;medicine;J. Michael Bishop;[1936];1989;York PA;USA;York PA, USA;39.9625984,-76.727745
+1989;M;peace;The 14th Dalai Lama (Tenzin Gyatso);[1935];1989;Taktser;Tibet;Taktser, Tibet;36.377869,101.8655392
+1989;M;physics;Hans G. Dehmelt;[1922];1989;Görlitz;Germany;Görlitz, Germany;51.1506269,14.968707
+1989;M;physics;Norman F. Ramsey;[1915];1989;Washington DC;USA;Washington DC, USA;38.9071923,-77.0368707
+1989;M;physics;Wolfgang Paul;[1913];1989;Lorenzkirch;Germany;Lorenzkirch, Germany;51.3560031,13.243844
+1990;M;chemistry;Elias James Corey;[1928];1990;Methuen MA;USA;Methuen MA, USA;42.7262016,-71.1908924
+1990;M;economics;Harry M. Markowitz;[1927];1990;Chicago IL;USA;Chicago IL, USA;42.7262016,-71.1908924
+1990;M;economics;Merton H. Miller;[1923];1990;Boston MA;USA;Boston MA, USA;42.7262016,-71.1908924
+1990;M;economics;William F. Sharpe;[1934];1990;Boston MA;USA;Boston MA, USA;42.7262016,-71.1908924
+1990;M;literature;Octavio Paz;[1914];1990;Mexico City;Mexico;Mexico City, Mexico;19.4326077,-99.133208
+1990;M;medicine;E. Donnall Thomas;[2020];1990;Mart TX;USA;Mart TX, USA;31.5423911,-96.8336015
+1990;M;medicine;Joseph E. Murray;[1919];1990;Milford MA;USA;Milford MA, USA;42.1398577,-71.5163049
+1990;M;peace;Mikhail Sergeyevich Gorbachev;[1931];1990;Privolnoye;USSR;Privolnoye, USSR;NOK[ZERO_RESULTS]
+1990;M;physics;Henry W. Kendall;[1926];1990;Boston MA;USA;Boston MA, USA;NOK[ZERO_RESULTS]
+1990;M;physics;Jerome I. Friedman;[1930];1990;Chicago IL;USA;Chicago IL, USA;NOK[ZERO_RESULTS]
+1990;M;physics;Richard E. Taylor;[1929];1990;Medicine Hat Alberta;Canada;Medicine Hat Alberta, Canada;50.0405486,-110.6764257
+1991;M;chemistry;Richard R. Ernst;[1933];1991;Winterthur;Switzerland;Winterthur, Switzerland;47.4988196,8.7236889
+1991;M;economics;Ronald H. Coase;[1910];1991;Willesden;United Kingdom;Willesden, United Kingdom;51.548961,-0.239096
+1991;F;literature;Nadine Gordimer;[1923];1991;Springs;South Africa;Springs, South Africa;-26.2607243,28.4630376
+1991;M;medicine;Bert Sakmann;[1942];1991;Stuttgart;Germany;Stuttgart, Germany;-26.2607243,28.4630376
+1991;M;medicine;Erwin Neher;[1944];1991;Landsberg;Germany;Landsberg, Germany;48.050783,10.8703515
+1991;F;peace;Aung San Suu Kyi;[1945];1991;Rangoon;Burma;Yangon, Myanmar;16.8660694,96.195132
+1991;M;physics;Pierre-Gilles de Gennes;[1932];1991;Paris;France;Paris, France;16.8660694,96.195132
+1992;M;chemistry;Rudolph A. Marcus;[1923];1992;Montreal;Canada;Montreal, Canada;16.8660694,96.195132
+1992;M;economics;Gary S. Becker;[1930];1992;Pottsville PA;USA;Pottsville PA, USA;40.6856456,-76.195499
+1992;M;literature;Derek Walcott;[1930];1992;Castries;Saint Lucia;Castries, Saint Lucia;40.6856456,-76.195499
+1992;M;medicine;Edmond H. Fischer;[1920];1992;Shanghai;China;Shanghai, China;40.6856456,-76.195499
+1992;M;medicine;Edwin G. Krebs;[1918];1992;Lansing IA;USA;Lansing IA, USA;43.3609053,-91.218768
+1992;F;peace;Rigoberta Menchú Tum;[1959];1992;Aldea Chimel;Guatemala;Aldea Chimel, Guatemala;NOK[ZERO_RESULTS]
+1992;M;physics;Georges Charpak;[1924];1992;Dabrovica;Poland;Dabrovica, Poland;50.4874693,21.6168029
+1993;M;chemistry;Kary B. Mullis;[1944];1993;Lenoir NC;USA;Lenoir NC, USA;35.9140196,-81.5389849
+1993;M;chemistry;Michael Smith;[1932];1993;Blackpool;United Kingdom;Blackpool, United Kingdom;53.8175053,-3.0356748
+1993;M;economics;Douglass C. North;[1920];1993;Cambridge MA;USA;Cambridge MA, USA;53.8175053,-3.0356748
+1993;M;economics;Robert W. Fogel;[1927];1993;New York NY;USA;New York NY, USA;53.8175053,-3.0356748
+1993;M;literature;Toni Morrison;[1931];1993;Lorain OH;USA;Lorain OH, USA;41.452819,-82.1823746
+1993;M;medicine;Phillip A. Sharp;[1944];1993;Falmouth KY;USA;Falmouth KY, USA;38.6767372,-84.3302142
+1993;M;medicine;Richard J. Roberts;[1943];1993;Derby;United Kingdom;Derby, United Kingdom;52.9225301,-1.4746186
+1993;M;peace;Frederik Willem de Klerk;[1936];1993;Johannesburg;South Africa;Johannesburg, South Africa;52.9225301,-1.4746186
+1993;M;peace;Nelson Mandela;[1918];1993;Qunu;South Africa;Qunu, South Africa;-31.7881448,28.6235619
+1993;M;physics;Joseph H. Taylor Jr.;[1941];1993;Philadelphia PA;USA;Philadelphia PA, USA;-31.7881448,28.6235619
+1993;M;physics;Russell A. Hulse;[1950];1993;New York NY;USA;New York NY, USA;-31.7881448,28.6235619
+1994;M;chemistry;George A. Olah;[1927];1994;Budapest;Hungary;Budapest, Hungary;-31.7881448,28.6235619
+1994;M;economics;John C. Harsanyi;[1920];1994;Budapest;Hungary;Budapest, Hungary;-31.7881448,28.6235619
+1994;M;economics;John F. Nash Jr.;[1928];1994;Bluefield WV;USA;Bluefield WV, USA;37.2698395,-81.2223195
+1994;M;economics;Reinhard Selten;[1930];1994;Breslau;Germany;Wroclaw, Poland;37.2698395,-81.2223195
+1994;M;literature;Kenzaburo Oe;[1935];1994;Uchiko;Japan;Uchiko, Japan;33.532902,132.6580066
+1994;M;medicine;Alfred G. Gilman;[1941];1994;New Haven CT;USA;New Haven CT, USA;41.308274,-72.9278835
+1994;M;medicine;Martin Rodbell;[1925];1994;Baltimore MD;USA;Baltimore MD, USA;41.308274,-72.9278835
+1994;M;peace;Shimon Peres;[1923];1994;Vishneva;Poland;Vishneva, Belarus;54.1440921,26.2103909
+1994;M;peace;Yasser Arafat;[1929];1994;Cairo;Egypt;Cairo, Egypt;54.1440921,26.2103909
+1994;M;peace;Yitzhak Rabin;[2022];1994;Jerusalem;British Mandate of Palestine;Jerusalem, Israel;31.768319,35.21371
+1994;M;physics;Bertram N. Brockhouse;[1918];1994;Lethbridge Alberta;Canada;Lethbridge Alberta, Canada;49.69349,-112.84184
+1994;M;physics;Clifford G. Shull;[1915];1994;Pittsburgh PA;USA;Pittsburgh PA, USA;49.69349,-112.84184
+1995;F;chemistry;F. Sherwood Rowland;[1927];1995;Delaware OH;USA;Delaware OH, USA;40.2986724,-83.067965
+1995;M;chemistry;Mario J. Molina;[1943];1995;Mexico City;Mexico;Mexico City, Mexico;40.2986724,-83.067965
+1995;M;chemistry;Paul J. Crutzen;[1933];1995;Amsterdam;the Netherlands;Amsterdam, the Netherlands;40.2986724,-83.067965
+1995;M;economics;Robert E. Lucas Jr.;[1937];1995;Yakima WA;USA;Yakima WA, USA;46.6020711,-120.5058987
+1995;M;literature;Seamus Heaney;[1939];1995;Casteldŕwson;Northern Ireland;Casteldŕwson, Northern Ireland;NOK[ZERO_RESULTS]
+1995;F;medicine;Christiane Nüsslein-Volhard;[1942];1995;Magdeburg;Germany;Magdeburg, Germany;52.1205333,11.6276237
+1995;M;medicine;Edward B. Lewis;[1918];1995;Wilkes-Barre PA;USA;Wilkes-Barre PA, USA;41.2459149,-75.8813075
+1995;M;medicine;Eric F. Wieschaus;[1947];1995;South Bend IN;USA;South Bend IN, USA;41.6763545,-86.2519898
+1995;M;peace;Joseph Rotblat;[1908];1995;Warsaw;Russian Empire;Warsaw, Poland;41.6763545,-86.2519898
+1995;NA;peace;Pugwash Conferences on Science and World Affairs;[1957];1995;;Canada;, Canada;56.130366,-106.346771
+1995;M;physics;Frederick Reines;[1918];1995;Paterson NJ;USA;Paterson NJ, USA;40.9167654,-74.171811
+1995;M;physics;Martin L. Perl;[1927];1995;New York NY;USA;New York NY, USA;40.9167654,-74.171811
+1996;M;chemistry;Richard E. Smalley;[1943];1996;Akron OH;USA;Akron OH, USA;41.0814447,-81.5190053
+1996;M;chemistry;Robert F. Curl Jr.;[1933];1996;Alice TX;USA;Alice TX, USA;27.7522487,-98.0697249
+1996;M;chemistry;Sir Harold W. Kroto;[1939];1996;Wisbech;United Kingdom;Wisbech, United Kingdom;52.666317,0.158797
+1996;M;economics;James A. Mirrlees;[1936];1996;Minnigaff;Scotland;Minnigaff, Scotland;54.967523,-4.483444
+1996;M;economics;William Vickrey;[1914];1996;Victoria BC;Canada;Victoria BC, Canada;48.4284207,-123.3656444
+1996;F;literature;Wislawa Szymborska;[1923];1996;Bnin;Poland;Kórnik, Poland;52.2467738,17.0901297
+1996;M;medicine;Peter C. Doherty;[1940];1996;Brisbane;Australia;Brisbane, Australia;-27.4697707,153.0251235
+1996;M;medicine;Rolf M. Zinkernagel;[1944];1996;Basel;Switzerland;Basel, Switzerland;-27.4697707,153.0251235
+1996;M;peace;Carlos Filipe Ximenes Belo;[1948];1996;Wailacama;East Timor;Wailacama, East Timor;NOK[ZERO_RESULTS]
+1996;M;peace;José Ramos-Horta;[1949];1996;Dili;East Timor;Dili, East Timor;-8.5568557,125.5603143
+1996;M;physics;David M. Lee;[1931];1996;Rye NY;USA;Rye NY, USA;40.9806535,-73.6837399
+1996;M;physics;Douglas D. Osheroff;[1945];1996;Aberdeen WA;USA;Aberdeen WA, USA;46.9753708,-123.8157218
+1996;M;physics;Robert C. Richardson;[1937];1996;Washington DC;USA;Washington DC, USA;46.9753708,-123.8157218
+1997;M;chemistry;Jens C. Skou;[1918];1997;Lemvig;Denmark;Lemvig, Denmark;56.5443443,8.3024871
+1997;M;chemistry;John E. Walker;[1941];1997;Halifax;United Kingdom;Halifax, United Kingdom;53.72702,-1.85754
+1997;M;chemistry;Paul D. Boyer;[1918];1997;Provo UT;USA;Provo UT, USA;40.2338438,-111.6585337
+1997;M;economics;Myron S. Scholes;[1941];1997;Timmins ON;Canada;Timmins ON, Canada;48.4758208,-81.3304953
+1997;M;economics;Robert C. Merton;[1949];1997;New York NY;USA;New York NY, USA;48.4758208,-81.3304953
+1997;M;literature;Dario Fo;[2026];1997;Leggiuno-Sangiano;Italy;Leggiuno-Sangiano, Italy;45.8747686,8.6207601
+1997;M;medicine;Stanley B. Prusiner;[1942];1997;Des Moines IA;USA;Des Moines IA, USA;41.6005448,-93.6091064
+1997;NA;peace;International Campaign to Ban Landmines (ICBL);;1997;;;, ;NOK[ZERO_RESULTS]
+1997;F;peace;Jody Williams;[1950];1997;Putney VT;USA;Putney VT, USA;42.975268,-72.5217237
+1997;M;physics;Claude Cohen-Tannoudji;[1933];1997;Constantine;Algeria;Constantine, Algeria;36.360155,6.642433
+1997;M;physics;Steven Chu;[1948];1997;St. Louis MO;USA;St. Louis MO, USA;36.360155,6.642433
+1997;M;physics;William D. Phillips;[1948];1997;Wilkes-Barre PA;USA;Wilkes-Barre PA, USA;36.360155,6.642433
+1998;M;chemistry;John A. Pople;[1925];1998;Burnham-on-Sea;United Kingdom;Burnham-on-Sea, United Kingdom;51.240139,-2.993858
+1998;M;chemistry;Walter Kohn;[2023];1998;Vienna;Austria;Vienna, Austria;51.240139,-2.993858
+1998;M;economics;Amartya Sen;[1933];1998;Santiniketan;India;Santiniketan, India;23.6776471,87.6852323
+1998;M;literature;José Saramago;[1922];1998;Azinhaga;Portugal;Azinhaga, Portugal;39.3692437,-8.539144
+1998;M;medicine;Ferid Murad;[1936];1998;Whiting IN;USA;Whiting IN, USA;41.6797578,-87.4944873
+1998;M;medicine;Louis J. Ignarro;[1941];1998;Brooklyn NY;USA;Brooklyn NY, USA;41.6797578,-87.4944873
+1998;M;medicine;Robert F. Furchgott;[1916];1998;Charleston SC;USA;Charleston SC, USA;32.7764749,-79.9310512
+1998;M;peace;David Trimble;[1944];1998;Belfast;Northern Ireland;Belfast, Northern Ireland;32.7764749,-79.9310512
+1998;M;peace;John Hume;[1937];1998;Londonderry;Northern Ireland;Londonderry, Northern Ireland;54.9966124,-7.3085748
+1998;M;physics;Daniel C. Tsui;[1939];1998;Henan;China;Henan, China;34.2904302,113.3823545
+1998;M;physics;Horst L. Störmer;[1949];1998;Frankfurt-on-the-Main;West Germany;Frankfurt-on-the-Main, West Germany;34.2904302,113.3823545
+1998;M;physics;Robert B. Laughlin;[1950];1998;Visalia CA;USA;Visalia CA, USA;36.3302284,-119.2920585
+1999;M;chemistry;Ahmed H. Zewail;[1946];1999;Damanhur;Egypt;Damanhur, Egypt;31.0424566,30.4727503
+1999;M;economics;Robert A. Mundell;[1932];1999;Kingston ON;Canada;Kingston ON, Canada;44.2311717,-76.4859544
+1999;M;literature;Günter Grass;[1927];1999;Danzig;Free City of Danzig;Gdansk, Poland;54.3520252,18.6466384
+1999;M;medicine;Günter Blobel;[1936];1999;Waltersdorf;Germany;Niegoslawice, Poland;51.5875867,15.7131691
+1999;NA;peace;Médecins Sans Frontičres;[1971];1999;;France;, France;46.227638,2.213749
+1999;M;physics;Gerardus 't Hooft;[1946];1999;Den Helder;the Netherlands;Den Helder, the Netherlands;52.9562808,4.7607971
+1999;M;physics;Martinus J.G. Veltman;[1931];1999;Waalwijk;the Netherlands;Waalwijk, the Netherlands;51.6878954,5.0574822
+2000;M;chemistry;Alan G. MacDiarmid;[1927];2000;Masterton;New Zealand;Masterton, New Zealand;-40.9511118,175.6573502
+2000;M;chemistry;Alan J. Heeger;[1936];2000;Sioux City IA;USA;Sioux City IA, USA;42.4999942,-96.4003069
+2000;M;chemistry;Hideki Shirakawa;[1936];2000;Tokyo;Japan;Tokyo, Japan;42.4999942,-96.4003069
+2000;M;economics;Daniel L. McFadden;[1937];2000;Raleigh NC;USA;Raleigh NC, USA;35.7795897,-78.6381787
+2000;M;economics;James J. Heckman;[1944];2000;Chicago IL;USA;Chicago IL, USA;35.7795897,-78.6381787
+2000;M;literature;Gao Xingjian;[1940];2000;Ganzhou;China;Ganzhou, China;25.830694,114.933546
+2000;M;medicine;Arvid Carlsson;[1923];2000;Uppsala;Sweden;Uppsala, Sweden;25.830694,114.933546
+2000;M;medicine;Eric R. Kandel;[1929];2000;Vienna;Austria;Vienna, Austria;25.830694,114.933546
+2000;M;medicine;Paul Greengard;[1925];2000;New York NY;USA;New York NY, USA;25.830694,114.933546
+2000;M;peace;Kim Dae-jung;[1925];2000;Mokpo;Korea;Mokpo, South Korea;34.8118351,126.3921664
+2000;M;physics;Herbert Kroemer;[1928];2000;Weimar;Germany;Weimar, Germany;50.9794934,11.3235439
+2000;M;physics;Jack S. Kilby;[1923];2000;Jefferson City MO;USA;Jefferson City MO, USA;38.5767017,-92.1735164
+2000;M;physics;Zhores I. Alferov;[1930];2000;Vitebsk Belorussia;USSR;Vitebsk, Belarus;55.1848061,30.201622
+2001;M;chemistry;K. Barry Sharpless;[1941];2001;Philadelphia PA;USA;Philadelphia PA, USA;55.1848061,30.201622
+2001;M;chemistry;Ryoji Noyori;[1938];2001;Kobe;Japan;Kobe, Japan;34.690083,135.1955112
+2001;M;chemistry;William S. Knowles;[1917];2001;Taunton MA;USA;Taunton MA, USA;41.900101,-71.0897674
+2001;M;economics;A. Michael Spence;1943;58;Montclair NJ;USA;Montclair NJ, USA;41.900101,-71.0897674
+2001;M;economics;George A. Akerlof;[1940];2001;New Haven CT;USA;New Haven CT, USA;41.900101,-71.0897674
+2001;M;economics;Joseph E. Stiglitz;[1943];2001;Gary IN;USA;Gary IN, USA;41.900101,-71.0897674
+2001;M;literature;Sir Vidiadhar Surajprasad Naipaul;[1932];2001;Chaguanas;Trinidad;Chaguanas, Trinidad;10.5331201,-61.3968598
+2001;M;medicine;Leland H. Hartwell;[1939];2001;Los Angeles CA;USA;Los Angeles CA, USA;10.5331201,-61.3968598
+2001;M;medicine;Sir Paul M. Nurse;[1949];2001;Norwich;United Kingdom;Norwich, United Kingdom;52.6308859,1.297355
+2001;M;medicine;Tim Hunt;[1943];2001;Neston;United Kingdom;Neston, United Kingdom;53.290584,-3.069102
+2001;M;peace;Kofi Annan;[1938];2001;Kumasi;Gold Coast;Kumasi, Ghana;6.6666004,-1.6162709
+2001;NA;peace;United Nations (U.N.);[1945];2001;NY;USA;NY, USA;6.6666004,-1.6162709
+2001;M;physics;Carl E. Wieman;[1951];2001;Corvallis OR;USA;Corvallis OR, USA;44.5645659,-123.2620435
+2001;M;physics;Eric A. Cornell;[1961];2001;Palo Alto CF;USA;Palo Alto CF, USA;37.4418834,-122.1430195
+2001;M;physics;Wolfgang Ketterle;[1957];2001;Heidelberg;West Germany;Heidelberg, West Germany;49.3987524,8.6724335
+2002;M;chemistry;John B. Fenn;[1917];2002;New York NY;USA;New York NY, USA;49.3987524,8.6724335
+2002;M;chemistry;Koichi Tanaka;[1959];2002;Toyama City;Japan;Toyama City, Japan;36.6959518,137.2136768
+2002;M;chemistry;Kurt Wüthrich;[1938];2002;Aarberg;Switzerland;Aarberg, Switzerland;47.0420553,7.2751012
+2002;M;economics;Daniel Kahneman;[1934];2002;Tel Aviv;British Mandate of Palestine;Tel Aviv, Israel;32.0852999,34.7817676
+2002;M;economics;Vernon L. Smith;[1927];2002;Wichita KS;USA;Wichita KS, USA;37.6871761,-97.330053
+2002;M;literature;Imre Kertész;[1929];2002;Budapest;Hungary;Budapest, Hungary;37.6871761,-97.330053
+2002;M;medicine;H. Robert Horvitz;[1947];2002;Chicago IL;USA;Chicago IL, USA;37.6871761,-97.330053
+2002;M;medicine;John E. Sulston;[1942];2002;Cambridge;United Kingdom;Cambridge, United Kingdom;37.6871761,-97.330053
+2002;M;medicine;Sydney Brenner;[1927];2002;Germiston;South Africa;Germiston, South Africa;-26.2258734,28.1707794
+2002;M;peace;Jimmy Carter;[1924];2002;Plains GA;USA;Plains GA, USA;32.0340508,-84.3926912
+2002;M;physics;Masatoshi Koshiba;[1926];2002;Toyohashi;Japan;Toyohashi, Japan;34.7691995,137.3914662
+2002;M;physics;Raymond Davis Jr.;[1914];2002;Washington DC;USA;Washington DC, USA;34.7691995,137.3914662
+2002;M;physics;Riccardo Giacconi;[1931];2002;Genoa;Italy;Genoa, Italy;34.7691995,137.3914662
+2003;M;chemistry;Peter Agre;[1949];2003;Northfield MN;USA;Northfield MN, USA;44.4582983,-93.161604
+2003;M;chemistry;Roderick MacKinnon;[1956];2003;Burlington MA;USA;Burlington MA, USA;42.5047161,-71.1956205
+2003;M;economics;Clive W.J. Granger;[1934];2003;Swansea;United Kingdom;Swansea, United Kingdom;51.62144,-3.943646
+2003;M;economics;Robert F. Engle III;[1942];2003;Syracuse NY;USA;Syracuse NY, USA;43.0481221,-76.1474244
+2003;M;literature;John M. Coetzee;[1940];2003;Cape Town;South Africa;Cape Town, South Africa;-33.9248685,18.4240553
+2003;M;medicine;Paul C. Lauterbur;[1929];2003;Sidney OH;USA;Sidney OH, USA;40.2842164,-84.1554987
+2003;M;medicine;Sir Peter Mansfield;[1933];2003;London;United Kingdom;London, United Kingdom;40.2842164,-84.1554987
+2003;F;peace;Shirin Ebadi;[1947];2003;Hamadan;Iran;Hamadan, Iran;34.7988575,48.5150225
+2003;M;physics;Alexei A. Abrikosov;[1928];2003;Moscow;USSR;Moscow, Russia;34.7988575,48.5150225
+2003;M;physics;Anthony J. Leggett;[1938];2003;London;United Kingdom;London, United Kingdom;34.7988575,48.5150225
+2003;M;physics;Vitaly L. Ginzburg;[1916];2003;Moscow;Russia;Moscow, Russia;34.7988575,48.5150225
+2004;M;chemistry;Aaron Ciechanover;[1947];2004;Haifa;British Protectorate of Palestine;Haifa, Israel;32.7940463,34.989571
+2004;M;chemistry;Avram Hershko;[1937];2004;Karcag;Hungary;Karcag, Hungary;47.3148629,20.9196518
+2004;M;chemistry;Irwin Rose;[1926];2004;Brooklyn NY;USA;Brooklyn NY, USA;47.3148629,20.9196518
+2004;M;economics;Edward C. Prescott;[1940];2004;Glens Falls NY;USA;Glens Falls NY, USA;43.3095164,-73.6440058
+2004;M;economics;Finn E. Kydland;[1943];2004;Gjesdal;Norway;Gjesdal, Norway;58.8353384,6.3127272
+2004;F;literature;Elfriede Jelinek;[1946];2004;Mürzzuschlag;Austria;Mürzzuschlag, Austria;47.60687,15.67171
+2004;F;medicine;Linda B. Buck;[1947];2004;Seattle WA;USA;Seattle WA, USA;47.6062095,-122.3320708
+2004;M;medicine;Richard Axel;[1946];2004;New York NY;USA;New York NY, USA;47.6062095,-122.3320708
+2004;F;peace;Wangari Muta Maathai;[1940];2004;Nyeri;Kenya;Nyeri, Kenya;-0.437099,36.9580104
+2004;M;physics;David J. Gross;[1941];2004;Washington DC;USA;Washington DC, USA;-0.437099,36.9580104
+2004;M;physics;Frank Wilczek;[1951];2004;New York NY;USA;New York NY, USA;-0.437099,36.9580104
+2004;M;physics;H. David Politzer;[1949];2004;New York NY;USA;New York NY, USA;-0.437099,36.9580104
+2005;M;chemistry;Richard R. Schrock;[1945];2005;Berne IN;USA;Berne IN, USA;40.6578242,-84.9519115
+2005;M;chemistry;Robert H. Grubbs;[1942];2005;Possum Trot KY;USA;Possum Trot KY, USA;37.0056129,-88.4305964
+2005;M;chemistry;Yves Chauvin;[1930];2005;Menin;France;Menin, France;50.8519937,2.8911326
+2005;M;economics;Robert J. Aumann;[1930];2005;Frankfurt-on-the-Main;Germany;Frankfurt-on-the-Main, Germany;50.8519937,2.8911326
+2005;M;economics;Thomas C. Schelling;[1921];2005;Oakland CA;USA;Oakland CA, USA;37.8043637,-122.2711137
+2005;M;literature;Harold Pinter;[1930];2005;London;United Kingdom;London, United Kingdom;37.8043637,-122.2711137
+2005;M;medicine;Barry J. Marshall;[1951];2005;Kalgoorlie;Australia;Kalgoorlie, Australia;-30.749,121.466
+2005;M;medicine;J. Robin Warren;[1937];2005;Adelaide;Australia;Adelaide, Australia;-30.749,121.466
+2005;NA;peace;International Atomic Energy Agency (IAEA);[1957];2005;;Austria;, Austria;47.516231,14.550072
+2005;M;peace;Mohamed ElBaradei;[1942];2005;Cairo;Egypt;Cairo, Egypt;47.516231,14.550072
+2005;M;physics;John L. Hall;[1934];2005;Denver CO;USA;Denver CO, USA;39.7392358,-104.990251
+2005;M;physics;Roy J. Glauber;[1925];2005;New York NY;USA;New York NY, USA;39.7392358,-104.990251
+2005;M;physics;Theodor W. Hänsch;[1941];2005;Heidelberg;Germany;Heidelberg, Germany;39.7392358,-104.990251
+2006;M;chemistry;Roger D. Kornberg;[1947];2006;St. Louis MO;USA;St. Louis MO, USA;39.7392358,-104.990251
+2006;M;economics;Edmund S. Phelps;[1933];2006;Evanston IL;USA;Evanston IL, USA;42.0450722,-87.6876969
+2006;M;literature;Orhan Pamuk;[1952];2006;Istanbul;Turkey;Istanbul, Turkey;41.0082376,28.9783589
+2006;M;medicine;Andrew Z. Fire;[1959];2006;Stanford CA;USA;Stanford CA, USA;37.424106,-122.1660756
+2006;M;medicine;Craig C. Mello;[1960];2006;New Haven CT;USA;New Haven CT, USA;37.424106,-122.1660756
+2006;NA;peace;Grameen Bank;[1976];2006;;Bangladesh;, Bangladesh;23.684994,90.356331
+2006;M;peace;Muhammad Yunus;[1940];2006;Chittagong;British India;Chittagong, Bangladesh;22.356851,91.7831819
+2006;M;physics;George F. Smoot;[1945];2006;Yukon FL;USA;Yukon FL, USA;30.2346543,-81.6979968
+2006;M;physics;John C. Mather;[1946];2006;Roanoke VA;USA;Roanoke VA, USA;37.2709704,-79.9414266
+2007;M;chemistry;Gerhard Ertl;[1936];2007;Bad Cannstatt;Germany;Bad Cannstatt, Germany;48.8084576,9.2250355
+2007;M;economics;Eric S. Maskin;[1950];2007;New York NY;USA;New York NY, USA;48.8084576,9.2250355
+2007;M;economics;Leonid Hurwicz;[1917];2007;Moscow;Russia;Moscow, Russia;48.8084576,9.2250355
+2007;M;economics;Roger B. Myerson;[1951];2007;Boston MA;USA;Boston MA, USA;48.8084576,9.2250355
+2007;F;literature;Doris Lessing;[1919];2007;Kermanshah;Persia;Kermanshah, Iran;34.3276924,47.0777685
+2007;M;medicine;Mario R. Capecchi;[1937];2007;Verona;Italy;Verona, Italy;45.4383842,10.9916215
+2007;M;medicine;Oliver Smithies;[1925];2007;Halifax;United Kingdom;Halifax, United Kingdom;45.4383842,10.9916215
+2007;M;medicine;Sir Martin J. Evans;[1941];2007;Stroud;United Kingdom;Stroud, United Kingdom;51.745734,-2.217758
+2007;M;peace;Albert Arnold (Al) Gore Jr.;[1948];2007;Washington DC;USA;Washington DC, USA;51.745734,-2.217758
+2007;NA;peace;Intergovernmental Panel on Climate Change (IPCC);[1988];2007;NY;USA;NY, USA;51.745734,-2.217758
+2007;M;physics;Albert Fert;[1938];2007;Carcassonne;France;Carcassonne, France;51.745734,-2.217758
+2007;M;physics;Peter Grünberg;[1939];2007;Plzen;Czechoslovakia;Plzen, Czech Republic;49.7384314,13.3736371
+2008;M;chemistry;Martin Chalfie;1947;61;Chicago IL;USA;Chicago IL, USA;49.7384314,13.3736371
+2008;M;chemistry;Osamu Shimomura;1928;80;Kyoto;Japan;Kyoto, Japan;49.7384314,13.3736371
+2008;M;chemistry;Roger Y. Tsien;[1952];2008;New York NY;USA;New York NY, USA;49.7384314,13.3736371
+2008;M;economics;Paul Krugman;[1953];2008;New York NY;USA;New York NY, USA;49.7384314,13.3736371
+2008;M;literature;Jean-Marie Gustave Le Clézio;[1940];2008;Nice;France;Nice, France;43.7101728,7.2619532
+2008;F;medicine;Françoise Barré-Sinoussi;[1947];2008;Paris;France;Paris, France;43.7101728,7.2619532
+2008;M;medicine;Harald zur Hausen;[1936];2008;Gelsenkirchen;Germany;Gelsenkirchen, Germany;51.517744,7.0857172
+2008;M;medicine;Luc Montagnier;[1932];2008;Chabris;France;Chabris, France;47.25447,1.654295
+2008;M;peace;Martti Ahtisaari;[1937];2008;Viipuri;Finland;Vyborg, Russia;60.7139529,28.7571571
+2008;M;physics;Makoto Kobayashi;[1944];2008;Nagoya;Japan;Nagoya, Japan;60.7139529,28.7571571
+2008;M;physics;Toshihide Maskawa;1940;68;Nagoya;Japan;Nagoya, Japan;60.7139529,28.7571571
+2008;M;physics;Yoichiro Nambu;[1921];2008;Tokyo;Japan;Tokyo, Japan;60.7139529,28.7571571
+2009;F;chemistry;Ada E. Yonath;[1939];2009;Jerusalem;Israel;Jerusalem, Israel;60.7139529,28.7571571
+2009;M;chemistry;Thomas A. Steitz;[1940];2009;Milwaukee WI;USA;Milwaukee WI, USA;60.7139529,28.7571571
+2009;M;chemistry;Venkatraman Ramakrishnan;1952;57;Chidambaram Tamil Nadu;India;Chidambaram Tamil Nadu, India;11.3981936,79.6953594
+2009;F;economics;Elinor Ostrom;[1933];2009;New York NY;USA;New York NY, USA;11.3981936,79.6953594
+2009;M;economics;Oliver E. Williamson;[1932];2009;Superior WI;USA;Superior WI, USA;46.7207737,-92.1040796
+2009;F;literature;Herta Müller;[1953];2009;Nitzkydorf Banat;Romania;Nitzkydorf Banat, Romania;45.578502,21.5359018
+2009;M;medicine;Carol W. Greider;[1961];2009;San Diego CA;USA;San Diego CA, USA;32.715738,-117.1610838
+2009;F;medicine;Elizabeth H. Blackburn;[1948];2009;Hobart Tasmania;Australia;Hobart Tasmania, Australia;-42.8821377,147.3271949
+2009;M;medicine;Jack W. Szostak;[1952];2009;London;United Kingdom;London, United Kingdom;-42.8821377,147.3271949
+2009;M;peace;Barack H. Obama;[1961];2009;Honolulu HI;USA;Honolulu HI, USA;21.3069444,-157.8583333
+2009;M;physics;Charles K. Kao;[1933];2009;Shanghai;China;Shanghai, China;21.3069444,-157.8583333
+2009;M;physics;George E. Smith;[1930];2009;White Plains NY;USA;White Plains NY, USA;41.0339862,-73.7629097
+2009;M;physics;Willard S. Boyle;[1924];2009;Amherst NS;Canada;Amherst NS, Canada;45.816667,-64.2167206
+2010;M;chemistry;Akira Suzuki;1930;80;Mukawa;Japan;Mukawa, Japan;42.5748066,141.9267504
+2010;M;chemistry;Ei-ichi Negishi;1935;75;Changchun;China;Changchun, China;43.817071,125.323544
+2010;M;chemistry;Richard F. Heck;1931;79;Springfield MA;USA;Springfield MA, USA;42.1014831,-72.589811
+2010;M;economics;Christopher A. Pissarides;1948;62;Nicosia;Cyprys;Nicosia, Cyprys;35.1855659,33.3822764
+2010;M;economics;Dale T. Mortensen;1939;71;Enterprise OR;USA;Enterprise OR, USA;45.4262617,-117.2787816
+2010;M;economics;Peter A. Diamond;1940;70;New York NY;USA;New York NY, USA;45.4262617,-117.2787816
+2010;M;literature;Mario Vargas Llosa;[1936];2010;Arequipa;Peru;Arequipa, Peru;-16.4090474,-71.537451
+2010;M;medicine;Robert G. Edwards;1925;85;Batley;United Kingdom;Batley, United Kingdom;53.717028,-1.635083
+2010;M;peace;Liu Xiaobo;1955;55;Changchun;China;Changchun, China;53.717028,-1.635083
+2010;M;physics;Andre Geim;1958;52;Sochi;Russia;Sochi, Russia;43.6028079,39.7341543
+2010;M;physics;Konstantin Novoselov;1974;36;Nizhny Tagil;Russia;Nizhny Tagil, Russia;57.9214912,59.9816185
+2011;M;chemistry;Dan Shechtman;1941;70;TelAviv;Israel;TelAviv, Israel;32.0852999,34.7817676
+2011;M;economics;Thomas J. Sargent;1943;68;Pasadena;USA;Pasadena, USA;34.1477849,-118.1445155
+2011;M;economics;Christopher A. Sims;1942;69;Washington DC;USA;Washington DC, USA;34.1477849,-118.1445155
+2011;M;literature;Tomas Tranströmer;1931;80;Stockholm;Sweden;Stockholm, Sweden;34.1477849,-118.1445155
+2011;M;medicine;Bruce A. Beutler;1957;54;Chicago IL;USA;Chicago IL, USA;34.1477849,-118.1445155
+2011;M;medicine;Ralph M. Steinman;1943;68;Montreal;Canada;Montreal, Canada;34.1477849,-118.1445155
+2011;M;medicine;Jules A. Hoffmann;1941;70;Echternach;Luxembourg;Echternach, Luxembourg;49.8114133,6.4175635
+2011;F;peace;Tawakkol Karman;1979;32;Ta'izz;Yemen;Ta'izz, Yemen;13.5775886,44.0177989
+2011;F;peace;Leymah Gbowee;1972;39;Monrovia;Liberia;Monrovia, Liberia;6.2907432,-10.7605239
+2011;F;peace;Ellen Johnson-Sirleaf;1938;73;Monrovia;Liberia;Monrovia, Liberia;6.2907432,-10.7605239
+2011;M;physics;Adam G. Riess;1969;42;Washington DC;USA;Washington DC, USA;6.2907432,-10.7605239
+2011;M;physics;Brian P. Schmidt;1967;44;Missoula MT;USA;Missoula MT, USA;46.8721284,-113.9940314
+2011;M;physics;Saul Perlmutter;1959;52;Champaign-Urbana IL;USA;Champaign-Urbana IL, USA;40.1105875,-88.2072697
+2012;M;chemistry;Brian K. Kobilka;1955;57;Little Falls MN;USA;Little Falls MN, USA;45.9805556,-94.3694444
+2012;M;chemistry;Robert J. Lefkowitz;1943;69;New York NY;USA;New York NY, USA;45.9805556,-94.3694444
+2012;M;economics;Alvin E. Roth;1951;61;New York NY;USA;New York NY, USA;45.9805556,-94.3694444
+2012;M;economics;Lloyd S. Shapley;1923;89;Tucson AZ;USA;Tucson AZ, USA;32.2226066,-110.9747108
+2012;M;literature;Mo Yan;1955;57;Gaomi;China;Gaomi, China;36.377539,119.757032
+2012;M;medicine;Shinya Yamanaka;1962;50;Higashiōsaka;Japan;Higashiōsaka, Japan;34.6793301,135.6010123
+2012;M;medicine;Sir John B. Gurdon;1933;79;Dippenhall;United Kingdom;Dippenhall, United Kingdom;51.215166,-0.831976
+2012;M;physics;David J. Wineland;1944;68;Milwaukee WI;USA;Milwaukee WI, USA;51.215166,-0.831976
+2012;M;physics;Serge Haroche;1944;68;Casablanca;Morocco;Casablanca, Morocco;33.5731104,-7.5898434
+2013;M;chemistry;Michael Levitt;1947;66;Pretoria;South Africa;Pretoria, South Africa;33.5731104,-7.5898434
+2013;M;chemistry;Arieh Warshel;1940;73;Kibuc Sde Nahum;Israel;Kibuc Sde Nahum, Israel;32.525068,35.480855
+2013;M;chemistry;Martin Karplus;1930;83;Wien;Austria;Wien, Austria;48.2081743,16.3738189
+2013;M;economics;Lars Peter Hansen;1952;61;Urbana IL;USA;Urbana IL, USA;48.2081743,16.3738189
+2013;M;economics;Robert J. Shiller;1946;67;Detroit MI;USA;Detroit MI, USA;48.2081743,16.3738189
+2013;M;economics;Eugene F. Fama;1939;74;Boston MA;USA;Boston MA, USA;48.2081743,16.3738189
+2013;F;literature;Alice Munro;1931;82;Wingham Ontario;Canada;Wingham Ontario, Canada;43.8879476,-81.3116601
+2013;M;medicine;Thomas C. Südhof;1955;58;Göttingen;Germany;Göttingen, Germany;51.5412804,9.9158035
+2013;M;medicine;James E. Rothman;1950;63;Haverhill MA;USA;Haverhill MA, USA;42.7762015,-71.0772796
+2013;M;medicine;Randy W. Schekman;1948;65;Saint Paul MN;USA;Saint Paul MN, USA;44.9537029,-93.0899578
+2013;M;physics;François Englert;1932;81;Etterbeek;Belgium;Etterbeek, Belgium;50.832578,4.3889939
+2013;M;physics;Peter Higgs;1929;84;Newcastle upon Tyne;United Kingdom;Newcastle upon Tyne, United Kingdom;54.978252,-1.61778
+2014;M;physics;Isamu Akasaki;1929;85;Chiran;Japan;Chiran, Japan;31.377265,130.4400729
+2014;M;physics;Hiroshi Amano;1960;54;Hamamatsu;Japan;Hamamatsu, Japan;34.7108344,137.7261258
+2014;M;physics;Shuji Nakamura;1954;60;Ikata;Japan;Ikata, Japan;33.4885738,132.354012
+2014;M;chemistry;Eric Betzig;1960;54;Ann Arbor MI;USA;Ann Arbor MI, USA;33.4885738,132.354012
+2014;M;chemistry;Stefan W. Hell;1962;52;Arad;Romania;Arad, Romania;46.1865606,21.3122677
+2014;M;chemistry;William E. Moerner;1953;61;Pleasanton CA;USA;Pleasanton CA, USA;37.6624312,-121.8746789
+2014;M;medicine;John O'Keefe;1939;75;Nowy Jork NY;USA;Nowy Jork NY, USA;40.7127753,-74.0059728
+2014;F;medicine;May-Britt Moser;1963;51;Fosnavåg;Norway;Fosnavåg, Norway;62.3413767,5.6310689
+2014;M;medicine;Edvard I. Moser;1962;52;Ålesund;Norway;Ålesund, Norway;62.4722284,6.1494821
+2014;M;literature;Patrick Modiano;1945;69;Boulogne-Billancourt;France;Boulogne-Billancourt, France;48.8396952,2.2399123
+2014;M;peace;Kailash Satyarthi;1954;60;Vidisa;India;Vidisa, India;23.5251102,77.8081363
+2014;M;peace;Malala Yousafzai;1997;17;Mingora;Pakistan;Mingora, Pakistan;34.7717466,72.3601512
+2014;M;economics;Jean Tirole;1953;61;Troyes;France;Troyes, France;48.2973451,4.0744009
+2015;M;physics;Takaaki Kajita;1959;56;Higashimatsuyama;Japan;Higashimatsuyama, Japan;36.0421262,139.3999588
+2015;M;physics;Arthur B. McDonald;1943;72;North Sydney Nova Scotia;Canada;North Sydney Nova Scotia, Canada;46.2064806,-60.2523805
+2015;M;chemistry;Tomas Lindahl;1938;77;Stockholm;Sweden;Stockholm, Sweden;46.2064806,-60.2523805
+2015;M;chemistry;Paul Modrich;1946;69;Raton NM;USA;Raton NM, USA;36.9033581,-104.4391532
+2015;M;chemistry;Aziz Sancar;1946;69;Savur;Turkey;Savur, Turkey;37.5484936,40.913211
+2015;M;medicine;William C. Campbell;1930;85;Ramelton;Irland;Ramelton, Irland;55.0359,-7.64809
+2015;M;medicine;Satoshi Ōmura;1935;80;Nirasaki;Japan;Nirasaki, Japan;35.708897,138.4461267
+2015;F;literature;Svetlana Alexievich;1948;67;Iwano-Frankiwsk;Ukraine;Iwano-Frankiwsk, Ukraine;48.922633,24.711117
+2015;NA;peace;NA;;2015;;;, ;48.922633,24.711117
+2015;M;economics;Angus Deaton;1945;70;Edinburgh;United Kingdom;Edinburgh, United Kingdom;55.953252,-3.188267
+2016;M;physics;David J. Thouless;1934;82;Bearsden;United Kingdom;Bearsden, United Kingdom;55.92169,-4.335525
+2016;M;physics;F. Duncan M. Haldane;1951;65;London;United Kingdom;London, United Kingdom;55.92169,-4.335525
+2016;M;physics;J. Michael Kosterlitz;1943;73;Aberdeen;United Kingdom;Aberdeen, United Kingdom;57.149717,-2.094278
+2016;M;chemistry;Jean-Pierre Sauvage;1944;72;Paris;France;Paris, France;57.149717,-2.094278
+2016;M;chemistry;Sir J. Fraser Stoddart;1942;74;Edinburgh;United Kingdom;Edinburgh, United Kingdom;57.149717,-2.094278
+2016;M;chemistry;Bernard L. Feringa;1951;65;Barger-Compascuum;the Netherlands;Barger-Compascuum, the Netherlands;52.7548724,7.0416603
+2016;M;medicine;Yoshinori Ohsumi;1945;71;Fukuoka;Japan;Fukuoka, Japan;33.5903547,130.4017155
+2016;M;literature;Bob Dylan;1941;75;Duluth MN;USA;Duluth MN, USA;46.7866719,-92.1004852
+2016;M;peace;Juan Manuel Santos;1951;65;Bogota;Kolumbia;Bogota, Kolumbia;4.7109886,-74.072092
+2016;M;economics;Bengt Holmström;1949;67;Helsinki;Finland;Helsinki, Finland;4.7109886,-74.072092
+2016;M;economics;Oliver Hart;1948;68;Londyn;United Kingdom;Londyn, United Kingdom;51.5073509,-0.1277583
+2017;M;physics;Rainer Weiss;1932;85;Berlin;Germany;Berlin, Germany;51.5073509,-0.1277583
+2017;M;physics;Barry C. Barish;1936;81;Omaha NE;USA;Omaha NE, USA;51.5073509,-0.1277583
+2017;M;physics;Kip S. Thorne;1940;77;Logan UT;USA;Logan UT, USA;41.7369803,-111.8338359
+2017;M;chemistry;Jacques Dubochet;1942;75;Aigle;Switzerland;Aigle, Switzerland;46.3190253,6.970566
+2017;M;chemistry;Joachim Frank;1940;77;Siegen;Germany;Siegen, Germany;50.8838492,8.0209591
+2017;M;chemistry;Richard Henderson;1945;72;Edinburgh;United Kingdom;Edinburgh, United Kingdom;50.8838492,8.0209591
+2017;M;medicine;Jeffrey C. Hall;1945;72;Nowy Jork NY;USA;Nowy Jork NY, USA;50.8838492,8.0209591
+2017;M;medicine;Michael Rosbash;1944;73;Kansas City MO;USA;Kansas City MO, USA;39.0997265,-94.5785667
+2017;M;medicine;Michael W. Young;1949;68;Miami FL;USA;Miami FL, USA;25.7616798,-80.1917902
+2017;M;literature;Kazuo Ishiguro;1954;63;Nagasaki;Japan;Nagasaki, Japan;32.7502856,129.877667
