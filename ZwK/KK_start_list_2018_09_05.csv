@@ -1,0 +1,720 @@
+lp;nazwisko;miejscowość;firma;dystans;oplata
+1;Piontek Siegfried;Gdańsk;;Doktor 120 km;tak
+2;Żurawski Mirosław;Korsze;;Doktor 120 km;tak
+3;Czepułkowski Jerzy;Ramty;;Doktor 120 km;tak
+4;Potrykus Alina;Przyjaźń ;;Magister 75 km;tak
+5;Szuliński Kamil;Kwidzyn;DELLNER COMPONENTS SP. Z O.O.;Doktor 120 km;tak
+6;Pstrągowski Robert;Gdynia;;Doktor 120 km;tak
+7;Mazany Marek;Bydgoszcz ;;Profesor 160 km;tak
+8;Radwański Tomasz;Borkowo;;Profesor 160 km;tak
+9;Kołecki Robert;Tuchom;;Profesor 160 km;tak
+10;Gmiterek Adam;Łężyce;EKO DOLINA;Profesor 160 km;tak
+11;Wyka Andrzej;Gdynia;;Doktor 120 km;tak
+12;Siciński Maciej;Gdańsk;PRUSZYŃSKI TEAM;Profesor 160 km;tak
+13;Werra Krzysztof;Słupsk;KPZ SŁUPSK;Profesor 160 km;tak
+14;Kowalski Krzysztof;Sopot;HRMAX CROSS TEAM;Doktor 120 km;tak
+15;Dejneka Przemysław;Gdańsk;;Doktor 120 km;tak
+16;Zielinska Anka;Gdańsk;LEJDIS;Magister 75 km;tak
+17;Nowak Aga;Gdynia;LEJDIS;Magister 75 km;tak
+18;Borzęcki Ryszard;Zielona Wieś;;Profesor 160 km;tak
+19;Habaj Piotr;Gdynia;NORDA ACTIVE TEAM;Profesor 160 km;tak
+20;Senderski Rafał;Rumia;;Magister 75 km;tak
+21;Muża Jarosław;Gdynia;;Doktor 120 km;tak
+22;Królik Damian;Kwidzyn;;Doktor 120 km;tak
+23;Piernicka Elżbieta ;Kębłowo;MR.;Magister 75 km;tak
+24;Piernicki Kazimierz;Kębłowo;MR.;Magister 75 km;tak
+25;Klas Tomek;Gdynia;KLUB SPORTOWY "BRZUSZEK";Profesor 160 km;tak
+26;Romańczuk Marek;Gniezno;;Magister 75 km;tak
+27;Leśniowski Krzysztof;Elbląg;;Magister 75 km;tak
+28;Leśniowski Jakub;Elbląg;;Magister 75 km;tak
+29;Włodarczyk Paulina;Malbork;;Doktor 120 km;tak
+30;Hołub Tomasz;Malbork;;Doktor 120 km;tak
+31;Grabowski Maciej;Gdańsk;;Doktor 120 km;tak
+32;Blaszczuk Tomasz;Gdynia;TOMI-BHP TEAM;Doktor 120 km;tak
+33;Kalinowski Maciej;Gdynia;;Magister 75 km;tak
+34;Łonski Robert;Gdańsk;AKORD;Doktor 120 km;tak
+35;Dąbrowski Adam;Szlachta;;Doktor 120 km;tak
+36;Graban Wiesława;Szlachta;;Doktor 120 km;tak
+37;Gąsiewicz Anna;Gdansk;;Magister 75 km;tak
+38;Kieliszek Karolina;Elbląg;;Magister 75 km;tak
+39;Jóźwiak Paweł;Rokietnica;DHL TEAM;Profesor 160 km;tak
+40;Rolka Mariusz;Jerutki;;Magister 75 km;tak
+41;Rolka Jakub;Jerutki;;Doktor 120 km;tak
+42;Legaszewska Iwona;Skórcz;;Magister 75 km;tak
+43;Kanigowski Lech;Słupsk;;Profesor 160 km;tak
+44;Chyła Piotr;Gdańsk;;Magister 75 km;tak
+45;Machcińska Paulina;Gdańsk;;Doktor 120 km;tak
+46;Fałtynowicz Jacek;Gdańsk;;Profesor 160 km;tak
+47;Kłos Anna;Skórcz;TEAM MX SKÓRCZ;Magister 75 km;tak
+48;Beszterda Krzysztof ;Gdańsk;;Magister 75 km;tak
+49;Beszterda Władysław;Gdańsk;;Magister 75 km;tak
+50;Biernaczyk Edmund;Gdańsk;PAN;Magister 75 km;tak
+51;Biernaczyk Jakub;Gdańsk;PAN;Magister 75 km;tak
+52;Maliński Wojciech;Grudziądz;WOJCIECH MALIŃSKI ;Doktor 120 km;tak
+53;Kujawski Jacek;Gdańsk;;Profesor 160 km;tak
+54;Madajczyk Mirosław;Gdańsk;MADAJCZYK MIROSŁAW;Profesor 160 km;tak
+55;Łepek Marcin;Malbork;;Magister 75 km;tak
+56;Jabłońska - Łepek Michalina;Malbork;;Magister 75 km;tak
+57;Gąsiewicz Marcin;Janowo;;Magister 75 km;tak
+58;Hoppe Andrzej;Gdańsk;;Doktor 120 km;tak
+59;Wawrzyński Tomasz;Gdynia;PORT GDYNIA SPORT TEAM;Profesor 160 km;tak
+60;Kulig Patryk;Janowo;;Magister 75 km;tak
+61;Pączek Stanisław;Rumia;;Magister 75 km;tak
+62;Danielski Mateusz;Rokietnica;KIBOLSKI KS;Profesor 160 km;tak
+63;Szłabowicz Wojciech;Gdańsk;;Magister 75 km;tak
+64;Siedlecka Monika;Kościerzyna;;Doktor 120 km;tak
+65;Wycinka Jacek;Czersk;;Profesor 160 km;tak
+66;Andersohn Krzysztofa;Gdańsk;;Magister 75 km;tak
+67;Andersohn Robert;Gdańsk;;Magister 75 km;tak
+68;Bogusz Piotr;Łódź;;Doktor 120 km;tak
+69;Słowik Waldemar;Rypin;;Magister 75 km;tak
+70;Uściński Jarosław;Rumia;;Doktor 120 km;tak
+71;Borowska-Bomba Aretta;Gdańsk;;Magister 75 km;tak
+72;Kołodzik Sławomir;Wierzchucino;;Doktor 120 km;tak
+73;Zdunkiewicz Michał;Ostróda;MICHELIN TEAM;Doktor 120 km;tak
+74;Libuda Adrian;Lubawa;TERRA LUBAVIA;Doktor 120 km;tak
+75;Bogalecki Marek;Gdańsk;SAFE SPORT TEAM;Profesor 160 km;tak
+76;Stanisławski Andrzej;Różyny;SAFE SPORT TEAM;Profesor 160 km;tak
+77;Surdykowska Małgorzata;Warszawa;;Magister 75 km;tak
+78;Dasiukiewicz Leszek;Gdańsk;;Profesor 160 km;tak
+79;Gross Rafał;Nowy Dwór Gdański;ŻUŁAWIACY;Magister 75 km;tak
+80;Gross Michał ;Nowy Dwór Gdański;ŻUŁAWIACY;Magister 75 km;tak
+81;Pakowski Włodzimierz;Głowno;;Profesor 160 km;tak
+82;Pietysz Tomasz;Gdańsk;;Magister 75 km;tak
+83;Kozłowski Łukasz;Niestępowo;;Magister 75 km;tak
+84;Kwiatkowski Sławomir;Gdynia;;Doktor 120 km;tak
+85;Muchowski Patrycjusz;Sienica;;Magister 75 km;tak
+86;Siekierzyńska Dorota;Skarszewy;SKL FILIPPIDES;Magister 75 km;tak
+87;Mateja Józef;Janowo;SKL FILIPPIDES;Magister 75 km;tak
+88;Siekierzyński Rafał;Skarszewy;SKL FILIPPIDES;Doktor 120 km;tak
+89;Byliński Sławomir;Płock;;Doktor 120 km;tak
+90;Byliński Adam;Płock;;Doktor 120 km;tak
+91;Rataj Jędrzej;Tczew;;Magister 75 km;tak
+92;Obarzanek Krzysztof;Gdańsk;OBATEAM;Profesor 160 km;tak
+93;Pleczyński Marcin;Gdynia;CZARNY SPECJAL TEAM;Profesor 160 km;tak
+94;Kursa-Mikołajczak Magdalena;Gdańsk;;Magister 75 km;tak
+95;Makowski Krzysztof;Starogard Gdański;;Doktor 120 km;tak
+96;Szweda Piotr;Starogard Gdański;SKL FILIPPIDES;Magister 75 km;tak
+97;Mocarski Jakub;Gdańsk;;Doktor 120 km;tak
+98;Wyrowiński Michał;Jakas Tam Jest ;;Magister 75 km;tak
+99;Kozłowski Mirosław;Ciechocinek;;Magister 75 km;tak
+100;Maliński Wojciech;Grudziądz;PAN;Doktor 120 km;tak
+101;Adamowicz Piotr;Gdańsk;DREAM TRI TEAM;Doktor 120 km;tak
+102;Połom Anna;Szlachta;;Doktor 120 km;tak
+103;Melzacka Anna;Gdańsk;;Doktor 120 km;tak
+104;Kociński Piotr;Gdańsk;NETHOS;Magister 75 km;tak
+105;Kałkus Marcin;Sopot;NETHOS;Magister 75 km;tak
+106;Zięba Jan;Gdańsk;;Magister 75 km;tak
+107;Tumkiewicz Jan;Gdynia;TANDEM GDYNIA;Doktor 120 km;tak
+108;Tumkiewicz Mirosława;Gdynia;TANDEM GDYNIA;Doktor 120 km;tak
+109;Sokołowski Maciej;Gdynia;MIR GDYNIA;Doktor 120 km;tak
+110;Drzazgowski Bartosz;Gdańsk;NETHOS;Magister 75 km;tak
+111;Popławski Zbigniew;Pryszcz Gdański;;Magister 75 km;tak
+112;Kropidłowska Renata;Gdynia;ENZO TEAM;Doktor 120 km;tak
+113;Mokwa Ireneusz;Starogard Gdański;;Magister 75 km;tak
+114;Koziczkowska Kornelia;Starogard Gdański;;Magister 75 km;tak
+115;Matynka Wioletta;Gdańsk;;Magister 75 km;tak
+116;Banaszewska Barbara;  Żukowo;ROWEROWE KASZUBY;Doktor 120 km;tak
+117;Frelichowska Joanna;Gdynia;ROWEROWE KASZUBY;Doktor 120 km;tak
+118;Piotrowska Agnieszka ;Żukowo;;Magister 75 km;tak
+119;Skowron Katarzyna;Gdynia;;Doktor 120 km;tak
+120;Bizewska Lucyna;Puck;;Magister 75 km;tak
+121;Kamiński Tomasz;Gdynia;VARD ENGINEERING GDANSK;Doktor 120 km;tak
+122;Sosnowska Dominika;Tczew;SWAROVSKI GBS;Doktor 120 km;tak
+123;Głąb Dariusz ;Malbork;;Magister 75 km;tak
+124;Pietrzak Rafal;Gdynia;;Magister 75 km;tak
+125;Polewski Jan;Koło;;Magister 75 km;tak
+126;Moroz Piotr;Gdańsk;AMSTI;Doktor 120 km;tak
+127;Bizewska Anna;Gdańsk;;Magister 75 km;tak
+128;Matyjek-Macholla Joanna;Gdańsk;AMSTI;Doktor 120 km;tak
+129;Kruś Emilia;Gdańsk;EEKRUS;Magister 75 km;tak
+130;Kruś Eryk;Gdańsk;EEKRUS;Magister 75 km;tak
+131;Wiącek Mariola;Gdańsk;;Magister 75 km;tak
+132;Guździk Robert;Gdańsk;;Doktor 120 km;tak
+133;Zieliński Jarosław ;Gdynia;;Doktor 120 km;tak
+134;Michałowska Kasia;Gdańsk;NORDEA;Doktor 120 km;tak
+135;Reptowski Szymon;Gdańsk;;Magister 75 km;tak
+136;Reptowska Barbara;Gdańsk;;Magister 75 km;tak
+137;Pniewski Jaroslaw;Rumia;;Doktor 120 km;tak
+138;Rutkowska Anna;Gdańsk;;Magister 75 km;tak
+139;Rutkowski Marcin;Gdańsk;;Magister 75 km;tak
+140;Sosnowski Piotr;Nowy Dwór Gdański;;Magister 75 km;tak
+141;Bernatowicz Jacek;Warszawa;;Doktor 120 km;tak
+142;Gacek Katarzyna;Skarszewy;SKARSZEWY CYCLE TEAM;Doktor 120 km;tak
+143;Lao Krzysztof;Gdańsk;;Magister 75 km;tak
+144;Lao Lucyna;Gdańsk;;Magister 75 km;tak
+145;Maciaszek Piotr;Gdańsk;;Magister 75 km;tak
+146;Kachniarz Jarosław;Bydgoszcz;;Magister 75 km;tak
+147;Studziński Bogusław;Bydgoszcz;;Magister 75 km;tak
+148;Bizewski Tadeusz;Gdańsk;;Magister 75 km;tak
+149;Bąkiewicz Błażej;Gdańsk;;Magister 75 km;tak
+150;Bąkiewicz Franciszek;Gdańsk;SMASHING PĄPKINS;Magister 75 km;tak
+151;Ejsmont Piotr;Gdańsk;PRO CYCLING;Magister 75 km;tak
+152;Christopher Derek;Gdynia;;Doktor 120 km;tak
+153;Dolata Kamil;Warszawa;;Doktor 120 km;tak
+154;Armatowska Karolina;Gdańsk;EATON;Magister 75 km;tak
+155;Borek Paweł ;Gdańsk ;;Doktor 120 km;tak
+156;Gajda Szymon;Gdańsk;;Doktor 120 km;tak
+157;Armatowski Grzegorz;Starogard Gdański ;;Magister 75 km;tak
+158;Leszczyński Cezary;Gdańsk;3SZÓSTKI;Profesor 160 km;tak
+159;Armatowski Maciej;Starogard Gdański;EATON;Magister 75 km;tak
+160;Rutkowska Aneta;Gdańsk;;Doktor 120 km;tak
+161;Zakrzewski Daniel;Lubawa;;Profesor 160 km;tak
+162;Leszkowski Piotr;Gdańsk;;Doktor 120 km;tak
+163;Tałuć Cyprian;Żukczyn;SKŻ;Profesor 160 km;tak
+164;Mania Ireneusz; Łeba;ORŁY WICKO;Doktor 120 km;tak
+165;Czeczott-Szymańska Aleksandra;Charbrowo;ORŁY WICKO;Doktor 120 km;tak
+166;Czeczott Anita;Gdańsk;ORŁY WICKO;Doktor 120 km;tak
+167;Rzepiński Waldemar;Tczew;;Doktor 120 km;tak
+168;Głowiński Szymon;Gdańsk;;Magister 75 km;tak
+169;Najdowski Adam;Iława;;Profesor 160 km;tak
+170;Baldysiak Paweł;Banino;;Magister 75 km;tak
+171;Marcinkiewicz Grzegorz;Gdańsk;;Magister 75 km;tak
+172;Szank Pioyr;Gdynia;;Magister 75 km;tak
+173;Rejman Radoslaw;Warszawa;DOBRA ZMIANA;Doktor 120 km;tak
+174;Blok Marta;Pruszcz Gdański;;Doktor 120 km;tak
+175;Blok Grzegorz;Pruszcz Gdański;;Doktor 120 km;tak
+176;Laskowski Maciej;Gdynia;GEA REFRIGERATION SPZOO;Profesor 160 km;tak
+177;Grzechnik Jakub;Warszawa;DOBRA ZMIANA;Doktor 120 km;tak
+178;Wieczorek Tomasz;Gdańsk;;Doktor 120 km;tak
+179;Cirug Artur;Bydgoszcz;;Magister 75 km;tak
+180;Fulara Wojciech;Gdansk;;Magister 75 km;tak
+181;Sikorra Janina;Lędziechowo;ORŁY WICKO;Magister 75 km;tak
+182;Sawicka Katarzyna;Gdańsk;;Doktor 120 km;tak
+183;Sawicki Adam;Gdańsk;;Doktor 120 km;tak
+184;Galuba Sebastian;Goręczyno;ROWEROWE KASZUBY;Magister 75 km;tak
+185;Pleczyński Zbigniew;Świerkocin;;Magister 75 km;tak
+186;Piesik Piotr;Czarna Woda;GIANT/KROSS;Magister 75 km;tak
+187;Majkowska Barbara;Czarna Woda;;Magister 75 km;tak
+188;Majkowski Piotr;Czarna Woda;;Magister 75 km;tak
+189;Krzemiński Piotr;Gdańsk;AKADEMICKI KLUB MORSKI;Doktor 120 km;tak
+190;Brandt Maciej;Elbląg;ROWEL;Magister 75 km;tak
+191;Makarenko Adam;Gdynia;;Magister 75 km;tak
+192;Bewicz Radosław;Elbląg;BIDON TEAM;Doktor 120 km;tak
+193;Czerwionka Dariusz;Gdynia;ASE GDAŃSK;Doktor 120 km;tak
+194;Krakowski Paweł;Płock;;Doktor 120 km;tak
+195;Krużycki Piotr;Gdańsk;KLUB NURKUJĄCYCH INACZEJ ;Magister 75 km;tak
+196;Bohn Zbigniew;Suchy Dwór;;Profesor 160 km;tak
+197;Pakura Marcin;Gdynia;;Profesor 160 km;tak
+198;Kuczyński Mariusz;Łęgowo;;Magister 75 km;tak
+199;Kaszubowski Ireneusz;Puck;KOŁOMAŃSCY;Doktor 120 km;tak
+200;Kaszubowska Monika;Opole Lubelskie;KOŁOMAŃSCY;Magister 75 km;tak
+201;Zdonczyk Michal;Gdansk;;Magister 75 km;tak
+202;Kolka Zbigniew;Grzybno;TOP BRAMY HORMANN;Profesor 160 km;tak
+203;Kolka Gabriela;Grzybno;TOP BRAMY HORMANN;Magister 75 km;tak
+204;Dobrolinski Daniel;Gdynia;POLSKA PÓŁNOCNA;Doktor 120 km;tak
+205;Żoga Jolanta;Rumia;NORDA ACTIVE TEAM;Profesor 160 km;tak
+206;Adamus Magdalena;Borowo;;Doktor 120 km;tak
+207;Adamus Marcin;Borowo;;Doktor 120 km;tak
+208;Andryskowski Jarosław;Łebunia;ŁEBUNIA;Profesor 160 km;tak
+209;Wronka Wojciech;Gdynia;NORDEA;Magister 75 km;tak
+210;Spychalska Jolanta;Gdańsk;;Magister 75 km;tak
+211;Sobieraj Jarosław ;Gdynia;MAJ;Magister 75 km;tak
+212;Młyński Adrian;Gdańsk;;Magister 75 km;tak
+213;Zdończyk Mirosław;Gdańsk;;Magister 75 km;tak
+214;Zdończyk Jakub;Gdańsk;;Magister 75 km;tak
+215;Gruszecki Damian;Gdańsk;DREAM TRI TEAM;Doktor 120 km;tak
+216;Hildebrand Tomasz;Gdańsk;;Doktor 120 km;tak
+217;Guzik Agnieszka;Wielbrandowo;;Magister 75 km;tak
+218;Sikora Tomasz ;Wielbrandowo;;Magister 75 km;tak
+219;Nowak Waldemar;Rębiechowo;WALDEMAR NOWAK;Magister 75 km;tak
+220;Nowak Tymoteusz;Rębiechowo;WALDEMAR NOWAK;Magister 75 km;tak
+221;Jabłońska Magdalena;Gdańsk;;Magister 75 km;tak
+222;Gondek Jarosław;Rozewie;;Profesor 160 km;tak
+223;Rostankowska Bernadeta;Czersk;;Doktor 120 km;tak
+224;Furtak Grzegorz;Gdynia;TRIMLOGIC;Doktor 120 km;tak
+225;Siwicka Krystyna;Elbląg;;Profesor 160 km;tak
+226;Siwicki Romuald;Elbląg;;Magister 75 km;tak
+227;Maniewski Marcin;Gdańsk;LPP TEAM;Magister 75 km;tak
+228;Gemski Marek;Starogard Gdański;;Magister 75 km;tak
+229;Kolas Marcin;Gdańsk;;Magister 75 km;tak
+230;Trojanowski Karol;Starogard Gdański;GK STG;Profesor 160 km;tak
+231;Frymark Marcin;Reda;NORDA ACTIVE TEAM;Profesor 160 km;tak
+232;Sitarczuk Mariusz ;Gdańsk;JEDZIEMY DO ODCIĘCIA ;);Magister 75 km;tak
+233;Kajut Lucyna;Wielbrandowo;;Magister 75 km;tak
+234;Kajut Sylwester;Wielbrandowo;;Magister 75 km;tak
+235;Gradowski Adam;Czarna Woda;;Magister 75 km;tak
+236;Dunder-Kuczyńska Julita;Gdańsk;;Magister 75 km;tak
+237;Kuczyński Krzysztof;Gdańsk;;Magister 75 km;tak
+238;Rejmer Sławomir;Gdynia;Enzo Kołomański Team;Doktor 120 km;tak
+239;Stefaniak Leszek;;;Magister 75 km;tak
+240;Pryc Sławomir;Gdańsk ;;Doktor 120 km;tak
+241;Sobieniak Wojciech;Rotmanka;;Magister 75 km;tak
+242;Zajk Piotr;Gdynia;;Magister 75 km;tak
+243;Zajk Paweł;Gdynia;;Magister 75 km;tak
+244;Dobrowolska Agnieszka;Wysoka;;Magister 75 km;tak
+245;Lipińska Justyna;Skórcz;;Magister 75 km;tak
+246;Patok Gerard;Wejherowo;CCC POLKOWICE;Magister 75 km;tak
+247;Gil Tomasz;Gdynia;;Doktor 120 km;tak
+248;Kubacki Gabriel;Wilczogóra;SGR RACING TEAM;Doktor 120 km;tak
+249;Woźniak Sławomir;Drewnica;;Magister 75 km;tak
+250;Lis Marta;Gdańsk;;Magister 75 km;tak
+251;Brzóska Andrzej;Gdańsk;;Doktor 120 km;tak
+252;Blach Przemysław;Gdańsk;GPNS;Profesor 160 km;tak
+253;Szczepaniak Bartosz;Gdańsk;;Magister 75 km;tak
+254;Sekida Mateusz;Gościcino;;Doktor 120 km;tak
+255;Piotrowski Wojciech;Gdańsk;TRIMLOGIC;Doktor 120 km;tak
+256;Szczypiński Grzegorz ;Czarna Woda;GIANT/KROSS;Magister 75 km;tak
+257;Szczypiński Przemysław;Pelplin;GIANT/KROSS;Magister 75 km;tak
+258;Przechlewski Tomasz;Sopot;;Profesor 160 km;tak
+259;Truszczyński Roman;Cieplewo;;Doktor 120 km;tak
+260;Lewinski Szymon;Elblag;;Magister 75 km;tak
+261;Orłowski Michał;Rumia;;Doktor 120 km;tak
+262;Wenta Gabriel;Łebunia;ŁEBUNIA;Profesor 160 km;tak
+263;Kulczyński Zbigniew;Rokitnica;;Magister 75 km;tak
+264;Klapkowski Mariusz;Puck;;Magister 75 km;tak
+265;Gacek Jarosław;Skarszewy;CYLKO SKARSZEWY;Profesor 160 km;tak
+266;Galikowski Jacek;Gdynia;;Doktor 120 km;tak
+267;Niklas Tomasz;Banino;;Magister 75 km;tak
+268;Landowski Pawel;Osieczna;;Doktor 120 km;tak
+269;Landowski Piotr;Kolbudy;;Doktor 120 km;tak
+270;Leszczyńska Katarzyna;Wejherowo;KTM;Magister 75 km;tak
+271;Leszczyński Dariusz;Wejherowo;KTM;Magister 75 km;tak
+272;Ziemann Dariusz;Kolincz;;Magister 75 km;tak
+273;Konitz Oskar;Gdańsk;WESOŁA PIĄTECZKA;Magister 75 km;tak
+274;Konitz Aleksandra;Gdańsk;WESOŁA PIĄTECZKA;Magister 75 km;tak
+275;Chmielewski Michał;Gdańsk;DREAM TRI TEAM;Doktor 120 km;tak
+276;Kwidziński Mateusz;Gdańsk;;Doktor 120 km;tak
+277;Klajnszmyt Roman;Nowa Kiszewa;;Doktor 120 km;tak
+278;Kurszewska Żaneta;Starogard Gdański;;Magister 75 km;tak
+279;Wicek Jakub;Starogard Gdański;;Magister 75 km;tak
+280;Kopeć Konrad;Gdynia;ADVA.PL;Doktor 120 km;tak
+281;Musolf Tomasz;Pinczyn;;Magister 75 km;tak
+282;Kozyra Piotr;Gdynia;ENZO;Magister 75 km;tak
+283;Zacharczuk Czesław;Siemirowice;;Doktor 120 km;tak
+284;Słomiński Łukasz;Brusy;;Doktor 120 km;tak
+285;Trojanowska Maria;Starogard Gdański;;Magister 75 km;tak
+286;Zakrzewski Bartosz;Kaliska;;Magister 75 km;tak
+287;Bolewicki Piotr;Gdańsk;;Magister 75 km;tak
+288;Zakrzewska Krystyna;Kaliska;;Magister 75 km;tak
+289;Suszek Roman;Sopot;;Doktor 120 km;tak
+290;Fizhuk Rostyslav;Gdańsk;NORDEA;Doktor 120 km;tak
+291;Borzyszkowski Tomasz;Gdańsk;SPIE ELBUD GDAŃSK S.A.;Magister 75 km;tak
+292;Beger Michał;Gdańsk;DYNATRACE;Magister 75 km;tak
+293;Kwidzińska Justyna;Gdynia;;Doktor 120 km;tak
+294;Żołnieruk Mariusz;Elbląg;;Magister 75 km;tak
+295;Okołowicz Elżbieta;Skórcz;;Magister 75 km;tak
+296;Wacławek Przemek ;Brusy;;Profesor 160 km;tak
+297;Kędzierski Przemysław;Czersk;;Magister 75 km;tak
+298;Rzeźnik Andrzej;Gdańsk;;Doktor 120 km;tak
+299;Szymański Jarosław;Charbrowo;INTER-AUTO S.C.;Magister 75 km;tak
+300;Górkowski Wojciech;Sierpc;;Doktor 120 km;tak
+301;Lula Ireneusz;Gdynia;;Profesor 160 km;tak
+302;Górkowski Andrzej;Sierpc;;Doktor 120 km;tak
+303;Nierzwicka Agnieszka;Skarszewy;TRI STAROGARD GDAŃSKI;Doktor 120 km;tak
+304;Deyk Monika;Gościcino;AKUKU TEAM;Doktor 120 km;tak
+305;Deyk Grzegorz;Gościcino;AKUKU TEAM;Doktor 120 km;tak
+306;Tkaczyk Radek;Warszawa;;Profesor 160 km;tak
+307;Chelkowski Boleslaw;Gdynia;SOLID LOGISTICS;Doktor 120 km;tak
+308;Wilkowski Krzysztof;Bydgoszcz;;Profesor 160 km;tak
+309;Kotwicka Agnieszka;Gdańsk;;Magister 75 km;tak
+310;Pomirski Janusz;Rumia;;Doktor 120 km;tak
+311;Hebel Zofia;Tczew;;Magister 75 km;tak
+312;Hebel Aleksandra ;Tczew;;Magister 75 km;tak
+313;Knopik Andrzej;Tczew;;Magister 75 km;tak
+314;Dudkowski Krzysztof;Gdańsk;AKUKU TEAM;Doktor 120 km;tak
+315;Dobrowolski Dariusz;Gdańsk;ADVA OPTICAL NETWORKING;Doktor 120 km;tak
+316;Lipiński Wojciech;Malkowo;;Doktor 120 km;tak
+317;Nowakowski Sebastian;Gdansk;SOLID LOGISTICS ;Magister 75 km;tak
+318;Biernaczyk Łukasz;Gdańsk;;Magister 75 km;tak
+319;Biernaczyk Anna;Gdańsk;;Magister 75 km;tak
+320;Szwaracka Małgorzata;Gdańsk;MORENKA TEAM;Profesor 160 km;tak
+321;Skrzypek Agnieszka;Gdańsk;LPP TEAM;Profesor 160 km;tak
+322;Kochanowski Daniel;Gdańsk;POSZUKIWACZE PRZYGÓD ;Profesor 160 km;tak
+323;Mizik Maciej;Gdynia;;Doktor 120 km;tak
+324;Szkodowski Łukasz;Wolental;;Magister 75 km;tak
+1;Michalak Jarosław;Gdańsk;LPP Team;Doktor 120 km;tak
+2;Gawińkowski Jakub;Pruszcz Gdański;LPP Team;Doktor 120 km;tak
+3;Blank Karol;Gdańsk;LPP Team;Doktor 120 km;tak
+4;Sicińska Kinga;Gdańsk;LPP Team;Profesor 160 km;tak
+5;Łunkiewicz Michał;Gdańsk;LPP Team;Magister 75 km;tak
+6;Mikołajczak Michał ;Gdańsk;LPP Team;Doktor 120 km;tak
+7;Kowal Mariusz;Kowale;LPP Team;Profesor 160 km;tak
+8;Sowińska Dagmara;Gdańsk;LPP Team;Profesor 160 km;tak
+9;Dębiec Agnieszka;Rotmanka;LPP Team;Profesor 160 km;tak
+10;Gruba Piotr;Gdańsk;LPP Team;Doktor 120 km;tak
+11;Sidorowicz Magdalena;Gdańsk;LPP Team;Magister 75 km;tak
+12;Górecki Paweł;Gdańsk;LPP Team;Doktor 120 km;tak
+13;Holtz Krzysztof;Gdańsk;LPP Team;Magister 75 km;tak
+14;Kryńska Ewa;Gdańsk;LPP Team;Magister 75 km;tak
+15;Kordoński Władysław;Gdańsk;LPP Team;Profesor 160 km;tak
+1;Moniuszko Hubert;Gdańsk;Lufthansa Systems Poland;Profesor 160 km;
+2;Krzemiński Michał;Gdańsk;Lufthansa Systems Poland;Magister 75 km;
+3;Kowalczyk Malgorzata;Gdansk;Lufthansa Systems Poland;Magister 75 km;
+4;Kassolik Łucja;Gdańsk;Lufthansa Systems Poland;Magister 75 km;
+5;Krzyżański Rafał;Gdańsk;Lufthansa Systems Poland;Magister 75 km;
+6;Pieciukiewicz Paweł;Gdańsk;Lufthansa Systems Poland;Profesor 160 km;
+7;Buritta Michał;Tczew;Lufthansa Systems Poland;Magister 75 km;
+8;Grebnev Anton;Gdańsk;Lufthansa Systems Poland;Magister 75 km;
+9;Klemarczyk Maciej;Gdańsk;Lufthansa Systems Poland;Magister 75 km;
+10;Kurkowska Joanna;Gdańsk;Lufthansa Systems Poland;Magister 75 km;
+11;Madej Michał ;Gdańsk ;Lufthansa Systems Poland;Magister 75 km;
+12;Płaszko-Tyndzik Anna;Gdańsk;Lufthansa Systems Poland;Magister 75 km;
+1;Hanus Mateusz;Gdańsk;FAJNA RAMA;Doktor 120 km;
+2;Kacper Piotr;Gdańsk;FAJNA RAMA;Profesor 160 km;
+3;Budziński Marcin;Gdańsk;FAJNA RAMA;Doktor 120 km;
+1;Romanik Aneta;Gdańsk;ASE GDAŃSK;Profesor 160 km;
+2;Piwowarska Karolina;Gdynia;ASE GDAŃSK;Magister 75 km;
+3;Koliński Marcin;Gdynia;ASE GDAŃSK;Magister 75 km;
+4;Suska Adam;Gdynia;ASE GDAŃSK;Magister 75 km;
+5;Cirzon Michał;Gdańsk;ASE GDAŃSK;Doktor 120 km;
+6;Kuhn Piotr;Gdańsk;ASE GDAŃSK;Magister 75 km;
+7;Zając Jan;Gdansk;ASE GDAŃSK;Doktor 120 km;
+8;Fabijańczyk Katarzyna;Gdańsk;ASE GDAŃSK;Magister 75 km;tak
+9;Fabijańczyk Radosław;Gdańsk;ASE GDAŃSK;Magister 75 km;tak
+10;Czesnowski Grzegorz;Gdańsk;ASE GDAŃSK;Doktor 120 km;
+11;Trzybiński Radosław;Osielsko;ASE GDAŃSK;Doktor 120 km;
+12;Drewa Przemysław;Borkowo;ASE GDAŃSK;Magister 75 km;
+1;Komorowska Anita;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+2;Szymański Jacek;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+3;Kawczynski Grzegorzk;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+4;Kawczynska Izabela;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+5;Ziemann Ea;Gdansk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+6;Branicka Aleksandra;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+7;Skruch Sławomir;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+8;Wnuk Radosław;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+9;Wnuk Elżbieta;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+10;Krzyszkowska Ewa;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+11;Krzyszkowski Michał;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+12;Krzyszkowski Maciej;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+13;Aranowska Irena;Lębork;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+14;Wróblewski Krzysztof;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+15;Sajnaj Bartosz;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+16;Sadłowski Andrzej;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+17;Udodau Pavel;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+18;Zalewski Robert;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+19;Zalewski Marek;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+20;Zalewska Agata;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+21;Rusin Mirosław;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+22;Norek Kamil;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+23;Borys Andrzej;Reda;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+24;Kamińska Magdalena;Gdansk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+25;Kamiński Piotr;Gdansk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+26;Samson Izabela;Rumia;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+27;Goś Mariusz;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+28;Goś Zuzanna;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+29;Goś Mikołaj;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+30;Skuczyński Robert;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+31;Krynicki Artur;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+32;Krynicki Wojciech;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+33;Matejko-Rusin Maria;Studzieniki;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+34;Czyżykowski Michał;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+35;Pankowski Rafał;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+36;Pankowski Zbyszko;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+37;Łazińska Maja;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+38;Łaziński Jakub;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+39;Borowy Marcin;Skowarcz;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+40;Miller Jan;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+41;Storma Andrzej;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+42;Kołodziej Iwona;Rumia;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+43;Miziołek Ewa;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+44;Rutkowski Marcin;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+45;Sadowski Daniel;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+46;Olszewska Monika;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+47;Olszewski Karol;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+48;Naumik Victor;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+49;Ronkiewicz Anna;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+50;Szmiendowska- Królak Paulina;Kwidzyn;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+51;Pelczar Krzysztof;Wejherowo;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+52;Grabowicz Magdalena;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+53;Młynarski Mariusz;Sosnowiec;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+54;Gierasimiuk Adam;Rumia;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+55;Dudzic Zuzanna;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+56;Kurłowicz Jakub;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+57;Dąbrowski Wojciech;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+58;Demczuk Paweł;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+59;Demczuk Radosław;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+60;Nagelski Piotr;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+61;Mikicki Krzysztof;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+62;Sztormowski Rafał;Sopot;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+63;Wypasek Krystyna;Sopot;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+64;Kaczyńska Monika;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+65;Letki Marek;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+66;Zdrojewski Adrian;Sopot;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+67;Gurzyńska Joanna;Pierwoszyno;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+68;Gurzyński Michał;Pierwoszyno;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+69;Przyradska-Trzebiatowska Aneta;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+70;Kielak Paweł;Warszawa;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+71;Ślusarz Joanna;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+72;Drejer Michał;Chojniczki;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+73;Dmochowski Kamil;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+74;Trzebiński Piotr;Juszkowo;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+75;Trzebińska Dominika;Juszkowo;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+76;Kwiatkowska Daria;Chojnice;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+77;Przychodzeń Małgorzata;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+78;Przychodzeń Marcin;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+79;Kędzierski Paweł;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+80;Sztokinger Jarosław;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+81;Chorębała Łukasz;Sopot;ATENA Usługi Informatyczne i Finansowe;Doktor 120 km;
+82;Bieganowska Justyna;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+83;Bieganowska Joanna;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+84;Bieganowski Jacek;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+85;Kujawa Katarzyna;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+86;Żywalewski Marcin;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+87;Tomaszewska Iwona;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister 75 km;
+1;Marko Andrzej;Gdańsk;DGT Sp. z o.o.;Doktor 120 km;tak
+2;Abramczuk Robert;Gdańsk;DGT Sp. z o.o.;Magister 75 km;tak
+3;Felchner Tomasz;Kokoszkowy;DGT Sp. z o.o.;Doktor 120 km;tak
+4;Pogorzelski Adam;Gdańsk;DGT Sp. z o.o.;Magister 75 km;tak
+5;Nowakowski Krzysztof;Gdańsk;DGT Sp. z o.o.;Doktor 120 km;tak
+6;Antosz Marek;Banino;DGT Sp. z o.o.;Doktor 120 km;tak
+7;Staśkiel Mariusz;Gdańsk;DGT Sp. z o.o.;Magister 75 km;tak
+8;Wysocki Piotr;Gdynia;DGT Sp. z o.o.;Doktor 120 km;tak
+9;Skrzycka Mariola;Gdynia;DGT Sp. z o.o.;Magister 75 km;tak
+10;Koszałka Jarosław;Bielkówko;DGT Sp. z o.o.;Magister 75 km;tak
+11;Leśniewski Rafał;Gdańsk;DGT Sp. z o.o.;Magister 75 km;tak
+12;Aranowski Piotr;Gdańsk;DGT Sp. z o.o.;Magister 75 km;tak
+13;Bajera Michał;Gdańsk;DGT Sp. z o.o.;Magister 75 km;tak
+14;Wolszczak Katarzyna;Gdańsk;DGT Sp. z o.o.;Magister 75 km;tak
+15;Skiba Jerzy;Gdańsk;DGT Sp. z o.o.;Magister 75 km;tak
+16;Szymczak Gabriela;Gdańsk;DGT Sp. z o.o.;Magister 75 km;tak
+17;Szymczak Jacek;Gdańsk;DGT Sp. z o.o.;Doktor 120 km;tak
+18;Mrall Jarosław;Gdańsk;DGT Sp. z o.o.;Magister 75 km;tak
+19;Janke Tomasz;Tczew;DGT Sp. z o.o.;Magister 75 km;tak
+20;Sygitowicz Szymon;Gdańsk;DGT Sp. z o.o.;Magister 75 km;tak
+21;Kromer Wojciech;Gdańsk;DGT Sp. z o.o.;Magister 75 km;tak
+22;Stefańska Aleksandra;Gdańsk;DGT Sp. z o.o.;Doktor 120 km;tak
+23;Stefański Michał;Gdańsk;DGT Sp. z o.o.;Doktor 120 km;tak
+24;Przybylak Bartosz;Gdansk;DGT Sp. z o.o.;Magister 75 km;tak
+25;Kieszczyński Sławomir;Rotmanka;DGT Sp. z o.o.;Magister 75 km;tak
+26;Pionk Mateusz;Wejherowo;DGT Sp. z o.o.;Doktor 120 km;tak
+27;Dalecki Paweł;Gdańsk;DGT Sp. z o.o.;Magister 75 km;tak
+28;Kaczyński Mirosław;Toruń;DGT Sp. z o.o.;Magister 75 km;tak
+29;Nagel Marian;Leźno;DGT Sp. z o.o.;Magister 75 km;
+1;Surdykowski Maciej;Pogórze;THOMSON REUTERS;Magister 75 km;
+2;Pozorska Małgorzata;Gdańsk;THOMSON REUTERS;Magister 75 km;
+3;Miernik Mateusz;Gdynia;THOMSON REUTERS;Magister 75 km;
+4;Macewicz Szymon;Gdynia;THOMSON REUTERS;Magister 75 km;
+1;Bednarczyk Marcin;Gdańsk;EPS Poland Sp. z o.o.;Magister 75 km;tak
+2;Lewandowski Krzysztof;Gdańsk;EPS Poland Sp. z o.o.;Doktor 120 km;tak
+1;Bladowska Magdalena;Gdynia;JIT Solutions ;Profesor 160 km;tak
+2;Grześ Marek;Gdynia;JIT Solutions ;Magister 75 km;tak
+3;Szwarc  Marcin;Gdańsk ;JIT Solutions ;Doktor 120 km;tak
+4;Matuszak Patryk;Gdańsk;JIT Solutions ;Magister 75 km;tak
+5;Przybolewski Marek;Malbork;JIT Solutions ;Magister 75 km;tak
+6;Szafran Bartosz;Gdańsk;JIT Solutions ;Doktor 120 km;tak
+7;Dolata Jędrzej;Reda;JIT Solutions ;Magister 75 km;tak
+8;Dolata Arleta;Reda;JIT Solutions ;Magister 75 km;tak
+9;Dolny Paweł;Gdańsk;JIT Solutions ;Magister 75 km;tak
+10;Plewa Magdalena;Sopot;JIT Solutions ;Magister 75 km;tak
+11;Jarus Karol;Gdańsk;JIT Solutions ;Magister 75 km;tak
+12;Wietecha Marcin;Gdańsk;JIT Solutions ;Profesor 160 km;tak
+13;Cichosz Miłosława;Gdańsk;JIT Solutions ;Magister 75 km;tak
+14;Borowiak Dariusz;Elbląg;JIT Solutions ;Magister 75 km;tak
+15;Wojciechowska Ewa;Gdańsk;JIT Solutions ;Magister 75 km;tak
+16;Gawin Łukasz;Warszawa;JIT Solutions ;Doktor 120 km;tak
+17;Głogowska Żanetta;Gdynia;JIT Solutions ;Magister 75 km;tak
+18;Głogowski Łukasz;Wejherowo;JIT Solutions ;Magister 75 km;tak
+19;Gwara Grzegorz;Gdynia;JIT Solutions ;Magister 75 km;tak
+20;Gwara Małgorzata;Gdynia;JIT Solutions ;Magister 75 km;tak
+21;Drezner Rafał;Gdańsk;JIT Solutions ;Profesor 160 km;tak
+22;Kaczmarek Sławomir;Gdańsk;JIT Solutions ;Profesor 160 km;tak
+23;Klepacki Mateusz;Gdynia;JIT Solutions ;Magister 75 km;tak
+24;Lemka Jakub;Gdynia;JIT Solutions ;Magister 75 km;tak
+25;Witkowska Ada;Gdynia;JIT Solutions ;Magister 75 km;tak
+26;Drzewiecki Łukasz;Gdańsk;JIT Solutions ;Magister 75 km;tak
+27;Wysocki Kamil;Gdańsk;JIT Solutions ;Magister 75 km;tak
+28;Baranowski Marcin;Gdańsk;JIT Solutions ;Doktor 120 km;tak
+29;Gorczewski Piotr;Gdańsk;JIT Solutions ;Doktor 120 km;tak
+1;Wrobel Piotr;Gdansk;JEPPESEN;Doktor 120 km;tak
+2;Plochocka Emilia;Gdansk;JEPPESEN;Doktor 120 km;tak
+3;Szyszło Aleksandra;Gdańsk;JEPPESEN;Doktor 120 km;tak
+4;Telega Mateusz;Gdańsk;JEPPESEN;Magister 75 km;tak
+5;Sobisz Joanna;Gdańsk;JEPPESEN;Magister 75 km;tak
+6;Karnasiewicz Pawel;Gdansk;JEPPESEN;Doktor 120 km;tak
+7;Wójcik Martyna;Gdańsk;JEPPESEN;Magister 75 km;tak
+8;Golyszny Marta;Gdynia;JEPPESEN;Magister 75 km;tak
+9;Wrobel Jolanta;Gdansk;JEPPESEN;Magister 75 km;tak
+10;Jóźwiak Patryk;Gdańsk;JEPPESEN;Magister 75 km;tak
+11;Sadowska Malgorzata;Gdansk;JEPPESEN;Magister 75 km;tak
+12;Kalisz Paweł;Gdańsk;JEPPESEN;Doktor 120 km;tak
+13;Lisowska Emilia;Gdańsk;JEPPESEN;Magister 75 km;tak
+14;Kwasiborski Krzysztof;Gdańsk;JEPPESEN;Magister 75 km;tak
+15;Płoszaj Łukasz;Gdańsk;JEPPESEN;Magister 75 km;tak
+16;Szczepański Michał;Gdańsk;JEPPESEN;Profesor 160 km;tak
+17;Haas Eliasz;Gdańsk;JEPPESEN;Profesor 160 km;tak
+18;Plichta Pawel;Gdansk;JEPPESEN;Doktor 120 km;tak
+19;Bojko Michał;Gdańsk;JEPPESEN;Magister 75 km;tak
+20;Gułajska Aleksandra;Gdańsk;JEPPESEN;Magister 75 km;tak
+21;Adamski Mateusz;Brodnica;JEPPESEN;Doktor 120 km;tak
+22;Rydygier Marcin;Gdansk;JEPPESEN;Magister 75 km;tak
+23;Hnatyszyn Mateusz;Gdańsk;JEPPESEN;Doktor 120 km;tak
+24;Konarska Marta;Gdansk;JEPPESEN;Magister 75 km;tak
+25;Kaczmarek Michał;Gdańsk;JEPPESEN;Magister 75 km;tak
+26;Lang Sylwia;Gdańsk;JEPPESEN;Magister 75 km;tak
+27;Przysiężna Anna ;Sopot;JEPPESEN;Doktor 120 km;tak
+28;Ufnal Bartłomiej;Gdańsk;JEPPESEN;Doktor 120 km;tak
+1;Śledź Piotr ;Gdańsk;SPIE Elbud Gdańsk S.A.;Magister 75 km;tak
+2;Krawczyk Roman;Gdańsk;SPIE Elbud Gdańsk S.A.;Magister 75 km;tak
+3;Domański Marek;Gdańsk;SPIE Elbud Gdańsk S.A.;Magister 75 km;tak
+4;Smycz Adam;Ciechanów;SPIE Elbud Gdańsk S.A.;Magister 75 km;tak
+5;Szczygeł Maciej;Pelplin;SPIE Elbud Gdańsk S.A.;Magister 75 km;tak
+6;Wolowski Jan;Żukowo;SPIE Elbud Gdańsk S.A.;Doktor 120 km;tak
+7;Wolowska Anna;Żukowo;SPIE Elbud Gdańsk S.A.;Doktor 120 km;tak
+8;Boruta-Domachowska Joanna;Gdańsk;SPIE Elbud Gdańsk S.A.;Magister 75 km;tak
+9;Domachowski Patryk;Gdańsk;SPIE Elbud Gdańsk S.A.;Magister 75 km;tak
+10;Zielonka Maciej;Gdynia;SPIE Elbud Gdańsk S.A.;Doktor 120 km;tak
+11;Heieck Marcin;Starogard Gdański;SPIE Elbud Gdańsk S.A.;Magister 75 km;tak
+1;Stubiński Piotr;Gdynia;DELTAMARIN;Profesor 160 km;tak
+2;Grusznic Martin;Gdynia;DELTAMARIN;Magister 75 km;tak
+3;Gragowski Jarosław;Gdańsk;DELTAMARIN;Magister 75 km;tak
+4;Grześ Tomasz;Gdynia;DELTAMARIN;Profesor 160 km;tak
+5;Nowicki Janusz;Gdansk;DELTAMARIN;Doktor 120 km;tak
+6;Zalewski Marcin;Gdańsk;DELTAMARIN;Profesor 160 km;tak
+7;Rachwalik Andrzej;Gdańsk;DELTAMARIN;Doktor 120 km;tak
+8;Bistram-Leszczyk Magdalena;Pruszcz Gdański;DELTAMARIN;Magister 75 km;tak
+9;Sztelwander-Zięba Jadwiga;Gdańsk;DELTAMARIN;Magister 75 km;tak
+10;Kulka Jan;Pogórze;DELTAMARIN;Profesor 160 km;tak
+11;Szar Tadeusz;Elbląg;DELTAMARIN;Profesor 160 km;tak
+12;Kościowska Agnieszka;Gdańsk;DELTAMARIN;Profesor 160 km;tak
+13;Czerwiński Piotr;Gdańsk;DELTAMARIN;Magister 75 km;tak
+14;Slenzak Maciej;Rumia;DELTAMARIN;Magister 75 km;tak
+15;Woźnicki Robert;Rotmanka;DELTAMARIN;Magister 75 km;tak
+16;Kamiński Marcin;Sopot;DELTAMARIN;Magister 75 km;tak
+17;Rzoska Andrzej;Gdańsk;DELTAMARIN;Magister 75 km;tak
+18;Tomaszunas Waldemar;Banino;DELTAMARIN;Magister 75 km;tak
+19;Malinowska Katarzyna ;Sokółka;DELTAMARIN;Magister 75 km;tak
+20;Młynarczyk Grzegorz;Gdańsk;DELTAMARIN;Magister 75 km;tak
+21;Maćkowski Piotr;Gdańsk;DELTAMARIN;Magister 75 km;tak
+22;Guździk Agnieszka;Gdańsk;DELTAMARIN;Magister 75 km;tak
+23;Sollich Karol;Gdańsk;DELTAMARIN;Magister 75 km;tak
+1;Orzech Karolina;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Magister 75 km;
+2;Brzuchalski Paweł;Rumia;EUROPROJEKT GDAŃSK S.A.;Doktor 120 km;
+3;Lipska Joanna;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Magister 75 km;
+4;Kowalczyk Andrzej;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Magister 75 km;
+5;Kosecki Paweł;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Magister 75 km;
+6;Nietupski Marcin;Sopot;EUROPROJEKT GDAŃSK S.A.;Doktor 120 km;
+7;Nowaczyk Wojciech;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Magister 75 km;
+8;Krzemieniewska Aleksandra;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Magister 75 km;
+9;Mojsa Mateusz;Gdynia;EUROPROJEKT GDAŃSK S.A.;Magister 75 km;
+1;Werner Janusz;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Magister 75 km;tak
+2;Werner Janusz;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Magister 75 km;tak
+3;Zdun Maciej;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Doktor 120 km;tak
+4;Makowska Aurelia;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Magister 75 km;tak
+5;Pęczak-Werner Dagmara;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Magister 75 km;tak
+6;Kozłowski Karol;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Doktor 120 km;tak
+7;Brzeziński Piotr;Wołomin;WOLTERS KLUWER POLSKA SP. Z O. O.;Doktor 120 km;tak
+8;Kurek Grzegorz;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Doktor 120 km;tak
+9;Łobocka Sabina;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Magister 75 km;tak
+10;Starczewski Bartosz;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Doktor 120 km;tak
+11;Dzięgiel Paweł;Warszawa;WOLTERS KLUWER POLSKA SP. Z O. O.;Doktor 120 km;tak
+12;Stańczuk Anna;Gdynia;WOLTERS KLUWER POLSKA SP. Z O. O.;Magister 75 km;tak
+13;Radziun Wioletta;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Doktor 120 km;tak
+14;Kozłowska Monika;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Magister 75 km;tak
+15;Soczówka Żaneta;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Magister 75 km;tak
+16;Piątkowski Piotr;Tczew;WOLTERS KLUWER POLSKA SP. Z O. O.;Magister 75 km;tak
+17;Stankowski Blazej;Ksiazenice;WOLTERS KLUWER POLSKA SP. Z O. O.;Doktor 120 km;tak
+18;Grzyk Grzegorz;Zabrze;WOLTERS KLUWER POLSKA SP. Z O. O.;Doktor 120 km;tak
+19;Kruś Dominik;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Magister 75 km;tak
+20;Rzepiński Maciej;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Magister 75 km;tak
+21;Firszt Mariusz;Gdańsk;WOLTERS KLUWER POLSKA SP. Z O. O.;Magister 75 km;tak
+22;Rojek Arkadiusz;Warszawa;WOLTERS KLUWER POLSKA SP. Z O. O.;Magister 75 km;tak
+1;Wiącek Waldemar;Gdańsk;DYNATRACE;Magister 75 km;tak
+2;Grajewski Wojciech;Gdańsk;DYNATRACE;Magister 75 km;
+3;Beger Dagmara;Gdańsk;DYNATRACE;Magister 75 km;
+4;Fandrejewski Adam;Gdańsk;DYNATRACE;Doktor 120 km;
+5;Tafelski Przemysław;Gdańsk;DYNATRACE;Profesor 160 km;
+1;Grzemski Jakub;Gdynia;Solid Logistics Sp. z o.o.;Doktor 120 km;
+1;Molenda Małgorzata;Gdańsk;Currenda sp z o.o.;Magister 75 km;tak
+2;Laskowski Rafał;Gdynia;Currenda sp z o.o.;Magister 75 km;tak
+3;Górski Paweł ;Gdańsk;Currenda sp z o.o.;Magister 75 km;tak
+4;Kukla Robert;Gdynia;Currenda sp z o.o.;Magister 75 km;tak
+5;Kaczmarzyk Piotr;Gdynia;Currenda sp z o.o.;Magister 75 km;tak
+6;Kaczor Rafał;Straszyn;Currenda sp z o.o.;Magister 75 km;tak
+7;Osowicki Krzysztof;Gdańsk;Currenda sp z o.o.;Magister 75 km;tak
+8;Machlik Adam;Gdańsk;Currenda sp z o.o.;Magister 75 km;tak
+9;Landowski Michał;Ocypel;Currenda sp z o.o.;Magister 75 km;tak
+10;Budzaj Przemysław;Gdynia;Currenda sp z o.o.;Magister 75 km;tak
+1;Niedźwiadek Adam;Gdańsk;Infoprojekt Sp. z o.o.;Profesor 160 km;
+2;Kalamon Jakub;Gdańsk;Infoprojekt Sp. z o.o.;Profesor 160 km;
+1;Konitz Marek;Gdańsk;SOLWIT SA;Magister 75 km;
+2;Znajmiecki Piotr;Gdańsk;SOLWIT SA;Profesor 160 km;
+3;Borowski Mateusz;Gdańsk;SOLWIT SA;Doktor 120 km;
+4;Ramczyk Kamil;Gdańsk;SOLWIT SA;Magister 75 km;
+5;Lasota Monika;Gdańsk;SOLWIT SA;Doktor 120 km;
+6;Majewski Maciej;Gdańsk;SOLWIT SA;Profesor 160 km;
+1;Pielech Adrian;Rumia;INTEL;Doktor 120 km;
+2;Hako Ariel;Gdynia;INTEL;Magister 75 km;
+3;Remizowicz Stanisław;Gdańsk;INTEL;Magister 75 km;
+4;Remizowicz Maja;Gdańsk;INTEL;Magister 75 km;
+5;Aleksejew Szymon;Elbląg;INTEL;Doktor 120 km;
+6;Richert Krzysztof;Rebiechowo;INTEL;Profesor 160 km;
+7;Richert Eliza;Rebiechowo;INTEL;Profesor 160 km;
+8;Wójcik Artur;Gdańsk;INTEL;Doktor 120 km;
+9;Twaróg Tomasz;Gdańsk;INTEL;Doktor 120 km;
+10;Piekarczyk Adam;Gdańsk;INTEL;Magister 75 km;
+11;Piekarczyk Maciek;Gdańsk;INTEL;Magister 75 km;
+12;Stencel Joanna;Żukowo;INTEL;Doktor 120 km;
+13;Sosnowski Łukasz;Więcbork;INTEL;Profesor 160 km;
+14;Aleksejew Marta;Elbląg;INTEL;Magister 75 km;
+15;Miotk Szymon;Gdansk;INTEL;Magister 75 km;
+16;Miotk Maria;Sopot;INTEL;Magister 75 km;
+17;Roskosz Robert;Pępowo;INTEL;Magister 75 km;
+18;Roskosz Magdalena;Pępowo;INTEL;Magister 75 km;
+19;Kozak Tomasz;Gdańsk;INTEL;Profesor 160 km;
+20;Łoś Paulina;Gdańsk;INTEL;Doktor 120 km;
+21;Maciejewski Bartosz;Gdańsk;INTEL;Doktor 120 km;
+22;Goławski Łukasz;Gdańsk;INTEL;Profesor 160 km;
+23;Wachonin Helena;Gdańsk;INTEL;Magister 75 km;
+24;Arentowicz Krzysztof;Gdańsk;INTEL;Profesor 160 km;
+25;Fedko Artem;Gdynia;INTEL;Doktor 120 km;
+26;Kalenda Tomasz;Starogard Gdański;INTEL;Doktor 120 km;
+1;Żadkowski Michał;Gdynia;GetResponse;Magister 75 km;tak
+2;Regliński Patryk;Gdynia;GetResponse;Magister 75 km;tak
+3;Lipiński Łukasz;Gdańsk;GetResponse;Magister 75 km;tak
+4;Cieszyński Tomasz;Gdańsk;GetResponse;Magister 75 km;tak
+5;Zalach Aleksandra;Gdańsk;GetResponse;Magister 75 km;tak
+6;Baldysiak Monika;Banino;GetResponse;Magister 75 km;tak
+7;Laksowska Miranda;Gdynia;GetResponse;Magister 75 km;tak
+8;Śliwińska Joanna;Gdynia;GetResponse;Magister 75 km;tak
+9;Karczewska Maria;Gdańsk;GetResponse;Magister 75 km;tak
+10;Sosnowska Aleksandra;Gdynia;GetResponse;Magister 75 km;tak
+1;Fabisiak Grzegorz;Gdańsk;Nest Bank;Magister 75 km;
+2;Sierota Przemysław;Gdańsk;Nest Bank;Magister 75 km;
+3;Wocial Tomasz;Gdynia;Nest Bank;Magister 75 km;
+4;Grodecki Krzysztof;Gdańsk;Nest Bank;Magister 75 km;
+5;Wąsik Katarzyna;Reda;Nest Bank;Magister 75 km;
+6;Płachta Jacek;Gdańsk;Nest Bank;Magister 75 km;
+7;Gołuński Marek;Gdańsk;Nest Bank;Doktor 120 km;
+8;Brzozowska Aleksandra;Gdańsk;Nest Bank;Magister 75 km;
+9;Jasnoch Andrzej;Gdańsk;Nest Bank;Magister 75 km;
+10;Kutkiewicz Paula;Gdańsk;Nest Bank;Magister 75 km;
+11;Supeł Sylwia;Gdańsk;Nest Bank;Magister 75 km;
+1;Gałecka Dorota;Starogard Gdański;Starostwo Powiatowe w Starogardzie Gdańskim;Magister 75 km;
+2;Gabriel Patryk;Starogard Gdański;Starostwo Powiatowe w Starogardzie Gdańskim;Magister 75 km;
+3;Gradowska Beata;Czarna Woda;Starostwo Powiatowe w Starogardzie Gdańskim;Magister 75 km;
+4;Warchoł Wiesław;Gniew;Starostwo Powiatowe w Starogardzie Gdańskim;Magister 75 km;
+5;Cherek Krzysztof;Starogard Gdański;Starostwo Powiatowe w Starogardzie Gdańskim;Magister 75 km;
+6;Wojtaś Krzysztof;Starogard Gdański;Starostwo Powiatowe w Starogardzie Gdańskim;Magister 75 km;
+7;Leszman Joanna;Starogard Gdański;Starostwo Powiatowe w Starogardzie Gdańskim;Magister 75 km;
+8;Jankowska Magdalena;Starogard Gdański;Starostwo Powiatowe w Starogardzie Gdańskim;Magister 75 km;
+1;Prokopczuk Paweł;Gdańsk;Niczuk Metall-PL Sp. J.;Doktor 120 km;
+2;Krawiec Adam ;Gdynia;Niczuk Metall-PL Sp. J.;Doktor 120 km;
+3;Borowczak Wiesław;Wejherowo;Niczuk Metall-PL Sp. J.;Doktor 120 km;
+4;Tyszkowski Jacek;Gdynia;Niczuk Metall-PL Sp. J.;Doktor 120 km;
+5;Wensierski Andrzej ;Gdynia;Niczuk Metall-PL Sp. J.;Doktor 120 km;
+6;Kupski Michał;Gdynia;Niczuk Metall-PL Sp. J.;Doktor 120 km;
+1;Perkowski Tomasz;Gdańsk;Wakacje.pl S.A.;Magister 75 km;tak
+2;Szczech Michał;Gdańsk;Wakacje.pl S.A.;Magister 75 km;tak
+3;Lisek Marcin;Gdańsk;Wakacje.pl S.A.;Magister 75 km;tak
+4;Matusik Łukasz;Gdańsk;Wakacje.pl S.A.;Magister 75 km;tak
+5;Szymanowicz Marta;Gdańsk;Wakacje.pl S.A.;Magister 75 km;tak
+6;Pasterska Olga;Gdańsk;Wakacje.pl S.A.;Magister 75 km;tak
+7;Rynkiewicz Maciej;Gdańsk;Wakacje.pl S.A.;Magister 75 km;tak
+8;Megger Dawid;Gdańsk;Wakacje.pl S.A.;Magister 75 km;tak
+9;Motyl Tomasz;Gdańsk;Wakacje.pl S.A.;Magister 75 km;tak
+10;Szczepkowski Zenon;Gdańsk;Wakacje.pl S.A.;Doktor 120 km;tak
+1;Wiszniewska Ewa;Gdynia;PKO Bank Hipoteczny S.A.;Magister 75 km;
+2;Wiszniewski Cezary;Gdynia;PKO Bank Hipoteczny S.A.;Doktor 120 km;
+3;Kaźmierczak Wioletta;Gdańsk;PKO Bank Hipoteczny S.A.;Magister 75 km;
+4;Zaleska Joanna;Gdynia;PKO Bank Hipoteczny S.A.;Doktor 120 km;
+5;Karpowicz Maciej;Gdynia;PKO Bank Hipoteczny S.A.;Doktor 120 km;
+6;Armatowski Piotr;Gdańsk;PKO Bank Hipoteczny S.A.;Doktor 120 km;
+7;Szatkowski Radosław;Gdynia;PKO Bank Hipoteczny S.A.;Doktor 120 km;
+1;Badziąg Piotr;Gdańsk;Omida S.A.;Doktor 120 km;
+1;Sakłak Wojciech;Banino;AWFiS;Doktor 120 km;
+1;Gintowt Michał;Gdańsk;TTS Poland sp. z o.o.;Magister 75 km;tak
+2;Sokołowski Bogdan;Gdańsk;TTS Poland sp. z o.o.;Magister 75 km;tak
+3;Pirożek Adam;Gdańsk;TTS Poland sp. z o.o.;Doktor 120 km;tak
+4;Zygmunt Marcin;Gdańsk;TTS Poland sp. z o.o.;Magister 75 km;tak
+5;Panikowski Michał;Gdańsk;TTS Poland sp. z o.o.;Magister 75 km;tak
