@@ -1,0 +1,7 @@
+iso -- kod ISO kraju
+tu.density -- Trade Union Density 2012 (ratio of wage and salary earners that are trade union members,
+   divided by the total number of wage and salary earners tj. udział fundusza płac związkowców do płac ogółem;
+   cf https://stats.oecd.org/Index.aspx?DataSetCode=UN_DEN )
+gdppc -- GDP per capita 2012 (źródło wikipedia)
+emprate -- Employment rate 2012 (cf http://stats.oecd.org/Index.aspx?DatasetCode=STLABOUR)
+yur -- Youth unemployment rate 2012 (cf http://www.oecd-ilibrary.org/employment/youth-unemployment-rate_20752342-table2)
