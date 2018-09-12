@@ -1,0 +1,60 @@
+no;code;contry;gold;silver;bronze;total
+1;USA;United States;46;37;38;121
+2;GBR;Great Britain;27;23;17;67
+3;CHN;China;26;18;26;70
+4;RUS;Russian Federation;19;18;19;56
+5;GER;Germany;17;10;15;42
+6;JPN;Japan;12;8;21;41
+7;FRA;France;10;18;14;42
+8;KOR;Republic of Korea;9;3;9;21
+9;ITA;Italy;8;12;8;28
+10;AUS;Australia;8;11;10;29
+11;NED;Netherlands;8;7;4;19
+12;HUN;Hungary;8;3;4;15
+13;BRA;Brazil;7;6;6;19
+14;ESP;Spain;7;4;6;17
+15;KEN;Kenya;6;6;1;13
+16;JAM;Jamaica;6;3;2;11
+17;CRO;Croatia;5;3;2;10
+18;CUB;Cuba;5;2;4;11
+19;NZL;New Zealand;4;9;5;18
+20;CAN;Canada;4;3;15;22
+21;UZB;Uzbekistan;4;2;7;13
+22;KAZ;Kazakhstan;3;5;9;17
+23;COL;Colombia;3;2;3;8
+24;SUI;Switzerland;3;2;2;7
+25;IRI;Iran;3;1;4;8   
+26;GRE;Greece;3;1;2;6
+27;ARG;Argentina;3;1;0;4
+28;DEN;Denmark;2;6;7;15
+29;SWE;Sweden;2;6;3;11
+30;RSA;South Africa;2;6;2;10
+31;UKR;Ukraine;2;5;4;11
+32;SRB;Serbia;2;4;2;8
+33;POL;Poland;2;3;6;11
+34;PRK;DPR Korea;2;3;2;7
+35;BEL;Belgium;2;2;2;6
+35;THA;Thailand;2;2;2;6
+37;SVK;Slovakia;2;2;0;4
+38;GEO;Georgia;2;1;4;7
+39;AZE;Azerbaijan;1;7;10;18
+40;BLR;Belarus;1;4;4;9
+41;TUR;Turkey;1;3;4;8
+42;ARM;Armenia;1;3;0;4
+43;CZE;Czech Republic;1;2;7;10
+44;ETH;Ethiopia;1;2;5;8
+45;SLO;Slovenia;1;2;1;4
+46;INA;Indonesia;1;2;0;3
+47;ROU;Romania;1;1;3;5
+48;BRN;Bahrain;1;1;0;2
+48;VIE;Vietnam;1;1;0;2
+50;TPE;Taipei;1;0;2;3
+51;BAH;Bahamas;1;0;1;2
+51;CIV;Côte d'Ivoire;1;0;1;2
+51;IOA;Independent Olympic Athletes;1;0;1;2
+54;FIJ;Fiji;1;0;0;1
+54;JOR;Jordan;1;0;0;1
+54;KOS;Kosovo;1;0;0;1
+54;PUR;Puerto Rico;1;0;0;1
+54;SIN;Singapore;1;0;0;1
+54;TJK;Tajikistan;1;0;0;1
