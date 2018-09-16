@@ -4,6 +4,12 @@ $time_pos=6; ## dla roku 2016/KK
 #$time_pos=7; ## dla roku 2016
 #$time_pos=5; ## dla roku 2015
 
+use Getopt::Long;
+print STDERR ("*** $0 -c NUM -draft\n");
+GetOptions("c=i" => \$time_pos, "draft" => \$Draft);
+
+
+
 while (<>) { 
   chomp();
   @tmp = split (/;/, $_);

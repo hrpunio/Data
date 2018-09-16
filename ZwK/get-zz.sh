@@ -1,6 +1,7 @@
 #!/bin/bash
-F=KK
+F=ZwK2018
 #wget 'https://www.czasomierzyk.pl/zapisy2016/kociewiekolem/index.php?akcja=lista' -O $F.out
+wget 'http://www.czasomierzyk.pl/zapisy2016/zulawywkolo/index.php?akcja=lista' -O $F.out
 dos2unix $F.out 
 awk '/<table/,/<\/table/ {print }' $F.out > $F.txt
 cat $F.txt | perl -e 'while (<>) { chomp();

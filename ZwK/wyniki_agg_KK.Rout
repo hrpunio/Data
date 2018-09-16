@@ -1,0 +1,83 @@
+
+R version 3.5.1 (2018-07-02) -- "Feather Spray"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R jest oprogramowaniem darmowym i dostarczany jest BEZ JAKIEJKOLWIEK GWARANCJI.
+Możesz go rozpowszechniać pod pewnymi warunkami.
+Wpisz 'license()' lub 'licence()' aby uzyskać szczegóły dystrybucji.
+
+R jest projektem kolaboracyjnym z wieloma uczestnikami.
+Wpisz 'contributors()' aby uzyskać więcej informacji oraz
+'citation()' aby dowiedzieć się jak cytować R lub pakiety R w publikacjach.
+
+Wpisz 'demo()' aby zobaczyć demo, 'help()' aby uzyskać pomoc on-line, lub
+'help.start()' aby uzyskać pomoc w przeglądarce HTML.
+Wpisz 'q()' aby wyjść z R.
+
+[Poprzednio zapisany obszar roboczy został przywrócony]
+
+> #
+> z16 <- read.csv("2016_KK_D.csv", sep = ';',  header=T, na.string="NA", dec=".");
+> aggregate (z16$time, list(Numer = z16$dist), summary)
+  Numer   x.Min. x.1st Qu. x.Median   x.Mean x.3rd Qu.   x.Max.
+1    75  7716.00  12212.00 14088.50 14196.39  15981.50 24101.00
+2   120 12169.00  16446.25 18918.50 19025.65  21077.50 25501.00
+3   170 16903.00  21220.50 23128.00 23087.98  24980.00 29109.00
+> # fun=fivenum -- minimum, lower-hinge, median, upper-hinge, maximum
+> z16$year <- 2016;
+> 
+> z17 <- read.csv("2017_KK_D.csv", sep = ';',  header=T, na.string="NA", dec=".");
+> aggregate (z17$time, list(Numer = z17$dist), summary)
+  Numer   x.Min. x.1st Qu. x.Median   x.Mean x.3rd Qu.   x.Max.
+1    65  7327.00  10530.00 12375.00 12524.49  14444.00 19682.00
+2   115 12008.00  16020.50 17699.50 17859.28  19871.25 24029.00
+3   155 14730.00  19348.00 21762.00 21529.22  23415.00 31639.00
+> z17$year <- 2017;
+> 
+> z18 <- read.csv("2018_KK_D.csv", sep = ';',  header=T, na.string="NA", dec=".");
+> aggregate (z18$time, list(Numer = z18$dist), summary)
+  Numer   x.Min. x.1st Qu. x.Median   x.Mean x.3rd Qu.   x.Max.
+1    65  7110.00  10200.25 11741.00 12132.54  13193.75 23170.00
+2   115 11967.00  15098.00 17504.00 17731.22  19958.00 24933.00
+3   155  6920.00  19063.75 20553.00 21419.25  24505.75 28385.00
+> z18$year <- 2018;
+> 
+> 
+> ###
+> zz16 <- z16[, c("dist", "kmH", "time", "year")];
+> zz17 <- z17[, c("dist", "kmH", "time", "year")];
+> zz18 <- z18[, c("dist", "kmH", "time", "year")];
+> 
+> zz <- rbind (zz16, zz17, zz18);
+> 
+> ## tylko dystans 155
+> zz140 <- subset (zz, ( dist > 120 & kmH < 50 ));
+> sum140 <- aggregate (zz140$kmH, list(Numer = zz140$year), summary)
+> sum140
+  Numer   x.Min. x.1st Qu. x.Median   x.Mean x.3rd Qu.   x.Max.
+1  2016 21.02000  24.50000 26.46000 27.04932  28.84000 36.21000
+2  2017 17.64000  23.83000 25.64000 26.68969  28.84000 37.88000
+3  2018 19.66000  22.66000 27.11000 26.51813  29.21000 36.93000
+> 
+> xl <- sprintf("średnie 2016 = %.2f | kmh 2017 = %.2f kmh | 2018 = %.2f kmh", 
++         sum140$x[1,4], sum140$x[2,4], sum140$x[3,4])
+> boxplot (kmH ~ year, zz140, xlab = xl, ylab = "Śr.prędkość [kmh]", col = "yellow", main="Kociewie kołem. Dystans profesor" )
+> 
+> 
+> zz120 <- subset (zz, ( dist > 100 & dist < 130 & kmH < 50 ));
+> sum120 <- aggregate (zz120$kmH, list(Numer = zz120$year), summary)
+> sum120
+  Numer   x.Min. x.1st Qu. x.Median   x.Mean x.3rd Qu.   x.Max.
+1  2016 16.94000  20.49500 22.83500 23.34270  26.26750 35.50000
+2  2017 17.23000  20.83250 23.39000 23.68528  25.84250 34.48000
+3  2018 16.60000  20.74000 23.65000 24.12891  27.42000 34.60000
+> 
+> xl <- sprintf("średnie 2016 = %.2f | kmh 2017 = %.2f kmh | 2018 = %.2f kmh", 
++         sum140$x[1,4], sum140$x[2,4], sum140$x[3,4])
+> boxplot (kmH ~ year, zz120, xlab = xl, ylab = "Śr.prędkość [kmh]", col = "yellow", main="Kociewie kołem. Dystans doktor" )
+> 
+> 
+> proc.time()
+użytkownik     system   upłynęło 
+     0.266      0.045      0.338 
