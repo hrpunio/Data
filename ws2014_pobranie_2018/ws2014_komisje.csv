@@ -1,3 +1,56 @@
+./braki/1592;026401;112;Szkoła Podstawowa nr 90, Wrocław ul. Orzechowa 62, 50-540 Wrocław;2039;2050;1264;786;0;0;785;0;0;785;744;41
+./braki/1655;026401;17;Szkoła Podstawowa Nr 68, Wrocław ul. Szczęśliwa 28, 53-446 Wrocław;2001;1992;1388;604;0;0;603;0;0;603;534;69
+./braki/1666;026401;18;Szkoła Podstawowa Nr 68, Wrocław ul. Szczęśliwa 28, 53-446 Wrocław;1600;1540;1037;503;0;0;502;0;0;502;473;29
+./braki/16676;186301;1;Szkoła Podstawowa Nr 1, Rzeszów ul. Bernardyńska 4, 35-069 Rzeszów;1833;1828;1133;695;0;0;695;0;0;695;628;67
+./braki/1682;026401;194;Szkoła Podstawowa nr 3, Wrocław ul. Bobrza 27, 54-220 Wrocław;1615;1598;922;676;0;0;676;0;0;676;628;48
+./braki/17053;200405;1;Zespół Szkolno - Przedszkolny, Szczuczyn ul. Kilińskiego 42, 19-230 Szczuczyn;1130;1140;520;620;0;0;620;0;0;620;505;115
+./braki/17054;200405;2;Publiczne Gimnazjum, Szczuczyn Plac Tysiąclecia 15, 19-230 Szczuczyn;1111;1097;441;656;0;0;656;0;0;656;512;144
+./braki/17055;200405;3;Świetlica wiejska, Skaje 53, 19-230 Szczuczyn;659;658;312;346;0;0;346;0;0;346;272;74
+./braki/17056;200405;4;Remiza Ochotniczej Straży Pożarnej, Szczuczyn ul. Strażacka 11, 19-230 Szczuczyn;953;947;399;548;1;0;548;0;0;548;444;104
+./braki/17057;200405;5;Zespół Szkół, Niećkowo 63, 19-230 Szczuczyn;781;796;374;422;0;0;422;0;0;422;304;118
+./braki/17058;200405;6;Szkoła Podstawowa, Niedźwiadna 49, 19-230 Szczuczyn;626;615;267;348;4;0;348;0;0;348;264;84
+./braki/17059;200406;1;Urząd Gminy, Wąsosz Plac Rzędzina 8, 19-222 Wąsosz;1058;1063;608;455;0;0;455;0;0;455;369;86
+./braki/1706;026401;215;Liceum Ogólnokształcące nr XV, Wrocław ul. Wojrowicka 58, 54-436 Wrocław;1457;1450;896;554;0;0;554;0;0;554;527;27
+./braki/17060;200406;2;Szkoła Podstawowa, Ławsk 107, 19-222 Wąsosz;836;846;454;392;0;0;392;0;0;392;293;99
+./braki/17061;200406;3;Szkoła Podstawowa, Sulewo-Kownaty , 19-222 Wąsosz;621;624;274;350;0;0;350;0;0;350;294;56
+./braki/17062;200406;4;Gimnazjum, Wąsosz ul.Piaskowa 13, 19-222 Wąsosz;572;570;325;245;0;0;245;0;0;245;176;69
+./braki/1739;026401;245;Szkoła Podstawowa nr 20, Wrocław ul. Kamieńskiego 24, 51-124 Wrocław;2058;2050;1298;752;0;0;752;0;0;752;697;55
+./braki/17632;206101;43;Publiczne Gimnazjum Nr 16, Białystok ul. Sokólska 1, 15-865 Białystok;1222;1220;672;548;0;0;548;0;0;548;509;39
+./braki/17698;206201;13;Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży, Łomża ul. Akademicka 14, 18-400 Łomża;1184;1188;775;413;0;0;413;0;0;413;368;45
+./braki/17709;206201;23;Świetlica Spółdzielni Mieszkaniowej "Perspektywa" w Łomży, Łomża ul. Kazańska 1, 18-400 Łomża;1814;1821;1107;714;0;0;714;0;0;714;642;72
+./braki/17970;220402;1;Szkoła Podstawowa, Cedry Małe ul.Żuławska 58, 83-020 Cedry Wielkie;1542;1457;981;476;0;0;476;0;0;476;307;169
+./braki/17971;220402;2;Żuławski Ośrodek Kultury i Sportu, Cedry Wielkie ul.Osadników Wojskowych 8, 83-020 Cedry Wielkie;1788;1712;1004;708;0;0;708;0;0;708;516;192
+./braki/17972;220402;3;Szkoła Podstawowa, Trutnowy ul.Św.Piotra i Pawła 3, 83-020 Cedry Wielkie;1201;1140;625;515;0;0;515;0;0;515;328;187
+./braki/17973;220402;4;Świetlica Wiejska, Koszwały ul.Lipowa 15, 83-011 Wiślinka;620;591;308;283;0;0;283;0;0;283;207;76
+./braki/18110;220604;3;Szkoła Podstawowa w Nowym Klinczu, Nowy Klincz 8, 83-400 Kościerzyna;902;856;284;572;1;0;572;0;0;572;416;156
+./braki/1816;026401;42;Niepubliczny Zakład Opieki Zdrowotnej, Wrocław pl. Maxa Borna 41642, 50-204 Wrocław;1892;1829;1299;530;0;0;530;0;0;530;503;27
+./braki/18184;220704;3;Przedszkole Niepubliczne "Miś Uszatek" Beata Lewandowska w Prabutach, Prabuty Kopernika 2, 82-550 Prabuty;769;732;382;350;0;0;350;0;0;350;266;84
+./braki/1847;026401;70;Dom Studencki "Parawanowiec", Wrocław pl. Grunwaldzki 28, 50-363 Wrocław;1823;1800;1162;638;0;0;638;0;0;638;593;45
+./braki/1855;026401;78;Zespół Szkół nr 9, Wrocław ul. Krajewskiego 1, 51-690 Wrocław;1918;1901;1113;788;0;0;787;0;0;787;760;27
+./braki/1860;026401;82;Szkoła Podstawowa nr 91, Wrocław ul. Sempołowskiej 54, 51-661 Wrocław;2173;2151;1135;1016;0;0;1014;0;0;1014;955;59
+./braki/19014;226201;102;Szkoła Podstawowa nr 28, Gdynia, Babie Doły ul. Zielona 53, 81-197 Gdynia;1787;1701;901;799;0;0;796;0;0;796;708;88
+./braki/19998;241004;4;Szkoła Podstawowa nr 2, Pawłowice ul. Pukowca 4, 43-251 Pawłowice;850;850;399;451;0;0;451;0;0;451;350;101
+./braki/20008;241005;13;Zespół Szkół Nr 2, Pszczyna ul. Staromiejska 41, 43-200 Pszczyna;1736;1549;616;933;0;0;927;0;0;927;762;165
+./braki/20018;241005;22;Zespół Szkolno-Przedszkolny, Studzienice ul. Klemensa Szewczyka 74, 43-215 Studzienice;1422;1250;513;737;0;0;737;0;0;737;567;170
+./braki/20031;241005;6;Szkoła Podstawowa Nr 18 z oddziałami integracyjnymi im. ks. J. Twardowskiego, Pszczyna ul. Księzycowa 25, 43-200 Pszczyna;1441;1300;487;814;0;0;816;0;2;814;723;91
+./braki/20032;241005;7;Zespół Szkół Nr 1, Pszczyna ul. Kazimierza Wielkiego 5, 43-200 Pszczyna;1668;1500;766;734;1;0;734;0;0;734;621;113
+./braki/26276;306401;63;Szkoła Podstawowa nr 23 im. gen. Józefa Bema, Poznań ul. Cypriana Norwida 21, 60-867 Poznań;1766;1231;526;705;1;0;705;0;0;705;668;37
+./braki/26277;306401;64;Zespół Szkół Zawodowych nr 1, Poznań ul. św. Floriana 3, 60-536 Poznań;1800;1268;676;592;1;0;591;0;0;591;535;56
+./braki/26278;306401;65;Zespół Szkół Ogólnokształcących nr 10 Gimnazjum Dwujęzyczne im. Dąbrówki, VII Liceum Ogólnokształcące im. Dąbrówki, Poznań ul. Stefana Żeromskiego 8/12, 60-544 Poznań;1795;1252;668;584;1;0;584;0;0;584;548;36
+./braki/26279;306401;66;Zespół Szkół Ogólnokształcących nr 10 Gimnazjum Dwujęzyczne im. Dąbrówki, VII Liceum Ogólnokształcące im. Dąbrówki, Poznań ul. Stefana Żeromskiego 8/12, 60-544 Poznań;1487;1051;506;545;0;0;545;0;0;545;498;47
+./braki/26280;306401;67;Specjalny Ośrodek Szkolno-Wychowawczy dla Dzieci i Młodzieży Niepełnosprawnej im. Zbigniewa Tylewicza w Poznaniu, Poznań ul. Augustyna Szamarzewskiego 78/82, 60-569 Poznań;1727;1219;594;625;0;0;625;0;0;625;565;60
+./braki/26281;306401;68;Szkoła Podstawowa nr 70 im. Mikołaja Kopernika, Poznań ul. Piękna 37, 60-591 Poznań;1928;1362;484;876;0;0;878;0;0;878;822;56
+./braki/26282;306401;69;Siedziba Zarządu Rejonu Lotników Wielkopolskich, Poznań ul. Jana Nagórskiego 16, 60-408 Poznań;1929;1355;550;805;0;0;803;0;0;803;741;62
+./braki/26283;306401;7;Zespół Szkół Zawodowych nr 6 im. Joachima Lelewela, Poznań ul. Działyńskich 4/5, 61-727 Poznań;1774;1251;641;610;0;0;610;0;0;610;547;63
+./braki/26352;320201;1;Gimnazjum Publiczne, Bierzwnik ul.Krajowej Rady Narodowej 18, 73-240 Bierzwnik;1858;1578;451;1127;3;0;1122;0;0;1122;822;300
+./braki/26353;320201;2;Świetlica Wiejska, Breń 30A, 73-240 Bierzwnik;1296;1105;422;683;3;0;682;0;0;682;443;239
+./braki/26354;320201;3;Szkoła Podstawowa, Zieleniewo 37, 73-240 Bierzwnik;822;700;210;490;1;0;490;0;0;490;331;159
+./braki/26511;320502;15;SPZZOZ Gryfice, Gryfice Niechorska 27, 72-300 Gryfice;172;150;119;31;0;0;31;0;0;31;23;8
+./braki/26512;320502;16;DPS ul. Kościuszki 71, Gryfice ul. Kościuszki 71, 72-300 Gryfice;44;43;8;35;0;0;35;0;0;35;32;3
+./braki/26513;320502;2;Szkoła Podstawowa, Budynek B, Trzygłów 24, 72-300 Gryfice;1256;1072;420;652;0;0;652;0;0;652;501;151
+./braki/26514;320502;3;Świetlica Wiejska, Świeszewo 27, 72-300 Gryfice;777;661;262;399;0;0;399;0;1;398;326;72
+./braki/949;021901;1;Gimnazjum nr 1, Świdnica ul. Mieczysława Kozara Słobódzkiego 21, 58-105 Świdnica;2020;1996;1000;996;0;0;996;0;0;996;913;83
+./braki/960;021901;2;Szkoła Podstawowa nr 1 z Oddziałami Integracyjnymi (sala nr 30), Świdnica ul. Galla Anonima 1, 58-100 Świdnica;2189;2200;1244;956;0;0;954;0;0;954;741;213
 id;teryt;idk;adres;uprawnieni;kartyOtrzymane;kartyNiewydane;kartyWydane;pelnomocnicy;pakiety;kartyWyjete;koperty;kartyNiewazne;kartyWazne;glosy;glosyNiewazne
 1;020101;1;Miejskie Przedszkole Publiczne Nr 3, Bolesławiec ul. Ceramiczna 5, 59-700 Bolesławiec;1553;1550;884;666;0;0;664;0;0;664;566;98
 10;020101;18;Szkoła Podstawowa Nr 4, Bolesławiec ul. Mikołaja Brody 12, 59-700 Bolesławiec;1418;1400;888;512;0;0;512;0;0;512;429;83
