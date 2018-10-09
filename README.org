@@ -1,4 +1,4 @@
-#+TITLE: Przykładowe zbiory danych
+#+TITLE: Różne zbiory danych
 #+AUTHOR: Tomasz Przechlewski
 #+EMAIL: looseheadprop1 at gmail dot com
 #+INFOJS_OPT: view:info
