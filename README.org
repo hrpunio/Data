@@ -4,4 +4,4 @@
 #+INFOJS_OPT: view:info
 #+BABEL: :session *R* :cache yes :results output graphics :exports both :tangle yes 
 
-Różne zbiory danych w tym dane dotyczące wyborów w PL w latach 2010--
+Różne zbiory danych w tym dane dotyczące wyborów w PL w latach 2005--
