@@ -1,0 +1,62 @@
+
+R version 3.5.1 (2018-07-02) -- "Feather Spray"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R jest oprogramowaniem darmowym i dostarczany jest BEZ JAKIEJKOLWIEK GWARANCJI.
+Możesz go rozpowszechniać pod pewnymi warunkami.
+Wpisz 'license()' lub 'licence()' aby uzyskać szczegóły dystrybucji.
+
+R jest projektem kolaboracyjnym z wieloma uczestnikami.
+Wpisz 'contributors()' aby uzyskać więcej informacji oraz
+'citation()' aby dowiedzieć się jak cytować R lub pakiety R w publikacjach.
+
+Wpisz 'demo()' aby zobaczyć demo, 'help()' aby uzyskać pomoc on-line, lub
+'help.start()' aby uzyskać pomoc w przeglądarce HTML.
+Wpisz 'q()' aby wyjść z R.
+
+> #!/usr/bin/Rscript
+> # Skrypt wykreślna różnego rodzaju histogramy dla danych z pliku ws2010_komitety_by_komisja_T.csv
+> # (więcej: https://github.com/hrpunio/Data/tree/master/ws2010_pobranie_2018)
+> #
+> estimatedMode <- function(x) { d <- density(x, na.rm=T); d$x[which.max(d$y)] }
+> 
+> showVotes <- function(df, x, co, region, N, minN) {
++    ## showVotes = wykreśla histogram dla województwa (region)
++    kN <- nrow(df)
++    sX <- summary(df[[x]], na.rm=TRUE);
++    sV <- sd(df[[x]], na.rm=TRUE)
++    ## współczynnik skośności Pearsona
++    skewness <- 3 * (sX[["Mean"]] - sX[["Median"]])/sV
++    Mo <- estimatedMode(df[[x]])
++    skewnessMo <- (sX[["Mean"]] - Mo)/sV
++ 
++    summary_label <- sprintf ("Śr = %.1f\nMe = %.1f\nq1 = %.1f\nq3 = %.1f\nS = %.1f\nW = %.2f", 
++      sX[["Mean"]], sX[["Median"]],
++      sX[["1st Qu."]], sX[["3rd Qu."]], sV, skewness)
++    summary_label_bold <- sprintf ("D = %.2f\nSr - D = %.2f\nWd = %.2f", Mo, sX[["Mean"]] - Mo, skewnessMo)
++ 
++    if (minN < 1) {
++    t <- sprintf("Wybory 2005. Głosy na %s\n%s ogółem %d komisji", co, region, kN ) } 
++    else { t <- sprintf("Wybory 2005. Głosy na %s\n%s ogółem %d komisji (N>%d)", co, region, kN, minN ) } 
++ 
++    h <- hist(df[[x]], breaks=kpN, freq=TRUE, col="orange", main=t, 
++      ylab="%", xlab="% poparcia", labels=F, xaxt='n' )
++      axis(side=1, at=kpN, cex.axis=2, cex.lab=2)
++    ## pozycja tekstu zawierającego statystyki opisowe
++    posX <- .50 * max(h$counts)
++    posY <- .66 * max(h$counts)
++    text(80, posX, summary_label, cex=1.4, adj=c(0,1) )
++    text(80, posY, summary_label_bold, cex=1.4, adj=c(0,1), font=4)
++ }
+> 
+> 
+> ## Wczytanie danych; obliczenie podst. statystyk:
+> komisje <- read.csv("ws2005_komisje_wyniki.csv", 
++    sep = ';', header=T, na.string="NA");
+Błąd w poleceniu 'file(file, "rt")':nie można otworzyć połączenia
+Wywołania: read.csv -> read.table -> file
+Dodatkowo: Komunikat ostrzegawczy:
+W poleceniu 'file(file, "rt")':
+  nie można otworzyć pliku 'ws2005_komisje_wyniki.csv': Nie ma takiego pliku ani katalogu
+Wykonywanie wstrzymane
