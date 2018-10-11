@@ -1,11 +1,12 @@
 #!/usr/bin/perl
-%Komitety = ('PSL' => 5, 'PO' => 7, 'PiS' => 1, 'SLD' => 3);
+%Komitety = ('PSL' => 1, 'PO' => 5, 'PiS' => 4, 'SLD' => 6);
 
 while (<>) { chomp();
-  ($okr, $teryt, $id, $nrk, $komitet, $kandydat, $glosy) = split /;/, $_;
+  ($teryt, $okr, $idK, $kto, $glosy, $nrk, $nrL, $komitet) = split /;/, $_;
+  $id = "$teryt;$okr";
   $GlosyK{$id}{$komitet} += $glosy;
   $GlosyR{$id} += $glosy;
-  $Teryt{$id} = "$id;$teryt;$okr";
+  $Teryt{$id} = "$id";
 
 
  }
