@@ -1,0 +1,10 @@
+## Szkoły Muzyczne w PL
+
+* rspo20190414085848.csv -- plik pobrany ze strony
+
+* szkolyMuz20190415.csv -- dodane współrzędne GEO (za 
+pomocą OSM https://wiki.openstreetmap.org/wiki/Nominatim)
+
+* powiatyBySzkoly.csv -- powiaty wg liczby szkół (L1=OSM1+SM1 ; L2=OSM2+SM2)
+
+* powiaty_ludnosc.csv -- powiaty wg liczby ludności (z banku danych lokalnych ; total -- razem ; pp -- przed produkcyjny (wiek))
