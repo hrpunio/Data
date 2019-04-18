@@ -35,7 +35,16 @@ Liczba szkół wg rodzaju:
 SM1 = `r sum(d$SM1)` (`r sum(d$SM1)/razemS *100`) 
 SM2 = `r sum(d$SM2)` (`r sum(d$SM2)/razemS *100`) 
 OSM1 = `r sum(d$OSM1)` (`r sum(d$OSM1)/razemS *100`)
-OSM2 = `r sum(d$OSM2)` (`r sum(d$OSM2)/razemS *100`). 
+OSM2 = `r sum(d$OSM2)` (`r sum(d$OSM2)/razemS *100`).
+Poniższa mapa przedstawia lokalizację wszystkich szkół muzycznych w Polsce:
+
+![](MusicSchoolsPL-GFT.png)
+
+Szkoły koncentrują się w dużych aglomeracjach 
+miejskich co jest zrozumiałe. Względny brak szkół
+w pasie Gorzów Wlk-Piła-Chojnice 
+wynika zapewne z małego zaludnienia tej części Polski.
+
 ```{r}
 total <- d$L1 + d$L2;
 d["total"] <- total;
@@ -113,6 +122,11 @@ d["pppd"] <- pppDens
 fivenum(d$pppd);
 mean(d$pppd);
 ```
+
+Powiaty wg wartości UPP (mapa tematyczna):
+
+![](PL-uczniowie-na-szkole.jpg)
+
 Rozkłady gęstości UPP według województw:
 
 ```{r}
