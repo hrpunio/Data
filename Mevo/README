@@ -1,0 +1,21 @@
+Mevo
+
+Pobrane są co 120s pozycje rowerów. Rejestrowana jest
+zamiana tj jeżeli rower Id jest wykazywany w kolejnym odczycie
+w tym samym miejscu to taki odczyt nie jest rejestrowany (inaczej
+objętość bazy byłaby mocno znaczna)
+
+MEVO_bikes_ROKMIESIĄC.csv
+  dayTime -- dzień i czas
+  bike -- id roweru
+  battery -- stan baterii (%)
+  latLon -- współrzędne
+
+MEVO_tracks_ROKMIESIĄC.csv
+  bike -- id roweru
+  nodesNo -- liczba par współrzędnych
+  track -- ślad (pary współrzędnych)
+  
+MEVO_tracks_ROKMIESIĄC_NR.kml
+  ślad w formacie KML (podzielony na kawałki, z uwagi
+   na ograniczenia do 5Mb googleMaps)
