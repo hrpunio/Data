@@ -1,4 +1,4 @@
-Mevo
+## Mevo
 
 Pobrane są co 120s pozycje rowerów. Rejestrowana jest
 zamiana tj jeżeli rower Id jest wykazywany w kolejnym odczycie
@@ -6,16 +6,63 @@ w tym samym miejscu to taki odczyt nie jest rejestrowany (inaczej
 objętość bazy byłaby mocno znaczna)
 
 MEVO_bikes_ROKMIESIĄC.csv
-  dayTime -- dzień i czas
-  bike -- id roweru
-  battery -- stan baterii (%)
-  latLon -- współrzędne
+  
+
+dayTime -- dzień i czas
+
+bike -- id roweru
+
+battery -- stan baterii (%)
+
+latLon -- współrzędne
 
 MEVO_tracks_ROKMIESIĄC.csv
-  bike -- id roweru
-  nodesNo -- liczba par współrzędnych
-  track -- ślad (pary współrzędnych)
-  
+
+bike -- id roweru
+
+nodesNo -- liczba par współrzędnych
+
+track -- ślad (pary współrzędnych)
+
 MEVO_tracks_ROKMIESIĄC_NR.kml
-  ślad w formacie KML (podzielony na kawałki, z uwagi
-   na ograniczenia do 5Mb googleMaps)
+
+ślad w formacie KML (podzielony na kawałki, z uwagi
+
+na ograniczenia do 5Mb googleMaps)
+
+
+## Zmiana sposobu przetwarzania (15.06.2019)
+
+Z oryginalnych plików .json tworzy bazę w formacie CSV
+perl mevo_store_month.pl 21905
+
+MEVO_STATIONS_0.csv -- opisy stacji (nie używane)
+
+MEVO_BIKES_0.csv -- pozycje (zaparkowanych) rowerów
+
+Zamienia MEVO_STATIONS_0.csv na wersję 'odchudzoną'
+
+perl mevo_base_compat.pl MEVO_BIKES_0.csv > MEVO_BIKES_YYMM.csv
+
+zamiana MEVO_BIKES_0.csv na wersję kompaktową:
+
+wypisuje wynik na STDIN
+
+wypisuje listę stacji do MEVO_STATIONS_IDS_YYMM.csv
+
+perl mevo2compactCSV.pl -b MEVO_BIKES_YYMM.csv -s MEVO_STATIONS_IDS.csv -m YYMM
+
+usuwa 'powórzenia' z bazy MEVO_BIKES_YYMM.csv
+
+zapisuje bazę bez powtórzeń do pliku MEVO_BIKES_COMPACT_YYMM.csv
+
+tworzy plik MEVO_TRKS.csv z 'surowym' śladem miesięcznym dla każdego roweru
+
+zapisuje plik .kml (w paczkach po 500 rowerów)
+
+perl mevo_summary.pl -s MEVO_STATIONS_IDS.csv -b MEVO_TRKS_.csv -m 5
+
+Podsumowanie miesięczne wg rowerów, stacji, odcinków i miast
+
+Oblicza średni dystans 
+
