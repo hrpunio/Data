@@ -66,6 +66,7 @@ while (<BASE>) {
 
   $distTotal=0;
   $skipBike = 0;
+  $lngPrev =  $latPrev = $cityPrev = '';
 
   foreach $t (@trkpts) {
      ($lng, $lat) = split /,/, $t;
@@ -81,6 +82,9 @@ while (<BASE>) {
            unless (exists ($StationsC{"$latlng"})) { print STDERR "*** NOT FOUND CITY *** @ $latlng ($StationsC{$latlng})\n"; }
 
            $dist = $geo->distance( "meter", $lngPrev, $latPrev => $lng, $lat );
+           $stagesTotal++;
+           $BikeStages{$bike}++;
+
            $Visited{"$latlng"}++;
            $VisitedSections{"$latlng $latPrev $lngPrev"}++;
 
@@ -197,7 +201,7 @@ printf LOG "| %4s | %12.1f | %9.2f%% | %8.2f%% |\n", $city, $DistByCity{$city}/1
     $DistByCity{$city}/$distGrandTotal *100,
     $StationsByCity{$city}/$stationsTotal *100;
 }
-print LOG "+----------------------------------------------+\n\n";
+print LOG "+-###-###--------------------------------------+\n\n";
 
 
 ### ################################################################################
@@ -207,18 +211,21 @@ printf STDERR "Monthly average/bike (bikesNo):  %.1f km (%d)\n", $grandMean/$kil
 printf LOG "Monthly average/bike (bikesNo): %.1f km (%d)\n", $grandMean/$kilometer, $validBikes;
 printf STDERR "Daily average/bike (bikesNo):  %.1f km (%d)\n", $grandMean/($kilometer * $DIM), $validBikes;
 printf LOG "Daily average/bike (bikesNo): %.1f km (%d)\n", $grandMean/($kilometer * $DIM), $validBikes;
+printf LOG "Grand total (%i): %1.f km (%i)", $monthN, $distGrandTotal/$kilometer, $stagesTotal;
+printf STDERR "Grand total (%i): %1.f km (%i)", $monthN, $distGrandTotal/$kilometer, $stagesTotal;
 
 ### ################################################################################
 print LOG "\n## BIKE SUMMARY -------------------------------------------\n";
-print LOG "+---------------------------------------+\n";
-print LOG "|  #   |  bike    |   dist   |   mean   |\n";
-print LOG "+---------------------------------------+\n";
+print LOG "+------------------------------------------------+\n";
+print LOG "|  #   |  bike    |   dist   |   mean   | stages |\n";
+print LOG "+------------------------------------------------+\n";
 for my $b (sort {$BikesByDistance{$b} <=> $BikesByDistance{$a} } keys %BikesByDistance) {
   $cbike++;
-  printf LOG "| %4.4i | %8s | %8.1f | %8.2f |\n", $cbike,  $b, $BikesByDistance{$b}/$kilometer, $BikesByDistance{$b}/$DIM/$kilometer; 
+  printf LOG "| %4.4i | %8s | %8.1f | %8.2f | %6i |\n", $cbike,  $b, $BikesByDistance{$b}/$kilometer, 
+   $BikesByDistance{$b}/$DIM/$kilometer, $BikeStages{$b}; 
 } 
 
-print LOG "+---------------------------------------+\n";
+print LOG "+-###-###----------------------------------------+\n";
 
 
 close (LOG);
