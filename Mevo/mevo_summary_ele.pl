@@ -44,7 +44,7 @@ for my $s (<STATIONS>) { chomp($s);
   $latlng = sprintf "%.08f %.08f", $lat, $lng;
   ###print STDERR "### '$latlng'\n";
 
-  $StationsN{"$latlng"} = "$number";
+  $StationsN{"$latlng"} = "$id"; ## nieużywany
   $StationsC{"$latlng"} = "$city";
   $StationsLL{"$number"} = "$latlng";
   $StationsEE{"$latlng"} = "$ele";
