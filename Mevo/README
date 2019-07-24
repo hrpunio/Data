@@ -89,7 +89,45 @@ Podsumowanie miesięczne wg rowerów, stacji, odcinków i miast
 
 Oblicza średni dystans 
 
+perl mevo_yesterday.pl -dir YYYMM -s MEVO_STATIONS_ALT.csv [-day YYYYMMDD]
+
+jeżeli nie wczoraj to -day YYYYMMDD; Uwaga: ponieważ około 20 maja zmieniono współrzędne
+stacji (z 6 cyfr na 8) dla maja/kwietnia należy stosować MEVO_STATIONS_ALT_05.csv (potem już nie trzeba)
+
+Dzienne statystki wykorzystania rowerów
+
+perl mevo_stat_occ.pl -s MEVO_STATIONS_ALT.csv -b MEVO_BIKES_YYMM.csv -m MM -y YYYY
+
+Dzienne statystki dostępności rowerów na stacjach
+
+
 #### MEVO statystyki:
+
+MEVO_REGISTERED_BIKES.csv
+aktualizacja codzienna na podstawie plików locations.js
+
+day = dzien
+bikesno = liczba rowerów
+bikes = lista rowerów zarejestrownych tego dnia postaci numer=dystans numer=dystans...
+
+MEVO_DAILY_BIKES.csv
+aktualizacja codzienna na podstawie plików locations.js
+
+day = dzień
+bikes = liczba rowerów
+zb = liczba rowerów które nie jeździły (dystans = 0)
+dist.total = dystans łącznie
+ga = dystans gdynia
+gd = dystans gdańsk
+sop/tczew/rumia = dystans sopot/tczew/rumia
+s10111 = przeciętnie liczba rowerów na stacji 10111
+s10111d = przeciętnie liczba rowerów na stacji 10111 w godzinach 5--23
+s10112/s10112d = jak dla stacji 10111
+zstat = % stacji z zerową liczbą rowerów (brak rowerów)
+sstat = % stacji z liczbą rowerów < 2 (jeden lub mniej)
+gd0p/ga0p/sop0p/tczew0p/rumia0p = jak zstat tylko dla poszczególnych miast
+gd1p/ga1p/sop1p/tczew1p/rumia1p = jak sstat tylko dla poszczególnych miast
+
 MAJ:
 
 ##TOTALS -------------------------------------------
