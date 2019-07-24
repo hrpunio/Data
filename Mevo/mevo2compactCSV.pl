@@ -8,7 +8,7 @@ my $mevoBaseFile="";
 GetOptions('s=s' => \$stationsFile, 'b=s' => \$mevoBaseFile, 'm=s' => \$yearmonth, );
 
 open (STATIONS, "$stationsFile") || die "Cannot open $stationsFile!\n";
-if (undefined($yearmonth)) {die "USAGE: $0 -s STATIONSFILE -b BASEFILE -m YYMM\n"; }
+unless ( defined($yearmonth) ) {die "USAGE: $0 -s STATIONSFILE -b BASEFILE -m YYMM\n"; }
 
 my $stationsTotal;
 my %StationsLL;
@@ -52,7 +52,7 @@ close (F);
 ## Baza bez duplikatów postojów
 
 open (M, ">MEVO_BIKES_COMPACT_$yearmonth.csv");
-print M "date;bike;station\n$bike_compact_txt"
+print M "date;bike;station\n$bike_compact_txt";
 close(M);
 
 ## Ślad w formacie KML
@@ -67,7 +67,7 @@ for $b (sort keys %Bike) {
     ## zakończ poprzedni
     if ($inFile == 1 ) { print T "</Document></kml>\n"; close(T); }
 
-    open (T, ">MEVO_tracks_${yearmonth}_$bikeNo.kml");
+    open (T, ">MEVO_TRKS_${yearmonth}_$bikeNo.kml");
     print T "<?xml version='1.0' encoding='UTF-8'?>\n"
       . "<kml xmlns='http://www.opengis.net/kml/2.2' xmlns:gx='http://www.google.com/kml/ext/2.2'>\n"
       . "<Document><name>${yearmonth}${bikeNo}</name>\n"
@@ -88,7 +88,7 @@ if ($inFile == 1 ) { print T "</Document></kml>\n"; close(T); }
 
 
 ##
-open (X, ">MEVO_tracks_$yearmonth.csv");
+open (X, ">MEVO_TRKS_$yearmonth.csv");
 for $b (sort keys %Bike) { 
 print X "$b;$BikeNodes{$b};$Bike{$b}\n"; }
 close (X);
