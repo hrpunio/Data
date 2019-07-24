@@ -6,6 +6,9 @@ require(ggplot2)
 require(ggpubr)
 
 d <- read.csv("MEVO_DAILY_BIKES.csv", sep = ';',  header=T, na.string="NA");
+##rains <- read.csv("mevo_rains_daily.csv", sep = ';',  header=T, na.string="NA");
+##
+##d["rains"] <- rains$opad
 
 nzb <- d$bikes - d$zb
 d["nzb"] <- nzb
@@ -15,6 +18,7 @@ p1 <- ggplot(d, aes(x = as.Date(day))) +
   geom_point(aes(y = bikes, colour = 'bikes'), size=1) +
   geom_point(aes(y = zb, colour = 'zb'), size=1) +
   geom_point(aes(y = nzb, colour = 'nzb'), size=1) +
+  ##geom_line(aes(y = rains, colour = 'nzb'), size=1) +
   geom_smooth(aes(x = as.Date(day), y=bikes, colour='bikes'), method="loess", size=.5) +
   geom_smooth(aes(x = as.Date(day), y=zb, colour='zb'), method="loess", size=.5) +
   geom_smooth(aes(x = as.Date(day), y=nzb, colour='nzb'), method="loess", size=1) +
@@ -61,3 +65,36 @@ p1;p2;p3;p4
 
 ggarrange(p1, p2, p3, p4, ncol = 2, nrow = 2)
 ggsave(file="mevo_daily_bikes.pdf", width=12)
+
+# https://stackoverflow.com/questions/16652199/compute-monthly-averages-from-daily-data
+d$day <- as.Date(d$day);
+
+d$mm <- months(d$day)
+d$yy <- format(d$day, format="%y")
+
+aggregate(nzb ~ mm + yy, d, mean)
+aggregate(zb ~ mm + yy, d, mean)
+aggregate(bikes ~ mm + yy, d, mean)
+
+d$nzbp <- d$nzb/d$bikes * 100
+
+## udział średni jeżdżonych w całości
+aggregate(nzbp ~ mm + yy, d, mean)
+
+## gdańsk gdynia
+aggregate(gd ~ mm + yy, d, mean)
+aggregate(ga ~ mm + yy, d, mean)
+
+##
+mean(d$zstat)
+mean(d$sstat)
+mean(d$gd0p)
+mean(d$ga0p)
+mean(d$sop0p)
+mean(d$tczew0p)
+mean(d$rumia0p)
+mean(d$gd1p)
+mean(d$ga1p)
+mean(d$sop1p)
+mean(d$tczew1p)
+mean(d$rumia1p)
