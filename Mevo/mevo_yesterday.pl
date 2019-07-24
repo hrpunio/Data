@@ -27,6 +27,12 @@ GetOptions('s=s' => \$stationsFile, 'day=s' => \$YDAY, 'dir=s' => \$mevoDir); ##
 open (STATIONS, "$stationsFile") || die "Cannot open stations @ $stationsFile!\n";
 
 my %StationsC ;
+## Stacje najbliżesze Abrahama 28
+my %MyStations = ( '10111' => 'Mickiewicza', '10112' => 'Armii Krajowej', );
+my %MyStatAvailable;
+my %MyStatNN;
+my %MyStatAvailableBH;
+my %MyStatNNBH;
 my $stationsTotal;
 
 for my $s (<STATIONS>) { chomp($s);
@@ -63,6 +69,8 @@ my ($distGrandTotal, $nmvBikes, $bikesNo, $distBC);
 for my $file (sort @files) {
    print STDERR ">>> $mevoDir/$file\n";
 
+   my $hr = substr ($file, 8, 2); ## hour
+
    my $js = IO::Uncompress::Gunzip->new("$mevoDir/$file");
    my $return = readline $js;
    if ( length($return) < 99 ) { 
@@ -90,6 +98,18 @@ for my $file (sort @files) {
            my $bikes = $place->{bike_numbers};
            my $number = clean($place->{number});
            ##my $city = clean($place->{city});
+           #### Dodane 8/7/ statystki moich stacji
+           if (defined ($MyStations{$number})) { 
+               my $bikesNN = $place->{bikes}; ### liczba rowerów na stacji
+               my $bikesBB = $place->{booked_bikes}; ### liczba rowerów na stacji zabukowanych
+               $MyStatAvailable{$number} += $bikesNN; ## liczba bajków na stacji
+               $MyStatNN{$number}++; ## liczba obserwacji  
+               if ($hr > 4 && $hr < 23 ) {### bez okna 23--5 (6h)
+                 $MyStatAvailableBH{$number} += $bikesNN; ## liczba bajków na stacji (godziny biznesowe)
+                 $MyStatNNBH{$number}++; ## liczba obserwacji (godziny biznesowe)
+               }
+           }
+           ####
            foreach my $b_ ( @$bikes ) { 
                ### zapisz bez powtórzeń (ślad):
                ### print STDERR "==> $BikesPosRecent{$b_} == $coord\n";
@@ -132,10 +152,21 @@ $yday_y = substr($YDAY, 0, 4);
 $yday_m = substr($YDAY, 4, 2);
 $yday_d = substr($YDAY, 6, 2);
 
-printf "%s-%s-%s;%i;%i;%.1f;%.1f;%.1f;%.1f;%.1f;%.1f\n", $yday_y, $yday_m, $yday_d, 
+my $my_stations_stats = ''; ## jako jedno pole w formacie stacja=średnia
+for my $s_ (sort keys %MyStations ) { 
+
+    if ($MyStatNN{$s_} == 0 ) { $MyStatNN{$s_} = 0.0001;} ## lekkie oszustwo na wypadek zera
+    if ($MyStatNNBH{$s_} == 0 ) { $MyStatNNBH{$s_} = 0.0001;  } ## ditto
+
+    $my_stations_stats .= sprintf "%.2f;%.2f;", 
+    	$MyStatAvailable{$s_}/$MyStatNN{$s_}, $MyStatAvailableBH{$s_}/$MyStatNNBH{$s_}; 
+}
+chop($my_stations_stats); ## remove last ';'
+
+printf "%s-%s-%s;%i;%i;%.1f;%.1f;%.1f;%.1f;%.1f;%.1f;%s\n", $yday_y, $yday_m, $yday_d, 
    $bikesNo, $nmvBikes, $distGrandTotal /$kilometer,
    $DistByCity{'GA'}/$kilometer, $DistByCity{'GD'}/$kilometer, $DistByCity{'SP'}/$kilometer, 
-   $DistByCity{'TC'}/$kilometer, $DistByCity{'RU'}/$kilometer;
+   $DistByCity{'TC'}/$kilometer, $DistByCity{'RU'}/$kilometer, $my_stations_stats;
 
 for my $c_ (keys %DistByCity) { $distBC += $DistByCity{$c_}; }
 print STDERR "### DistByCity: $distBC [$distCalls]\n";
