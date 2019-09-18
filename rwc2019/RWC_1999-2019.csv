@@ -1,0 +1,3649 @@
+year;pack;name;age;height;weight;caps;position;poscode
+1999;ARG;Diego Albanese;26;175;77;28;Wing;WI
+1999;ARG;Fernando Diaz Alberdi;27;180;108;2;Prop;PR
+1999;ARG;Alejandro Allub;23;195;105;18;Lock;SR
+1999;ARG;Lisandro Arbizu;28;175;78;54;Flyhalf;FH
+1999;ARG;Octavio Bartolucci;24;195;100;8;Wing;WI
+1999;ARG;Gonzalo Camardon;29;187;85;22;Scrumhalf;SH
+1999;ARG;Agustin Canalda;22;182;99;2;Hooker;HK
+1999;ARG;Jose Cilley;27;177;80;9;Flyhalf;FH
+1999;ARG;Felipe Contepomi;22;180;86;4;Centre;CE
+1999;ARG;Manuel Contepomi;22;190;95;8;Fullback;FB
+1999;ARG;Ignacio Corletto;21;185;85;2;Wing;WI
+1999;ARG;Ignacio Fernandez Lobbe;25;193;106;14;Flanker;SR
+1999;ARG;Juan Fernandez Miranda;25;180;85;5;Flyhalf;FH
+1999;ARG;Nicolas Fernandez Miranda;27;180;86;20;Scrumhalf;SH
+1999;ARG;Roberto Grau;29;180;108;24;Prop;PR
+1999;ARG;Omar Hasan Jalil;28;182;110;24;Prop;PR
+1999;ARG;Mario Ledesma Arocena;26;182;85;18;Hooker;HK
+1999;ARG;Gonzalo Longo Elia;25;193;98;5;Number-8;SR
+1999;ARG;Rolando Martin;31;187;103;48;Flanker;SR
+1999;ARG;Jose Orengo;23;175;86;12;Centre;CE
+1999;ARG;Lucas Ostiglia;23;190;95;5;Lock;SR
+1999;ARG;Raul Perez;34;198;110;20;Flanker;SR
+1999;ARG;Santiago Phelan;25;185;90;12;Flanker;SR
+1999;ARG;Agustin Pichot;25;175;78;22;Scrumhalf;SH
+1999;ARG;Gonzalo Quesada;25;182;88;18;Flyhalf;FH
+1999;ARG;Mauricio Reggiardo;29;190;122;25;Prop;PR
+1999;ARG;Miguel Ruiz;24;193;103;17;Flanker;SR
+1999;ARG;Martin Scelzo;23;190;91;12;Prop;PR
+1999;ARG;Eduardo Simone;25;182;89;24;Centre;CE
+1999;ARG;Pedro Sporleder;28;198;118;63;Lock;SR
+1999;AUS;Andrew Blades;32;175;111;27;Prop;PR
+1999;AUS;Tom Bowman;23;200;109;15;Lock;SR
+1999;AUS;Matthew Burke;26;182;94;39;Fullback;FB
+1999;AUS;Matt Cockbain;27;195;108;24;Flanker;SR
+1999;AUS;Mark Connors;28;195;103;5;Lock;SR
+1999;AUS;Dan Crowley;34;175;102.5;35;Prop;PR
+1999;AUS;John Eales;29;200;114;65;Lock;SR
+1999;AUS;Owen Finegan;27;195;113;28;Flanker;SR
+1999;AUS;Michael Foley;32;180;106;24;Hooker;HK
+1999;AUS;David Giffin;26;198;112.5;11;Lock;SR
+1999;AUS;George Gregan;26;172;79;50;Scrumhalf;SH
+1999;AUS;Nathan Grey;24;182;94;13;Centre;CE
+1999;AUS;Dan Herbert;25;187;93;34;Centre;CE
+1999;AUS;Richard Harry;32;185;117.5;26;Prop;PR
+1999;AUS;Tim Horan;29;182;90;75;Centre;CE
+1999;AUS;Rod Kafer;28;177;95;2;Flyhalf;FH
+1999;AUS;Phil Kearns;32;182;110;66;Hooker;HK
+1999;AUS;Toutai Kefu;25;190;106;22;Number-8;SR
+1999;AUS;Steve Larkham;25;187;86;25;Flyhalf;FH
+1999;AUS;Chris Latham;24;190;92.5;5;Fullback;FB
+1999;AUS;Jason Little;29;185;93;63;Centre;CE
+1999;AUS;Patricio Noriega;28;185;119;9;Prop;PR
+1999;AUS;Jeremy Paul;22;185;108;11;Prop;PR
+1999;AUS;Joe Roff;24;190;100;46;Wing;WI
+1999;AUS;Scott Staniforth;22;186;96;0.00;Wing;WI
+1999;AUS;Tiaan Strauss;34;187;104;8;Number-8;SR
+1999;AUS;Ben Tune;23;185;85;32;Wing;WI
+1999;AUS;Chris Whitaker;25;180;79;5;Scrumhalf;SH
+1999;AUS;Jim Williams;31;193;102.5;3;Flanker;SR
+1999;AUS;David Wilson;32;187;93;68;Flanker;SR
+1999;CAN;Ryan Banks;27;182;101;7;Flanker;SR
+1999;CAN;Danny Baugh;25;182;91;14;Flanker;SR
+1999;CAN;Richard Bice;31;190;120;21;Prop;PR
+1999;CAN;Scott Bryan;30;187;93;17;Centre;CE
+1999;CAN;Mark Cardinal;38;180;93;33;Hooker;HK
+1999;CAN;Al Charron;33;198;111;51;Number-8;SR
+1999;CAN;Jeremy Cordle;27;185;91;5;Wing;WI
+1999;CAN;Pat Dunkley;27;182;93;13;Hooker;HK
+1999;CAN;John Graf;31;175;88;52;Scrumhalf;SH
+1999;CAN;John Hutchinson;30;193;104;43;Flanker;SR
+1999;CAN;Mike James;26;198;111;31;Lock;SR
+1999;CAN;Dave Lougheed;31;187;91;29;Wing;WI
+1999;CAN;Julian Loveday;36;177;79;10;Wing;WI
+1999;CAN;Duane Major;27;182;107;1;Prop;PR
+1999;CAN;Brian McCarthy;30;193;116;5;Lock;SR
+1999;CAN;Kyle Nichols;24;185;85;11;Centre;CE
+1999;CAN;Joe Pagano;27;182;88;9;Wing;WI
+1999;CAN;Dave Penney;29;182;105;7;Prop;PR
+1999;CAN;Gareth Rees;32;182;92.5;52;Flyhalf;FH
+1999;CAN;Bob Robson;32;182;100;3;Flanker;SR
+1999;CAN;Bobby Ross;30;180;84;36;Flyhalf;FH
+1999;CAN;Mike Schmid;30;190;102;17;Number-8;SR
+1999;CAN;Courtney Smith;28;177;87;20;Wing;WI
+1999;CAN;Rod Snow;29;180;120;26;Prop;PR
+1999;CAN;Winston Stanley;25;185;83.5;34;Wing;WI
+1999;CAN;Scott Stewart;30;187;88.5;50;Fullback;FB
+1999;CAN;John Tait;26;203;104;18;Lock;SR
+1999;CAN;John Thiel;24;185;118;10;Prop;PR
+1999;CAN;Morgan Williams;23;182;82;3;Scrumhalf;SH
+1999;CAN;Chris Whittaker;28;198;104;16;Lock;SR
+1999;ENG;Garath Archer;25;198;117;14;Lock;SR
+1999;ENG;Neil Back;30;177;93;24;Flanker;SR
+1999;ENG;Nick Beal;29;187;86;12;Fullback;FB
+1999;ENG;Mike Catt;28;177;86;36;Flyhalf;FH
+1999;ENG;Richard Cockerill;29;177;108;24;Hooker;HK
+1999;ENG;Martin Corry;26;195;112;9;Flanker;SR
+1999;ENG;Lawrence Dallaglio;27;193;98;29;Flanker;SR
+1999;ENG;Matt Dawson;27;180;81;24;Scrumhalf;SH
+1999;ENG;Phil De Glanville;31;180;85;35;Centre;CE
+1999;ENG;Darren Garforth;33;177;118;22;Prop;PR
+1999;ENG;Paul Grayson;28;182;79;19;Flyhalf;FH
+1999;ENG;Phil Greening;24;182;108;9;Hooker;HK
+1999;ENG;Will Greenwood;27;193;95;12;Centre;CE
+1999;ENG;Danny Grewcock;27;198;111;13;Lock;SR
+1999;ENG;Jeremy Guscott;34;185;87;63;Centre;CE
+1999;ENG;Austin Healey;26;177;85;21;Scrumhalf;SH
+1999;ENG;Richard Hill;26;187;99;23;Flanker;SR
+1999;ENG;Martin Johnson;29;198;114;49;Lock;SR
+1999;ENG;Jason Leonard;31;177;109;74;Prop;PR
+1999;ENG;Leon Lloyd;22;193;89;0.00;Wing;WI
+1999;ENG;Dan Luger;24;185;89;11;Wing;WI
+1999;ENG;Neil McCarthy;25;177;102;2;Hooker;HK
+1999;ENG;Matt Perry;22;185;86;21;Fullback;FB
+1999;ENG;Tim Rodber;30;198;105;42;Number-8;SR
+1999;ENG;Graham Rowntree;28;182;110;24;Prop;PR
+1999;ENG;Victor Ubogu;35;175;108;24;Prop;PR
+1999;ENG;Phill Vickery;23;190;125;8;Prop;PR
+1999;ENG;Jonny Wilkinson;20;177;80;11;Flyhalf;FH
+1999;ENG;Joe Worsley;22;195;108;0;Flanker;SR
+1999;ENG;Martyn Wood;22;175;83;0.00;Scrumhalf;SH
+1999;FIJ;Manasa Bari;25;182;90;10;Wing;WI
+1999;FIJ;Alifereti Doviverata;23;190;100;1;Flanker;SR
+1999;FIJ;Emori Katalau;32;195;90;17;Lock;SR
+1999;FIJ;Fero Lasagavibau;23;175;76;12;Wing;WI
+1999;FIJ;Lawrence Little;32;185;91;19;Centre;CE
+1999;FIJ;Nicky Little;23;182;93;1;Flyhalf;FH
+1999;FIJ;Inoke Male;34;185;105;5;Number-8;SR
+1999;FIJ;Tabai Matson;26;191;105;1;Centre;CE
+1999;FIJ;Alivereti Mocelau Vuibau;28;190;109;16;Number-8;SR
+1999;FIJ;Apisai Naevo;26;195;105;13;Flanker;SR
+1999;FIJ;Epeli Naituivau;37;187;114;9;Prop;PR
+1999;FIJ;Meli Nakauta;30;185;93;7;Centre;CE
+1999;FIJ;Niko Qoro;30;185;114;8;Prop;PR
+1999;FIJ;Simon Raiwalui;25;198;114;15;Lock;SR
+1999;FIJ;Isaia Rasila;30;180;90;17;Hooker;HK
+1999;FIJ;Jacob Rauluni;27;177;88;17;Scrumhalf;SH
+1999;FIJ;Mosese Rauluni;24;177;87;5;Scrumhalf;SH
+1999;FIJ;Dan Rouse;27;190;112;17;Prop;PR
+1999;FIJ;Viliame Satala;27;187;90;6;Fullback;FB
+1999;FIJ;Waisale Serevi;31;175;80;16;Fullback;FB
+1999;FIJ;Koli Sewabu;24;195;103;5;Number-8;SR
+1999;FIJ;Greg Smith;25;190;102;15;Hooker;HK
+1999;FIJ;Waisake Sotutu;29;182;96;5;Centre;CE
+1999;FIJ;Ilivasi Tamanivalu Tabua;35;195;105;12;Flanker;SR
+1999;FIJ;Ifereimi Tawake;37;198;100;39;Lock;SR
+1999;FIJ;Setereki Tawake;30;190;93;6;Flanker;SR
+1999;FIJ;Imanueli Tikomaimakogai;25;190;93;6;Wing;WI
+1999;FIJ;Alfred Uluinayau;27;177;95;14;Centre;CE
+1999;FIJ;Joeli Veitayaki;32;185;130;20;Prop;PR
+1999;FIJ;Marika Vunibaka;25;193;95;3;Wing;WI
+1999;FRA;David Auradou;26;200;101;6;Lock;SR
+1999;FRA;Abdelatif Benazzi;31;198;110;66;Flanker;SR
+1999;FRA;Philippe Bernat-Salle;29;180;76;28;Wing;WI
+1999;FRA;Olivier Brouzet;27;203;120;35;Lock;SR
+1999;FRA;Christian Califano;27;180;105;49;Prop;PR
+1999;FRA;Stephane Castaignede;30;172;73;3;Scrumhalf;SH
+1999;FRA;Thomas Castaignede;24;175;78;31;Centre;CE
+1999;FRA;Arnaud Costes;26;185;100;8;Flanker;SR
+1999;FRA;Marc Dal Maso;32;180;100;25;Hooker;HK
+1999;FRA;Pieter de Villiers;27;185;105;1;Prop;PR
+1999;FRA;Cedric Desbrosse;28;190;95;1;Centre;CE
+1999;FRA;Christophe Dominici;27;172;77;10;Wing;WI
+1999;FRA;Richard Dourthe;25;185;92;18;Centre;CE
+1999;FRA;Xavier Garbajosa;23;185;80;12;Wing;WI
+1999;FRA;Stephane Glas;26;177;78;29;Centre;CE
+1999;FRA;Raphael Ibanez;26;177;96;26;Hooker;HK
+1999;FRA;Christophe Juillet;30;190;110;7;Number-8;SR
+1999;FRA;Christophe Lamaison;28;180;85;25;Centre;CE
+1999;FRA;Marc Lievremont;31;182;90;209;Flanker;SR
+1999;FRA;Thomas Lievremont;26;187;105;16;Number-8;SR
+1999;FRA;Olivier Magne;26;187;85;25;Flanker;SR
+1999;FRA;Lionel Mallier;25;185;98;2;Number-8;SR
+1999;FRA;Jimmy Marlu;22;180;78;1;Wing;WI
+1999;FRA;Pierre Mignoni;22;170;75;8;Scrumhalf;SH
+1999;FRA;Ugo Mola;26;180;78;8;Fullback;FB
+1999;FRA;Emile Ntamack;29;187;92;37;Wing;WI
+1999;FRA;Fabien Pelous;26;198;108;45;Lock;SR
+1999;FRA;Olivier Sarramea;24;193;102;4;Wing;WI
+1999;FRA;Cedric Soulette;27;187;108;9;Prop;PR
+1999;FRA;Franck Tournaire;27;180;103;39;Prop;PR
+1999;IRE;Jonathan Bell;25;180;95;30;Centre;CE
+1999;IRE;Justin Bishop;25;182;83;14;Wing;WI
+1999;IRE;Trevor Brennan;26;195;103;8;Flanker;SR
+1999;IRE;Rob Casey;21;201;117;0;Lock;SR
+1999;IRE;Peter Clohessy;33;180;105;32;Prop;PR
+1999;IRE;David Corkery;27;193;103;27;Flanker;SR
+1999;IRE;Reg Corrigan;29;187;114;9;Prop;PR
+1999;IRE;Jeremy Davidson;25;198;109;24;Lock;SR
+1999;IRE;Kieron Dawson;24;185;98;3;Flanker;SR
+1999;IRE;Girvan Dempsey;24;187;89;7;Fullback;FB
+1999;IRE;Eric Elwood;30;182;85;33;Flyhalf;FH
+1999;IRE;Justin Fitzpatrick;26;185;114;11;Prop;PR
+1999;IRE;David Humphreys;28;177;78;19;Flyhalf;FH
+1999;IRE;Paddy Johns;31;198;106;55;Lock;SR
+1999;IRE;Kevin Maggs;25;180;89;21;Centre;CE
+1999;IRE;Mike Mallins;29;178;93;1;Centre;CE
+1999;IRE;Angus Mckeen;30;180;106;0;Prop;PR
+1999;IRE;Eric Miller;24;190;101;16;Number-8;SR
+1999;IRE;Matt Mostyn;25;187;92;3;Wing;WI
+1999;IRE;Ross Nesdale;31;177;103;12;Hooker;HK
+1999;IRE;Dion O'Cuinneagain;27;193;102;14;Number-8;SR
+1999;IRE;Brian O'Driscoll;20;177;83;4;Centre;CE
+1999;IRE;Malcolm O'Kelly;25;200;103;16;Lock;SR
+1999;IRE;Brian O'Meara;23;175;76;5;Scrumhalf;SH
+1999;IRE;Conor O'Shea;29;187;95;31;Fullback;FB
+1999;IRE;Tom Tierney;23;182;89;4;Scrumhalf;SH
+1999;IRE;James Topping;25;180;89;5;Wing;WI
+1999;IRE;Paul Wallace;28;185;102;31;Prop;PR
+1999;IRE;Andy Ward;29;190;100;16;Flanker;SR
+1999;IRE;Keith Wood;27;182;100;28;Hooker;HK
+1999;ITA;Orazio Arancio;32;190;103;34;Flanker;SR
+1999;ITA;Mauro Bergamasco;20;185;79;4;Flanker;SR
+1999;ITA;Carlo Caione;26;187;95;16;Number-8;SR
+1999;ITA;Sandro Ceppolino;25;184;89;3;Centre;CE
+1999;ITA;Andrea Castellani;27;190;110;18;Prop;PR
+1999;ITA;Carlo Checchinato;29;198;110;50;Number-8;SR
+1999;ITA;Walter Cristofoletto;35;190;102;27;Lock;SR
+1999;ITA;Giampiero De Carli;29;182;103;15;Prop;PR
+1999;ITA;Diego Dominguez;33;172;76;54;Flyhalf;FH
+1999;ITA;Mark Giacheri;30;203;113;33;Flanker;SR
+1999;ITA;Massimo Giovanelli;32;185;103;58;Flanker;SR
+1999;ITA;Luca Martin;26;185;83;18;Centre;CE
+1999;ITA;Francesco Mazzariol;24;172;76;16;Wing;WI
+1999;ITA;Giampiero Mazzi;25;172;75;5;Scrumhalf;SH
+1999;ITA;Nicola Mazzucato;24;189;86;5;Number-8;SR
+1999;ITA;Andrea Moretti;27;177;94;3;Hooker;HK
+1999;ITA;Alesandro Moscardi;30;193;100;17;Hooker;HK
+1999;ITA;Frederico Pucciariello;24;193;100;17;Prop;PR
+1999;ITA;Matt Pini;30;182;94;6;Fullback;FB
+1999;ITA;Franco Properzi-Curti;34;187;114;50;Prop;PR
+1999;ITA;Fabio Roselli;28;175;75;18;Wing;WI
+1999;ITA;Stefano Saviozzi;24;185;87;11;Hooker;HK
+1999;ITA;Cristian Stoica;23;187;98;19;Centre;CE
+1999;ITA;Laurent Travini;27;193;106;3;Lock;SR
+1999;ITA;Alessandro Troncon;26;177;83;45;Scrumhalf;SH
+1999;ITA;Paolo Vaccari;28;185;89;53;Wing;WI
+1999;ITA;Nicholas Zisti;27;189;99;1;Centre;CE
+1999;JPN;Graeme Bachop;32;175;90;4;Scrumhalf;SH
+1999;JPN;Robert Gordon;34;193;105;11;Number-8;SR
+1999;JPN;Shin Hasegawa;27;180;100;13;Prop;PR
+1999;JPN;Takafumi Hirao;24;182;82;2;Fullback;FB
+1999;JPN;Keiji Hirose;26;167;69;21;Flyhalf;FH
+1999;JPN;Ryuji Ishi;29;182;89;1;Flanker;SR
+1999;JPN;Takeomi Ito;28;185;90;25;Flanker;SR
+1999;JPN;Kensuke Iwabuchi;24;177;78.5;12;Scrumhalf;SH
+1999;JPN;Jamie Joseph;30;198;110;5;Flanker;SR
+1999;JPN;Atsushi Koga;24;173;85;0.00;Centre;CE
+1999;JPN;Hajime Kiso;21;195;96;0.00;Flanker;SR
+1999;JPN;Masahiro Kunda;33;177;97;42;Hooker;HK
+1999;JPN;Ryohei Miki;21;185;83;1;Wing;WI
+1999;JPN;Terunori Masuho;27;177;87.5;37;Wing;WI
+1999;JPN;Tsutomu Matsuda;29;180;77.5;33;Fullback;FB
+1999;JPN;Andrew McCormick;32;185;92.5;21;Centre;CE
+1999;JPN;Yukio Motoki;28;177;92;45;Centre;CE
+1999;JPN;Wataru Murata;31;172;73;24;Scrumhalf;SH
+1999;JPN;Toshikazu Nakamichi;28;175;105;8;Prop;PR
+1999;JPN;Naoto Nakamura;30;177;100;13;Prop;PR
+1999;JPN;Kohei Oguchi;31;180;107;4;Prop;PR
+1999;JPN;Daisuke Ohata;24;175;80;14;Wing;WI
+1999;JPN;Naoya Okubo;24;187;98;4;Lock;SR
+1999;JPN;Masaaki Sakata;27;180;97;15;Hooker;HK
+1999;JPN;Yoshihiko Sakuraba;33;190;103;41;Lock;SR
+1999;JPN;Greg Smith;31;187;105;13;Flanker;SR
+1999;JPN;Hiroyuki Tanuma;26;190;87;21;Lock;SR
+1999;JPN;Patiliai Tuidraki;30;180;77;11;Wing;WI
+1999;JPN;Yasunori Watanabe;25;190;98;12;Flanker;SR
+1999;JPN;Akira Yoshida;28;180;81;6;Centre;CE
+1999;NAM;Andries Blaauw;29;174;115;12;Prop;PR
+1999;NAM;Sybrand De Beer;24;186;108;8;Flanker;SR
+1999;NAM;Dirk Farmer;25;187;89;14;Wing;WI
+1999;NAM;Frans Fisch;29;187;100;0.00;Hooker;HK
+1999;NAM;Sean Furter;22;190;95;3;Number-8;SR
+1999;NAM;Lukas Holzhausen;26;178;87;9;Centre;CE
+1999;NAM;Hugo Horn;22;181;105;8;Hooker;HK
+1999;NAM;Quinn Hough;27;186;100;14;Number-8;SR
+1999;NAM;Eben Izaacs;29;191;105;6;Lock;SR
+1999;NAM;Mario Jacobs;27;186;103;3;Prop;PR
+1999;NAM;Riaan Jantjies;34;158;64;14;Scrumhalf;SH
+1999;NAM;Herman Lintvelt;23;193;100;4;Flanker;SR
+1999;NAM;Cliff Loubser;26;180;87;2;Centre;CE
+1999;NAM;Deon Mouton;25;182;85;2;Wing;WI
+1999;NAM;Jaco Olivier;24;190;102;2;Flanker;SR
+1999;NAM;Gerhard Opperman;31;168;101;3;Prop;PR
+1999;NAM;Ronaldo Pedro;27;178;75;3;Wing;WI
+1999;NAM;Attie Samuelson;25;186;84;16;Wing;WI
+1999;NAM;Heino Senekal;24;198;114;5;Lock;SR
+1999;NAM;Eben Smith;28;176;104;7;Prop;PR
+1999;NAM;Pieter Steyn;26;200;110;16;Lock;SR
+1999;NAM;Johannes Theron;20;196;110;4;Lock;SR
+1999;NAM;Schalk Van Der Merwe;25;182;90;23;Centre;CE
+1999;NAM;Leane Van Dyk;23;196;86;9;Fullback;FB
+1999;NAM;Francois Van Rensburg;25;182;90;19;Centre;CE
+1999;NAM;Sarel Van Rensburg;22;178;76;2;Centre;CE
+1999;NAM;Thys Van Rooyen;28;185;103;9;Number-8;SR
+1999;NAM;Rudi Van Vuuren;27;188;95;5;Flyhalf;FH
+1999;NAM;Glovin Van Wyk;26;180;78;3;Fullback;FB
+1999;NAM;Johan Zaayman;26;186;90;13;Flyhalf;FH
+1999;NZL;Pita Alatini;23;177;83;1;Centre;CE
+1999;NZL;Andrew Blowers;24;193;110;10;Flanker;SR
+1999;NZL;Robin Brooke;33;198;109;58;Lock;SR
+1999;NZL;Tony Brown;24;177;83;5;Flyhalf;FH
+1999;NZL;Christian Cullen;23;180;86;36;Fullback;FB
+1999;NZL;Rhys Duggan;27;175;75;0;Flyhalf;FH
+1999;NZL;Craig Dowd;30;189;115;49;Prop;PR
+1999;NZL;Greg Feek;24;185;112;3;Prop;PR
+1999;NZL;Daryl Gibson;24;180;97;7;Centre;CE
+1999;NZL;Mark Hammett;27;182;103;2;Hooker;HK
+1999;NZL;Carl Hoeft;25;182;113;10;Prop;PR
+1999;NZL;Alama Ieremia;29;195;98;20;Centre;CE
+1999;NZL;Ian Jones;32;198;103;77;Lock;SR
+1999;NZL;Byron Kelleher;23;175;90;4;Scrumhalf;SH
+1999;NZL;Josh Kronfeld;28;182;102;43;Flanker;SR
+1999;NZL;Jonah Lomu;24;195;112;33;Wing;WI
+1999;NZL;Justin Marshall;26;180;88;35;Scrumhalf;SH
+1999;NZL;Norm Maxwell;23;198;94;7;Lock;SR
+1999;NZL;Kees Meeuws;25;182;117;8;Prop;PR
+1999;NZL;Andy Mehrtens;26;177;83;35;Flyhalf;FH
+1999;NZL;Dylan Mika;27;195;98;5;Flanker;SR
+1999;NZL;Anton Oliver;24;185;100;15;Hooker;HK
+1999;NZL;Glenn Osborne;28;185;89;18;Wing;WI
+1999;NZL;Taine Randell;25;187;101;26;Flanker;SR
+1999;NZL;Scott Robertson;25;190;107;3;Flanker;SR
+1999;NZL;Carlos Spencer;24;185;88;13;Flyhalf;FH
+1999;NZL;Reuben Thorne;24;198;106;2;Lock;SR
+1999;NZL;Tana Umaga;26;187;102;13;Wing;WI
+1999;NZL;Royce Willis;24;198;120;7;Lock;SR
+1999;NZL;Jeff Wilson;26;180;89;49;Wing;WI
+1999;ROU;Petre Balan;23;185;101.6;8;Hooker;HK
+1999;ROU;Gabriel Brezoianu;22;175;83.5;9;Centre;CE
+1999;ROU;Tibeau Brinza;31;198;115;36;Lock;SR
+1999;ROU;Daniel Chriac;26;196;106;3;Lock;SR
+1999;ROU;Mihai Ciolacu;22;182;87;4;Wing;WI
+1999;ROU;Florin Corodeanu;22;190;95;8;Flanker;SR
+1999;ROU;Stefan Demci;24;178;98;0;Hooker;HK
+1999;ROU;Bogdan Dima;20;185;100;1;Prop;PR
+1999;ROU;Catalin Draguceanu;29;190;106.5;26;Flanker;SR
+1999;ROU;Radu Fugigi;26;175;80;8;Wing;WI
+1999;ROU;Romeo Gontineac;26;175;83;22;Centre;CE
+1999;ROU;Cristian Haldan;26;177;80;4;Wing;WI
+1999;ROU;Marius Iacob;27;175;80;6;Scrumhalf;SH
+1999;ROU;Cristian Lapu;24;175;87.5;4;Centre;CE
+1999;ROU;Florin Marioara;31;182;130;4;Prop;PR
+1999;ROU;Petre Mitu;22;175;83.5;12;Fullback;FB
+1999;ROU;Dragos Niculae;28;180;112.5;12;Prop;PR
+1999;ROU;Alin Petrache;23;193;105;4;Flanker;SR
+1999;ROU;Laurentiu Rotaru;29;186;104;1;Prop;PR
+1999;ROU;Christian Sauan;25;182;90;1;Wing;WI
+1999;ROU;Erdinci Septar;26;193;104;9;Number-8;SR
+1999;ROU;Lucian Sirbu;23;180;84;1;Scrumhalf;SH
+1999;ROU;Gheorghe Solomie;30;185;93;31;Wing;WI
+1999;ROU;Constantin Stan;30;182;121.5;23;Prop;PR
+1999;ROU;Marius Tinci;21;181;106;0.00;Flanker;SR
+1999;ROU;Ionut Tofan;22;177;73;7;Flyhalf;FH
+1999;ROU;Ovidiu Tonita;19;196;95;0.00;Lock;SR
+1999;ROU;Constantin Tudar;30;198;115;19;Lock;SR
+1999;ROU;Mihai Vioreanu;25;182;82;9;Centre;CE
+1999;ROU;Roland Vusec;27;177;80;4;Flyhalf;FH
+1999;SCO;Gary Armstrong;33;172;86;49;Scrumhalf;SH
+1999;SCO;Gordon Bulloch;24;180;96;17;Hooker;HK
+1999;SCO;Paul Burnell;34;185;109;49;Prop;PR
+1999;SCO;Iain Fairley;26;177;89;2;Scrumhalf;SH
+1999;SCO;George Graham;33;170;108;10;Prop;PR
+1999;SCO;Stuart Grimes;25;195;105;17;Lock;SR
+1999;SCO;Dave Hilton;29;177;103;37;Prop;PR
+1999;SCO;Duncan Hodge;25;182;95;8;Fullback;FB
+1999;SCO;John Leslie;29;185;93;7;Centre;CE
+1999;SCO;Martin Leslie;28;190;102;9;Flanker;SR
+1999;SCO;Kenny Logan;27;185;93;43;Wing;WI
+1999;SCO;Shaun Longstaff;27;182;101;11;Wing;WI
+1999;SCO;Cameron Mather;27;198;105;1;Flanker;SR
+1999;SCO;Jamie Mayer;22;177;92;3;Centre;CE
+1999;SCO;James McLaren;27;190;105;2;Centre;CE
+1999;SCO;Glenn Metcalfe;28;180;88;11;Fullback;FB
+1999;SCO;Cameron Murray;24;177;83;13;Centre;CE
+1999;SCO;Scott Murray;23;198;105;16;Lock;SR
+1999;SCO;Chris Paterson;21;181;76;0.00;Fullback;FB
+1999;SCO;Budge Pountney;26;187;95;9;Flanker;SR
+1999;SCO;Andrew Reed;30;200;112;17;Lock;SR
+1999;SCO;Bryan Redpath;28;170;74;30;Scrumhalf;SH
+1999;SCO;Stuart Reid;29;190;104;3;Flanker;SR
+1999;SCO;Robert Russell;23;177;96;2;Hooker;HK
+1999;SCO;Gordon Simpson;28;185;108;6;Number-8;SR
+1999;SCO;Tom Smith;28;175;110;12;Prop;PR
+1999;SCO;Alan Tait;35;180;95;26;Centre;CE
+1999;SCO;Gregor Townsend;26;185;86;43;Flyhalf;FH
+1999;SCO;Peter Walton;30;190;114;22;Flanker;SR
+1999;SCO;Doddie Weir;29;198;111;54;Lock;SR
+1999;RSA;Mark Andrews;27;200;112;57;Lock;SR
+1999;RSA;Jan (Jannie) Hendrik De Beer;27;182;80;8;Flyhalf;FH
+1999;RSA;Naka Drotske;28;182;105;21;Hooker;HK
+1999;RSA;Pieter (Os) du Randt;27;190;120;34;Prop;PR
+1999;RSA;Johan Erasmus;27;190;100;24;Flanker;SR
+1999;RSA;Robbie Fleck;24;182;92;7;Centre;CE
+1999;RSA;Adrian Christopher Garvey;29;189;116;27;Prop;PR
+1999;RSA;Henry William Honiball;34;190;90;33;Flyhalf;FH
+1999;RSA;Wayne Julies;21;186;88;0;Centre;CE
+1999;RSA;Deon Kayser;29;175;78;5;Wing;WI
+1999;RSA;Ruben Jacobus Kruger;29;189;102;34;Flanker;SR
+1999;RSA;Anton Leonard;25;191;106;1;Number-8;SR
+1999;RSA;Ollie Le Roux;26;182;122;22;Prop;PR
+1999;RSA;Kaya Malotana;23;176;75;0;Centre;CE
+1999;RSA;Percy Montgomery;25;182;85;30;Fullback;FB
+1999;RSA;Pieter Muller;30;190;90;29;Centre;CE
+1999;RSA;Krynauw Otto;28;200;116;29;Lock;SR
+1999;RSA;Breyton Paulse;23;174;79;6;Wing;WI
+1999;RSA;Christiaan (Chris) Rossouw;30;182;105;7;Hooker;HK
+1999;RSA;Pieter Rossouw;28;193;90;30;Wing;WI
+1999;RSA;Robert (Bob) Brian Skinstad;23;195;104;11;Flanker;SR
+1999;RSA;Werner Swanepoel;26;172;80;13;Scrumhalf;SH
+1999;RSA;Stefan Terblanche;24;187;95;17;Wing;WI
+1999;RSA;Albert van den Berg;25;201;102;5;Lock;SR
+1999;RSA;Joost van der Westhuizen;28;188;89;53;Scrumhalf;SH
+1999;RSA;Fritz van Heerden;29;198;112;13;Lock;SR
+1999;RSA;Andre Venter;29;195;106;40;Flanker;SR
+1999;RSA;Brendan Venter;30;186;90;16;Centre;CE
+1999;RSA;Cobus Visagie;26;185;118;7;Prop;PR
+1999;RSA;Andre Vos;24;189;104;5;Number-8;SR
+1999;ESP;Jaime Alonso;26;175;75;5;Scrumhalf;SH
+1999;ESP;Oscar Astarloa;25;185;95;10;Flanker;SR
+1999;ESP;Rafael Bastide;22;182;88;11;Centre;CE
+1999;ESP;Jordi Camps;26;180;108;26;Prop;PR
+1999;ESP;Fernando de La Calle;29;176;95;38;Hooker;HK
+1999;ESP;Jose Diaz;36;183;95;6;Flanker;SR
+1999;ESP;Fernando Diez;25;175;85;8;Centre;CE
+1999;ESP;Alvar Enciso;25;182;82;29;Centre;CE
+1999;ESP;Aitor Etxeberria;23;189;93;5;Flyhalf;FH
+1999;ESP;Miguel Angel Frechilla;25;183;84;7;Wing;WI
+1999;ESP;Aratz Gallastegui;23;173;71;12;Scrumhalf;SH
+1999;ESP;Jose Ignacio Inchausti;26;182;73;2;Wing;WI
+1999;ESP;Andrei Kovalenco;28;180;81;11;Flyhalf;FH
+1999;ESP;Sebastian Loubsens;26;179;84;4;Centre;CE
+1999;ESP;Agustin Malet;32;188;102;5;Flanker;SR
+1999;ESP;Alberto Malo (Captain);35;190;100;73;Flanker;SR
+1999;ESP;Luis Javier Martinez;30;198;115;6;Lock;SR
+1999;ESP;Alfonso Mata;26;188;93;5;Number-8;SR
+1999;ESP;Franciso Puertas;36;186;86;91;Fullback;FB
+1999;ESP;Oriol Ripol;24;174;73;9;Wing;WI
+1999;ESP;Alberto Socias;26;187;82;9;Centre;CE
+1999;ESP;Antonio Socias;29;179;82;6;Wing;WI
+1999;ESP;Carlos Souto;23;190;112;15;Number-8;SR
+1999;ESP;Sergio Souto;23;194;106;4;Lock;SR
+1999;ESP;Victor Torres;32;185;110;11;Prop;PR
+1999;ESP;Steve Tuineau;30;195;105;11;Lock;SR
+1999;ESP;Ferran Velazco;23;180;80;15;Fullback;FB
+1999;ESP;Jose Miguel Villau;28;195;100;32;Lock;SR
+1999;ESP;Jose Ignacio Zapatero;25;182;109;15;Prop;PR
+1999;ESP;Diego Zarzosa;24;179;105;10;Hooker;HK
+1999;TON;David Edwards;28;193;101;7;Flanker;SR
+1999;TON;Ta'u Fainga'anuku;27;189;122;2;Prop;PR
+1999;TON;Semisi Faka'osi'folau;23;180;90;8;Wing;WI
+1999;TON;Kuli Faletau;36;193;114;33;Lock;SR
+1999;TON;Salesi Finau;27;190;102;5;Centre;CE
+1999;TON;Isi Fatani;30;190;114;38;Lock;SR
+1999;TON;Puku Faletau;30;187;112;7;Prop;PR
+1999;TON;Benhur Kivalu;27;195;114;12;Lock;SR
+1999;TON;Jonathan Koloi;27;187;97;9;Flanker;SR
+1999;TON;Falamani Mafi;32;195;120;42;Lock;SR
+1999;TON;Latiume Maka;29;182;110;6;Prop;PR
+1999;TON;Sililo Martens;22;180;84;12;Scrumhalf;SH
+1999;TON;Tamieni Penesini;28;180;114;5;Prop;PR
+1999;TON;Ngalu Ta'u;30;180;115;11;Prop;PR
+1999;TON;Epeli Taione;20;193;115;0.00;Wing;WI
+1999;TON;Isi Tapueluelu;29;182;100;6;Fullback;FB
+1999;TON;Tauna'holo Taufahema;30;177;85;6;Wing;WI
+1999;TON;Fepiko Tatafu;24;185;90;16;Wing;WI
+1999;TON;Siua Taumalolo;23;185;89;10;Flyhalf;FH
+1999;TON;Tevita Taumoepeau;25;182;114;6;Lock;SR
+1999;TON;Semi Taupeaafe;27;177;95;7;Wing;WI
+1999;TON;Mat Te Pou;25;193;103;9;Flanker;SR
+1999;TON;Tevita Tiueti;26;182;90;9;Wing;WI
+1999;TON;Va'a Toloke;32;193;110;33;Number-8;SR
+1999;TON;Katilimoni Tu'ipulotu;32;182;100;9;Flanker;SR
+1999;TON;Sateki Tuipulotu;28;182;91;11;Fullback;FB
+1999;TON;Sione Tuipulotu;22;185;95;5;Scrumhalf;SH
+1999;TON;Elisi Vunipola;27;182;90;41;Flyhalf;FH
+1999;TON;Fe'ao Vunipola;30;174;110;24;Hooker;HK
+1999;TON;Brian Wooley;25;177;81;8;Flyhalf;FH
+1999;URY;Diego Aguirre;25;187;95;31;Flyhalf;FH
+1999;URY;Sebastian Aguirre;23;182;90;8;Flyhalf;FH
+1999;URY;Juan Alzueta;24;195;110;0.00;Lock;SR
+1999;URY;Juan Carlo Bado;26;195;106;32;Lock;SR
+1999;URY;Eduardo Berruti;31;185;113;18;Prop;PR
+1999;URY;Nicolas Brignoni;23;193;96;8;Flanker;SR
+1999;URY;Alfonso Cardoso;28;172;73;24;Fullback;FB
+1999;URY;Martin Cervino;20;183;87;1;Wing;WI
+1999;URY;Pablo Costabile;30;185;90;24;Wing;WI
+1999;URY;Francisco De Los Santos;29;177;97;19;Hooker;HK
+1999;URY;Leonardo De Olivera;24;193;114;4;Lock;SR
+1999;URY;Fernando Sosa Diaz;28;168;83;2;Scrumhalf;SH
+1999;URY;Martin Ferres;28;170;82;28;Wing;WI
+1999;URY;Nicolas Grille;25;195;103;16;Flanker;SR
+1999;URY;Guillermo Laffite;22;180;95;0;Number-8;SR
+1999;URY;Mario Lame;33;190;111;49;Lock;SR
+1999;URY;Diego Lamelas;27;167;90;17;Hooker;HK
+1999;URY;Pablo Lemoine;24;185;129;21;Prop;PR
+1999;URY;Juan Martin Marques;25;178;86;0;Centre;CE
+1999;URY;Juan Menchaca;22;175;80;4;Fullback;FB
+1999;URY;Martin Mendaro;26;172;88;31;Centre;CE
+1999;URY;Diego Ormachea;40;182;98;63;Number-8;SR
+1999;URY;Martin Panizza;29;187;99;42;Flanker;SR
+1999;URY;Fernando Paullier;32;178;86;0;Centre;CE
+1999;URY;Agustin Ponce de Leon;35;187;105;12;Lock;SR
+1999;URY;Rodrigo Sanchez;25;175;96;21;Prop;PR
+1999;URY;Federico Sciarra;33;172;80;42;Scrumhalf;SH
+1999;URY;Guillermo Storace;25;182;114;14;Prop;PR
+1999;URY;Pedro Vecino;29;177;85;37;Centre;CE
+1999;URY;Jose Viana;22;185;85;1;Wing;WI
+1999;USA;Vaea Anitoni;29;172;77;42;Wing;WI
+1999;USA;Tom Billups;35;172;95;42;Hooker;HK
+1999;USA;Andre Blom;29;180;82;10;Fullback;FB
+1999;USA;Joe Clayton;26;182;111;1;Prop;PR
+1999;USA;Jesse Coulsen;22;173;83;0.00;Fullback;FB
+1999;USA;Kevin Dalzell;25;172;78;14;Scrumhalf;SH
+1999;USA;Juan Grobler;26;182;93;16;Centre;CE
+1999;USA;Luke Goss;30;205;114;36;Lock;SR
+1999;USA;Brian Hightower;29;172;83.5;15;Wing;WI
+1999;USA;Dave Hodges;31;193;100;21;Lock;SR
+1999;USA;Kirk Khasigian;22;180;95;3;Hooker;HK
+1999;USA;Mark L'Huillier;28;175;111;1;Prop;PR
+1999;USA;Ray Lehner;27;185;109;31;Prop;PR
+1999;USA;Rob Lumkong;29;185;110;27;Number-8;SR
+1999;USA;Dan Lyle (captain);29;195;113;25;Flanker;SR
+1999;USA;Fifita Mounga;26;180;102;9;Flanker;SR
+1999;USA;David Niu;33;180;88;6;Flyhalf;FH
+1999;USA;Shaun Paga;22;185;97;5;Flanker;SR
+1999;USA;Alec Parker;25;198;100;22;Lock;SR
+1999;USA;Eric Reed;24;203;114;0.00;Lock;SR
+1999;USA;Alatini Saulala;31;182;97;17;Centre;CE
+1999;USA;Mark Scharrenberg;30;180;91;37;Centre;CE
+1999;USA;Rich Shurfeld;36;185;109;5;Wing;WI
+1999;USA;Kurt Shuman;25;185;91;15;Centre;CE
+1999;USA;David Stroble;23;175;81;0.00;Flyhalf;FH
+1999;USA;George Sucher;30;182;100;13;Prop;PR
+1999;USA;Tomasi Takau;30;180;95;23;Centre;CE
+1999;USA;Richard Tardits;34;187;110;22;Flanker;SR
+1999;USA;Sinapati Uigalelei;20;188;105;0.00;Wing;WI
+1999;USA;Mark Williams;38;180;86;36;Centre;CE
+1999;WAL;Chris Anthony;23;185;111;8;Flanker;SR
+1999;WAL;Allan Bateman;34;175;89;20;Centre;CE
+1999;WAL;Neil Boobyer;27;180;83;7;Centre;CE
+1999;WAL;Colin Charvis;27;190;105;24;Flanker;SR
+1999;WAL;Ben Evans;24;190;119;7;Prop;PR
+1999;WAL;Scott Gibbs;28;175;98;42;Centre;CE
+1999;WAL;Ian Gough;23;198;108;2;Lock;SR
+1999;WAL;Shane Howarth;31;175;89;13;Fullback;FB
+1999;WAL;Robert Howley;29;177;84;37;Scrumhalf;SH
+1999;WAL;Jonathan Humphreys;30;182;105;32;Hooker;HK
+1999;WAL;Dafydd James;24;190;91;21;Wing;WI
+1999;WAL;Garin Jenkins;33;177;103;47;Hooker;HK
+1999;WAL;Neil Jenkins;28;177;84;70;Flyhalf;FH
+1999;WAL;Jason Jones-Hughes;23;192;105;1;Centre;CE
+1999;WAL;Andrew Lewis;26;177;105;18;Prop;PR
+1999;WAL;Geraint Lewis;25;175;83;4;Wing;WI
+1999;WAL;David Llewellyn;29;177;89;3;Scrumhalf;SH
+1999;WAL;Darren Morris;25;182;108;6;Prop;PR
+1999;WAL;Craig Quinnell;24;198;125;18;Lock;SR
+1999;WAL;Scott Quinnell;27;193;117;31;Number-8;SR
+1999;WAL;Matthew Robinson;26;175;83;4;Wing;WI
+1999;WAL;Peter Rogers;30;182;106;9;Prop;PR
+1999;WAL;Brett Sinkinson;28;182;96;8;Flanker;SR
+1999;WAL;Mark Taylor;26;185;87;17;Centre;CE
+1999;WAL;Gareth Thomas;25;187;104;37;Wing;WI
+1999;WAL;Mike Voyle;29;198;107;19;Lock;SR
+1999;WAL;Nick Walne;24;193;98;3;Wing;WI
+1999;WAL;Martyn Williams;24;187;100;11;Flanker;SR
+1999;WAL;Chris Wyatt;26;195;107;15;Lock;SR
+1999;WAL;Dai Young;32;185;113;36;Prop;PR
+1999;WSM;Robbie Ale;26;180;114;3;Prop;PR
+1999;WSM;Stephen Bachop;33;178;90;15;Flyhalf;FH
+1999;WSM;Jon Clarke;24;182;95;6;Scrumhalf;SH
+1999;WSM;Kepi Faiva'ai;29;180;120;9;Prop;PR
+1999;WSM;Lio Falaniko;29;196;115;18;Lock;SR
+1999;WSM;Terry Fanolua;25;184;88;6;Centre;CE
+1999;WSM;Isaac Feaunati;26;189;111;4;Number-8;SR
+1999;WSM;Craig Glendinning;26;184;96;8;Flanker;SR
+1999;WSM;Patrick Lam (c);31;187;104;32;Number-8;SR
+1999;WSM;George Leaupepe;24;179;95;24;Centre;CE
+1999;WSM;Silao Leaga;25;179;94;4;Fullback;FB
+1999;WSM;Trevor Leota;24;174;115;11;Hooker;HK
+1999;WSM;Brian Lima;27;178;92;35;Wing;WI
+1999;WSM;Onehanga Matauiau;24;180;96;2;Hooker;HK
+1999;WSM;Mike Mika;30;186;110;13;Prop;PR
+1999;WSM;Opeta Palepoi;24;195;105;8;Lock;SR
+1999;WSM;Junior Paramore;31;190;105;17;Flanker;SR
+1999;WSM;Brendan Reidy;28;185;108;15;Prop;PR
+1999;WSM;Semo Sititi;25;188;98;3;Flanker;SR
+1999;WSM;Afato So'oalo;25;175;88;10;Wing;WI
+1999;WSM;Steven So'oialo;22;177;82;8;Scrumhalf;SH
+1999;WSM;Sene Taola;26;193;105;14;Flanker;SR
+1999;WSM;Filipo Toala;26;175;87;3;Wing;WI
+1999;WSM;Kalolo Toleafoa;28;185;95;2;Flanker;SR
+1999;WSM;Lama Tone;28;200;102;10;Lock;SR
+1999;WSM;Va'aiga Tuigamala;30;180;105;11;Wing;WI
+1999;WSM;Mike Umaga;33;183;90;14;Fullback;FB
+1999;WSM;To'o Vaega;34;178;86;42;Centre;CE
+1999;WSM;Earl Va'a;27;170;84;7;Flyhalf;FH
+1999;WSM;Tanner Vili;23;170;75;3;Flyhalf;FH
+2003;AUS;Elton Flatley;26;178;89;NA;NA;NA
+2003;AUS;Mat Rogers;27;182;85;NA;NA;NA
+2003;AUS;Chris Latham;28;192;100;NA;NA;NA
+2003;AUS;Lote Tuqiri;24;191;103;NA;NA;NA
+2003;AUS;Matt Giteau;21;178;82;NA;NA;NA
+2003;AUS;Stirling Mortlock;26;191;100;NA;NA;NA
+2003;AUS;Matt Burke;30;184;95;NA;NA;NA
+2003;AUS;Stephen Larkham;29;188;86;NA;NA;NA
+2003;AUS;David Lyons;23;192;116;NA;NA;NA
+2003;AUS;Joe Roff;28;191;100;NA;NA;NA
+2003;AUS;George Smith;23;180;98;NA;NA;NA
+2003;AUS;Morgan Turinui;21;181;100;NA;NA;NA
+2003;AUS;George Gregan;30;173;79;NA;NA;NA
+2003;AUS;Nathan Grey;28;185;96;NA;NA;NA
+2003;AUS;Jeremy Paul;26;184;105;NA;NA;NA
+2003;AUS;John Roe;26;188;105;NA;NA;NA
+2003;AUS;Wendell Sailor;29;191;107;NA;NA;NA
+2003;AUS;Al Baxter;26;190;116;NA;NA;NA
+2003;AUS;Brendan Cannon;30;188;108;NA;NA;NA
+2003;AUS;Matt Cockbain;31;198;98;NA;NA;NA
+2003;AUS;David Croft;24;185;98;NA;NA;NA
+2003;AUS;Ben Darwin;27;186;115;NA;NA;NA
+2003;AUS;Matt Dunning;25;182;115;NA;NA;NA
+2003;AUS;David Giffin;30;198;115;NA;NA;NA
+2003;AUS;Justin Harrison;29;203;110;NA;NA;NA
+2003;AUS;Nathan Sharpe;25;200;115;NA;NA;NA
+2003;AUS;Daniel Vickerman;24;204;119;NA;NA;NA
+2003;AUS;Phil Waugh;24;180;99;NA;NA;NA
+2003;AUS;Chris Whitaker;29;179;82;NA;NA;NA
+2003;AUS;Bill Young;28;188;110;NA;NA;NA
+2003;IRE;Ronan O'Gara;26;180;85;NA;NA;NA
+2003;IRE;David Humphreys;32;178;85;NA;NA;NA
+2003;IRE;Brian O'Driscoll;24;180;94;NA;NA;NA
+2003;IRE;Shane Horgan;25;193;102;NA;NA;NA
+2003;IRE;Eric Miller;28;192;107;NA;NA;NA
+2003;IRE;Victor Costello;33;192;118;NA;NA;NA
+2003;IRE;Girvan Dempsey;28;189;92;NA;NA;NA
+2003;IRE;Guy Easterby;32;180;94;NA;NA;NA
+2003;IRE;Marcus Horan;26;185;108;NA;NA;NA
+2003;IRE;John Kelly;29;178;92;NA;NA;NA
+2003;IRE;Kevin Maggs;29;180;97;NA;NA;NA
+2003;IRE;Keith Wood;31;183;105;NA;NA;NA
+2003;IRE;Simon Best;25;184;115;NA;NA;NA
+2003;IRE;Shane Byrne;32;188;110;NA;NA;NA
+2003;IRE;Reggie Corrigan;33;188;110;NA;NA;NA
+2003;IRE;Simon Easterby;28;183;100;NA;NA;NA
+2003;IRE;Anthony Foley;30;190;110;NA;NA;NA
+2003;IRE;Keith Gleeson;27;185;98;NA;NA;NA
+2003;IRE;John Hayes;30;190;125;NA;NA;NA
+2003;IRE;Donnacha O'Callaghan;24;198;111;NA;NA;NA
+2003;IRE;Paul O'Connell;24;198;110;NA;NA;NA
+2003;IRE;Malcolm O'Kelly;29;204;113;NA;NA;NA
+2003;IRE;Peter Stringer;26;170;70;NA;NA;NA
+2003;ARG;Gonzalo Quesada;29;183;88;NA;NA;NA
+2003;ARG;Pablo Bouza;30;193;100;NA;NA;NA
+2003;ARG;Martin Gaitan;25;177;85;NA;NA;NA
+2003;ARG;Juan Fernandez Miranda;29;179;88;NA;NA;NA
+2003;ARG;Nicolas Fernandez Miranda;31;177;80;NA;NA;NA
+2003;ARG;Juan Hernandez;21;187;88;NA;NA;NA
+2003;ARG;Ignacio Corleto;25;185;85;NA;NA;NA
+2003;ARG;Manuel Contepomi;26;187;90;NA;NA;NA
+2003;ARG;Federico Mendez;31;184;108;NA;NA;NA
+2003;ARG;Felipe Contepomi;26;182;89;NA;NA;NA
+2003;ARG;Patricio Albacete;22;200;115;NA;NA;NA
+2003;ARG;Diego Albanese;30;174;78;NA;NA;NA
+2003;ARG;Rimas Alvarez;29;197;105;NA;NA;NA
+2003;ARG;Martin Durand;27;182;97;NA;NA;NA
+2003;ARG;Ignacio Fernandez Lobbe;29;194;106;NA;NA;NA
+2003;ARG;Roberto Grau;33;183;105;NA;NA;NA
+2003;ARG;Omar Hasan;32;183;115;NA;NA;NA
+2003;ARG;Mario Ledesma;30;183;105;NA;NA;NA
+2003;ARG;Gonzalo Longo;29;193;98;NA;NA;NA
+2003;ARG;Rolando Martin;35;189;97;NA;NA;NA
+2003;ARG;Jose Maria Nunez Piossek;27;184;90;NA;NA;NA
+2003;ARG;Jose Orengo;27;176;86;NA;NA;NA
+2003;ARG;Lucas Ostiglia;27;190;95;NA;NA;NA
+2003;ARG;Santiago Phelan;29;187;92;NA;NA;NA
+2003;ARG;Agustin Pichot;29;174;78;NA;NA;NA
+2003;ARG;Mauricio Reggiardo;33;190;118;NA;NA;NA
+2003;ARG;Rodrigo Roncero;26;177;108;NA;NA;NA
+2003;ARG;Martin Scelzo;27;190;125;NA;NA;NA
+2003;ARG;Hernan Senillosa;26;179;84;NA;NA;NA
+2003;ARG;Pedro Sporleder;32;198;117;NA;NA;NA
+2003;ROU;Ionut Tofan;26;178;77;NA;NA;NA
+2003;ROU;George Chiriac;24;190;100;NA;NA;NA
+2003;ROU;Valentin Maftei;29;185;90;NA;NA;NA
+2003;ROU;Augustin Petrichei;23;198;105;NA;NA;NA
+2003;ROU;Cristian Sauan;29;183;95;NA;NA;NA
+2003;ROU;Lucian Sirbu;27;183;89;NA;NA;NA
+2003;ROU;Ioan Teodorescu;27;175;79;NA;NA;NA
+2003;ROU;Petrisor Toderasc;23;185;112;NA;NA;NA
+2003;ROU;Iulian Andrei;29;170;75;NA;NA;NA
+2003;ROU;Petru Balan;27;186;116;NA;NA;NA
+2003;ROU;Gabriel Brezoianu;26;175;85;NA;NA;NA
+2003;ROU;Danut Dumbrava;22;186;84;NA;NA;NA
+2003;ROU;Silviu Florea;26;182;106;NA;NA;NA
+2003;ROU;Vasile Ghioc;25;180;84;NA;NA;NA
+2003;ROU;Romeo Gontineac;30;175;89;NA;NA;NA
+2003;ROU;Paulica Ion;20;178;100;NA;NA;NA
+2003;ROU;Razvan Mavrodin;30;178;100;NA;NA;NA
+2003;ROU;Marius Niculai;24;190;94;NA;NA;NA
+2003;ROU;Cristian Petre;24;195;110;NA;NA;NA
+2003;ROU;Cristian Podea;24;172;84;NA;NA;NA
+2003;ROU;Cezar Popescu;27;188;108;NA;NA;NA
+2003;ROU;Marcel Socaciu;31;180;112;NA;NA;NA
+2003;ROU;Sorin Socol;26;195;111;NA;NA;NA
+2003;ROU;Florin Tatu;20;195;98;NA;NA;NA
+2003;ROU;Ovidiu Tonita;23;195;99;NA;NA;NA
+2003;ROU;Bogdan Tudor;27;189;108;NA;NA;NA
+2003;ROU;Marian Tudori;25;193;98;NA;NA;NA
+2003;ROU;Mihai Vioreanu;28;184;84;NA;NA;NA
+2003;NAM;Emile Wessels;24;180;87;NA;NA;NA
+2003;NAM;Du Preez Grobler;26;183;90;NA;NA;NA
+2003;NAM;Hakkies Husselman;31;180;88;NA;NA;NA
+2003;NAM;Eben Isaacs;33;193;101;NA;NA;NA
+2003;NAM;Corne Powell;29;194;95;NA;NA;NA
+2003;NAM;Melrick Africa;25;182;82;NA;NA;NA
+2003;NAM;Andries Blaauw;33;175;116;NA;NA;NA
+2003;NAM;Jurie Booysen;22;190;86;NA;NA;NA
+2003;NAM;Vincent Dreyer;25;177;78;NA;NA;NA
+2003;NAM;Neil du Toit;34;187;118;NA;NA;NA
+2003;NAM;Wolfie Duvenhage;25;184;98;NA;NA;NA
+2003;NAM;Sean Furter;26;196;100;NA;NA;NA
+2003;NAM;Archie Graham;29;191;105;NA;NA;NA
+2003;NAM;Deon Grunschloss;30;NA;NA;NA;NA;NA
+2003;NAM;Phillipus Isaacs;30;180;96;NA;NA;NA
+2003;NAM;Kees Lensing;25;190;125;NA;NA;NA
+2003;NAM;Herman Lintvelt;27;192;103;NA;NA;NA
+2003;NAM;Johannes Meyer;22;178;98;NA;NA;NA
+2003;NAM;Deon Mouton;29;185;91;NA;NA;NA
+2003;NAM;Ronaldo Pedro;31;174;74;NA;NA;NA
+2003;NAM;Morne Schreuder;24;180;80;NA;NA;NA
+2003;NAM;Heino Senekal;28;198;108;NA;NA;NA
+2003;NAM;Neil Swanepoel;23;173;85;NA;NA;NA
+2003;NAM;Schalk van der Merwe;29;182;90;NA;NA;NA
+2003;NAM;Jurgens van Lill;22;NA;NA;NA;NA;NA
+2003;NAM;Shaun van Rooi;21;190;89;NA;NA;NA
+2003;NAM;Cor Van Tonder;25;178;99;NA;NA;NA
+2003;NAM;Rudi van Vuuren;31;188;96;NA;NA;NA
+2003;FRA;Frederic Michalak;21;172;78;NA;NA;NA
+2003;FRA;Christophe Dominici;31;172;77;NA;NA;NA
+2003;FRA;Imanol Harinordoquy;23;192;102;NA;NA;NA
+2003;FRA;Yannick Jauzion;25;193;96;NA;NA;NA
+2003;FRA;Brian Liebenberg;24;186;106;NA;NA;NA
+2003;FRA;Gerald Merceron;30;174;74;NA;NA;NA
+2003;FRA;Dmitri Yachvili;23;183;81;NA;NA;NA
+2003;FRA;Serge Betsen;29;182;92;NA;NA;NA
+2003;FRA;Jean Jacques Crenca;34;180;103;NA;NA;NA
+2003;FRA;Aurelien Rougerie;23;194;93;NA;NA;NA
+2003;FRA;Nicolas Brusque;27;189;80;NA;NA;NA
+2003;FRA;Yannick Bru;30;180;95;NA;NA;NA
+2003;FRA;Pepito Elhorga;25;177;80;NA;NA;NA
+2003;FRA;Fabien Galthie;34;180;86;NA;NA;NA
+2003;FRA;Raphael Ibanez;30;180;93;NA;NA;NA
+2003;FRA;Olivier Magne;30;188;95;NA;NA;NA
+2003;FRA;Fabien Pelous;30;198;110;NA;NA;NA
+2003;FRA;Jean Baptiste Poux;24;180;105;NA;NA;NA
+2003;FRA;David Auradou;30;201;101;NA;NA;NA
+2003;FRA;David Bory;27;180;83;NA;NA;NA
+2003;FRA;Sebastien Chabal;26;187;103;NA;NA;NA
+2003;FRA;Christian Labit;32;187;105;NA;NA;NA
+2003;FRA;Sylvain Marconnet;27;183;115;NA;NA;NA
+2003;FRA;Tony Marsh;31;188;97;NA;NA;NA
+2003;FRA;Olivier Milloud;28;185;104;NA;NA;NA
+2003;FRA;Clement Poitrenaud;21;187;88;NA;NA;NA
+2003;FRA;Thibault Privat;24;NA;NA;NA;NA;NA
+2003;FRA;Patrick Tabacco;29;198;97;NA;NA;NA
+2003;FRA;Jerome Thion;26;198;115;NA;NA;NA
+2003;FRA;Damien Traille;24;194;98;NA;NA;NA
+2003;ENG;Jonny Wilkinson;24;178;89;NA;NA;NA
+2003;ENG;Paul Grayson;32;183;81;NA;NA;NA
+2003;ENG;Will Greenwood;31;193;96;NA;NA;NA
+2003;ENG;Josh Lewsey;27;180;89;NA;NA;NA
+2003;ENG;Jason Robinson;29;173;83;NA;NA;NA
+2003;ENG;Iain Balshaw;24;190;95;NA;NA;NA
+2003;ENG;Mike Catt;32;180;85;NA;NA;NA
+2003;ENG;Neil Back;34;178;92;NA;NA;NA
+2003;ENG;Ben Cohen;25;191;100;NA;NA;NA
+2003;ENG;Andy Gomarsall;29;178;86;NA;NA;NA
+2003;ENG;Dan Luger;28;185;92;NA;NA;NA
+2003;ENG;Stuart Abbott;25;181;87;NA;NA;NA
+2003;ENG;Lawrence Dallaglio;31;193;109;NA;NA;NA
+2003;ENG;Matt Dawson;31;178;87;NA;NA;NA
+2003;ENG;Lewis Moody;25;193;105;NA;NA;NA
+2003;ENG;Mark Regan;31;178;95;NA;NA;NA
+2003;ENG;Steve Thompson;25;188;117;NA;NA;NA
+2003;ENG;Mike Tindall;25;185;100;NA;NA;NA
+2003;ENG;Phil Vickery;27;191;125;NA;NA;NA
+2003;ENG;Kyran Bracken;32;180;84;NA;NA;NA
+2003;ENG;Martin Corry;30;196;112;NA;NA;NA
+2003;ENG;Richard Hill;30;189;104;NA;NA;NA
+2003;ENG;Martin Johnson;33;200;118;NA;NA;NA
+2003;ENG;Ben Kay;28;198;112;NA;NA;NA
+2003;ENG;Jason Leonard;35;183;115;NA;NA;NA
+2003;ENG;Dorian West;36;180;102;NA;NA;NA
+2003;ENG;Julian White;30;185;121;NA;NA;NA
+2003;ENG;Trevor Woodman;27;183;113;NA;NA;NA
+2003;ENG;Joe Worsley;26;196;110;NA;NA;NA
+2003;SCO;Chris Paterson;25;181;82;NA;NA;NA
+2003;SCO;Simon Danielli;24;193;102;NA;NA;NA
+2003;SCO;Gregor Townsend;30;183;91;NA;NA;NA
+2003;SCO;Stuart Grimes;29;200;110;NA;NA;NA
+2003;SCO;Rob Russell;27;178;96;NA;NA;NA
+2003;SCO;Tom Smith;32;172;104;NA;NA;NA
+2003;SCO;Simon Taylor;24;195;110;NA;NA;NA
+2003;SCO;Ross Beattie;26;195;110;NA;NA;NA
+2003;SCO;Michael Blair;22;181;82;NA;NA;NA
+2003;SCO;Gordon Bulloch;28;180;98;NA;NA;NA
+2003;SCO;Andy Craig;27;185;93;NA;NA;NA
+2003;SCO;Bruce Douglas;23;180;117;NA;NA;NA
+2003;SCO;Andrew Henderson;23;193;100;NA;NA;NA
+2003;SCO;Nathan Hines;27;201;117;NA;NA;NA
+2003;SCO;Ben Hinshelwood;26;188;100;NA;NA;NA
+2003;SCO;Martin Leslie;32;191;103;NA;NA;NA
+2003;SCO;Kenny Logan;31;188;94;NA;NA;NA
+2003;SCO;Cameron Mather;31;198;108;NA;NA;NA
+2003;SCO;Gordon McIlwham;34;178;111;NA;NA;NA
+2003;SCO;James McLaren;31;191;105;NA;NA;NA
+2003;SCO;Glenn Metcalfe;32;180;83;NA;NA;NA
+2003;SCO;Scott Murray;27;203;110;NA;NA;NA
+2003;SCO;Jon Petrie;27;193;109;NA;NA;NA
+2003;SCO;Bryan Redpath;32;170;79;NA;NA;NA
+2003;SCO;Gordon Ross;25;172;86;NA;NA;NA
+2003;SCO;Jason White;25;196;107;NA;NA;NA
+2003;FIJ;Nicky Little;27;183;94;NA;NA;NA
+2003;FIJ;Rupeni Caucau;23;175;98;NA;NA;NA
+2003;FIJ;Norman Ligairi;27;182;85;NA;NA;NA
+2003;FIJ;Api Naevo;30;201;118;NA;NA;NA
+2003;FIJ;Aisea Tuilevu;31;168;100;NA;NA;NA
+2003;FIJ;Marika Vunibaka;29;187;98;NA;NA;NA
+2003;FIJ;Vilimoni Delasau;26;190;99;NA;NA;NA
+2003;FIJ;Alifereti Doviverata;27;186;105;NA;NA;NA
+2003;FIJ;Bill Gadolo;26;177;104;NA;NA;NA
+2003;FIJ;Emori Katalau;34;198;104;NA;NA;NA
+2003;FIJ;Sisa Koyamaibole;23;196;118;NA;NA;NA
+2003;FIJ;Kele Leawere;29;196;118;NA;NA;NA
+2003;FIJ;Vula Maimuri;28;200;114;NA;NA;NA
+2003;FIJ;Isikeli Nacewa;21;185;83;NA;NA;NA
+2003;FIJ;Richard Nyholt;28;184;112;NA;NA;NA
+2003;FIJ;Seru Rabeni;25;187;95;NA;NA;NA
+2003;FIJ;Isaia Rasila;34;180;105;NA;NA;NA
+2003;FIJ;Jacob Rauluni;31;178;94;NA;NA;NA
+2003;FIJ;Moses Rauluni;28;178;80;NA;NA;NA
+2003;FIJ;Ifereimi Rawaqa;23;203;105;NA;NA;NA
+2003;FIJ;Epeli Ruivadra;26;184;92;NA;NA;NA
+2003;FIJ;Kitione Salawa;27;194;95;NA;NA;NA
+2003;FIJ;Nacanieli Seru;34;180;115;NA;NA;NA
+2003;FIJ;Koli Sewabu;28;196;103;NA;NA;NA
+2003;FIJ;Greg Smith;29;181;105;NA;NA;NA
+2003;FIJ;Alfred Uluinayau;33;170;90;NA;NA;NA
+2003;FIJ;Joeli Veitayaki;36;195;136;NA;NA;NA
+2003;USA;Mike Hercus;24;178;82;NA;NA;NA
+2003;USA;Kort Schubert;24;192;111;NA;NA;NA
+2003;USA;Riaan van Zyl;31;183;91;NA;NA;NA
+2003;USA;Phillip Eloff;25;183;91;NA;NA;NA
+2003;USA;Kirk Khasigian;26;178;100;NA;NA;NA
+2003;USA;John Buchholz;24;178;82;NA;NA;NA
+2003;USA;Kain Cross;29;170;86;NA;NA;NA
+2003;USA;Kevin Dalzell;29;173;79;NA;NA;NA
+2003;USA;Daniel Dorsey;27;185;125;NA;NA;NA
+2003;USA;Paul Emerick;23;183;91;NA;NA;NA
+2003;USA;David Fee;27;175;84;NA;NA;NA
+2003;USA;Oloseti Fifita;35;191;109;NA;NA;NA
+2003;USA;Jurie Gouws;30;191;110;NA;NA;NA
+2003;USA;Luke Gross;34;206;125;NA;NA;NA
+2003;USA;Dave Hodges;35;193;107;NA;NA;NA
+2003;USA;Jason Keyter;30;183;95;NA;NA;NA
+2003;USA;Kimball Kjar;25;175;88;NA;NA;NA
+2003;USA;Gerhard Klerck;28;198;109;NA;NA;NA
+2003;USA;Richard Liddington;25;193;109;NA;NA;NA
+2003;USA;Dan Lyle;33;193;111;NA;NA;NA
+2003;USA;Mike MacDonald;23;185;118;NA;NA;NA
+2003;USA;Alec Parker;29;198;107;NA;NA;NA
+2003;USA;Matt Sherman;24;178;82;NA;NA;NA
+2003;USA;Salesi Sika;23;188;107;NA;NA;NA
+2003;USA;Mose Timoteo;27;173;77;NA;NA;NA
+2003;USA;Jacob Waasdorp;25;185;122;NA;NA;NA
+2003;USA;Link Wilfley;24;188;95;NA;NA;NA
+2003;USA;Matthew Wyatt;25;175;95;NA;NA;NA
+2003;RSA;Derick Hougaard;20;176;87;NA;NA;NA
+2003;RSA;Louis Koen;28;180;82;NA;NA;NA
+2003;RSA;Bakkies Botha;24;202;117;NA;NA;NA
+2003;RSA;Jaque Fourie;20;189;92;NA;NA;NA
+2003;RSA;Danie Rossouw;25;198;120;NA;NA;NA
+2003;RSA;Joost van der Westhuizen;32;188;87;NA;NA;NA
+2003;RSA;Joe Van Niekerk;23;193;103;NA;NA;NA
+2003;RSA;Richard Bands;29;183;119;NA;NA;NA
+2003;RSA;Schalk Burger;20;193;106;NA;NA;NA
+2003;RSA;Neil de Kock;25;177;80;NA;NA;NA
+2003;RSA;Thinus Delport;28;188;98;NA;NA;NA
+2003;RSA;Werner Greeff;26;187;92;NA;NA;NA
+2003;RSA;Jorrie Muller;22;182;89;NA;NA;NA
+2003;RSA;Hendro Scholtz;24;187;104;NA;NA;NA
+2003;RSA;Juan Smith;22;196;104;NA;NA;NA
+2003;RSA;Jaco van der Westhuyzen;25;182;87;NA;NA;NA
+2003;RSA;Ashwin Willemse;22;188;89;NA;NA;NA
+2003;RSA;De Wet Barry;25;187;90;NA;NA;NA
+2003;RSA;Christo Bezuidenhout;33;187;116;NA;NA;NA
+2003;RSA;Selborne Boome;28;198;107;NA;NA;NA
+2003;RSA;Danie Coetzee;26;185;102;NA;NA;NA
+2003;RSA;Corne Krige;28;191;100;NA;NA;NA
+2003;RSA;Ricardo Loubscher;29;170;84;NA;NA;NA
+2003;RSA;Victor Matfield;26;198;113;NA;NA;NA
+2003;RSA;Breyton Paulse;27;175;79;NA;NA;NA
+2003;RSA;Faan Rautenbach;27;189;125;NA;NA;NA
+2003;RSA;Dale Santon;34;178;104;NA;NA;NA
+2003;RSA;Lawrence Sephaka;25;177;108;NA;NA;NA
+2003;RSA;John Smit;25;188;116;NA;NA;NA
+2003;RSA;Stefan Terblanche;28;187;93;NA;NA;NA
+2003;WSM;Earl Va'a;31;166;79;NA;NA;NA
+2003;WSM;Brian Lima;31;181;95;NA;NA;NA
+2003;WSM;Maurie Fa'asavalu;23;186;105;NA;NA;NA
+2003;WSM;Dominic Feaunati;25;185;110;NA;NA;NA
+2003;WSM;Opeta Palepoi;28;193;108;NA;NA;NA
+2003;WSM;Semo Sititi;29;188;102;NA;NA;NA
+2003;WSM;Sailosi Tagicakibau;21;193;97;NA;NA;NA
+2003;WSM;Tanner Vili;27;172;78;NA;NA;NA
+2003;WSM;Lome Fa'atau;28;183;90;NA;NA;NA
+2003;WSM;Simon Lemalu;22;180;112;NA;NA;NA
+2003;WSM;Steven So'oialo;26;177;86;NA;NA;NA
+2003;WSM;Terry Fanolua;29;186;90;NA;NA;NA
+2003;WSM;Ron Fanuatanu;21;184;90;NA;NA;NA
+2003;WSM;Leo Lafaiali'I;29;194;108;NA;NA;NA
+2003;WSM;Kas Lealamanu'a;27;180;117;NA;NA;NA
+2003;WSM;Tamato Leupolu;23;185;119;NA;NA;NA
+2003;WSM;Jonathan Meredith;25;175;108;NA;NA;NA
+2003;WSM;Peter Poulos;26;190;108;NA;NA;NA
+2003;WSM;Dale Rasmussen;26;188;96;NA;NA;NA
+2003;WSM;Romi Ropati;27;182;92;NA;NA;NA
+2003;WSM;Mahonri Schwalger;25;175;108;NA;NA;NA
+2003;WSM;Jeremy Tomuli;32;178;125;NA;NA;NA
+2003;WSM;Des Tuiavi'I;33;185;103;NA;NA;NA
+2003;WSM;Denning Tyrell;27;172;86;NA;NA;NA
+2003;WSM;Siaosi Vaili;26;191;110;NA;NA;NA
+2003;WSM;Kitiona Viliamu;23;192;110;NA;NA;NA
+2003;URY;Diego Aguirre;29;186;95;NA;NA;NA
+2003;URY;Juan Menchaca;26;174;78;NA;NA;NA
+2003;URY;Pablo Lemoine;28;184;125;NA;NA;NA
+2003;URY;Nicolas Brignoni;27;196;99;NA;NA;NA
+2003;URY;Rodrigo Capo;23;195;112;NA;NA;NA
+2003;URY;Alfonso Cardoso;32;174;76;NA;NA;NA
+2003;URY;Diego Lamelas;31;170;100;NA;NA;NA
+2003;URY;Sebastian Aguirre;27;183;88;NA;NA;NA
+2003;URY;Juan Miguel Alvarez;23;195;101;NA;NA;NA
+2003;URY;Juan Alzueta;28;189;110;NA;NA;NA
+2003;URY;Bernardo Amarillo;25;173;75;NA;NA;NA
+2003;URY;Juan Carlos Bado;30;197;110;NA;NA;NA
+2003;URY;Carlos Baldasarri;24;190;93;NA;NA;NA
+2003;URY;Eduardo Berruti;35;190;130;NA;NA;NA
+2003;URY;Emiliano Caffera;25;176;80;NA;NA;NA
+2003;URY;Juan Campomar;21;172;74;NA;NA;NA
+2003;URY;Ignacio Conti;26;179;95;NA;NA;NA
+2003;URY;Joaquin De Freitas;25;179;92;NA;NA;NA
+2003;URY;Nicolas Grille;29;196;104;NA;NA;NA
+2003;URY;Marcelo Gutierrez;26;189;98;NA;NA;NA
+2003;URY;Emiliano Ibarra;29;180;90;NA;NA;NA
+2003;URY;Juan Machado;30;172;105;NA;NA;NA
+2003;URY;Martin Mendaro;30;173;86;NA;NA;NA
+2003;URY;Joaquin Pastore;22;180;86;NA;NA;NA
+2003;URY;Juan Andres Perez;28;174;99;NA;NA;NA
+2003;URY;Hernan Ponte;22;188;98;NA;NA;NA
+2003;URY;Diego Reyes;23;188;93;NA;NA;NA
+2003;URY;Rodrigo Sanchez;27;179;100;NA;NA;NA
+2003;URY;Guillermo Storace;29;183;115;NA;NA;NA
+2003;URY;Jose Viana;26;188;85;NA;NA;NA
+2003;GEO;Paliko Jimsheladze;28;180;88;NA;NA;NA
+2003;GEO;Merab Kvirikashvili;20;176;74;NA;NA;NA
+2003;GEO;Malkhaz Urjukashvili;23;178;80;NA;NA;NA
+2003;GEO;David Dadunashvili;21;184;110;NA;NA;NA
+2003;GEO;Irakli Abuseridze;26;174;79;NA;NA;NA
+2003;GEO;David Bolgashvili;24;187;100;NA;NA;NA
+2003;GEO;George Chkhaidze;22;194;101;NA;NA;NA
+2003;GEO;Victor Didebulidze;32;194;115;NA;NA;NA
+2003;GEO;Otar Eloshvili;25;187;100;NA;NA;NA
+2003;GEO;Irakli Giorgadze;21;188;100;NA;NA;NA
+2003;GEO;Akvsenti Giorgadze;27;179;103;NA;NA;NA
+2003;GEO;Sergo Gujaraidze;24;198;115;NA;NA;NA
+2003;GEO;Vasil Katsadze;27;188;108;NA;NA;NA
+2003;GEO;Archil Kavtarashvili;30;184;95;NA;NA;NA
+2003;GEO;Besik Khamashuridze;26;196;96;NA;NA;NA
+2003;GEO;Badri Khekhelashvili;25;179;76;NA;NA;NA
+2003;GEO;Gocha Khonelidze;27;179;94;NA;NA;NA
+2003;GEO;Avtandil Kopaliani;21;182;113;NA;NA;NA
+2003;GEO;Gia Labadze;30;194;97;NA;NA;NA
+2003;GEO;Irakli Machkhaneli;22;187;90;NA;NA;NA
+2003;GEO;Alexandre Margvelashvili;30;188;135;NA;NA;NA
+2003;GEO;Zurab Mchedlishvili;32;185;107;NA;NA;NA
+2003;GEO;Irakli Modebadze;24;174;80;NA;NA;NA
+2003;GEO;Vano Nadiradze;31;197;112;NA;NA;NA
+2003;GEO;Soso Nikolaenko;28;188;105;NA;NA;NA
+2003;GEO;Goderdzi Shvelidze;25;177;106;NA;NA;NA
+2003;GEO;George Tsiklauri;22;194;101;NA;NA;NA
+2003;GEO;Gregoire Yachvili;26;190;97;NA;NA;NA
+2003;GEO;Ilia Zedginidze;26;195;112;NA;NA;NA
+2003;GEO;Tedo Zibzibadze;23;191;94;NA;NA;NA
+2003;NZL;Leon MacDonald;26;181;96;NA;NA;NA
+2003;NZL;Daniel Carter;21;180;91;NA;NA;NA
+2003;NZL;Doug Howlett;25;185;92;NA;NA;NA
+2003;NZL;Mils Muliaina;23;183;94;NA;NA;NA
+2003;NZL;Joe Rokocoko;20;189;98;NA;NA;NA
+2003;NZL;Carlos Spencer;28;180;95;NA;NA;NA
+2003;NZL;Caleb Ralph;26;187;93;NA;NA;NA
+2003;NZL;Kees Meeuws;29;183;118;NA;NA;NA
+2003;NZL;Rodney So'oialo;24;190;105;NA;NA;NA
+2003;NZL;Brad Thorn;28;195;115;NA;NA;NA
+2003;NZL;Reuben Thorne;28;192;107;NA;NA;NA
+2003;NZL;Aaron Mauger;23;181;93;NA;NA;NA
+2003;NZL;Daniel Braid;22;186;96;NA;NA;NA
+2003;NZL;Corey Flynn;22;184;106;NA;NA;NA
+2003;NZL;Marty Holah;27;184;98;NA;NA;NA
+2003;NZL;Chris Jack;25;202;112;NA;NA;NA
+2003;NZL;Justin Marshall;30;179;94;NA;NA;NA
+2003;NZL;Keven Mealamu;24;181;106;NA;NA;NA
+2003;NZL;Ma'a Nonu;21;182;100;NA;NA;NA
+2003;NZL;Ali Williams;22;202;110;NA;NA;NA
+2003;NZL;Ben Atiga;20;178;93;NA;NA;NA
+2003;NZL;Jerry Collins;23;190;103;NA;NA;NA
+2003;NZL;Steve Devine;27;176;85;NA;NA;NA
+2003;NZL;Mark Hammett;31;185;108;NA;NA;NA
+2003;NZL;Dave Hewett;32;191;116;NA;NA;NA
+2003;NZL;Carl Hoeft;29;184;115;NA;NA;NA
+2003;NZL;Byron Kelleher;27;177;96;NA;NA;NA
+2003;NZL;Richie McCaw;23;188;105;NA;NA;NA
+2003;NZL;Greg Somerville;26;187;115;NA;NA;NA
+2003;NZL;Tana Umaga;30;187;101;NA;NA;NA
+2003;WAL;Stephen Jones;26;183;84;NA;NA;NA
+2003;WAL;Iestyn Harris;27;178;90;NA;NA;NA
+2003;WAL;Colin Charvis;31;190;108;NA;NA;NA
+2003;WAL;Sonny Parker;26;185;102;NA;NA;NA
+2003;WAL;Martyn Williams;28;185;98;NA;NA;NA
+2003;WAL;Gareth Cooper;24;171;76;NA;NA;NA
+2003;WAL;Mark Jones;24;186;91;NA;NA;NA
+2003;WAL;Dafydd Jones;24;198;109;NA;NA;NA
+2003;WAL;Mark Taylor;30;181;95;NA;NA;NA
+2003;WAL;Gareth Thomas;29;193;103;NA;NA;NA
+2003;WAL;Shane Williams;26;173;78;NA;NA;NA
+2003;WAL;Huw Bennett;20;186;105;NA;NA;NA
+2003;WAL;Brent Cockbain;29;202;114;NA;NA;NA
+2003;WAL;Mefin Davies;31;177;95;NA;NA;NA
+2003;WAL;Garan Evans;30;182;83;NA;NA;NA
+2003;WAL;Gethin Jenkins;23;186;113;NA;NA;NA
+2003;WAL;Adam Jones;22;185;121;NA;NA;NA
+2003;WAL;Gareth Llewellyn;34;198;115;NA;NA;NA
+2003;WAL;Robin McBryde;33;180;105;NA;NA;NA
+2003;WAL;Kevin Morgan;26;178;82;NA;NA;NA
+2003;WAL;Dwayne Peel;22;180;83;NA;NA;NA
+2003;WAL;Alix Popham;24;190;108;NA;NA;NA
+2003;WAL;Tom Shanklin;24;187;97;NA;NA;NA
+2003;WAL;Robert Sidoli;24;198;112;NA;NA;NA
+2003;WAL;Ceri Sweeney;23;181;86;NA;NA;NA
+2003;WAL;Iestyn Thomas;27;185;112;NA;NA;NA
+2003;WAL;Jonathan Thomas;21;196;107;NA;NA;NA
+2003;WAL;Rhys Williams;23;173;86;NA;NA;NA
+2003;WAL;Chris Wyatt;30;195;111;NA;NA;NA
+2003;ITA;Rima Wakarua;27;172;78;NA;NA;NA
+2003;ITA;Denis Dallan;25;188;99;NA;NA;NA
+2003;ITA;Manuel Dallan;27;185;87;NA;NA;NA
+2003;ITA;Sergio Parisse;20;196;104;NA;NA;NA
+2003;ITA;Matthew Phillips;28;195;110;NA;NA;NA
+2003;ITA;Gert Peens;29;183;96;NA;NA;NA
+2003;ITA;Matteo Barbini;21;190;90;NA;NA;NA
+2003;ITA;Andrea Benatti;24;190;95;NA;NA;NA
+2003;ITA;Mirco Bergamasco;20;180;86;NA;NA;NA
+2003;ITA;Mauro Bergamasco;24;180;86;NA;NA;NA
+2003;ITA;Cristian Bezzi;28;196;115;NA;NA;NA
+2003;ITA;Marco Bortolami;23;196;102;NA;NA;NA
+2003;ITA;Gonzalo Canale;21;182;90;NA;NA;NA
+2003;ITA;Martin Castrogiovanni;22;188;110;NA;NA;NA
+2003;ITA;Carlo Checchinato;33;197;110;NA;NA;NA
+2003;ITA;Andrea De Rossi;31;183;105;NA;NA;NA
+2003;ITA;Santiago Dellape;25;200;117;NA;NA;NA
+2003;ITA;Carlo Festuccia;23;182;100;NA;NA;NA
+2003;ITA;Andrea Lo Cicero;27;185;117;NA;NA;NA
+2003;ITA;Ramiro Martinez;33;183;118;NA;NA;NA
+2003;ITA;Andrea Masi;22;183;95;NA;NA;NA
+2003;ITA;Matteo Mazzantini;27;178;87;NA;NA;NA
+2003;ITA;Francesco Mazzariol;28;173;77;NA;NA;NA
+2003;ITA;Nicola Mazzucato;28;187;94;NA;NA;NA
+2003;ITA;Fabio Ongaro;26;183;104;NA;NA;NA
+2003;ITA;Scott Palmer;26;192;100;NA;NA;NA
+2003;ITA;Aaron Persico;25;187;100;NA;NA;NA
+2003;ITA;Salvatore Perugini;25;180;110;NA;NA;NA
+2003;ITA;Cristian Stoica;27;188;104;NA;NA;NA
+2003;ITA;Alessandro Troncon;30;178;85;NA;NA;NA
+2003;CAN;Jared Barker;28;178;88;NA;NA;NA
+2003;CAN;Bob Ross;34;180;84;NA;NA;NA
+2003;CAN;Aaron Abrams;24;184;109;NA;NA;NA
+2003;CAN;Sean Fauth;28;182;84;NA;NA;NA
+2003;CAN;Quentin Fyffe;31;181;85;NA;NA;NA
+2003;CAN;Kevin Tkachuk;27;183;110;NA;NA;NA
+2003;CAN;James Pritchard;24;175;85;NA;NA;NA
+2003;CAN;Ryan Banks;31;183;107;NA;NA;NA
+2003;CAN;John Cannon;23;187;99;NA;NA;NA
+2003;CAN;Al Charron;37;193;116;NA;NA;NA
+2003;CAN;Garth Cooke;26;178;107;NA;NA;NA
+2003;CAN;Jamie Cudmore;25;195;114;NA;NA;NA
+2003;CAN;Marco di Girolamo;26;178;92;NA;NA;NA
+2003;CAN;Jim Douglas;26;190;97;NA;NA;NA
+2003;CAN;Ed Fairhurst;24;184;94;NA;NA;NA
+2003;CAN;Josh Jackson;23;200;111;NA;NA;NA
+2003;CAN;Mike James;30;196;110;NA;NA;NA
+2003;CAN;Matt King;23;183;98;NA;NA;NA
+2003;CAN;Ed Knaggs;26;194;116;NA;NA;NA
+2003;CAN;Mark Lawson;23;187;98;NA;NA;NA
+2003;CAN;Dave Lougheed;35;188;98;NA;NA;NA
+2003;CAN;Jeff Reid;29;195;109;NA;NA;NA
+2003;CAN;Ryan Smith;24;189;93;NA;NA;NA
+2003;CAN;Rod Snow;33;180;118;NA;NA;NA
+2003;CAN;Winston Stanley;29;186;85;NA;NA;NA
+2003;CAN;Jon Thiel;28;185;118;NA;NA;NA
+2003;CAN;Adam van Staveren;28;183;100;NA;NA;NA
+2003;CAN;Morgan Williams;27;182;84;NA;NA;NA
+2003;CAN;Nikyta Witkowski;27;178;92;NA;NA;NA
+2003;CAN;Colin Yukes;24;200;115;NA;NA;NA
+2003;TON;Pierre Hola;25;183;103;NA;NA;NA
+2003;TON;Inoke Afeaki;30;197;110;NA;NA;NA
+2003;TON;Benhur Kivalu;31;195;110;NA;NA;NA
+2003;TON;Heamani Lavaka;34;183;115;NA;NA;NA
+2003;TON;John Payne;23;185;99;NA;NA;NA
+2003;TON;Tevita Tu'ifua;28;178;95;NA;NA;NA
+2003;TON;Sateki Tu'ipulotu;31;183;95;NA;NA;NA
+2003;TON;Stanley Afeaki;25;198;101;NA;NA;NA
+2003;TON;Ipolito Fenukitau;31;189;105;NA;NA;NA
+2003;TON;Pila Fifita;28;180;105;NA;NA;NA
+2003;TON;Sione Fonua;23;193;108;NA;NA;NA
+2003;TON;Sukanaivalu Hufanga;21;180;81;NA;NA;NA
+2003;TON;Edward Langi;28;194;113;NA;NA;NA
+2003;TON;Usaia Latu;25;196;106;NA;NA;NA
+2003;TON;Tonga Lea'aetoa;26;188;130;NA;NA;NA
+2003;TON;Gus Leger;29;185;90;NA;NA;NA
+2003;TON;Viliami Ma'asi;28;184;105;NA;NA;NA
+2003;TON;Sililo Martens;26;180;98;NA;NA;NA
+2003;TON;Nisifolo Naufahu;27;193;117;NA;NA;NA
+2003;TON;Johnny Ngauamo;34;185;96;NA;NA;NA
+2003;TON;Milton Ngauamo;27;196;110;NA;NA;NA
+2003;TON;David Palu;22;189;90;NA;NA;NA
+2003;TON;Kisi Pulu;24;175;112;NA;NA;NA
+2003;TON;Ephram Taukafa;27;180;108;NA;NA;NA
+2003;TON;Kafalosi Tonga;28;189;108;NA;NA;NA
+2003;TON;Sione Tu'Amoheloa;24;185;100;NA;NA;NA
+2003;TON;Sila Va'enuku;25;180;85;NA;NA;NA
+2003;TON;Viliami Vaki;27;197;95;NA;NA;NA
+2003;JPN;Toru Kurihara;25;178;80;NA;NA;NA
+2003;JPN;Andrew Miller;31;180;86;NA;NA;NA
+2003;JPN;Daisuke Ohata;28;176;80;NA;NA;NA
+2003;JPN;Keiji Hirose;30;170;75;NA;NA;NA
+2003;JPN;George Konia;34;183;92;NA;NA;NA
+2003;JPN;Hirotoki Onozawa;25;180;82;NA;NA;NA
+2003;JPN;Masao Amino;29;176;100;NA;NA;NA
+2003;JPN;Ryota Asano;24;184;92;NA;NA;NA
+2003;JPN;Shin Hasegawa;31;179;102;NA;NA;NA
+2003;JPN;Takeomi Ito;32;185;90;NA;NA;NA
+2003;JPN;Hajime Kiso;25;196;100;NA;NA;NA
+2003;JPN;Koichi Kubo;27;190;98;NA;NA;NA
+2003;JPN;Tsutomu Matsuda;33;180;86;NA;NA;NA
+2003;JPN;Takuro Miuchi;28;187;105;NA;NA;NA
+2003;JPN;Yukio Motoki;32;176;85;NA;NA;NA
+2003;JPN;Hideki Namba;27;178;84;NA;NA;NA
+2003;JPN;Naoya Okubo;28;188;100;NA;NA;NA
+2003;JPN;Adam Parker;30;194;106;NA;NA;NA
+2003;JPN;Ruben Parkinson;30;183;96;NA;NA;NA
+2003;JPN;Yuya Saito;26;185;95;NA;NA;NA
+2003;JPN;Masaaki Sakata;31;180;95;NA;NA;NA
+2003;JPN;Yuji Sonoda;30;172;73;NA;NA;NA
+2003;JPN;Masahiko Toyoyama;27;178;107;NA;NA;NA
+2003;JPN;Takashi Tsuji;26;167;75;NA;NA;NA
+2003;JPN;Yasunori Watanabe;29;192;106;NA;NA;NA
+2003;JPN;Masahito Yamamoto;25;185;112;NA;NA;NA
+2003;JPN;Ryo Yamamura;22;185;105;NA;NA;NA
+2007;WAL;Gethin Jenkins;27;188;118;NA;NA;NA
+2007;WAL;Sonny Parker;30;188;102;NA;NA;NA
+2007;WAL;Ceri Sweeney;27;181;87;NA;NA;NA
+2007;WAL;Jonathan Thomas;25;195;110;NA;NA;NA
+2007;WAL;Michael Phillips;25;190;103;NA;NA;NA
+2007;WAL;Adam Jones;26;183;127;NA;NA;NA
+2007;WAL;Huw Bennett;24;180;109;NA;NA;NA
+2007;WAL;Thomas Rhys Thomas;25;186;105;NA;NA;NA
+2007;WAL;Alun-Wyn Jones;22;199;119;NA;NA;NA
+2007;WAL;Matthew Rees;27;182;108;NA;NA;NA
+2007;WAL;Chris Horsman;30;190;118;NA;NA;NA
+2007;WAL;Ian Evans;23;203;116;NA;NA;NA
+2007;WAL;James Hook;22;185;90;NA;NA;NA
+2007;WAL;Will James;31;198;120;NA;NA;NA
+2007;WAL;Jamie Robinson;27;187;98;NA;NA;NA
+2007;WAL;Dwayne Peel;26;182;87;NA;NA;NA
+2007;WAL;Tom Shanklin;28;188;100;NA;NA;NA
+2007;WAL;Michael Owen;27;197;115;NA;NA;NA
+2007;WAL;Duncan Jones;29;182;110;NA;NA;NA
+2007;WAL;Gareth Thomas;33;190;101;NA;NA;NA
+2007;WAL;Dafydd James;32;194;101;NA;NA;NA
+2007;WAL;Martyn Williams;32;183;99;NA;NA;NA
+2007;WAL;Colin Charvis;35;194;112;NA;NA;NA
+2007;WAL;Kevin Morgan;30;178;83;NA;NA;NA
+2007;WAL;Ian Gough;31;196;119;NA;NA;NA
+2007;WAL;Stephen Jones;30;183;95;NA;NA;NA
+2007;WAL;Shane Williams;30;170;80;NA;NA;NA
+2007;WAL;Mark Jones;28;186;92;NA;NA;NA
+2007;WAL;Alix Popham;28;191;108;NA;NA;NA
+2007;WAL;Gareth Cooper;28;171;84;NA;NA;NA
+2007;ENG;Lewis Moody;29;195;103;NA;NA;NA
+2007;ENG;Ben Kay;32;198;118;NA;NA;NA
+2007;ENG;Jason Robinson;33;172;85;NA;NA;NA
+2007;ENG;Steve Borthwick;28;198;114;NA;NA;NA
+2007;ENG;Mike Catt;36;181;91;NA;NA;NA
+2007;ENG;Martin Corry;34;196;115;NA;NA;NA
+2007;ENG;Lawrence Dallaglio;35;193;110;NA;NA;NA
+2007;ENG;Jamie Noon;28;180;90;NA;NA;NA
+2007;ENG;Olly Barkley;26;180;92;NA;NA;NA
+2007;ENG;Andy Gomarsall;33;176;86;NA;NA;NA
+2007;ENG;Josh Lewsey;31;179;88;NA;NA;NA
+2007;ENG;Mark Cueto;28;183;96;NA;NA;NA
+2007;ENG;Andrew Sheridan;28;193;122;NA;NA;NA
+2007;ENG;Paul Sackey;28;181;82;NA;NA;NA
+2007;ENG;Peter Richards;29;176;89;NA;NA;NA
+2007;ENG;George Chuter;31;180;102;NA;NA;NA
+2007;ENG;Mark Regan;35;180;101;NA;NA;NA
+2007;ENG;Simon Shaw;34;203;124;NA;NA;NA
+2007;ENG;Phil Vickery;31;190;120;NA;NA;NA
+2007;ENG;Jonny Wilkinson;28;180;88;NA;NA;NA
+2007;ENG;Joe Worsley;30;198;109;NA;NA;NA
+2007;ENG;Matt Stevens;25;187;120;NA;NA;NA
+2007;ENG;Lee Mears;28;179;101;NA;NA;NA
+2007;ENG;Mathew Tait;21;183;90;NA;NA;NA
+2007;ENG;Dan Hipkiss;25;179;92;NA;NA;NA
+2007;ENG;Tom Rees;23;184;98;NA;NA;NA
+2007;ENG;Toby Flood;22;188;91;NA;NA;NA
+2007;ENG;Perry Freshwater;34;183;112;NA;NA;NA
+2007;ENG;Nick Abendanon;21;180;82;NA;NA;NA
+2007;ENG;Shaun Perry;29;180;98;NA;NA;NA
+2007;ENG;Andy Farrell;32;194;110;NA;NA;NA
+2007;ENG;Nick Easter;29;193;115;NA;NA;NA
+2007;SCO;Simon Taylor;28;195;111;NA;NA;NA
+2007;SCO;Chris Paterson;29;180;80;NA;NA;NA
+2007;SCO;Jason White;29;195;106;NA;NA;NA
+2007;SCO;Scott Murray;31;203;118;NA;NA;NA
+2007;SCO;Nikki Walker;25;196;107;NA;NA;NA
+2007;SCO;Nathan Hines;31;201;119;NA;NA;NA
+2007;SCO;Andrew Henderson;27;192;102;NA;NA;NA
+2007;SCO;Mike Blair;26;180;85;NA;NA;NA
+2007;SCO;Craig Smith;29;188;121;NA;NA;NA
+2007;SCO;Allan Jacobsen;29;176;113;NA;NA;NA
+2007;SCO;Marcus Di Rollo;29;184;90;NA;NA;NA
+2007;SCO;Allister Hogg;24;191;104;NA;NA;NA
+2007;SCO;Gavin Kerr;30;188;114;NA;NA;NA
+2007;SCO;Simon Webster;26;184;90;NA;NA;NA
+2007;SCO;Chris Cusiter;25;175;86;NA;NA;NA
+2007;SCO;Dan Parks;29;180;90;NA;NA;NA
+2007;SCO;Scott MacLeod;28;198;110;NA;NA;NA
+2007;SCO;Sean Lamont;26;188;102;NA;NA;NA
+2007;SCO;Hugo Southwell;27;188;97;NA;NA;NA
+2007;SCO;Rory Lawson;26;176;83;NA;NA;NA
+2007;SCO;Ross Ford;23;184;109;NA;NA;NA
+2007;SCO;Kelly Brown;25;193;106;NA;NA;NA
+2007;SCO;David Callam;24;193;108;NA;NA;NA
+2007;SCO;Scott Lawson;26;172;100;NA;NA;NA
+2007;SCO;Rory Lamont;25;188;100;NA;NA;NA
+2007;SCO;John Barclay;21;190;103;NA;NA;NA
+2007;SCO;Euan Murray;27;185;119;NA;NA;NA
+2007;SCO;Rob Dewey;24;189;110;NA;NA;NA
+2007;SCO;Alasdair Dickinson;24;184;108;NA;NA;NA
+2007;SCO;Fergus Thomson;24;183;104;NA;NA;NA
+2007;SCO;Jim Hamilton;25;202;124;NA;NA;NA
+2007;IRE;David Wallace;31;188;107;NA;NA;NA
+2007;IRE;Paul O'Connell;28;198;111;NA;NA;NA
+2007;IRE;Geordan Murphy;29;183;90;NA;NA;NA
+2007;IRE;Marcus Horan;30;188;108;NA;NA;NA
+2007;IRE;Donnacha O'Callaghan;28;198;115;NA;NA;NA
+2007;IRE;Simon Best;29;185;114;NA;NA;NA
+2007;IRE;Paddy Wallace;28;175;86;NA;NA;NA
+2007;IRE;Denis Hickie;31;189;96;NA;NA;NA
+2007;IRE;Gavin Duffy;26;186;92;NA;NA;NA
+2007;IRE;Denis Leamy;26;187;106;NA;NA;NA
+2007;IRE;Andrew Trimble;23;186;97;NA;NA;NA
+2007;IRE;Stephen Ferris;22;192;110;NA;NA;NA
+2007;IRE;Rory Best;25;178;104;NA;NA;NA
+2007;IRE;Neil Best;28;189;105;NA;NA;NA
+2007;IRE;Jerry Flannery;29;180;102;NA;NA;NA
+2007;IRE;Eoin Reddan;27;178;81;NA;NA;NA
+2007;IRE;Girvan Dempsey;32;188;92;NA;NA;NA
+2007;IRE;Shane Horgan;29;196;104;NA;NA;NA
+2007;IRE;Brian O'Driscoll;28;180;94;NA;NA;NA
+2007;IRE;Ronan O'Gara;30;180;85;NA;NA;NA
+2007;IRE;Peter Stringer;30;170;73;NA;NA;NA
+2007;IRE;John Hayes;34;193;127;NA;NA;NA
+2007;IRE;Malcolm O'Kelly;33;204;119;NA;NA;NA
+2007;IRE;Simon Easterby;32;193;100;NA;NA;NA
+2007;IRE;Frankie Sheahan;31;180;105;NA;NA;NA
+2007;IRE;Bryan Young;26;184;114;NA;NA;NA
+2007;IRE;Isaac Boss;27;177;86;NA;NA;NA
+2007;IRE;Brian Carney;31;180;90;NA;NA;NA
+2007;IRE;Tony Buckley;27;195;135;NA;NA;NA
+2007;IRE;Gordon D'Arcy;27;178;88;NA;NA;NA
+2007;IRE;Alan Quinlan;33;191;106;NA;NA;NA
+2007;NZL;Greg Somerville;30;187;115;NA;NA;NA
+2007;NZL;Chris Jack;29;202;115;NA;NA;NA
+2007;NZL;Richie McCaw;27;187;106;NA;NA;NA
+2007;NZL;Leon MacDonald;30;181;96;NA;NA;NA
+2007;NZL;Doug Howlett;29;185;89;NA;NA;NA
+2007;NZL;Aaron Mauger;27;183;92;NA;NA;NA
+2007;NZL;Andrew Hore;29;183;110;NA;NA;NA
+2007;NZL;Keith Robinson;31;198;115;NA;NA;NA
+2007;NZL;Ali Williams;26;202;112;NA;NA;NA
+2007;NZL;Keven Mealamu;28;181;106;NA;NA;NA
+2007;NZL;Carl Hayman;28;193;120;NA;NA;NA
+2007;NZL;Rodney So'oialo;28;190;107;NA;NA;NA
+2007;NZL;Jerry Collins;27;190;109;NA;NA;NA
+2007;NZL;Tony Woodcock;26;184;118;NA;NA;NA
+2007;NZL;Joe Rokocoko;24;189;98;NA;NA;NA
+2007;NZL;Dan Carter;25;178;91;NA;NA;NA
+2007;NZL;Mils Muliaina;27;184;92;NA;NA;NA
+2007;NZL;Nick Evans;27;178;84;NA;NA;NA
+2007;NZL;Sione Lauaki;26;192;119;NA;NA;NA
+2007;NZL;Sitiveni Sivivatu;25;185;97;NA;NA;NA
+2007;NZL;Luke McAlister;24;180;95;NA;NA;NA
+2007;NZL;Conrad Smith;26;186;95;NA;NA;NA
+2007;NZL;Isaia Toeava;21;181;96;NA;NA;NA
+2007;NZL;Andrew Ellis;23;181;89;NA;NA;NA
+2007;NZL;Neemia Tialata;25;187;127;NA;NA;NA
+2007;NZL;Chris Masoe;28;183;106;NA;NA;NA
+2007;NZL;Anton Oliver;32;184;111;NA;NA;NA
+2007;NZL;Brendon Leonard;22;182;91;NA;NA;NA
+2007;NZL;Reuben Thorne;32;192;107;NA;NA;NA
+2007;NZL;Byron Kelleher;31;175;94;NA;NA;NA
+2007;AUS;Phil Waugh;28;175;100;NA;NA;NA
+2007;AUS;George Smith;27;180;103;NA;NA;NA
+2007;AUS;Stirling Mortlock;30;191;100;NA;NA;NA
+2007;AUS;David Lyons;27;192;117;NA;NA;NA
+2007;AUS;Sean Hardman;30;183;102;NA;NA;NA
+2007;AUS;Nathan Sharpe;29;200;115;NA;NA;NA
+2007;AUS;Daniel Vickerman;28;204;115;NA;NA;NA
+2007;AUS;Sam Cordingley;31;178;87;NA;NA;NA
+2007;AUS;Adam Freier;27;175;101;NA;NA;NA
+2007;AUS;Matt Giteau;25;178;85;NA;NA;NA
+2007;AUS;Morgan Turinui;25;181;101;NA;NA;NA
+2007;AUS;Lote Tuqiri;28;191;103;NA;NA;NA
+2007;AUS;Matt Dunning;29;182;119;NA;NA;NA
+2007;AUS;Mark Gerrard;25;192;99;NA;NA;NA
+2007;AUS;Rocky Elsom;24;197;112;NA;NA;NA
+2007;AUS;Al Baxter;30;190;116;NA;NA;NA
+2007;AUS;Julian Huxley;28;186;91;NA;NA;NA
+2007;AUS;Drew Mitchell;23;180;85;NA;NA;NA
+2007;AUS;Mark Chisholm;26;197;112;NA;NA;NA
+2007;AUS;Stephen Hoiles;26;190;98;NA;NA;NA
+2007;AUS;Adam Ashley-Cooper;23;182;98;NA;NA;NA
+2007;AUS;Cameron Shepherd;23;189;97;NA;NA;NA
+2007;AUS;Stephen Moore;24;186;112;NA;NA;NA
+2007;AUS;Hugh McMeniman;24;200;114;NA;NA;NA
+2007;AUS;Greg Holmes;24;183;116;NA;NA;NA
+2007;AUS;Wycliff Palu;25;194;120;NA;NA;NA
+2007;AUS;Guy Shepherdson;25;186;117;NA;NA;NA
+2007;AUS;Stephen Larkham;33;189;88;NA;NA;NA
+2007;AUS;Berrick Barnes;21;183;87;NA;NA;NA
+2007;AUS;George Gregan;34;173;78;NA;NA;NA
+2007;AUS;Chris Latham;32;192;100;NA;NA;NA
+2007;AUS;Scott Staniforth;30;188;99;NA;NA;NA
+2007;RSA;Butch James;28;186;97;NA;NA;NA
+2007;RSA;Andre Pretorius;29;176;90;NA;NA;NA
+2007;RSA;Victor Matfield;30;201;110;NA;NA;NA
+2007;RSA;Jean de Villiers;26;190;100;NA;NA;NA
+2007;RSA;Bakkies Botha;28;202;118;NA;NA;NA
+2007;RSA;CJ van der Linde;27;190;122;NA;NA;NA
+2007;RSA;Ashwin Willemse;26;187;91;NA;NA;NA
+2007;RSA;Juan Smith;26;194;106;NA;NA;NA
+2007;RSA;Wickus van Heerden;28;195;104;NA;NA;NA
+2007;RSA;Enrico Januarie;25;170;80;NA;NA;NA
+2007;RSA;Schalk Burger;24;193;110;NA;NA;NA
+2007;RSA;Danie Rossouw;29;197;118;NA;NA;NA
+2007;RSA;Jaque Fourie;24;188;96;NA;NA;NA
+2007;RSA;Fourie du Preez;25;183;88;NA;NA;NA
+2007;RSA;Bryan Habana;24;179;92;NA;NA;NA
+2007;RSA;Gurthro Steenkamp;26;189;124;NA;NA;NA
+2007;RSA;Percy Montgomery;33;183;88;NA;NA;NA
+2007;RSA;John Smit;29;186;116;NA;NA;NA
+2007;RSA;Albert van den Berg;33;202;110;NA;NA;NA
+2007;RSA;Bobby Skinstad;31;193;105;NA;NA;NA
+2007;RSA;Bismarck du Plessis;23;189;105;NA;NA;NA
+2007;RSA;Ruan Pienaar;23;186;85;NA;NA;NA
+2007;RSA;Gary Botha;26;181;106;NA;NA;NA
+2007;RSA;Francois Steyn;20;191;100;NA;NA;NA
+2007;RSA;JP Pietersen;21;191;85;NA;NA;NA
+2007;RSA;Wynand Olivier;24;184;87;NA;NA;NA
+2007;RSA;Johannes Muller;27;200;106;NA;NA;NA
+2007;RSA;Akona Ndungane;26;183;86;NA;NA;NA
+2007;RSA;BJ Botha;27;182;118;NA;NA;NA
+2007;RSA;Jannie du Plessis;25;188;119;NA;NA;NA
+2007;RSA;Os du Randt;35;190;125;NA;NA;NA
+2007;RSA;Wayne Julies;29;186;93;NA;NA;NA
+2007;ARG;Rimas Álvarez Kairelis;33;197;106;NA;NA;NA
+2007;ARG;Patricio Albacete;26;200;115;NA;NA;NA
+2007;ARG;Juan Martín Hernández;25;187;90;NA;NA;NA
+2007;ARG;Hernán Senillosa;30;179;90;NA;NA;NA
+2007;ARG;Rodrigo Roncero;30;177;110;NA;NA;NA
+2007;ARG;Martín Schusterman;32;189;101;NA;NA;NA
+2007;ARG;Lucas Borges;27;177;80;NA;NA;NA
+2007;ARG;Federico Serra Miras;28;188;83;NA;NA;NA
+2007;ARG;Santiago Gonzalez Bonorino;32;190;116;NA;NA;NA
+2007;ARG;Eusebio Guiñazu;25;181;117;NA;NA;NA
+2007;ARG;Federico Martin Aramburu;27;182;87;NA;NA;NA
+2007;ARG;Gonzalo Tiesi;22;184;92;NA;NA;NA
+2007;ARG;Marcos Ayerza;24;186;112;NA;NA;NA
+2007;ARG;Alberto Vernet Basualdo;25;180;109;NA;NA;NA
+2007;ARG;Felipe Contepomi;30;180;91;NA;NA;NA
+2007;ARG;Manuel Contepomi;30;189;96;NA;NA;NA
+2007;ARG;Ignacio Corleto;29;185;90;NA;NA;NA
+2007;ARG;Martín Durand;31;182;96;NA;NA;NA
+2007;ARG;Carlos Ignacio Fernandez Lobbe;33;194;114;NA;NA;NA
+2007;ARG;Nicolás Fernandez Miranda;35;179;90;NA;NA;NA
+2007;ARG;Mario Ledesma Arocena;34;183;106;NA;NA;NA
+2007;ARG;Agustín Pichot;33;175;78;NA;NA;NA
+2007;ARG;Juan Martín Scelzo;31;190;125;NA;NA;NA
+2007;ARG;Juan Martín Fernandez Lobbe;26;191;105;NA;NA;NA
+2007;ARG;Juan Manuel Leguizamón;24;190;105;NA;NA;NA
+2007;ARG;Horacio Agulla;23;182;88;NA;NA;NA
+2007;ARG;Esteban Lozada;25;194;106;NA;NA;NA
+2007;ARG;Omar Hasan Jalil;36;183;115;NA;NA;NA
+2007;ARG;Lucas Ostiglia;31;191;99;NA;NA;NA
+2007;ARG;Gonzalo Longo Elía;33;193;105;NA;NA;NA
+2007;ARG;Federico Todeschini;32;185;85;NA;NA;NA
+2007;ITA;Mirco Bergamasco;24;180;92;NA;NA;NA
+2007;ITA;Ramiro Pez;29;178;87;NA;NA;NA
+2007;ITA;Marco Bortolami;27;196;111;NA;NA;NA
+2007;ITA;Santiago Dellapè;29;200;116;NA;NA;NA
+2007;ITA;Sergio Parisse;24;196;110;NA;NA;NA
+2007;ITA;Fabio Ongaro;30;183;104;NA;NA;NA
+2007;ITA;Martin Castrogiovanni;26;188;117;NA;NA;NA
+2007;ITA;Ezio Galon;30;186;91;NA;NA;NA
+2007;ITA;Carlo Festuccia;27;182;105;NA;NA;NA
+2007;ITA;Andrea Masi;26;183;97;NA;NA;NA
+2007;ITA;Gonzalo Canale;25;180;95;NA;NA;NA
+2007;ITA;Silvio Orlando;26;189;94;NA;NA;NA
+2007;ITA;Paul Griffen;32;177;83;NA;NA;NA
+2007;ITA;Roland de Marigny;32;180;85;NA;NA;NA
+2007;ITA;Roberto Mandelli;28;193;102;NA;NA;NA
+2007;ITA;Carlo Del Fava;26;198;110;NA;NA;NA
+2007;ITA;Kaine Robertson;27;178;76;NA;NA;NA
+2007;ITA;Mauro Bergamasco;28;183;98;NA;NA;NA
+2007;ITA;Andrea Lo Cicero;31;185;113;NA;NA;NA
+2007;ITA;Salvatore Perugini;29;180;111;NA;NA;NA
+2007;ITA;Matteo Pratichetti;22;190;100;NA;NA;NA
+2007;ITA;Valerio Bernabò;23;198;113;NA;NA;NA
+2007;ITA;Leonardo Ghiraldini;23;184;99;NA;NA;NA
+2007;ITA;Alessandro Zanni;23;193;99;NA;NA;NA
+2007;ITA;Pablo Canavosio;26;175;85;NA;NA;NA
+2007;ITA;Alessandro Troncon;34;178;85;NA;NA;NA
+2007;ITA;Josh Sole;27;196;110;NA;NA;NA
+2007;ITA;Matias Aguero;26;185;111;NA;NA;NA
+2007;ITA;David Bortolussi;26;188;91;NA;NA;NA
+2007;ITA;Marko Stanojevic;28;180;82;NA;NA;NA
+2007;ITA;Manoa Vosawai;24;188;112;NA;NA;NA
+2007;FRA;Aurélien Rougerie;27;194;104;NA;NA;NA
+2007;FRA;Damien Traille;28;194;104;NA;NA;NA
+2007;FRA;Imanol Harinordoquy;27;192;108;NA;NA;NA
+2007;FRA;Olivier Milloud;32;185;109;NA;NA;NA
+2007;FRA;Sébastien Bruno;33;174;106;NA;NA;NA
+2007;FRA;Rémy Martin;28;195;107;NA;NA;NA
+2007;FRA;Sébastien Chabal;30;192;114;NA;NA;NA
+2007;FRA;Frédéric Michalak;25;180;80;NA;NA;NA
+2007;FRA;Cédric Heymans;29;180;96;NA;NA;NA
+2007;FRA;Yannick Jauzion;29;193;106;NA;NA;NA
+2007;FRA;Jean-Baptiste Poux;28;180;105;NA;NA;NA
+2007;FRA;Clément Poitrenaud;25;188;91;NA;NA;NA
+2007;FRA;Vincent Clerc;26;178;88;NA;NA;NA
+2007;FRA;David Skrela;28;190;93;NA;NA;NA
+2007;FRA;Jean-Baptiste Elissalde;30;172;78;NA;NA;NA
+2007;FRA;Jérôme Thion;30;199;120;NA;NA;NA
+2007;FRA;Nicolas Mas;27;180;110;NA;NA;NA
+2007;FRA;Raphaël Ibanez;34;180;100;NA;NA;NA
+2007;FRA;Julien Bonnaire;29;192;99;NA;NA;NA
+2007;FRA;Yannick Nyanga;24;187;94;NA;NA;NA
+2007;FRA;Dimitri Szarzewski;24;180;100;NA;NA;NA
+2007;FRA;Christophe Dominici;35;172;83;NA;NA;NA
+2007;FRA;Fabien Pelous;34;198;108;NA;NA;NA
+2007;FRA;Pieter de Villiers;35;184;107;NA;NA;NA
+2007;FRA;Lionel Nallet;31;195;116;NA;NA;NA
+2007;FRA;Serge Betsen;33;182;98;NA;NA;NA
+2007;FRA;Pierre Mignoni;30;169;72;NA;NA;NA
+2007;FRA;David Marty;25;180;90;NA;NA;NA
+2007;FRA;Lionel Beauxis;22;180;89;NA;NA;NA
+2007;FRA;Thierry Dusautoir;26;188;95;NA;NA;NA
+2007;POR;Federico Sousa;29;177;83;NA;NA;NA
+2007;POR;David Mateus;27;185;95;NA;NA;NA
+2007;POR;Gonçalo Malheiro;29;173;83;NA;NA;NA
+2007;POR;João Uva;27;182;90;NA;NA;NA
+2007;POR;Rui Cordeiro;31;184;138;NA;NA;NA
+2007;POR;Diogo Mateus;27;172;88;NA;NA;NA
+2007;POR;Vasco Uva;25;187;98;NA;NA;NA
+2007;POR;Pedro Leal;23;169;73;NA;NA;NA
+2007;POR;Duarte Cardoso Pinto;25;173;83;NA;NA;NA
+2007;POR;José Pinto;26;175;83;NA;NA;NA
+2007;POR;David Penalva;26;191;100;NA;NA;NA
+2007;POR;João Correia;28;173;100;NA;NA;NA
+2007;POR;Diogo Coutinho;30;188;99;NA;NA;NA
+2007;POR;Miguel Portela;33;186;85;NA;NA;NA
+2007;POR;Gonçalo Uva;23;200;107;NA;NA;NA
+2007;POR;Pedro Carvalho;23;185;87;NA;NA;NA
+2007;POR;Juan Manuel Muré;24;188;100;NA;NA;NA
+2007;POR;Tiago Girão;23;187;94;NA;NA;NA
+2007;POR;Salvador Palha;23;185;90;NA;NA;NA
+2007;POR;Diogo Gama;26;181;90;NA;NA;NA
+2007;POR;Duarte Figueiredo;25;172;88;NA;NA;NA
+2007;POR;Juan Severino Somoza;26;185;113;NA;NA;NA
+2007;POR;Ruben Spachuck;26;181;105;NA;NA;NA
+2007;POR;Pedro Cabral;24;179;72;NA;NA;NA
+2007;POR;Gonçalo Foro;25;196;95;NA;NA;NA
+2007;POR;Andre Silva;32;174;102;NA;NA;NA
+2007;POR;Paulo Murinello;33;173;83;NA;NA;NA
+2007;POR;António Aguilar;29;192;96;NA;NA;NA
+2007;POR;Marcello d'Orey;31;196;127;NA;NA;NA
+2007;POR;Joaquim Ferreira;34;175;100;NA;NA;NA
+2007;POR;Luis Pissarra;32;171;73;NA;NA;NA
+2007;WSM;Tanielu Fuga;34;182;101;NA;NA;NA
+2007;WSM;Kas Lealamanua;31;184;98;NA;NA;NA
+2007;WSM;Elvis Seveali'I;29;180;96;NA;NA;NA
+2007;WSM;Leo Lafaiali'I;33;195;110;NA;NA;NA
+2007;WSM;Alesana Tuilagi;26;185;111;NA;NA;NA
+2007;WSM;Henry Tuilagi;31;185;126;NA;NA;NA
+2007;WSM;Lome Fa'atau;32;184;93;NA;NA;NA
+2007;WSM;Sailosi Tagicakibau;25;193;97;NA;NA;NA
+2007;WSM;Loki Crichton;31;180;90;NA;NA;NA
+2007;WSM;Ulia Ulia;27;183;102;NA;NA;NA
+2007;WSM;David Lemi;25;168;80;NA;NA;NA
+2007;WSM;Lolo Lui;25;185;90;NA;NA;NA
+2007;WSM;Seilala Mapusua;27;180;102;NA;NA;NA
+2007;WSM;Steve So'oialo;30;177;85;NA;NA;NA
+2007;WSM;Alfie Vaeluaga;27;186;115;NA;NA;NA
+2007;WSM;Mahonri Schwalger;29;180;106;NA;NA;NA
+2007;WSM;Anitele'a Tuilagi;21;186;110;NA;NA;NA
+2007;WSM;Daniel Leo;25;198;112;NA;NA;NA
+2007;WSM;Census Johnston;26;191;135;NA;NA;NA
+2007;WSM;Justin Va'a;29;182;124;NA;NA;NA
+2007;WSM;Muliufi Salanoa;27;178;105;NA;NA;NA
+2007;WSM;Eliota Fuimaono-Sapolu;27;183;103;NA;NA;NA
+2007;WSM;Naama Leleimalefaga;20;178;121;NA;NA;NA
+2007;WSM;Junior Polu;26;183;92;NA;NA;NA
+2007;WSM;Fosi Palaamo;31;189;120;NA;NA;NA
+2007;WSM;Kane Thompson;25;198;112;NA;NA;NA
+2007;WSM;Justin Purdie;27;194;107;NA;NA;NA
+2007;WSM;Gavin Williams;28;187;98;NA;NA;NA
+2007;WSM;Joe Tekori;24;192;123;NA;NA;NA
+2007;WSM;Silao Vaisola Sefo;28;189;108;NA;NA;NA
+2007;WSM;Jerry Meafou;25;179;93;NA;NA;NA
+2007;WSM;Brian Lima;35;186;95;NA;NA;NA
+2007;WSM;Semo Sititi;33;188;105;NA;NA;NA
+2007;FIJ;Vilimoni Delasau;30;190;102;NA;NA;NA
+2007;FIJ;Sisa Koyamaibole;26;192;120;NA;NA;NA
+2007;FIJ;Norman Ligairi;31;184;95;NA;NA;NA
+2007;FIJ;Seru Rabeni;29;187;105;NA;NA;NA
+2007;FIJ;Ifereimi Rawaqa;27;197;119;NA;NA;NA
+2007;FIJ;Seremaia Bai;32;182;105;NA;NA;NA
+2007;FIJ;Bill Gadolo;30;178;111;NA;NA;NA
+2007;FIJ;Kele Leawere;33;193;120;NA;NA;NA
+2007;FIJ;Henry Qiodravu;30;181;116;NA;NA;NA
+2007;FIJ;Isoa Domolailai;26;205;118;NA;NA;NA
+2007;FIJ;Sireli Bobo;31;190;99;NA;NA;NA
+2007;FIJ;Kameli Ratuvou;25;178;94;NA;NA;NA
+2007;FIJ;Sunia Koto;27;174;110;NA;NA;NA
+2007;FIJ;Jone Qovu;22;195;120;NA;NA;NA
+2007;FIJ;Maleli Kunavore;24;187;110;NA;NA;NA
+2007;FIJ;Jone Railomo;26;187;120;NA;NA;NA
+2007;FIJ;Akapusi Qera;23;187;107;NA;NA;NA
+2007;FIJ;Aca Ratuva;29;186;102;NA;NA;NA
+2007;FIJ;Waisea Luveniyali;22;172;83;NA;NA;NA
+2007;FIJ;Gabiriele Lovobalavu;22;176;95;NA;NA;NA
+2007;FIJ;Netani Talei;24;189;110;NA;NA;NA
+2007;FIJ;Jone Daunivucu;30;180;90;NA;NA;NA
+2007;FIJ;Vereniki Sauturaga;25;179;98;NA;NA;NA
+2007;FIJ;Wame Lewaravu;25;195;109;NA;NA;NA
+2007;FIJ;Alefoso Yalayalatabua;30;180;106;NA;NA;NA
+2007;FIJ;Graham Dewes;25;179;107;NA;NA;NA
+2007;FIJ;Filimone Bolavucu;26;172;90;NA;NA;NA
+2007;FIJ;Isoa Neivua;29;174;97;NA;NA;NA
+2007;FIJ;Semisi Naevo;32;197;115;NA;NA;NA
+2007;FIJ;Mosese Rauluni;32;175;94;NA;NA;NA
+2007;FIJ;Nicky Little;31;183;102;NA;NA;NA
+2007;TON;Viliami Vaki;31;194;95;NA;NA;NA
+2007;TON;Taufa'ao Filise;30;190;120;NA;NA;NA
+2007;TON;Aisea Havili;30;178;91;NA;NA;NA
+2007;TON;Ephraim Taukafa;31;178;108;NA;NA;NA
+2007;TON;Tevita Tu'ifua;32;182;93;NA;NA;NA
+2007;TON;Kisi Pulu;29;178;112;NA;NA;NA
+2007;TON;'Emosi Kauhenga;26;198;120;NA;NA;NA
+2007;TON;Seti Kiole;27;192;102;NA;NA;NA
+2007;TON;Finau Maka;30;190;110;NA;NA;NA
+2007;TON;Sukanaivalu Hufanga;25;182;89;NA;NA;NA
+2007;TON;Soane Havea;26;170;93;NA;NA;NA
+2007;TON;Lisiate Fa'aoso;24;197;113;NA;NA;NA
+2007;TON;Soane Tonga'uiha;25;192;130;NA;NA;NA
+2007;TON;Hudson Tonga'uiha;24;190;90;NA;NA;NA
+2007;TON;Paino Hehea;28;197;114;NA;NA;NA
+2007;TON;Lotu Filipine;27;189;103;NA;NA;NA
+2007;TON;Nili Latu;25;185;100;NA;NA;NA
+2007;TON;Hale T Pole;28;192;102;NA;NA;NA
+2007;TON;Toma Toke;22;181;108;NA;NA;NA
+2007;TON;Vungakoto Lilo;24;193;98;NA;NA;NA
+2007;TON;Enele Taufa;23;175;91;NA;NA;NA
+2007;TON;Ualosi Kailea;29;181;97;NA;NA;NA
+2007;TON;Sateki Mata'u;28;184;110;NA;NA;NA
+2007;TON;Isileli Tupou;23;182;96;NA;NA;NA
+2007;TON;Joseph Vaka;27;185;115;NA;NA;NA
+2007;TON;Maama Molitika;31;194;116;NA;NA;NA
+2007;TON;Sione Tu'ipulotu;29;186;98;NA;NA;NA
+2007;TON;Epeli Taione;28;193;120;NA;NA;NA
+2007;TON;Inoke Afeaki;34;197;115;NA;NA;NA
+2007;TON;Pierre Hola;29;183;110;NA;NA;NA
+2007;TON;Aleki Lutui;29;178;108;NA;NA;NA
+2007;JPN;Masahito Yamamoto;29;185;111;NA;NA;NA
+2007;JPN;Ryota Asano;28;184;100;NA;NA;NA
+2007;JPN;Bryce Robins;27;183;86;NA;NA;NA
+2007;JPN;Yuji Matsubara;28;180;100;NA;NA;NA
+2007;JPN;Hitoshi Ono;29;191;105;NA;NA;NA
+2007;JPN;Takanori Kumagae;29;194;104;NA;NA;NA
+2007;JPN;Kosuke Endo;27;186;85;NA;NA;NA
+2007;JPN;Tatsukichi Nishiura;31;176;110;NA;NA;NA
+2007;JPN;Hare Makiri;29;190;103;NA;NA;NA
+2007;JPN;Christian Loamanu;21;188;108;NA;NA;NA
+2007;JPN;Tomokazu Soma;30;183;122;NA;NA;NA
+2007;JPN;Yuta Imamura;23;178;90;NA;NA;NA
+2007;JPN;Yuki Yatomi;22;176;83;NA;NA;NA
+2007;JPN;Philip O'Reilly;27;190;100;NA;NA;NA
+2007;JPN;Luke Thompson;26;194;107;NA;NA;NA
+2007;JPN;Takamichi Sasaki;24;184;98;NA;NA;NA
+2007;JPN;Tomoki Kitagawa;24;175;80;NA;NA;NA
+2007;JPN;Go Aruga;24;175;85;NA;NA;NA
+2007;JPN;Taku Inokuchi;25;176;100;NA;NA;NA
+2007;JPN;Tomoki Yoshida;25;171;78;NA;NA;NA
+2007;JPN;Koji Taira;24;185;93;NA;NA;NA
+2007;JPN;Kosei Ono;20;170;87;NA;NA;NA
+2007;JPN;Chulwon;23;171;73;NA;NA;NA
+2007;JPN;Tatsuya Kusumi;26;180;85;NA;NA;NA
+2007;JPN;Yasunori Watanabe;33;192;104;NA;NA;NA
+2007;JPN;Hajime Kiso;29;195;105;NA;NA;NA
+2007;JPN;Nataniela Oto;29;173;95;NA;NA;NA
+2007;JPN;Shotaro Onishi;29;180;80;NA;NA;NA
+2007;JPN;Hirotoki Onozawa;29;180;85;NA;NA;NA
+2007;JPN;Luatangi Samurai Vatuvei;30;190;120;NA;NA;NA
+2007;JPN;Ryo Yamamura;26;185;114;NA;NA;NA
+2007;JPN;Takuro Miuchi;32;188;107;NA;NA;NA
+2007;CAN;Jamie Cudmore;29;198;116;NA;NA;NA
+2007;CAN;Ed Fairhurst;28;183;93;NA;NA;NA
+2007;CAN;Colin Yukes;28;201;115;NA;NA;NA
+2007;CAN;Pat Riordan;28;185;106;NA;NA;NA
+2007;CAN;Ryan Smith;28;191;93;NA;NA;NA
+2007;CAN;James Pritchard;28;175;85;NA;NA;NA
+2007;CAN;Josh Jackson;27;198;112;NA;NA;NA
+2007;CAN;Mike Webb;28;185;100;NA;NA;NA
+2007;CAN;Dan Pletch;24;180;109;NA;NA;NA
+2007;CAN;Mike Burak;27;201;107;NA;NA;NA
+2007;CAN;Matt Weingart;25;179;81;NA;NA;NA
+2007;CAN;Mike Pyke;23;196;104;NA;NA;NA
+2007;CAN;Derek Daypuck;29;183;93;NA;NA;NA
+2007;CAN;Justin Mensah-Coker;24;195;106;NA;NA;NA
+2007;CAN;Dave Biddle;22;180;102;NA;NA;NA
+2007;CAN;Adam Kleeberger;23;195;95;NA;NA;NA
+2007;CAN;Dave Spicer;22;182;91;NA;NA;NA
+2007;CAN;Luke Tait;26;199;105;NA;NA;NA
+2007;CAN;Aaron Carpenter;24;183;104;NA;NA;NA
+2007;CAN;Nick Trenkel;20;180;94;NA;NA;NA
+2007;CAN;Craig Culpan;25;180;95;NA;NA;NA
+2007;CAN;Ander Monro;26;178;88;NA;NA;NA
+2007;CAN;Mike Pletch;24;180;111;NA;NA;NA
+2007;CAN;Sean-Michael Stephen;25;196;108;NA;NA;NA
+2007;CAN;Dth van der Merwe;21;182;89;NA;NA;NA
+2007;CAN;Nathan Hirayama;19;180;98;NA;NA;NA
+2007;CAN;Scott Franklin;27;180;114;NA;NA;NA
+2007;CAN;Mike James;34;198;110;NA;NA;NA
+2007;CAN;Rod Snow;37;189;114;NA;NA;NA
+2007;CAN;Morgan Williams;31;183;84;NA;NA;NA
+2007;CAN;Jon Thiel;32;190;112;NA;NA;NA
+2007;USA;Mike Hercus;28;176;84;NA;NA;NA
+2007;USA;Mike MacDonald;27;182;127;NA;NA;NA
+2007;USA;Paul Emerick;27;182;94;NA;NA;NA
+2007;USA;Chris Osentowski;32;180;118;NA;NA;NA
+2007;USA;Salesi Sika;27;190;113;NA;NA;NA
+2007;USA;Albert Tuipulotu;28;185;102;NA;NA;NA
+2007;USA;Todd Clever;24;190;97;NA;NA;NA
+2007;USA;Mike Mangan;32;195;115;NA;NA;NA
+2007;USA;Louis Stanfill;22;192;110;NA;NA;NA
+2007;USA;Vahafolau Esikia;28;180;93;NA;NA;NA
+2007;USA;Owen Lentz;27;175;101;NA;NA;NA
+2007;USA;Mark Aylor;29;194;112;NA;NA;NA
+2007;USA;Hayden Mexted;28;193;109;NA;NA;NA
+2007;USA;John Vitale;26;186;113;NA;NA;NA
+2007;USA;Chad Erskine;27;177;88;NA;NA;NA
+2007;USA;Blake Burdette;27;185;112;NA;NA;NA
+2007;USA;Valenese Malifa;22;175;75;NA;NA;NA
+2007;USA;Chris Wyles;24;182;93;NA;NA;NA
+2007;USA;Fifita Mounga;34;177;107;NA;NA;NA
+2007;USA;Andrew Osborne;26;172;86;NA;NA;NA
+2007;USA;Inaki Basauri;23;198;105;NA;NA;NA
+2007;USA;Dan Payne;35;182;104;NA;NA;NA
+2007;USA;Takudzwa Ngwenya;22;177;85;NA;NA;NA
+2007;USA;Thretton Palamo;19;190;102;NA;NA;NA
+2007;USA;Mike Petri;23;177;87;NA;NA;NA
+2007;USA;John Vandergeissen;25;195;107;NA;NA;NA
+2007;USA;Matekitonga Moeakiola;29;182;118;NA;NA;NA
+2007;USA;Henry Bloomfield;34;190;128;NA;NA;NA
+2007;USA;Luke Gross;38;203;117;NA;NA;NA
+2007;USA;Alec Parker;33;195;102;NA;NA;NA
+2007;USA;Philip Eloff;29;180;94;NA;NA;NA
+2007;ROU;Alexandru Manta;30;190;105;NA;NA;NA
+2007;ROU;Cezar Popescu;31;188;120;NA;NA;NA
+2007;ROU;Ioan Teodorescu;31;175;80;NA;NA;NA
+2007;ROU;Petrisor Toderasc;27;185;113;NA;NA;NA
+2007;ROU;Dan Dumbrava;26;187;97;NA;NA;NA
+2007;ROU;Sorin Socol;30;196;115;NA;NA;NA
+2007;ROU;Silviu Florea;30;182;106;NA;NA;NA
+2007;ROU;Cristian Petre;28;196;115;NA;NA;NA
+2007;ROU;Augustin Petrichei;27;198;108;NA;NA;NA
+2007;ROU;Bogdan Balan;27;183;115;NA;NA;NA
+2007;ROU;Iulian Dumitras;25;188;106;NA;NA;NA
+2007;ROU;Cosmin Ratiu;28;197;110;NA;NA;NA
+2007;ROU;Catalin Nicolae;27;184;85;NA;NA;NA
+2007;ROU;Alexandru Tudori;29;195;105;NA;NA;NA
+2007;ROU;Paulica Ion;24;183;120;NA;NA;NA
+2007;ROU;Ionut Dimofte;23;186;99;NA;NA;NA
+2007;ROU;Valentin Calafeteanu;22;181;78;NA;NA;NA
+2007;ROU;Valentin Ursache;22;194;125;NA;NA;NA
+2007;ROU;Dan Vlad;24;185;103;NA;NA;NA
+2007;ROU;Catalin Fercu;21;183;85;NA;NA;NA
+2007;ROU;Csaba Gal;22;184;94;NA;NA;NA
+2007;ROU;Stefan Ciuntu;21;182;85;NA;NA;NA
+2007;ROU;Florin Vlaicu;21;186;100;NA;NA;NA
+2007;ROU;Catalin Dascalu;23;184;97;NA;NA;NA
+2007;ROU;Romeo Gontineac;34;174;90;NA;NA;NA
+2007;ROU;Gabriel Brezoianu;30;175;88;NA;NA;NA
+2007;ROU;Ionut Tofan;30;178;77;NA;NA;NA
+2007;ROU;Lucian Sirbu;31;183;94;NA;NA;NA
+2007;ROU;Florin Corodeanu;30;187;104;NA;NA;NA
+2007;ROU;Marius Tincu;29;181;114;NA;NA;NA
+2007;ROU;Ovidiu Tonita;27;195;105;NA;NA;NA
+2007;ROU;Razvan Mavrodin;34;178;102;NA;NA;NA
+2007;ROU;Petru Balan;31;185;116;NA;NA;NA
+2007;NAM;Corne Powell;33;192;95;NA;NA;NA
+2007;NAM;Domingo Kamonga;33;187;101;NA;NA;NA
+2007;NAM;Du Preez Grobler;30;183;93;NA;NA;NA
+2007;NAM;Morne Schreuder;28;183;84;NA;NA;NA
+2007;NAM;Kees Lensing;29;190;125;NA;NA;NA
+2007;NAM;Emile Wessels;28;180;85;NA;NA;NA
+2007;NAM;Melrick Africa;29;180;89;NA;NA;NA
+2007;NAM;Johannes Meyer;26;190;125;NA;NA;NA
+2007;NAM;Jane du Toit;32;186;118;NA;NA;NA
+2007;NAM;Jacques Burger;24;188;100;NA;NA;NA
+2007;NAM;Jurie van Tonder;27;182;75;NA;NA;NA
+2007;NAM;Eugene Jantjies;21;180;84;NA;NA;NA
+2007;NAM;Tertius Losper;22;185;90;NA;NA;NA
+2007;NAM;Ryan Witbooi;22;191;87;NA;NA;NA
+2007;NAM;Heini Bock;26;161;75;NA;NA;NA
+2007;NAM;Michael MacKenzie;24;185;95;NA;NA;NA
+2007;NAM;Johnny Redelinghuys;23;178;114;NA;NA;NA
+2007;NAM;Wacca Kazombiaze;28;198;102;NA;NA;NA
+2007;NAM;Nico Esterhuize;23;205;103;NA;NA;NA
+2007;NAM;Tinus du Plessis;23;190;100;NA;NA;NA
+2007;NAM;Lu-Wayne Botes;24;189;89;NA;NA;NA
+2007;NAM;John Drotsky;23;178;83;NA;NA;NA
+2007;NAM;Jacques Nieuwenhuis;27;178;96;NA;NA;NA
+2007;NAM;Marius Visser;25;190;140;NA;NA;NA
+2007;NAM;Piet van Zyl;28;181;95;NA;NA;NA
+2007;NAM;Bratley Langenhoven;24;191;89;NA;NA;NA
+2007;NAM;Deon Mouton;33;184;96;NA;NA;NA
+2007;NAM;Herman Lindvelt;31;193;104;NA;NA;NA
+2007;NAM;Heino Senekal;32;198;118;NA;NA;NA
+2007;NAM;Hugo Horn;30;180;106;NA;NA;NA
+2007;GEO;Victor Didebulidze;37;192;112;NA;NA;NA
+2007;GEO;Akvsenti Giorgadze;31;179;103;NA;NA;NA
+2007;GEO;Pavle Jimsheladze;32;180;88;NA;NA;NA
+2007;GEO;Besiki Khamashuridze;30;195;95;NA;NA;NA
+2007;GEO;Grigol Labadze;34;194;97;NA;NA;NA
+2007;GEO;Ilia Maisuradze;30;180;98;NA;NA;NA
+2007;GEO;Zurab Mchedlishvili;36;192;110;NA;NA;NA
+2007;GEO;Goderdzi Shvelidze;29;177;106;NA;NA;NA
+2007;GEO;Malkhaz Urjukashvili;27;178;80;NA;NA;NA
+2007;GEO;Ilia Zedginidze;30;195;112;NA;NA;NA
+2007;GEO;Irakli Abuseridze;30;174;70;NA;NA;NA
+2007;GEO;Giorgi Chkhaidze;26;195;102;NA;NA;NA
+2007;GEO;Otar Barkalaia;23;175;75;NA;NA;NA
+2007;GEO;Giorgi Elizbarashvili;23;184;84;NA;NA;NA
+2007;GEO;Otar Eloshvili;29;188;105;NA;NA;NA
+2007;GEO;Mamuka Gorgodze;23;196;118;NA;NA;NA
+2007;GEO;Irakli Giorgadze;25;188;100;NA;NA;NA
+2007;GEO;David Khinchagashvili;25;178;112;NA;NA;NA
+2007;GEO;Merab Kvirikashvili;24;180;80;NA;NA;NA
+2007;GEO;Irakli Machkhaneli;26;187;90;NA;NA;NA
+2007;GEO;Mamuka Magrakvelidze;30;190;120;NA;NA;NA
+2007;GEO;Besso Udesiani;29;183;95;NA;NA;NA
+2007;GEO;Rati Urushadze;32;193;100;NA;NA;NA
+2007;GEO;Avtandil Kopaliani;25;182;113;NA;NA;NA
+2007;GEO;Bidzina Samkharadze;24;170;70;NA;NA;NA
+2007;GEO;Giorgi Shkinin;24;170;70;NA;NA;NA
+2007;GEO;Zviad Maisuradze;27;185;97;NA;NA;NA
+2007;GEO;David Zirakashvili;24;183;117;NA;NA;NA
+2007;GEO;Levan Datunashvili;24;194;110;NA;NA;NA
+2007;GEO;Davit Kacharava;22;175;75;NA;NA;NA
+2007;GEO;Revaz Gigauri;23;185;93;NA;NA;NA
+2011;WAL;Gethin Jenkins;31;188;121;NA;NA;NA
+2011;WAL;Mike Phillips;29;191;101;NA;NA;NA
+2011;WAL;Adam Jones;30;183;120;NA;NA;NA
+2011;WAL;Huw Bennett;28;183;106;NA;NA;NA
+2011;WAL;Paul James;29;186;115;NA;NA;NA
+2011;WAL;Ryan Jones;30;197;115;NA;NA;NA
+2011;WAL;Luke Charteris;28;206;125;NA;NA;NA
+2011;WAL;Aled Brew;25;185;98;NA;NA;NA
+2011;WAL;Alun Wyn Jones;26;197;122;NA;NA;NA
+2011;WAL;Jamie Roberts;25;193;110;NA;NA;NA
+2011;WAL;Lee Byrne;31;191;96;NA;NA;NA
+2011;WAL;Jonathan Davies;23;186;105;NA;NA;NA
+2011;WAL;Bradley Davies;24;198;122;NA;NA;NA
+2011;WAL;Ken Owens;24;185;108;NA;NA;NA
+2011;WAL;Rhys Priestland;24;183;92;NA;NA;NA
+2011;WAL;Craig Mitchell;25;183;116;NA;NA;NA
+2011;WAL;James Hook;26;185;96;NA;NA;NA
+2011;WAL;Ryan Bevington;23;182;112;NA;NA;NA
+2011;WAL;Leigh Halfpenny;23;178;83;NA;NA;NA
+2011;WAL;Sam Warburton;23;188;106;NA;NA;NA
+2011;WAL;Andy Powell;30;193;114;NA;NA;NA
+2011;WAL;Danny Lydiate;24;193;112;NA;NA;NA
+2011;WAL;Scott Williams;21;183;99;NA;NA;NA
+2011;WAL;Tavis Knoyle;21;185;94;NA;NA;NA
+2011;WAL;Toby Faletau;21;188;109;NA;NA;NA
+2011;WAL;George North;19;192;105;NA;NA;NA
+2011;WAL;Lloyd Burns;27;183;109;NA;NA;NA
+2011;WAL;Lloyd Williams;22;183;90;NA;NA;NA
+2011;WAL;Stephen Jones;34;186;92;NA;NA;NA
+2011;WAL;Shane Williams;34;170;80;NA;NA;NA
+2011;ENG;Lewis Moody;33;190;104;NA;NA;NA
+2011;ENG;Steve Thompson;33;191;115;NA;NA;NA
+2011;ENG;Tom Palmer;32;198;115;NA;NA;NA
+2011;ENG;Mark Cueto;32;184;94;NA;NA;NA
+2011;ENG;Andrew Sheridan;32;190;123;NA;NA;NA
+2011;ENG;Simon Shaw;38;203;123;NA;NA;NA
+2011;ENG;Jonny Wilkinson;32;178;88;NA;NA;NA
+2011;ENG;Mike Tindall;33;187;102;NA;NA;NA
+2011;ENG;Matt Stevens;29;187;123;NA;NA;NA
+2011;ENG;Lee Mears;32;173;96;NA;NA;NA
+2011;ENG;Louis Deacon;31;198;115;NA;NA;NA
+2011;ENG;James Haskell;26;194;111;NA;NA;NA
+2011;ENG;David Wilson;26;185;122;NA;NA;NA
+2011;ENG;Toby Flood;26;191;93;NA;NA;NA
+2011;ENG;Ben Foden;26;183;93;NA;NA;NA
+2011;ENG;Dylan Hartley;25;185;108;NA;NA;NA
+2011;ENG;Dan Cole;24;190;118;NA;NA;NA
+2011;ENG;Delon Armitage;28;190;94;NA;NA;NA
+2011;ENG;Tom Croft;26;198;105;NA;NA;NA
+2011;ENG;Richard Wigglesworth;28;176;86;NA;NA;NA
+2011;ENG;Thomas Waldrom;28;185;111;NA;NA;NA
+2011;ENG;Nick Easter;33;192;114;NA;NA;NA
+2011;ENG;Alex Corbisiero;23;185;116;NA;NA;NA
+2011;ENG;Joe Simpson;23;180;84;NA;NA;NA
+2011;ENG;Courtney Lawes;22;201;114;NA;NA;NA
+2011;ENG;Ben Youngs;22;178;87;NA;NA;NA
+2011;ENG;Matt Banahan;25;201;112;NA;NA;NA
+2011;ENG;Chris Ashton;24;186;92;NA;NA;NA
+2011;ENG;Shontayne Hape;30;187;102;NA;NA;NA
+2011;ENG;Tom Wood;25;195;105;NA;NA;NA
+2011;ENG;Manu Tuilagi;20;185;111;NA;NA;NA
+2011;SCO;Chris Paterson;33;180;80;NA;NA;NA
+2011;SCO;Nathan Hines;35;201;118;NA;NA;NA
+2011;SCO;Mike Blair;30;180;84;NA;NA;NA
+2011;SCO;Allan Jacobsen;33;178;112;NA;NA;NA
+2011;SCO;Dougie Hall;31;183;105;NA;NA;NA
+2011;SCO;Chris Cusiter;29;180;83;NA;NA;NA
+2011;SCO;Simon Danielli;32;191;102;NA;NA;NA
+2011;SCO;Dan Parks;33;181;92;NA;NA;NA
+2011;SCO;Graeme Morrison;29;191;103;NA;NA;NA
+2011;SCO;Sean Lamont;30;189;103;NA;NA;NA
+2011;SCO;Alastair Kellock;30;205;118;NA;NA;NA
+2011;SCO;Rory Lawson;30;176;83;NA;NA;NA
+2011;SCO;Ross Ford;27;184;113;NA;NA;NA
+2011;SCO;Kelly Brown;29;193;106;NA;NA;NA
+2011;SCO;Scott Lawson;30;172;100;NA;NA;NA
+2011;SCO;Rory Lamont;29;189;100;NA;NA;NA
+2011;SCO;John Barclay;25;190;101;NA;NA;NA
+2011;SCO;Ally Strokosch;28;191;108;NA;NA;NA
+2011;SCO;Moray Low;27;188;125;NA;NA;NA
+2011;SCO;Nick De Luca;27;182;95;NA;NA;NA
+2011;SCO;Euan Murray;31;185;118;NA;NA;NA
+2011;SCO;Richie Vernon;24;198;107;NA;NA;NA
+2011;SCO;Ross Rennie;25;184;99;NA;NA;NA
+2011;SCO;Alasdair Dickinson;28;185;112;NA;NA;NA
+2011;SCO;Jim Hamilton;29;203;123;NA;NA;NA
+2011;SCO;Ruaridh Jackson;23;182;86;NA;NA;NA
+2011;SCO;Richie Gray;22;205;128;NA;NA;NA
+2011;SCO;Max Evans;28;180;87;NA;NA;NA
+2011;SCO;Geoff Cross;29;183;115;NA;NA;NA
+2011;SCO;Joe Ansbro;26;183;95;NA;NA;NA
+2011;IRE;Paul O'Connell;32;198;112;NA;NA;NA
+2011;IRE;Geordan Murphy;33;186;88;NA;NA;NA
+2011;IRE;Leo Cullen;33;198;110;NA;NA;NA
+2011;IRE;Donncha O'Callaghan;32;198;116;NA;NA;NA
+2011;IRE;Paddy Wallace;32;177;88;NA;NA;NA
+2011;IRE;Tommy Bowe;27;191;98;NA;NA;NA
+2011;IRE;Denis Leamy;30;188;108;NA;NA;NA
+2011;IRE;Jonathan Sexton;26;190;92;NA;NA;NA
+2011;IRE;Andrew Trimble;27;188;97;NA;NA;NA
+2011;IRE;Stephen Ferris;26;192;113;NA;NA;NA
+2011;IRE;Rory Best;29;178;105;NA;NA;NA
+2011;IRE;Jerry Flannery;33;180;101;NA;NA;NA
+2011;IRE;Eoin Reddan;31;178;84;NA;NA;NA
+2011;IRE;Cian Healy;24;184;115;NA;NA;NA
+2011;IRE;Keith Earls;24;180;90;NA;NA;NA
+2011;IRE;Rob Kearney;25;187;95;NA;NA;NA
+2011;IRE;Fergus McFadden;25;185;93;NA;NA;NA
+2011;IRE;Brian O'Driscoll;32;181;94;NA;NA;NA
+2011;IRE;Ronan O'Gara;34;180;84;NA;NA;NA
+2011;IRE;Jamie Heaslip;28;193;109;NA;NA;NA
+2011;IRE;Sean Cronin;25;183;103;NA;NA;NA
+2011;IRE;Sean O'Brien;24;188;107;NA;NA;NA
+2011;IRE;Tom Court;31;190;118;NA;NA;NA
+2011;IRE;Shane Jennings;30;188;105;NA;NA;NA
+2011;IRE;Isaac Boss;31;177;88;NA;NA;NA
+2011;IRE;Mike Ross;32;188;124;NA;NA;NA
+2011;IRE;Tony Buckley;31;195;137;NA;NA;NA
+2011;IRE;Donnacha Ryan;28;201;114;NA;NA;NA
+2011;IRE;Conor Murray;22;187;91;NA;NA;NA
+2011;IRE;Damien Varley;28;181;110;NA;NA;NA
+2011;IRE;Gordon D'Arcy;31;183;90;NA;NA;NA
+2011;NZL;Richie McCaw;31;187;106;NA;NA;NA
+2011;NZL;Andrew Hore;33;183;113;NA;NA;NA
+2011;NZL;Ali Williams;30;202;115;NA;NA;NA
+2011;NZL;Keven Mealamu;32;181;109;NA;NA;NA
+2011;NZL;Tony Woodcock;30;184;119;NA;NA;NA
+2011;NZL;Ma'a Nonu;29;182;106;NA;NA;NA
+2011;NZL;Brad Thorn;36;195;114;NA;NA;NA
+2011;NZL;Daniel Carter;29;178;93;NA;NA;NA
+2011;NZL;Mils Muliaina;31;183;93;NA;NA;NA
+2011;NZL;Corey Flynn;30;184;108;NA;NA;NA
+2011;NZL;Jerome Kaino;28;196;110;NA;NA;NA
+2011;NZL;Jimmy Cowan;29;182;95;NA;NA;NA
+2011;NZL;Piri Weepu;28;178;96;NA;NA;NA
+2011;NZL;Conrad Smith;30;186;95;NA;NA;NA
+2011;NZL;Isaia Toeava;25;181;99;NA;NA;NA
+2011;NZL;Andy Ellis;27;182;90;NA;NA;NA
+2011;NZL;Richard Kahui;26;190;101;NA;NA;NA
+2011;NZL;Hosea Gear;27;188;102;NA;NA;NA
+2011;NZL;Ben Franks;27;183;117;NA;NA;NA
+2011;NZL;Kieran Read;26;193;108;NA;NA;NA
+2011;NZL;John Afoa;28;183;119;NA;NA;NA
+2011;NZL;Colin Slade;24;183;90;NA;NA;NA
+2011;NZL;Victor Vito;24;192;109;NA;NA;NA
+2011;NZL;Stephen Donald;28;186;96;NA;NA;NA
+2011;NZL;Cory Jane;28;183;88;NA;NA;NA
+2011;NZL;Anthony Boric;28;200;113;NA;NA;NA
+2011;NZL;Israel Dagg;23;186;95;NA;NA;NA
+2011;NZL;Sam Whitelock;23;202;114;NA;NA;NA
+2011;NZL;Zac Guildford;22;182;96;NA;NA;NA
+2011;NZL;Adam Thomson;29;196;110;NA;NA;NA
+2011;NZL;Aaron Cruden;22;175;82;NA;NA;NA
+2011;NZL;Owen Franks;24;185;119;NA;NA;NA
+2011;NZL;Sonny Bill Williams;26;191;110;NA;NA;NA
+2011;AUS;Nathan Sharpe;33;200;115;NA;NA;NA
+2011;AUS;Dan Vickerman;32;204;115;NA;NA;NA
+2011;AUS;Rocky Elsom;28;197;106;NA;NA;NA
+2011;AUS;Radike Samo;35;197;117;NA;NA;NA
+2011;AUS;Drew Mitchell;27;182;95;NA;NA;NA
+2011;AUS;Ben Alexander;27;189;117;NA;NA;NA
+2011;AUS;Adam Ashley-Cooper;27;182;98;NA;NA;NA
+2011;AUS;James Horwill;26;200;115;NA;NA;NA
+2011;AUS;Tatafu Polota-Nau;26;181;113;NA;NA;NA
+2011;AUS;Stephen Moore;28;186;112;NA;NA;NA
+2011;AUS;Digby Ioane;26;179;93;NA;NA;NA
+2011;AUS;Anthony Faingaa;24;178;88;NA;NA;NA
+2011;AUS;Saia Faingaa;24;187;108;NA;NA;NA
+2011;AUS;Will Genia;23;182;85;NA;NA;NA
+2011;AUS;David Pocock;23;181;101;NA;NA;NA
+2011;AUS;Lachie Turner;24;189;88;NA;NA;NA
+2011;AUS;Sekope Kepu;25;188;125;NA;NA;NA
+2011;AUS;Luke Burgess;28;179;89;NA;NA;NA
+2011;AUS;Wycliff Palu;29;194;120;NA;NA;NA
+2011;AUS;Pat McCabe;23;186;92;NA;NA;NA
+2011;AUS;Quade Cooper;23;186;93;NA;NA;NA
+2011;AUS;Ben McCalman;23;192;106;NA;NA;NA
+2011;AUS;Rob Simmons;22;200;115;NA;NA;NA
+2011;AUS;Berrick Barnes;25;183;87;NA;NA;NA
+2011;AUS;Kurtley Beale;22;184;94;NA;NA;NA
+2011;AUS;Salesi Ma'afu;28;184;126;NA;NA;NA
+2011;AUS;Robert Horne;22;186;88;NA;NA;NA
+2011;AUS;Matt Hodgson;30;184;100;NA;NA;NA
+2011;AUS;James O'Connor;21;180;88;NA;NA;NA
+2011;AUS;James Slipper;22;185;113;NA;NA;NA
+2011;AUS;Scott Higginbotham;25;195;110;NA;NA;NA
+2011;AUS;Nick Phipps;22;180;87;NA;NA;NA
+2011;RSA;Butch James;32;184;98;NA;NA;NA
+2011;RSA;Victor Matfield;34;201;110;NA;NA;NA
+2011;RSA;Jean De Villiers;30;190;100;NA;NA;NA
+2011;RSA;Bakkies Botha;32;202;118;NA;NA;NA
+2011;RSA;CJ van der Linde;31;190;123;NA;NA;NA
+2011;RSA;Schalk Burger;28;193;110;NA;NA;NA
+2011;RSA;Danie Rossouw;33;197;118;NA;NA;NA
+2011;RSA;Jaque Fourie;28;188;96;NA;NA;NA
+2011;RSA;Fourie Du Preez;29;183;88;NA;NA;NA
+2011;RSA;Bryan Habana;28;179;92;NA;NA;NA
+2011;RSA;Gurthrö Steenkamp;30;189;124;NA;NA;NA
+2011;RSA;John Smit;33;186;116;NA;NA;NA
+2011;RSA;Chiliboy Ralepelle;25;178;95;NA;NA;NA
+2011;RSA;Morné Steyn;27;186;82;NA;NA;NA
+2011;RSA;Bismarck Du Plessis;27;189;105;NA;NA;NA
+2011;RSA;Ruan Pienaar;27;186;84;NA;NA;NA
+2011;RSA;Frans Steyn;24;191;100;NA;NA;NA
+2011;RSA;Pierre Spies;26;194;103;NA;NA;NA
+2011;RSA;JP Pietersen;25;191;85;NA;NA;NA
+2011;RSA;Johan Muller;31;200;106;NA;NA;NA
+2011;RSA;Francois Hougaard;23;179;86;NA;NA;NA
+2011;RSA;Odwa Ndungane;30;183;85;NA;NA;NA
+2011;RSA;Jannie Du Plessis;29;187;113;NA;NA;NA
+2011;RSA;Tendai Mtawarira;26;188;112;NA;NA;NA
+2011;RSA;Heinrich Brüssow;25;181;101;NA;NA;NA
+2011;RSA;Willem Alberts;27;191;115;NA;NA;NA
+2011;RSA;Gio Aplon;29;175;70;NA;NA;NA
+2011;RSA;Zane Kirchner;27;184;92;NA;NA;NA
+2011;RSA;Juan De Jongh;23;177;84;NA;NA;NA
+2011;RSA;Pat Lambie;21;177;86;NA;NA;NA
+2011;RSA;Francois Louw;26;190;110;NA;NA;NA
+2011;ARG;Patricio Albacete;30;200;123;NA;NA;NA
+2011;ARG;Rodrigo Roncero;34;177;113;NA;NA;NA
+2011;ARG;Lucas Borges;31;175;82;NA;NA;NA
+2011;ARG;Gonzalo Tiesi;26;184;92;NA;NA;NA
+2011;ARG;Marcos Ayerza;28;186;113;NA;NA;NA
+2011;ARG;Felipe Contepomi;34;180;95;NA;NA;NA
+2011;ARG;Mario Ledesma Arocena;38;183;110;NA;NA;NA
+2011;ARG;Martín Scelzo;35;190;126;NA;NA;NA
+2011;ARG;Juan Martín Fernandez Lobbe;30;193;105;NA;NA;NA
+2011;ARG;Juan Manuel Leguizamón;28;190;105;NA;NA;NA
+2011;ARG;Agustín Creevy;26;181;106;NA;NA;NA
+2011;ARG;Horacio Agulla;27;181;90;NA;NA;NA
+2011;ARG;Marcelo Bosch;27;186;95;NA;NA;NA
+2011;ARG;Santiago Fernández;26;183;90;NA;NA;NA
+2011;ARG;Manuel Carizza;27;202;120;NA;NA;NA
+2011;ARG;Nicolás Vergallo;28;169;77;NA;NA;NA
+2011;ARG;Juan Figallo;23;187;115;NA;NA;NA
+2011;ARG;Agustín Gosio;28;177;85;NA;NA;NA
+2011;ARG;Alfredo Lalanne;28;172;79;NA;NA;NA
+2011;ARG;Genaro Fessia;30;188;103;NA;NA;NA
+2011;ARG;Nicolás Sanchez;23;178;85;NA;NA;NA
+2011;ARG;Gonzalo Camacho;27;173;82;NA;NA;NA
+2011;ARG;Alejandro Campos;28;190;106;NA;NA;NA
+2011;ARG;Lucas Gonzalez Amorosino;26;185;88;NA;NA;NA
+2011;ARG;Juan Jose Imhoff;23;184;84;NA;NA;NA
+2011;ARG;Mariano Galarza;25;203;115;NA;NA;NA
+2011;ARG;Leonardo Senatore;27;191;106;NA;NA;NA
+2011;ARG;Martín Rodríguez;26;185;93;NA;NA;NA
+2011;ARG;Maximiliano Bustos;25;183;124;NA;NA;NA
+2011;ARG;Julio Farias Cabello;33;193;109;NA;NA;NA
+2011;ARG;Tomas Vallejos;27;196;110;NA;NA;NA
+2011;ITA;Mirco Bergamasco;28;180;86;NA;NA;NA
+2011;ITA;Marco Bortolami;31;197;113;NA;NA;NA
+2011;ITA;Sergio Parisse;28;196;104;NA;NA;NA
+2011;ITA;Fabio Ongaro;34;183;104;NA;NA;NA
+2011;ITA;Martin Castrogiovanni;30;188;122;NA;NA;NA
+2011;ITA;Andrea Masi;30;186;92;NA;NA;NA
+2011;ITA;Gonzalo Canale;29;182;93;NA;NA;NA
+2011;ITA;Carlo Del Fava;30;197;115;NA;NA;NA
+2011;ITA;Mauro Bergamasco;32;185;98;NA;NA;NA
+2011;ITA;Andrea Lo Cicero;35;185;110;NA;NA;NA
+2011;ITA;Salvatore Perugini;33;182;108;NA;NA;NA
+2011;ITA;Luciano Orquera;30;171;78;NA;NA;NA
+2011;ITA;Matteo Pratichetti;26;190;100;NA;NA;NA
+2011;ITA;Robert Barbieri;27;185;108;NA;NA;NA
+2011;ITA;Leonardo Ghiraldini;27;184;99;NA;NA;NA
+2011;ITA;Fabio Semenzato;25;179;89;NA;NA;NA
+2011;ITA;Alberto Sgarbi;25;191;99;NA;NA;NA
+2011;ITA;Giulio Toniolatti;27;183;85;NA;NA;NA
+2011;ITA;Alessandro Zanni;27;193;100;NA;NA;NA
+2011;ITA;Pablo Canavosio;30;175;83;NA;NA;NA
+2011;ITA;Luke McLean;24;190;95;NA;NA;NA
+2011;ITA;Paul Derbyshire;25;192;100;NA;NA;NA
+2011;ITA;Lorenzo Cittadini;29;191;127;NA;NA;NA
+2011;ITA;Tommaso D'Apice;23;180;105;NA;NA;NA
+2011;ITA;Riccardo Bocchino;23;180;82;NA;NA;NA
+2011;ITA;Gonzalo Garcia;27;185;96;NA;NA;NA
+2011;ITA;Franco Sbaraglini;29;180;103;NA;NA;NA
+2011;ITA;Tommaso Benvenuti;21;187;95;NA;NA;NA
+2011;ITA;Edoardo Gori;21;178;82;NA;NA;NA
+2011;ITA;Quintin Geldenhuys;30;203;116;NA;NA;NA
+2011;ITA;Cornelius Van Zyl;32;200;110;NA;NA;NA
+2011;FRA;Aurélien Rougerie;31;194;104;NA;NA;NA
+2011;FRA;Damien Traille;32;193;101;NA;NA;NA
+2011;FRA;Imanol Harinordoquy;31;192;108;NA;NA;NA
+2011;FRA;Cédric Heymans;33;179;96;NA;NA;NA
+2011;FRA;Jean-Baptiste Poux;32;180;105;NA;NA;NA
+2011;FRA;Vincent Clerc;30;178;90;NA;NA;NA
+2011;FRA;Dimitri Yachvili;31;182;85;NA;NA;NA
+2011;FRA;David Skrela;32;190;96;NA;NA;NA
+2011;FRA;Nicolas Mas;31;179;107;NA;NA;NA
+2011;FRA;Pascal Pape;31;196;116;NA;NA;NA
+2011;FRA;William Servat;33;184;103;NA;NA;NA
+2011;FRA;Julien Bonnaire;33;193;101;NA;NA;NA
+2011;FRA;Dimitri Szarzewski;28;181;101;NA;NA;NA
+2011;FRA;Lionel Nallet;35;198;115;NA;NA;NA
+2011;FRA;David Marty;29;182;93;NA;NA;NA
+2011;FRA;Maxime Médard;25;182;93;NA;NA;NA
+2011;FRA;Alexis Palisson;24;177;84;NA;NA;NA
+2011;FRA;Morgan Parra;23;180;80;NA;NA;NA
+2011;FRA;Guilhem Guirado;25;181;99;NA;NA;NA
+2011;FRA;Maxime Mermoz;25;181;91;NA;NA;NA
+2011;FRA;Louis Picamoles;25;192;118;NA;NA;NA
+2011;FRA;Francois Trinh-Duc;25;184;93;NA;NA;NA
+2011;FRA;Fulgence Ouedraogo;25;188;102;NA;NA;NA
+2011;FRA;Romain Millo-Chluski;28;195;119;NA;NA;NA
+2011;FRA;Thierry Dusautoir;30;188;95;NA;NA;NA
+2011;FRA;Raphael Lakafia;23;190;114;NA;NA;NA
+2011;FRA;Julien Pierre;30;197;112;NA;NA;NA
+2011;FRA;Fabien Barcella;28;180;110;NA;NA;NA
+2011;FRA;Luc Ducalcon;27;183;115;NA;NA;NA
+2011;FRA;Fabrice Estebanez;30;186;99;NA;NA;NA
+2011;FRA;Jean Marc Doussain;20;176;91;NA;NA;NA
+2011;WSM;Alesana Tuilagi;30;194;111;NA;NA;NA
+2011;WSM;Maurie Faasavalu;31;194;112;NA;NA;NA
+2011;WSM;George Stowers;32;192;117;NA;NA;NA
+2011;WSM;Sailosi Tagicakibau;29;194;107;NA;NA;NA
+2011;WSM;Filipo Lavea Levi;32;198;119;NA;NA;NA
+2011;WSM;David Lemi;29;175;75;NA;NA;NA
+2011;WSM;Tasesa Lavea;31;176;89;NA;NA;NA
+2011;WSM;Seilala Mapusua;31;185;102;NA;NA;NA
+2011;WSM;Mahonri Schwalger;33;184;102;NA;NA;NA
+2011;WSM;Ofisa Treviranus;27;193;108;NA;NA;NA
+2011;WSM;Daniel Leo;29;196;112;NA;NA;NA
+2011;WSM;Census Johnston;30;190;135;NA;NA;NA
+2011;WSM;Eliota Fuimaono Sapolu;31;186;94;NA;NA;NA
+2011;WSM;Manaia Salavea;25;190;108;NA;NA;NA
+2011;WSM;George Pisi;25;188;103;NA;NA;NA
+2011;WSM;Ole Avei;28;194;120;NA;NA;NA
+2011;WSM;Ti'i Paulo;28;187;119;NA;NA;NA
+2011;WSM;Tusi Pisi;29;197;93;NA;NA;NA
+2011;WSM;Junior Poluleuligaga;30;183;92;NA;NA;NA
+2011;WSM;Kane Thompson;29;198;113;NA;NA;NA
+2011;WSM;Joe Tekori;28;198;119;NA;NA;NA
+2011;WSM;Jeremy Sua;23;181;86;NA;NA;NA
+2011;WSM;Logovi'i Mulipola;24;192;124;NA;NA;NA
+2011;WSM;Sakaria Taulafo;28;183;118;NA;NA;NA
+2011;WSM;Anthony Perenise;29;182;118;NA;NA;NA
+2011;WSM;Paul Williams;28;190;100;NA;NA;NA
+2011;WSM;Kahn Fotuali'i;29;184;94;NA;NA;NA
+2011;WSM;Johnny Leota;27;183;99;NA;NA;NA
+2011;WSM;Taiasina Tuifua;27;196;118;NA;NA;NA
+2011;WSM;James Sooialo;22;185;95;NA;NA;NA
+2011;FIJ;Sisa Koyamaibole;31;192;120;NA;NA;NA
+2011;FIJ;Seremaia Bai;32;187;100;NA;NA;NA
+2011;FIJ;Deacon Manu;32;184;120;NA;NA;NA
+2011;FIJ;Sunia Koto;31;178;110;NA;NA;NA
+2011;FIJ;Akapusi Qera;27;193;102;NA;NA;NA
+2011;FIJ;Iliesa Lomani Rakuka Keresoni;24;180;96;NA;NA;NA
+2011;FIJ;Waisea Sedre Luveniyali;26;174;89;NA;NA;NA
+2011;FIJ;Gaby Lovobalavu;26;176;97;NA;NA;NA
+2011;FIJ;Naipolioni Nalaga;25;191;100;NA;NA;NA
+2011;FIJ;Rupeni Nasiga;26;194;104;NA;NA;NA
+2011;FIJ;Netani Edward Talei;28;190;110;NA;NA;NA
+2011;FIJ;Sakiusa Matadigo;29;188;106;NA;NA;NA
+2011;FIJ;Kini Murimurivalu;22;184;94;NA;NA;NA
+2011;FIJ;Wame Lewaravu;29;196;114;NA;NA;NA
+2011;FIJ;Vereniki Goneva;27;189;99;NA;NA;NA
+2011;FIJ;Vitori Tomu Buatava;26;180;91;NA;NA;NA
+2011;FIJ;Michael Tagicakibau;26;190;98;NA;NA;NA
+2011;FIJ;Nemia Kenatale;25;179;85;NA;NA;NA
+2011;FIJ;Setefano Somoca;30;185;122;NA;NA;NA
+2011;FIJ;Ravai Susau Fatiaki;24;184;102;NA;NA;NA
+2011;FIJ;Viliame Veikoso;29;178;102;NA;NA;NA
+2011;FIJ;Leone Nakarawa;23;198;117;NA;NA;NA
+2011;FIJ;Waisea Nailago;22;186;117;NA;NA;NA
+2011;FIJ;Campese Ma'afu;27;182;114;NA;NA;NA
+2011;FIJ;Talemaitoga Dautu Tuapati;27;180;107;NA;NA;NA
+2011;FIJ;Dominiko Maiwiriwiri Waqaniburotu;25;189;111;NA;NA;NA
+2011;FIJ;Seko Kalou;27;198;112;NA;NA;NA
+2011;FIJ;Mala Ravulo;28;190;107;NA;NA;NA
+2011;FIJ;Albert James Vulivuli;26;188;105;NA;NA;NA
+2011;FIJ;Nicky Little;35;183;100;NA;NA;NA
+2011;TON;Tukulua Lokotui;32;196;118;NA;NA;NA
+2011;TON;Taufa'ao Filise;34;188;121;NA;NA;NA
+2011;TON;Ephraim Taukafa;35;180;108;NA;NA;NA
+2011;TON;Kisi Pulu;33;175;112;NA;NA;NA
+2011;TON;Finau Maka;34;188;110;NA;NA;NA
+2011;TON;Sukanaivalu Hufanga;29;182;89;NA;NA;NA
+2011;TON;Soane Tonga'uiha;29;191;130;NA;NA;NA
+2011;TON;Alipate Fatafehi;27;191;114;NA;NA;NA
+2011;TON;Taniela Moa;26;182;102;NA;NA;NA
+2011;TON;Andrew Ma'ilei;32;178;95;NA;NA;NA
+2011;TON;Sione Kalamafoni;23;192;117;NA;NA;NA
+2011;TON;Samisoni Fisilau;24;182;95;NA;NA;NA
+2011;TON;Sione Timani;27;196;121;NA;NA;NA
+2011;TON;Paino Hehea;32;198;114;NA;NA;NA
+2011;TON;Vungakoto Lilo;28;187;95;NA;NA;NA
+2011;TON;Samiu Vahafolau;33;192;111;NA;NA;NA
+2011;TON;Sione Vaiomounga;22;184;95;NA;NA;NA
+2011;TON;Viliame Iongi;22;173;82;NA;NA;NA
+2011;TON;Aloisio Ma'asi;29;185;96;NA;NA;NA
+2011;TON;Kurt Morath;27;183;90;NA;NA;NA
+2011;TON;William Helu;25;189;98;NA;NA;NA
+2011;TON;Alaska Taufa;28;189;103;NA;NA;NA
+2011;TON;Thomas Palu;25;175;85;NA;NA;NA
+2011;TON;Viliami Ma'afu;29;186;109;NA;NA;NA
+2011;TON;Halani Aulika;28;185;122;NA;NA;NA
+2011;TON;Siale Piutau;26;185;97;NA;NA;NA
+2011;TON;Alisona Taumalolo;30;185;112;NA;NA;NA
+2011;TON;Joseph Tuineau;30;203;120;NA;NA;NA
+2011;TON;Fetu'u Vainikolo;26;181;95;NA;NA;NA
+2011;TON;Aleki Lutui;33;185;108;NA;NA;NA
+2011;JPN;Ippei Asada;31;166;75;NA;NA;NA
+2011;JPN;Bryce Robins;31;183;95;NA;NA;NA
+2011;JPN;Hitoshi Ono;33;192;105;NA;NA;NA
+2011;JPN;Kosuke Endo;31;186;90;NA;NA;NA
+2011;JPN;Taihei Ueda;29;180;89;NA;NA;NA
+2011;JPN;Takashi Kikutani;31;187;100;NA;NA;NA
+2011;JPN;Toshizumi Kitagawa;30;195;110;NA;NA;NA
+2011;JPN;Shota Horie;25;180;104;NA;NA;NA
+2011;JPN;Kensuke Hatakeyama;26;178;122;NA;NA;NA
+2011;JPN;Fumiaki Tanaka;26;166;75;NA;NA;NA
+2011;JPN;Takehisa Usuzuki;26;180;88;NA;NA;NA
+2011;JPN;Yuta Imamura;27;178;93;NA;NA;NA
+2011;JPN;Luke Thompson;30;196;109;NA;NA;NA
+2011;JPN;Yuji Kitagawa;25;196;118;NA;NA;NA
+2011;JPN;Tomoki Yoshida;29;172;78;NA;NA;NA
+2011;JPN;Koji Taira;28;185;95;NA;NA;NA
+2011;JPN;Yusuke Aoki;28;176;96;NA;NA;NA
+2011;JPN;James Arlidge;32;187;93;NA;NA;NA
+2011;JPN;Michael Leitch;23;190;103;NA;NA;NA
+2011;JPN;Ryukoliniasi Holani;30;188;111;NA;NA;NA
+2011;JPN;Ryan Nicholas;32;192;100;NA;NA;NA
+2011;JPN;Shaun Webb;30;180;90;NA;NA;NA
+2011;JPN;Hisateru Hirashima;28;180;110;NA;NA;NA
+2011;JPN;Naoki Kawamata;26;184;118;NA;NA;NA
+2011;JPN;Toetuu Taufa;31;183;105;NA;NA;NA
+2011;JPN;Alisi Tupuailai;31;187;116;NA;NA;NA
+2011;JPN;Sione Talikavili Vatuvei;28;189;100;NA;NA;NA
+2011;JPN;Hiroki Yuhara;27;173;105;NA;NA;NA
+2011;JPN;Nozomu Fujita;27;191;118;NA;NA;NA
+2011;JPN;Itaru Taniguchi;27;188;105;NA;NA;NA
+2011;JPN;Atsushi Hiwasa;24;166;70;NA;NA;NA
+2011;JPN;Murray Williams;29;180;86;NA;NA;NA
+2011;JPN;Hirotoki Onozawa;33;180;85;NA;NA;NA
+2011;CAN;Jamie Cudmore;33;198;116;NA;NA;NA
+2011;CAN;Ed Fairhurst;32;183;93;NA;NA;NA
+2011;CAN;Pat Riordan;32;185;110;NA;NA;NA
+2011;CAN;Ryan Smith;32;191;99;NA;NA;NA
+2011;CAN;James Pritchard;32;175;85;NA;NA;NA
+2011;CAN;Adam Kleeberger;27;185;98;NA;NA;NA
+2011;CAN;Aaron Carpenter;28;183;104;NA;NA;NA
+2011;CAN;Matt Evans;23;183;89;NA;NA;NA
+2011;CAN;Phil Mackenzie;24;185;91;NA;NA;NA
+2011;CAN;Ciaran Hearn;26;190;100;NA;NA;NA
+2011;CAN;Tyler Hotson;26;196;112;NA;NA;NA
+2011;CAN;Hubert Buydens;29;191;120;NA;NA;NA
+2011;CAN;Ander Monro;30;178;82;NA;NA;NA
+2011;CAN;DTH Van Der Merwe;25;185;101;NA;NA;NA
+2011;CAN;Ryan Hamilton;23;183;107;NA;NA;NA
+2011;CAN;Nathan Hirayama;23;183;86;NA;NA;NA
+2011;CAN;Jamie Mackenzie;22;175;89;NA;NA;NA
+2011;CAN;Andrew Tiedemann;23;183;115;NA;NA;NA
+2011;CAN;Sean White;23;180;88;NA;NA;NA
+2011;CAN;Scott Franklin;31;185;115;NA;NA;NA
+2011;CAN;Nanyak Dala;27;178;100;NA;NA;NA
+2011;CAN;Mike Scholz;23;183;100;NA;NA;NA
+2011;CAN;Conor Trainor;22;188;95;NA;NA;NA
+2011;CAN;Frank Walsh;35;180;109;NA;NA;NA
+2011;CAN;Jebb Sinclair;25;196;108;NA;NA;NA
+2011;CAN;Jason Marshall;26;190;117;NA;NA;NA
+2011;CAN;Chauncey O'Toole;25;184;105;NA;NA;NA
+2011;CAN;Brian Erichsen;34;190;112;NA;NA;NA
+2011;CAN;Jeremy Kyne;28;190;112;NA;NA;NA
+2011;CAN;Taylor Paris;19;185;86;NA;NA;NA
+2011;USA;Mike MacDonald;31;185;122;NA;NA;NA
+2011;USA;Paul Emerick;31;182;93;NA;NA;NA
+2011;USA;Todd Clever;28;195;103;NA;NA;NA
+2011;USA;Louis Stanfill;26;192;110;NA;NA;NA
+2011;USA;Eric Fry;24;192;116;NA;NA;NA
+2011;USA;James Paterson;24;186;100;NA;NA;NA
+2011;USA;Scott LaValla;23;194;114;NA;NA;NA
+2011;USA;Shawn Pittman;23;195;118;NA;NA;NA
+2011;USA;Nese Malifa;26;179;85;NA;NA;NA
+2011;USA;Chris Wyles;28;183;93;NA;NA;NA
+2011;USA;Inaki Basauri;27;197;109;NA;NA;NA
+2011;USA;Takudzwa Ngwenya;26;178;84;NA;NA;NA
+2011;USA;Mike Petri;27;180;86;NA;NA;NA
+2011;USA;John Van Der Giessen;29;198;114;NA;NA;NA
+2011;USA;Matekitonga Moeakiola;33;183;118;NA;NA;NA
+2011;USA;Hayden Smith;26;200;116;NA;NA;NA
+2011;USA;Junior Sifa;28;178;95;NA;NA;NA
+2011;USA;JJ Gagiano;26;191;100;NA;NA;NA
+2011;USA;Andrew Suniula;29;189;105;NA;NA;NA
+2011;USA;Tai Enosa;22;179;80;NA;NA;NA
+2011;USA;Chris Biller;26;181;104;NA;NA;NA
+2011;USA;Roland Suniula;25;176;91;NA;NA;NA
+2011;USA;Kevin Swiryn;27;185;95;NA;NA;NA
+2011;USA;Tim Usasz;28;173;84;NA;NA;NA
+2011;USA;Brian McClenahan;29;180;100;NA;NA;NA
+2011;USA;Pat Danahy;26;193;109;NA;NA;NA
+2011;USA;Colin Hawley;24;192;93;NA;NA;NA
+2011;USA;Phil Thiel;27;180;111;NA;NA;NA
+2011;USA;Nic Johnson;28;195;107;NA;NA;NA
+2011;USA;Blaine Scully;23;192;92;NA;NA;NA
+2011;ROU;Nicolae Dragos Dima;32;183;117;NA;NA;NA
+2011;ROU;Marin Danut Dumbrava;30;187;89;NA;NA;NA
+2011;ROU;Silviu Florea;34;183;115;NA;NA;NA
+2011;ROU;Cristian Constantin Petre;32;197;115;NA;NA;NA
+2011;ROU;Iulian Dumitras;29;191;95;NA;NA;NA
+2011;ROU;Cosmin Aurel Ratiu;32;196;114;NA;NA;NA
+2011;ROU;Catalin Marius Nicolae;31;189;81;NA;NA;NA
+2011;ROU;Paulica Ion;28;183;120;NA;NA;NA
+2011;ROU;Bogdan Zebega Suman;27;184;112;NA;NA;NA
+2011;ROU;Tiberius Ionut Dimofte;27;186;91;NA;NA;NA
+2011;ROU;Valentin Nicolae Calafeteanu;26;182;82;NA;NA;NA
+2011;ROU;Valentin Neculai Ursache;26;196;114;NA;NA;NA
+2011;ROU;Csaba Minya Gal;26;184;90;NA;NA;NA
+2011;ROU;Stefan Eugen Ciuntu;25;178;91;NA;NA;NA
+2011;ROU;Mihaita Alexandru Lazar;25;189;114;NA;NA;NA
+2011;ROU;Mihai Macovei;25;190;108;NA;NA;NA
+2011;ROU;Florin Adrian Vlaicu;25;186;93;NA;NA;NA
+2011;ROU;Daniel Gabriel Ianus;24;188;104;NA;NA;NA
+2011;ROU;Sandu Stelian Burcea;28;189;107;NA;NA;NA
+2011;ROU;Nicolae Nere;30;183;118;NA;NA;NA
+2011;ROU;Ionel Cazan;23;178;84;NA;NA;NA
+2011;ROU;Madalin Vlad Lemnaru;22;187;82;NA;NA;NA
+2011;ROU;Valentin Poparlan;24;196;117;NA;NA;NA
+2011;ROU;Daniel Carpo;27;191;106;NA;NA;NA
+2011;ROU;Florin Surugiu;27;174;80;NA;NA;NA
+2011;ROU;Adrian Marian Apostol;21;185;88;NA;NA;NA
+2011;ROU;Constantin Gheara;30;181;88;NA;NA;NA
+2011;ROU;Lucian Mihai Sirbu;35;183;87;NA;NA;NA
+2011;ROU;Marius Tincu;33;184;116;NA;NA;NA
+2011;ROU;Ovidiu Tonita;31;195;109;NA;NA;NA
+2011;NAM;Jané Du Toit;36;186;117;NA;NA;NA
+2011;NAM;Jacques Burger;28;188;102;NA;NA;NA
+2011;NAM;Danie Dames;25;190;95;NA;NA;NA
+2011;NAM;Darryl De La Harpe;25;183;97;NA;NA;NA
+2011;NAM;Eugene Jantjies;25;178;85;NA;NA;NA
+2011;NAM;Bertus O'Callaghan;23;181;108;NA;NA;NA
+2011;NAM;Chrysander Botha;23;189;83;NA;NA;NA
+2011;NAM;Llewellyn Winkler;24;176;83;NA;NA;NA
+2011;NAM;TC Losper;26;185;90;NA;NA;NA
+2011;NAM;Heine Bock;30;180;85;NA;NA;NA
+2011;NAM;Johnnie Redelinghuys;27;184;117;NA;NA;NA
+2011;NAM;Wacca Kazombiaze;32;197;109;NA;NA;NA
+2011;NAM;Nico Esterhuyse;27;205;110;NA;NA;NA
+2011;NAM;PJ Van Lill;28;193;116;NA;NA;NA
+2011;NAM;Tinus Du Plessis;27;188;104;NA;NA;NA
+2011;NAM;Jacques Nieuwenhuis;31;187;99;NA;NA;NA
+2011;NAM;Marius Visser;29;190;133;NA;NA;NA
+2011;NAM;Heinz Koll;28;196;113;NA;NA;NA
+2011;NAM;Piet Van Zyl;32;181;93;NA;NA;NA
+2011;NAM;Renaud Van Neel;23;188;88;NA;NA;NA
+2011;NAM;David Philander;24;175;93;NA;NA;NA
+2011;NAM;McGrath Van Wyk;24;177;77;NA;NA;NA
+2011;NAM;Ryan De La Harpe;29;171;85;NA;NA;NA
+2011;NAM;Conrad Marais;22;193;101;NA;NA;NA
+2011;NAM;Rohan Kitshoff;26;182;98;NA;NA;NA
+2011;NAM;Theuns Kotze;24;179;88;NA;NA;NA
+2011;NAM;Danie Van Wyk;25;189;96;NA;NA;NA
+2011;NAM;Henk Franken;24;196;112;NA;NA;NA
+2011;NAM;Raoul Larson;27;184;120;NA;NA;NA
+2011;NAM;Hugo Horn;34;176;110;NA;NA;NA
+2011;GEO;Akvsenti Giorgadze;35;180;110;NA;NA;NA
+2011;GEO;Goderdzi Shvelidze;33;180;108;NA;NA;NA
+2011;GEO;Malkhaz Urjukashvili;31;182;90;NA;NA;NA
+2011;GEO;Ilia Zedginidze;34;195;109;NA;NA;NA
+2011;GEO;Tedo Zibzibadze;31;191;94;NA;NA;NA
+2011;GEO;Irakli Abuseridze;34;174;70;NA;NA;NA
+2011;GEO;Giorgi Chkhaidze;30;195;102;NA;NA;NA
+2011;GEO;Mamuka Gorgodze;27;196;118;NA;NA;NA
+2011;GEO;David Khinchagishvili;29;178;112;NA;NA;NA
+2011;GEO;Merab Kvirikashvili;28;177;80;NA;NA;NA
+2011;GEO;Irakli Machkhaneli;30;187;90;NA;NA;NA
+2011;GEO;Bidzina Samkharadze;28;175;80;NA;NA;NA
+2011;GEO;Lekso Gugava;29;188;92;NA;NA;NA
+2011;GEO;David Zirakashvili;28;183;117;NA;NA;NA
+2011;GEO;Levan Datunashvili;28;194;110;NA;NA;NA
+2011;GEO;Irakli Chkhikvadze;24;179;95;NA;NA;NA
+2011;GEO;David Kubriashvili;25;183;122;NA;NA;NA
+2011;GEO;Alexander Todua;24;185;90;NA;NA;NA
+2011;GEO;Lasha Khmaladze;23;183;85;NA;NA;NA
+2011;GEO;Jaba Bregvadze;24;180;90;NA;NA;NA
+2011;GEO;Dimitri Basilaia;26;190;105;NA;NA;NA
+2011;GEO;David Kacharava;26;175;75;NA;NA;NA
+2011;GEO;Lasha Malaguradze;25;185;88;NA;NA;NA
+2011;GEO;Giorgi Nemsadze;27;196;110;NA;NA;NA
+2011;GEO;Shalva Sutiashvili;27;189;96;NA;NA;NA
+2011;GEO;Revaz Gigauri;27;189;97;NA;NA;NA
+2011;GEO;Viktor Kolelishvili;22;190;100;NA;NA;NA
+2011;GEO;Vasil Kakovin;22;183;108;NA;NA;NA
+2011;GEO;Vakhtang Maisuradze;24;NA;NA;NA;NA;NA
+2011;GEO;Givi Berishvili;24;NA;NA;NA;NA;NA
+2011;RUS;Vyacheslav Grachev;38;190;108;NA;NA;NA
+2011;RUS;Andrey Kuzin;33;190;88;NA;NA;NA
+2011;RUS;Konstantin Rachkov;33;180;93;NA;NA;NA
+2011;RUS;Alexander Khrokin;35;185;115;NA;NA;NA
+2011;RUS;Alexander Yanyushkin;29;165;75;NA;NA;NA
+2011;RUS;Alexey Travkin;34;186;110;NA;NA;NA
+2011;RUS;Igor Klyuchnikov;28;188;90;NA;NA;NA
+2011;RUS;Andrey Bykanov;31;170;75;NA;NA;NA
+2011;RUS;Vladislav Korshunov;28;184;105;NA;NA;NA
+2011;RUS;Sergey Popov;29;178;103;NA;NA;NA
+2011;RUS;Alexander Voytov;30;198;110;NA;NA;NA
+2011;RUS;Ivan Prishchepenko;29;190;120;NA;NA;NA
+2011;RUS;Alexander Shakirov;30;172;75;NA;NA;NA
+2011;RUS;Andrey Garbuzov;28;192;111;NA;NA;NA
+2011;RUS;Denis Antonov;25;199;123;NA;NA;NA
+2011;RUS;Mikhail Babaev;25;180;80;NA;NA;NA
+2011;RUS;Victor Gresev;25;185;105;NA;NA;NA
+2011;RUS;Vladimir Ostroushko;25;184;94;NA;NA;NA
+2011;RUS;Mikhail Sidorov;25;180;87;NA;NA;NA
+2011;RUS;Andrey Ostrikov;24;198;116;NA;NA;NA
+2011;RUS;Yury Kushnarev;26;182;95;NA;NA;NA
+2011;RUS;Evgeny Matveev;27;187;102;NA;NA;NA
+2011;RUS;Artem Fatakhov;32;191;101;NA;NA;NA
+2011;RUS;Sergey Trishin;27;187;90;NA;NA;NA
+2011;RUS;Vladimir Botvinnikov;27;181;112;NA;NA;NA
+2011;RUS;Vasily Artemyev;24;180;89;NA;NA;NA
+2011;RUS;Alexey Makovetskiy;28;179;98;NA;NA;NA
+2011;RUS;Denis Simplikevich;20;192;95;NA;NA;NA
+2011;RUS;Valery Tsnobiladze;31;178;105;NA;NA;NA
+2011;RUS;Adam Byrnes;30;200;118;NA;NA;NA
+2015;ARG;Juan Martín Hernández;33;187;94;55;FlyHalf;FH
+2015;ARG;Marcos Ayerza;32;186;113;62;Prop;PR
+2015;ARG;Juan Martín Fernandez Lobbe;33;191;106;66;BackRow;SR
+2015;ARG;Juan Manuel Leguizamon;32;190;104;64;BackRow;SR
+2015;ARG;Agustín Creevy;30;182;106;42;Hooker;HK
+2015;ARG;Horacio Agulla;30;181;90;60;Wing;WI
+2015;ARG;Marcelo Bosch;31;186;92;37;Centre;CE
+2015;ARG;Martín Landajo;27;171;81;47;ScrumHalf;SH
+2015;ARG;Nicolas Sanchez;26;177;83;35;FlyHalf;FH
+2015;ARG;Juan Pablo Socino;27;174;98;2;Centre;CE
+2015;ARG;Lucas Gonzalez Amorosino;29;185;93;45;Wing;WI
+2015;ARG;Juan Pablo Orlandi;32;190;119;16;Prop;PR
+2015;ARG;Tomas Cubelli;26;175;79;40;ScrumHalf;SH
+2015;ARG;Nahuel Tetaz Chaparro;25;188;121;22;Prop;PR
+2015;ARG;Joaquin Tuculet;26;184;86;25;FullBack;FB
+2015;ARG;Santiago Gonzalez Iglesias;27;178;89;16;Centre;CE
+2015;ARG;Juan Imhoff;27;185;90;29;Wing;WI
+2015;ARG;Mariano Galarza;28;203;115;25;Lock;SR
+2015;ARG;Leonardo Senatore;31;191;106;30;BackRow;SR
+2015;ARG;Matias Alemanno;23;198;112;15;Lock;SR
+2015;ARG;Javier Ortega Desio;25;193;104;17;BackRow;SR
+2015;ARG;Jeronimo De La Fuente;24;183;93;15;Centre;CE
+2015;ARG;Matías Moroni;24;184;85;4;Centre;CE
+2015;ARG;Pablo Matera;22;193;99;18;BackRow;SR
+2015;ARG;Facundo Isa;22;188;103;8;BackRow;SR
+2015;ARG;Santiago Cordero;21;176;79;14;Wing;WI
+2015;ARG;Ramiro Herrera;26;191;130;15;Prop;PR
+2015;ARG;Tomas Lavanini;22;200;118;23;Lock;SR
+2015;ARG;Lucas Noguera;21;179;107;18;Prop;PR
+2015;ARG;Julian Montoya;21;183;110;11;Hooker;HK
+2015;ARG;Guido Petti Pagadizabal;20;193;104;7;Lock;SR
+2015;AUS;Matt Giteau;32;178;84;97;FlyHalf;FH
+2015;AUS;Drew Mitchell;31;182;92;66;Wing;WI
+2015;AUS;Adam Ashley-Cooper;31;182;98;109;Centre;CE
+2015;AUS;Dean Mumm;31;196;109;39;Lock;SR
+2015;AUS;Tatafu Polota-Nau;30;181;114;56;Hooker;HK
+2015;AUS;Stephen Moore;32;186;112;97;Hooker;HK
+2015;AUS;Greg Holmes;32;187;114;19;Prop;PR
+2015;AUS;Will Genia;27;174;82;61;ScrumHalf;SH
+2015;AUS;David Pocock;27;187;115;51;BackRow;SR
+2015;AUS;Sekope Kepu;29;188;118;58;Prop;PR
+2015;AUS;Wycliff Palu;33;194;115;57;BackRow;SR
+2015;AUS;Quade Cooper;27;186;92;58;FlyHalf;FH
+2015;AUS;Ben McCalman;27;192;106;42;BackRow;SR
+2015;AUS;Rob Simmons;26;200;115;55;Lock;SR
+2015;AUS;Henry Speight;27;186;97;5;Wing;WI
+2015;AUS;Kurtley Beale;26;184;92;55;FlyHalf;FH
+2015;AUS;Rob Horne;26;186;93;28;Wing;WI
+2015;AUS;Toby Smith;26;190;116;2;Prop;PR
+2015;AUS;Kane Douglas;26;202;123;18;Lock;SR
+2015;AUS;James Slipper;26;186;117;69;Prop;PR
+2015;AUS;Matt Toomua;25;182;90;27;Centre;CE
+2015;AUS;Michael Hooper;23;182;101;47;BackRow;SR
+2015;AUS;Tevita Kuridrani;24;192;102;26;Centre;CE
+2015;AUS;Scott Sio;23;187;115;12;Prop;PR
+2015;AUS;Nick Phipps;26;180;87;34;ScrumHalf;SH
+2015;AUS;Bernard Foley;26;182;89;22;FlyHalf;FH
+2015;AUS;Will Skelton;23;203;140;14;Lock;SR
+2015;AUS;Sean McMahon;21;186;100;5;BackRow;SR
+2015;AUS;Joseph Tomane;25;188;101;17;Wing;WI
+2015;AUS;Israel Folau;26;193;103;34;FullBack;FB
+2015;AUS;Scott Fardy;31;198;114;25;BackRow;SR
+2015;CAN;Jamie Cudmore;37;198;116;37;Lock;SR
+2015;CAN;James Pritchard;36;175;85;61;FullBack;FB
+2015;CAN;Phil Mack;30;170;77;29;ScrumHalf;SH
+2015;CAN;Aaron Carpenter;32;183;107;69;Hooker;HK
+2015;CAN;Matt Evans;27;183;93;31;FullBack;FB
+2015;CAN;Phil Mackenzie;28;185;96;28;Wing;WI
+2015;CAN;John Moonlight;28;187;103;22;BackRow;SR
+2015;CAN;Ciaran Hearn;29;190;100;47;Centre;CE
+2015;CAN;Richard Thorpe;30;187;105;7;BackRow;SR
+2015;CAN;Hubert Buydens;33;191;120;37;Prop;PR
+2015;CAN;DTH Van Der Merwe;29;185;101;37;Wing;WI
+2015;CAN;Nathan Hirayama;27;183;88;21;FlyHalf;FH
+2015;CAN;Harry Jones;26;185;90;18;FlyHalf;FH
+2015;CAN;Jamie Mackenzie;26;175;89;8;ScrumHalf;SH
+2015;CAN;Andrew Tiedemann;27;183;115;37;Prop;PR
+2015;CAN;Nanyak Dala;31;178;100;35;BackRow;SR
+2015;CAN;Conor Trainor;25;188;95;20;Centre;CE
+2015;CAN;Jebb Sinclair;29;193;111;41;BackRow;SR
+2015;CAN;Brett Beukeboom;25;196;113;16;Lock;SR
+2015;CAN;Connor Braid;25;185;82;19;FlyHalf;FH
+2015;CAN;Doug Wooldridge;29;180;106;21;Prop;PR
+2015;CAN;Nick Blevins;26;187;98;26;Centre;CE
+2015;CAN;Tyler Ardron;24;194;110;21;BackRow;SR
+2015;CAN;Jeff Hassler;24;178;96;16;Wing;WI
+2015;CAN;Liam Underwood;24;189;91;11;FlyHalf;FH
+2015;CAN;Evan Olmstead;24;197;115;6;Lock;SR
+2015;CAN;Jake Ilnicki;23;180;125;8;Prop;PR
+2015;CAN;Ray Barkwill;35;180;103;24;Hooker;HK
+2015;CAN;Djustice Sears-Duru;21;185;118;10;Prop;PR
+2015;CAN;Benoit Piffero;28;183;102;10;Hooker;HK
+2015;CAN;Kyle Gilmour;27;185;85;13;BackRow;SR
+2015;CAN;Gordon McRorie;27;178;80;13;ScrumHalf;SH
+2015;ENG;James Haskell;30;193;114;61;BackRow;SR
+2015;ENG;David Wilson;30;188;122;43;Prop;PR
+2015;ENG;Danny Care;28;175;85;52;ScrumHalf;SH
+2015;ENG;Dan Cole;28;189;118;57;Prop;PR
+2015;ENG;Tom Youngs;28;175;102;29;Hooker;HK
+2015;ENG;Rob Webber;29;183;110;15;Hooker;HK
+2015;ENG;Brad Barritt;29;185;95;25;Centre;CE
+2015;ENG;Geoff Parling;31;198;114;30;Lock;SR
+2015;ENG;Chris Robshaw;29;188;110;41;BackRow;SR
+2015;ENG;Mike Brown;30;183;92;41;FullBack;FB
+2015;ENG;Richard Wigglesworth;32;176;86;25;ScrumHalf;SH
+2015;ENG;Alex Goode;27;180;91;18;FullBack;FB
+2015;ENG;Courtney Lawes;26;201;115;42;Lock;SR
+2015;ENG;Ben Youngs;26;178;87;53;ScrumHalf;SH
+2015;ENG;Jamie George;24;183;109;2;Hooker;HK
+2015;ENG;Joe Marler;25;183;113;35;Prop;PR
+2015;ENG;Mako Vunipola;24;182;118;28;Prop;PR
+2015;ENG;Kieran Brookes;25;186;122;14;Prop;PR
+2015;ENG;Jonny May;25;189;90;18;Wing;WI
+2015;ENG;Jonathan Joseph;24;183;93;14;Centre;CE
+2015;ENG;George Kruis;25;198;112;8;Lock;SR
+2015;ENG;Tom Wood;28;193;108;40;BackRow;SR
+2015;ENG;Owen Farrell;24;188;90;34;FlyHalf;FH
+2015;ENG;George Ford;22;175;80;15;FlyHalf;FH
+2015;ENG;Joe Launchbury;24;198;115;26;Lock;SR
+2015;ENG;Ben Morgan;26;190;116;30;BackRow;SR
+2015;ENG;Henry Slade;22;190;90;1;Centre;CE
+2015;ENG;Billy Vunipola;22;188;126;21;BackRow;SR
+2015;ENG;Jack Nowell;22;180;89;9;Wing;WI
+2015;ENG;Anthony Watson;21;188;90;13;Wing;WI
+2015;ENG;Sam Burgess;26;193;116;4;Centre;CE
+2015;FIJ;Sunia Koto;35;178;110;46;Hooker;HK
+2015;FIJ;Akapusi Qera;31;193;102;49;BackRow;SR
+2015;FIJ;Gabiriele Lovobalavu;30;176;97;22;Centre;CE
+2015;FIJ;Asaeli Tikoirotuma;29;186;93;14;Wing;WI
+2015;FIJ;Netani Talei;32;190;110;31;BackRow;SR
+2015;FIJ;Sakiusa Matadigo;33;188;106;21;BackRow;SR
+2015;FIJ;Kini Murimurivalu;26;184;94;11;FullBack;FB
+2015;FIJ;Isei Colati;31;175;115;9;Prop;PR
+2015;FIJ;Vereniki Goneva;31;189;99;37;Centre;CE
+2015;FIJ;Manasa Saulo;26;189;111;26;Prop;PR
+2015;FIJ;Nemia Kenatale;29;179;85;35;ScrumHalf;SH
+2015;FIJ;Apisalome Ratuniyarawa;29;198;114;17;Lock;SR
+2015;FIJ;Viliame Veikoso;33;178;102;30;Hooker;HK
+2015;FIJ;Henry Seniloli;26;174;70;8;ScrumHalf;SH
+2015;FIJ;Nikola Matawalu;26;179;85;28;ScrumHalf;SH
+2015;FIJ;Leone Nakarawa;27;198;117;33;Lock;SR
+2015;FIJ;Josh Matavesi;24;184;93;14;FlyHalf;FH
+2015;FIJ;Campese Ma'afu;30;182;114;37;Prop;PR
+2015;FIJ;Talemaitoga Tuapati;31;180;107;31;Hooker;HK
+2015;FIJ;Dominiko Waqaniburotu;29;189;111;25;BackRow;SR
+2015;FIJ;Nemani Nadolo;27;194;125;22;Centre;CE
+2015;FIJ;Malakai Ravulo;32;190;107;35;BackRow;SR
+2015;FIJ;Tevita Cavubati;28;200;120;10;Lock;SR
+2015;FIJ;Ben Volavola;24;191;89;8;FlyHalf;FH
+2015;FIJ;Metuisela Talebula;24;186;88;18;FullBack;FB
+2015;FIJ;Waisea Nayacalevu;25;195;97;13;Wing;WI
+2015;FIJ;Leroy Atalifo;27;180;130;2;Prop;PR
+2015;FIJ;Peceli Yato;22;183;104;6;BackRow;SR
+2015;FIJ;Lepani Botia;26;178;98;5;Centre;CE
+2015;FIJ;Peni Ravai;25;185;105;11;Prop;PR
+2015;FIJ;Nemia Soqeta;30;196;117;8;Lock;SR
+2015;FRA;Frederic Michalak;32;180;87;74;FlyHalf;FH
+2015;FRA;Nicolas Mas;35;180;108;82;Prop;PR
+2015;FRA;Pascal Pape;34;195;118;62;Lock;SR
+2015;FRA;Yannick Nyanga;31;188;103;44;BackRow;SR
+2015;FRA;Dimitri Szarzewski;32;181;101;82;Hooker;HK
+2015;FRA;Damien Chouly;29;192;109;33;BackRow;SR
+2015;FRA;Sebastien Tillous-Borde;30;176;87;17;ScrumHalf;SH
+2015;FRA;Mathieu Bastareaud;27;183;125;36;Centre;CE
+2015;FRA;Yoann Huget;28;187;96;41;Wing;WI
+2015;FRA;Yoann Maestri;27;201;119;39;Lock;SR
+2015;FRA;Morgan Parra;26;180;83;63;ScrumHalf;SH
+2015;FRA;Guilhem Guirado;29;180;109;35;Hooker;HK
+2015;FRA;Louis Picamoles;29;192;118;49;BackRow;SR
+2015;FRA;Fulgence Ouedraogo;29;191;100;38;BackRow;SR
+2015;FRA;Scott Spedding;29;186;100;11;FullBack;FB
+2015;FRA;Thierry Dusautoir;33;188;103;77;BackRow;SR
+2015;FRA;Vincent Debaty;33;190;125;34;Prop;PR
+2015;FRA;Wesley Fofana;27;182;93;36;Centre;CE
+2015;FRA;Rabah Slimani;25;178;112;18;Prop;PR
+2015;FRA;Alexandre Dumoulin;26;189;98;5;Centre;CE
+2015;FRA;Benjamin Kayser;31;183;108;35;Hooker;HK
+2015;FRA;Noa Nakaitaci;25;190;97;6;Wing;WI
+2015;FRA;Remy Grosso;27;189;103;12;Wing;WI
+2015;FRA;Uini Atonio;25;197;145;10;Prop;PR
+2015;FRA;Rory Kockott;29;180;89;10;ScrumHalf;SH
+2015;FRA;Eddy Ben Arous;25;184;109;9;Prop;PR
+2015;FRA;Brice Dulin;25;176;82;21;FullBack;FB
+2015;FRA;Remi Tales;31;186;93;21;FlyHalf;FH
+2015;FRA;Gael Fickou;21;190;99;15;Centre;CE
+2015;FRA;Alexandre Flanquart;25;204;120;17;Lock;SR
+2015;FRA;Bernard Le Roux;26;196;113;20;BackRow;SR
+2015;FRA;Sofiane Guitoune;26;184;94;5;Wing;WI
+2015;GEO;Giorgi Chkhaidze;34;195;112;85;Lock;SR
+2015;GEO;Mamuka Gorgodze;31;196;118;63;BackRow;SR
+2015;GEO;Merab Kvirikashvili;31;177;80;87;FullBack;FB
+2015;GEO;Davit Zirakashvili;31;179;117;52;Prop;PR
+2015;GEO;Levan Datunashvili;32;196;114;73;Lock;SR
+2015;GEO;Giorgi Begadze;29;178;81;38;ScrumHalf;SH
+2015;GEO;Davit Kubriashvili;28;183;122;40;Prop;PR
+2015;GEO;Simon Maisuradze;29;180;108;32;Hooker;HK
+2015;GEO;Alexander Todua;27;183;92;48;Wing;WI
+2015;GEO;Lasha Khmaladze;27;180;82;39;FlyHalf;FH
+2015;GEO;Jaba Bregvadze;28;180;102;31;Hooker;HK
+2015;GEO;Karlen Asieshvili;28;184;112;14;Prop;PR
+2015;GEO;Davit Kacharava;30;184;96;85;Centre;CE
+2015;GEO;Lasha Malaguradze;29;185;92;60;FlyHalf;FH
+2015;GEO;Giorgi Nemsadze;31;194;111;53;Lock;SR
+2015;GEO;Shalva Sutiashvili;31;193;102;51;BackRow;SR
+2015;GEO;Beka Tsiklauri;26;180;87;21;FullBack;FB
+2015;GEO;Viktor Kolelishvili;25;192;104;34;BackRow;SR
+2015;GEO;Konstantine Mikautadze;24;200;125;38;Lock;SR
+2015;GEO;Levan Chilachava;24;188;125;26;Prop;PR
+2015;GEO;Giorgi Tkhilaishvili;24;180;103;23;BackRow;SR
+2015;GEO;Shalva Mamukashvili;24;180;106;33;Hooker;HK
+2015;GEO;Mikheil Nariashvili;25;186;118;30;Prop;PR
+2015;GEO;Merab Sharikadze;22;185;96;38;Centre;CE
+2015;GEO;Vazha Khutsishvili;22;165;73;20;ScrumHalf;SH
+2015;GEO;Lasha Lomidze;23;195;108;13;BackRow;SR
+2015;GEO;Tamaz Mchedlidze;22;194;108;33;Wing;WI
+2015;GEO;Giorgi Pruidze;21;192;95;5;Wing;WI
+2015;GEO;Giorgi Aptsiauri;21;178;89;12;FullBack;FB
+2015;GEO;Murazi Giorgadze;21;182;85;8;Wing;WI
+2015;GEO;Vasil Lobzhanidze;18;175;75;8;ScrumHalf;SH
+2015;IRE;Paul O'Connell;35;198;112;112;Lock;SR
+2015;IRE;Tommy Bowe;31;190;96;68;Wing;WI
+2015;IRE;Jonathan Sexton;30;188;92;57;FlyHalf;FH
+2015;IRE;Chris Henry;30;191;107;20;BackRow;SR
+2015;IRE;Jared Payne;29;188;95;9;Centre;CE
+2015;IRE;Rory Best;33;180;110;86;Hooker;HK
+2015;IRE;Eoin Reddan;34;178;83;65;ScrumHalf;SH
+2015;IRE;Cian Healy;27;185;112;52;Prop;PR
+2015;IRE;Keith Earls;27;178;92;42;Wing;WI
+2015;IRE;Darren Cave;28;183;93;10;Centre;CE
+2015;IRE;Rob Kearney;29;185;95;67;FullBack;FB
+2015;IRE;Devin Toner;29;208;124;27;Lock;SR
+2015;IRE;Richardt Strauss;29;175;101;10;Hooker;HK
+2015;IRE;Jamie Heaslip;31;193;110;81;BackRow;SR
+2015;IRE;Sean Cronin;29;180;101;46;Hooker;HK
+2015;IRE;Sean O'Brien;28;188;108;40;BackRow;SR
+2015;IRE;Luke Fitzgerald;28;185;91;32;Wing;WI
+2015;IRE;Mike Ross;35;188;127;53;Prop;PR
+2015;IRE;Dave Kearney;26;180;91;11;Wing;WI
+2015;IRE;Ian Madigan;26;180;90;22;FlyHalf;FH
+2015;IRE;Donnacha Ryan;31;201;116;32;Lock;SR
+2015;IRE;Jack McGrath;25;185;118;21;Prop;PR
+2015;IRE;Conor Murray;26;188;94;40;ScrumHalf;SH
+2015;IRE;Peter O'Mahony;26;191;107;33;BackRow;SR
+2015;IRE;Jordi Murphy;24;188;108;12;BackRow;SR
+2015;IRE;Simon Zebo;25;188;94;19;Wing;WI
+2015;IRE;Tadhg Furlong;22;185;119;2;Prop;PR
+2015;IRE;Iain Henderson;23;198;114;20;Lock;SR
+2015;IRE;Paddy Jackson;23;180;80;12;FlyHalf;FH
+2015;IRE;Robbie Henshaw;22;191;100;12;Centre;CE
+2015;IRE;Nathan White;34;188;122;4;Prop;PR
+2015;ITA;Sergio Parisse;32;196;112;113;BackRow;SR
+2015;ITA;Martin Castrogiovanni;33;188;117;115;Prop;PR
+2015;ITA;Andrea Masi;34;183;99;95;FullBack;FB
+2015;ITA;Mauro Bergamasco;36;185;104;105;BackRow;SR
+2015;ITA;Valerio Bernabò;31;198;110;26;Lock;SR
+2015;ITA;Leonardo Ghiraldini;30;184;103;80;Hooker;HK
+2015;ITA;Alessandro Zanni;31;188;107;92;BackRow;SR
+2015;ITA;Michele Rizzo;33;188;110;21;Prop;PR
+2015;ITA;Matias Aguero;34;184;106;38;Prop;PR
+2015;ITA;Luke McLean;28;190;98;73;FullBack;FB
+2015;ITA;Davide Giazzon;29;180;106;22;Hooker;HK
+2015;ITA;Simone Favaro;26;183;100;25;BackRow;SR
+2015;ITA;Lorenzo Cittadini;32;190;120;42;Prop;PR
+2015;ITA;Samuela Vunisa;27;189;117;10;BackRow;SR
+2015;ITA;Josh Furno;25;200;108;33;Lock;SR
+2015;ITA;Gonzalo Garcia;31;185;96;38;Centre;CE
+2015;ITA;Francesco Minto;28;193;107;21;BackRow;SR
+2015;ITA;Tommaso Benvenuti;24;187;100;32;Centre;CE
+2015;ITA;Edoardo Gori;25;180;86;45;ScrumHalf;SH
+2015;ITA;Andrea Manici;25;183;103;14;Hooker;HK
+2015;ITA;Giovanbattista Venditti;25;187;110;31;Wing;WI
+2015;ITA;Quintin Geldenhuys;34;203;118;59;Lock;SR
+2015;ITA;Guglielmo Palazzani;24;173;83;13;ScrumHalf;SH
+2015;ITA;Marco Fuser;24;198;124;6;Lock;SR
+2015;ITA;Dario Chistolini;27;180;109;11;Prop;PR
+2015;ITA;Michele Visentin;23;184;92;1;Wing;WI
+2015;ITA;Michele Campagnaro;22;184;91;16;Centre;CE
+2015;ITA;Leonardo Sarto;23;192;93;21;Wing;WI
+2015;ITA;Marcello Violi;21;176;83;2;ScrumHalf;SH
+2015;ITA;Tommaso Allan;22;184;87;19;FlyHalf;FH
+2015;ITA;Enrico Bacchin;22;182;97;4;Centre;CE
+2015;ITA;Carlo Canna;23;185;90;5;FlyHalf;FH
+2015;JPN;Hitoshi Ono;37;192;106;95;Lock;SR
+2015;JPN;Toshiaki Hirose;33;173;82;28;Wing;WI
+2015;JPN;Akihito Yamada;30;181;90;14;Wing;WI
+2015;JPN;Ayumu Goromaru;29;185;99;55;FullBack;FB
+2015;JPN;Shota Horie;29;180;105;40;Hooker;HK
+2015;JPN;Shinya Makabe;28;192;118;33;Lock;SR
+2015;JPN;Kensuke Hatakeyama;30;178;115;70;Prop;PR
+2015;JPN;Fumiaki Tanaka;30;166;71;51;ScrumHalf;SH
+2015;JPN;Masataka Mikami;27;178;115;31;Prop;PR
+2015;JPN;Luke Thompson;34;196;108;61;Lock;SR
+2015;JPN;Kosei Ono;28;171;83;30;FlyHalf;FH
+2015;JPN;Michael Leitch;26;190;105;45;BackRow;SR
+2015;JPN;Ryu Koliniasi Holani;33;188;112;42;BackRow;SR
+2015;JPN;Hiroshi Yamashita;29;183;122;47;Prop;PR
+2015;JPN;Keita Inagaki;25;183;115;8;Prop;PR
+2015;JPN;Harumichi Tatekawa;25;181;94;41;Centre;CE
+2015;JPN;Amanaki Mafi;25;189;112;5;BackRow;SR
+2015;JPN;Takeshi Kizu;27;183;114;39;Hooker;HK
+2015;JPN;Hiroki Yuhara;31;173;102;22;Hooker;HK
+2015;JPN;Justin Ives;31;196;105;31;BackRow;SR
+2015;JPN;Atsushi Hiwasa;28;166;72;49;ScrumHalf;SH
+2015;JPN;Shoji Ito;34;191;100;36;Lock;SR
+2015;JPN;Yu Tamura;26;181;92;35;FlyHalf;FH
+2015;JPN;Yoshikazu Fujita;22;184;90;28;Wing;WI
+2015;JPN;Hendrik Tui;27;189;107;34;BackRow;SR
+2015;JPN;Michael Broadhurst;28;196;111;24;BackRow;SR
+2015;JPN;Kenki Fukuoka;23;175;83;17;Wing;WI
+2015;JPN;Male Sau;27;183;97;25;Centre;CE
+2015;JPN;Craig Wing;35;180;90;10;Centre;CE
+2015;JPN;Kotaro Matsushima;22;175;88;14;Wing;WI
+2015;JPN;Karne Hesketh;30;178;98;12;Wing;WI
+2015;NAM;Jacques Burger;32;188;102;36;BackRow;SR
+2015;NAM;Darryl De La Harpe;26;183;97;27;Centre;CE
+2015;NAM;Eugene Jantjies;29;177;87;47;ScrumHalf;SH
+2015;NAM;Casper Viviers;27;185;112;15;Prop;PR
+2015;NAM;Chrysander Botha;27;185;91;35;FullBack;FB
+2015;NAM;Johnny Redelinghuys;31;184;127;48;Prop;PR
+2015;NAM;PJ Van Lill;31;192;113;39;BackRow;SR
+2015;NAM;Tinus Du Plessis;31;195;104;46;BackRow;SR
+2015;NAM;Johan Coetzee;27;186;120;6;Prop;PR
+2015;NAM;Johan Tromp;24;183;91;20;FullBack;FB
+2015;NAM;Russel Van Wyk;25;180;88;5;Wing;WI
+2015;NAM;Jaco Engels;34;185;122;13;Prop;PR
+2015;NAM;David Philander;28;175;93;24;Wing;WI
+2015;NAM;Eneill Buitendag;26;187;97;15;ScrumHalf;SH
+2015;NAM;Conrad Marais;26;193;103;9;Wing;WI
+2015;NAM;Rohan Kitshoff;30;182;98;23;BackRow;SR
+2015;NAM;Theuns Kotze;29;175;86;27;FlyHalf;FH
+2015;NAM;Danie Van Wyk;29;188;91;14;Centre;CE
+2015;NAM;Raoul Larson;31;185;125;7;Prop;PR
+2015;NAM;Torsten Van Jaarsveld;28;173;100;8;Hooker;HK
+2015;NAM;Wian Conradie;20;185;105;1;BackRow;SR
+2015;NAM;Janco Venter;21;193;100;10;Lock;SR
+2015;NAM;Renaldo Bothma;26;190;113;8;BackRow;SR
+2015;NAM;Heinrich Smit;24;175;88;12;Wing;WI
+2015;NAM;Johan Deysel;24;184;94;10;Centre;CE
+2015;NAM;Louis van der Westhuizen;20;178;93;3;Hooker;HK
+2015;NAM;Tjiuee Uanivi;24;200;108;12;Lock;SR
+2015;NAM;JC Greyling;24;187;92;10;Centre;CE
+2015;NAM;Damian Stevens;20;175;82;1;ScrumHalf;SH
+2015;NAM;AJ De Klerk;23;178;128;6;Prop;PR
+2015;NAM;Leneve Damens;22;186;100;5;BackRow;SR
+2015;NZL;Richie McCaw;34;187;105;144;BackRow;SR
+2015;NZL;Keven Mealamu;36;181;109;127;Hooker;HK
+2015;NZL;Tony Woodcock;34;184;120;116;Prop;PR
+2015;NZL;Ma'a Nonu;33;182;108;99;Centre;CE
+2015;NZL;Daniel Carter;33;178;96;107;FlyHalf;FH
+2015;NZL;Jerome Kaino;32;196;110;62;BackRow;SR
+2015;NZL;Conrad Smith;33;186;95;89;Centre;CE
+2015;NZL;Liam Messam;31;190;109;42;BackRow;SR
+2015;NZL;Ben Franks;31;183;117;44;Prop;PR
+2015;NZL;Kieran Read;29;193;110;79;BackRow;SR
+2015;NZL;Colin Slade;27;183;90;21;FlyHalf;FH
+2015;NZL;Victor Vito;28;192;109;30;BackRow;SR
+2015;NZL;Dane Coles;28;184;110;31;Hooker;HK
+2015;NZL;Ben Smith;29;186;94;43;Wing;WI
+2015;NZL;Wyatt Crockett;32;193;116;42;Prop;PR
+2015;NZL;Samuel Whitelock;26;202;116;68;Lock;SR
+2015;NZL;Aaron Smith;26;171;82;42;ScrumHalf;SH
+2015;NZL;Owen Franks;27;185;118;73;Prop;PR
+2015;NZL;Tawera Kerr-Barlow;25;187;89;16;ScrumHalf;SH
+2015;NZL;Julian Savea;25;192;106;37;Wing;WI
+2015;NZL;Sonny Bill Williams;30;191;108;28;Centre;CE
+2015;NZL;Codie Taylor;24;183;106;4;Hooker;HK
+2015;NZL;Luke Romano;29;199;113;21;Lock;SR
+2015;NZL;Sam Cane;23;189;105;26;BackRow;SR
+2015;NZL;TJ Perenara;23;183;94;17;ScrumHalf;SH
+2015;NZL;Beauden Barrett;24;187;91;32;FlyHalf;FH
+2015;NZL;Waisake Naholo;24;186;102;1;Wing;WI
+2015;NZL;Brodie Retallick;24;204;120;42;Lock;SR
+2015;NZL;Malakai Fekitoa;23;187;99;12;Centre;CE
+2015;NZL;Charlie Faumuina;28;184;128;29;Prop;PR
+2015;NZL;Nehe Milner-Skudder;24;182;90;4;Wing;WI
+2015;ROU;Danut Dumbrava;34;187;95;74;FlyHalf;FH
+2015;ROU;Paulica Ion;32;183;118;71;Prop;PR
+2015;ROU;Valentin Calafeteanu;30;182;82;74;ScrumHalf;SH
+2015;ROU;Valentin Ursache;29;194;112;61;BackRow;SR
+2015;ROU;Catalin Fercu;29;184;87;81;FullBack;FB
+2015;ROU;Csaba Gal;30;184;97;85;Centre;CE
+2015;ROU;Otar Turashvili;29;184;118;22;Hooker;HK
+2015;ROU;Mihaita Lazar;28;186;118;48;Prop;PR
+2015;ROU;Viorel Lucaci;29;190;103;43;BackRow;SR
+2015;ROU;Mihai Macovei;28;194;108;65;BackRow;SR
+2015;ROU;Florin Vlaicu;29;186;98;82;Centre;CE
+2015;ROU;Ionut Botezatu;27;180;80;28;Wing;WI
+2015;ROU;Andrei Radoi;28;181;103;47;Hooker;HK
+2015;ROU;Stelian Burcea;31;189;107;51;BackRow;SR
+2015;ROU;Madalin Lemnaru;26;188;95;28;Wing;WI
+2015;ROU;Valentin Poparlan;28;196;117;48;Lock;SR
+2015;ROU;Daniel Carpo;30;191;106;51;BackRow;SR
+2015;ROU;Florin Surugiu;30;170;81;52;ScrumHalf;SH
+2015;ROU;Alexandru Tarus;26;184;111;7;Prop;PR
+2015;ROU;Adrian Apostol;25;187;93;20;Wing;WI
+2015;ROU;Tudorel Bratu;24;172;71;NA;ScrumHalf;SH
+2015;ROU;Florin Ionita;25;195;96;17;Wing;WI
+2015;ROU;Andrei Ursache;31;180;117;23;Prop;PR
+2015;ROU;Eugen Capatana;29;180;105;18;Hooker;HK
+2015;ROU;Horatiu Pungea;29;188;130;27;Prop;PR
+2015;ROU;Marius Antonescu;23;198;112;9;Lock;SR
+2015;ROU;Sabin Stratila;20;187;80;1;FullBack;FB
+2015;ROU;Michael Wiringi;30;173;87;1;FlyHalf;FH
+2015;ROU;Paula Kinikinilau;29;185;105;2;Centre;CE
+2015;ROU;Johannes van Heerden;28;196;118;2;Lock;SR
+2015;ROU;Ovidiu Tonita;35;195;109;71;BackRow;SR
+2015;WSM;Alesana Tuilagi;34;194;111;37;Wing;WI
+2015;WSM;Maurie Faasavalu;35;191;112;26;BackRow;SR
+2015;WSM;Ofisa Treviranus;31;185;108;34;BackRow;SR
+2015;WSM;Paul Perez;29;189;101;13;Centre;CE
+2015;WSM;Jake Grey;31;170;110;4;Prop;PR
+2015;WSM;Census Johnston;34;190;135;53;Prop;PR
+2015;WSM;Jack Lam;27;183;101;17;BackRow;SR
+2015;WSM;Faifili Levave;29;194;100;8;BackRow;SR
+2015;WSM;George Pisi;29;188;103;18;Centre;CE
+2015;WSM;Wayne Ole Avei;32;178;114;23;Hooker;HK
+2015;WSM;Alafoti Faosiliva;29;185;112;14;BackRow;SR
+2015;WSM;Tusi Pisi;33;183;93;26;FlyHalf;FH
+2015;WSM;Ken Pisi;26;180;89;8;Wing;WI
+2015;WSM;Kane Thompson;33;198;113;31;Lock;SR
+2015;WSM;Iosefa Tekori;31;198;119;34;Lock;SR
+2015;WSM;Fa'atoina Autagavaia;27;178;82;17;FullBack;FB
+2015;WSM;Sanele Vavae Tuilagi;27;190;108;5;BackRow;SR
+2015;WSM;Viliamu Afatia;25;181;106;12;Prop;PR
+2015;WSM;Sakaria Taulafo;32;183;118;38;Prop;PR
+2015;WSM;Patrick Faapale;24;179;90;6;FlyHalf;FH
+2015;WSM;Anthony Perenise;32;182;118;26;Prop;PR
+2015;WSM;Kahn Fotuali'i;33;184;94;26;ScrumHalf;SH
+2015;WSM;Johnny Leota;31;183;93;19;Centre;CE
+2015;WSM;Rey Lee-Lo;29;181;90;4;Centre;CE
+2015;WSM;Motu Matu'u;28;180;112;5;Hooker;HK
+2015;WSM;Vavao Afemai;23;168;65;6;ScrumHalf;SH
+2015;WSM;Ma'atulimanu Leiataua;28;180;106;8;Hooker;HK
+2015;WSM;Teofilo Paulo;27;198;122;20;Lock;SR
+2015;WSM;Tim Nanai-Williams;26;178;88;3;FullBack;FB
+2015;WSM;Mike Stanley;25;183;88;8;FlyHalf;FH
+2015;WSM;TJ Ioane;26;187;96;7;BackRow;SR
+2015;SCO;Sean Lamont;34;188;105;98;Wing;WI
+2015;SCO;Ross Ford;31;186;115;92;Hooker;HK
+2015;SCO;Alasdair Strokosch;32;191;109;47;BackRow;SR
+2015;SCO;Greig Laidlaw;29;176;80;42;ScrumHalf;SH
+2015;SCO;Gordon Reid;28;188;120;12;Prop;PR
+2015;SCO;Richie Vernon;28;195;102;22;Centre;CE
+2015;SCO;Alasdair Dickinson;32;185;111;49;Prop;PR
+2015;SCO;Ryan Grant;29;183;111;25;Prop;PR
+2015;SCO;Tommy Seymour;27;183;95;19;Wing;WI
+2015;SCO;Kevin Bryce;27;178;92;2;Hooker;HK
+2015;SCO;John Hardie;27;183;102;3;BackRow;SR
+2015;SCO;Sean Maitland;27;188;98;18;Wing;WI
+2015;SCO;Peter Horne;25;183;92;12;Centre;CE
+2015;SCO;Richie Gray;26;207;126;49;Lock;SR
+2015;SCO;Fraser Brown;26;183;103;11;Hooker;HK
+2015;SCO;Grant Gilchrist;25;202;120;12;Lock;SR
+2015;SCO;Henry Pyrgos;26;178;80;17;ScrumHalf;SH
+2015;SCO;Ryan Wilson;26;191;105;13;BackRow;SR
+2015;SCO;Willem Nel;29;182;120;5;Prop;PR
+2015;SCO;Jon Welsh;28;185;111;9;Prop;PR
+2015;SCO;David Denton;25;196;114;29;BackRow;SR
+2015;SCO;Matt Scott;24;186;101;30;Centre;CE
+2015;SCO;Duncan Weir;24;176;90;19;FlyHalf;FH
+2015;SCO;Mark Bennett;22;183;89;11;Centre;CE
+2015;SCO;Stuart Hogg;23;180;93;35;FullBack;FB
+2015;SCO;Tim Visser;28;196;109;22;Wing;WI
+2015;SCO;Finn Russell;23;182;87;13;FlyHalf;FH
+2015;SCO;Sam Hidalgo-Clyne;22;175;87;7;ScrumHalf;SH
+2015;SCO;Jonny Gray;21;198;119;16;Lock;SR
+2015;SCO;Tim Swinson;28;193;116;14;Lock;SR
+2015;SCO;Josh Strauss;28;193;114;2;BackRow;SR
+2015;RSA;Victor Matfield;38;201;110;125;Lock;SR
+2015;RSA;Jean De Villiers;34;190;100;109;Centre;CE
+2015;RSA;Schalk Burger;32;193;110;81;BackRow;SR
+2015;RSA;Fourie Du Preez;33;183;88;72;ScrumHalf;SH
+2015;RSA;Bryan Habana;32;179;94;112;Wing;WI
+2015;RSA;Morne Steyn;31;186;91;59;FlyHalf;FH
+2015;RSA;Bismarck Du Plessis;31;190;115;74;Hooker;HK
+2015;RSA;Ruan Pienaar;31;186;92;86;ScrumHalf;SH
+2015;RSA;Adriaan Strauss;29;184;112;50;Hooker;HK
+2015;RSA;JP Pietersen;29;191;102;62;Wing;WI
+2015;RSA;Schalk Brits;34;182;100;9;Hooker;HK
+2015;RSA;Jannie Du Plessis;32;187;123;66;Prop;PR
+2015;RSA;Tendai Mtawarira;30;183;116;70;Prop;PR
+2015;RSA;Coenie Oosthuizen;26;187;126;22;Prop;PR
+2015;RSA;Willem Alberts;31;192;120;33;BackRow;SR
+2015;RSA;Lwazi Mvovo;29;181;93;14;Wing;WI
+2015;RSA;Duane Vermeulen;29;193;108;30;BackRow;SR
+2015;RSA;Zane Kirchner;31;184;92;31;FullBack;FB
+2015;RSA;Pat Lambie;24;177;89;46;FlyHalf;FH
+2015;RSA;Siya Kolisi;24;186;99;13;BackRow;SR
+2015;RSA;Francois Louw;30;190;114;38;BackRow;SR
+2015;RSA;Eben Etzebeth;23;203;117;39;Lock;SR
+2015;RSA;Pieter-Steph Du Toit;23;200;115;5;Lock;SR
+2015;RSA;Handre Pollard;21;189;98;15;FlyHalf;FH
+2015;RSA;Frans Malherbe;24;190;123;7;Prop;PR
+2015;RSA;Jesse Kriel;21;186;96;6;Centre;CE
+2015;RSA;Willie Le Roux;26;186;90;29;FullBack;FB
+2015;RSA;Trevor Nyakane;26;178;120;18;Prop;PR
+2015;RSA;Damian De Allende;23;189;109;8;Centre;CE
+2015;RSA;Lodewyk De Jager;22;205;125;14;Lock;SR
+2015;RSA;Rudy Paige;26;169;77;0;ScrumHalf;SH
+2015;TON;Tukulua Lokotui;35;193;118;25;Lock;SR
+2015;TON;Soane Tonga'uiha;33;194;115;18;Prop;PR
+2015;TON;Tevita Mailau;30;180;100;17;Prop;PR
+2015;TON;Sione Kalamafoni;27;194;117;26;BackRow;SR
+2015;TON;Jack Ram;28;189;105;3;BackRow;SR
+2015;TON;Samisoni Fisilau;27;182;95;15;ScrumHalf;SH
+2015;TON;Nili Latu;33;180;101;47;BackRow;SR
+2015;TON;Hale T Pole;36;190;109;37;BackRow;SR
+2015;TON;Vungakoto Lilo;32;187;95;39;FullBack;FB
+2015;TON;Sila Puafisi;27;183;94;20;Prop;PR
+2015;TON;Sitiveni Mafi;25;196;102;15;BackRow;SR
+2015;TON;Sione Piukala;30;180;105;15;Centre;CE
+2015;TON;David Halaifonua;28;189;85;13;Wing;WI
+2015;TON;Opeti Fonua;29;198;120;6;BackRow;SR
+2015;TON;Kurt Morath;30;186;85;27;FlyHalf;FH
+2015;TON;Telusa Veainu;24;190;103;5;Wing;WI
+2015;TON;Will Helu;29;190;89;21;Wing;WI
+2015;TON;Viliami Ma'afu;33;190;109;25;BackRow;SR
+2015;TON;Elvis Taione;32;178;112;19;Hooker;HK
+2015;TON;Halani 'Aulika;32;190;120;14;Prop;PR
+2015;TON;Siale Piutau;29;185;99;21;Centre;CE
+2015;TON;Sona Taumalolo;33;185;112;18;Prop;PR
+2015;TON;Joseph Tuineau;34;203;120;22;Lock;SR
+2015;TON;Fetu'u Vainikolo;30;180;95;23;Wing;WI
+2015;TON;Latiume Fosita;23;187;97;11;FlyHalf;FH
+2015;TON;Uili Kolo'ofa'i;32;197;118;5;Lock;SR
+2015;TON;Paula Ngauamo;25;185;122;4;Hooker;HK
+2015;TON;Sonatane Takulua;24;180;95;11;ScrumHalf;SH
+2015;TON;Sosefo Maake;24;179;97;1;ScrumHalf;SH
+2015;TON;Viliami Tahitua;23;180;105;2;Centre;CE
+2015;TON;Aleki Lutui;37;185;108;43;Hooker;HK
+2015;URY;Oscar Duran;35;174;115;33;Prop;PR
+2015;URY;Carlos Arboleya;30;173;110;52;Hooker;HK
+2015;URY;Jeronimo Etcheverry;27;178;85;42;UtilityBack;SH
+2015;URY;Alberto Roman;28;180;96;37;Centre;CE
+2015;URY;Leandro Leivas;27;181;98;44;Wing;WI
+2015;URY;Francisco Bulanti;35;178;91;23;Wing;WI
+2015;URY;Mario Sagario;29;187;116;49;Prop;PR
+2015;URY;Nicolas Klappenbach;33;178;98;47;Hooker;HK
+2015;URY;Juan De Freitas;25;181;97;40;BackRow;SR
+2015;URY;Juan Manuel Gaminara;26;175;95;25;BackRow;SR
+2015;URY;Santiago Gibernau;27;183;85;33;UtilityBack;SH
+2015;URY;Diego Magno;26;188;105;50;BackRow;SR
+2015;URY;Alejandro Nieto;27;186;108;29;BackRow;SR
+2015;URY;Santiago Vilaseca;31;187;106;35;Lock;SR
+2015;URY;Gaston Mieres;25;181;80;39;FullBack;FB
+2015;URY;Alejo Corral;34;179;105;48;Prop;PR
+2015;URY;Alejo Duran;24;171;79;33;ScrumHalf;SH
+2015;URY;Andres Vilaseca;24;196;95;14;Centre;CE
+2015;URY;Felipe Berchesi;24;178;80;17;FlyHalf;FH
+2015;URY;Agustin Ormaechea;24;176;86;25;ScrumHalf;SH
+2015;URY;Agustin Alonso;24;174;85;13;BackRow;SR
+2015;URY;Franco Lamanna;23;188;100;24;UtilityForward;SR
+2015;URY;Mateo Sanguinetti;23;185;105;16;Prop;PR
+2015;URY;Joaquin Prada;24;181;93;30;Centre;CE
+2015;URY;Rodrigo Silva;22;175;75;16;UtilityBack;SH
+2015;URY;Jorge Zerbino;23;192;112;12;Lock;SR
+2015;URY;Mathias Palomeque;28;191;105;24;Lock;SR
+2015;URY;Fernando Bascou;28;188;96;26;BackRow;SR
+2015;URY;Matias Beer;21;193;87;13;UtilityForward;SR
+2015;URY;German Kessler;21;184;105;13;Hooker;HK
+2015;URY;Manuel Blengio;21;173;77;10;FlyHalf;FH
+2015;USA;Louis Stanfill;30;192;110;55;Lock;SR
+2015;USA;Eric Fry;28;193;116;35;Prop;PR
+2015;USA;Andrew Durutalo;27;187;102;11;BackRow;SR
+2015;USA;Zach Test;25;190;88;4;Wing;WI
+2015;USA;Chris Wyles;32;183;93;52;FullBack;FB
+2015;USA;Takudzwa Ngwenya;30;178;84;34;Wing;WI
+2015;USA;Thretton Palamo;27;193;104;12;Centre;CE
+2015;USA;Mike Petri;31;180;86;56;ScrumHalf;SH
+2015;USA;Matekitonga Moeakiola;37;183;118;31;Prop;PR
+2015;USA;Hayden Smith;30;200;116;28;Lock;SR
+2015;USA;Andrew Suniula;33;189;105;37;Centre;CE
+2015;USA;Cam Dolan;25;198;107;18;BackRow;SR
+2015;USA;Zach Fenoglio;26;188;117;14;Hooker;HK
+2015;USA;Brett Thompson;25;193;91;5;Wing;WI
+2015;USA;Phil Thiel;30;180;111;34;Hooker;HK
+2015;USA;Greg Peterson;24;204;123;10;Lock;SR
+2015;USA;Samu Manoa;30;198;122;13;Lock;SR
+2015;USA;Shalom Suniula;27;180;86;14;FlyHalf;FH
+2015;USA;Blaine Scully;27;192;92;28;Wing;WI
+2015;USA;Folau Niua;30;180;92;15;FullBack;FB
+2015;USA;John Quill;25;187;102;14;BackRow;SR
+2015;USA;Seamus Kelly;24;178;91;22;Centre;CE
+2015;USA;Titi Lamositele;20;183;113;15;Prop;PR
+2015;USA;Danny Barrett;25;193;97;10;BackRow;SR
+2015;USA;Oli Kilifi;28;180;118;13;Prop;PR
+2015;USA;Matthew Trouville;29;190;100;4;BackRow;SR
+2015;USA;Al McFarland;26;193;114;7;BackRow;SR
+2015;USA;Chris Baumann;28;183;118;5;Prop;PR
+2015;USA;Niku Kruger;23;175;84;1;ScrumHalf;SH
+2015;USA;AJ MacGinty;25;183;87;7;FlyHalf;FH
+2015;USA;Joe Taufetee;NA;NA;NA;0;Prop;PR
+2015;WAL;Gethin Jenkins;34;188;117;122;Prop;PR
+2015;WAL;Mike Phillips;33;191;102;99;ScrumHalf;SH
+2015;WAL;Paul James;33;186;116;63;Prop;PR
+2015;WAL;Luke Charteris;32;206;125;59;Lock;SR
+2015;WAL;Dominic Day;30;196;116;3;Lock;SR
+2015;WAL;Alun Wyn Jones;30;196;125;97;Lock;SR
+2015;WAL;Jamie Roberts;28;193;110;74;Centre;CE
+2015;WAL;Bradley Davies;28;198;122;47;Lock;SR
+2015;WAL;Ken Owens;28;184;108;31;Hooker;HK
+2015;WAL;Rhys Priestland;28;182;90;37;FlyHalf;FH
+2015;WAL;Sam Warburton;26;188;103;59;BackRow;SR
+2015;WAL;Dan Biggar;25;185;94;36;FlyHalf;FH
+2015;WAL;Justin Tipuric;26;186;101;36;BackRow;SR
+2015;WAL;Dan Lydiate;27;193;115;52;BackRow;SR
+2015;WAL;Scott Williams;24;185;100;34;Centre;CE
+2015;WAL;James King;25;193;108;7;BackRow;SR
+2015;WAL;Gareth Davies;25;178;90;6;ScrumHalf;SH
+2015;WAL;Taulupe Faletau;24;189;113;50;BackRow;SR
+2015;WAL;George North;23;192;107;55;Wing;WI
+2015;WAL;Matthew Morgan;23;173;77;4;FullBack;FB
+2015;WAL;Liam Williams;24;188;87;25;FullBack;FB
+2015;WAL;Lloyd Williams;25;183;89;21;ScrumHalf;SH
+2015;WAL;Alex Cuthbert;25;198;103;38;Wing;WI
+2015;WAL;Samson Lee;22;192;107;14;Prop;PR
+2015;WAL;Cory Allen;22;193;99;4;Centre;CE
+2015;WAL;Aaron Jarvis;29;183;116;14;Prop;PR
+2015;WAL;Ross Moriarty;21;188;103;3;BackRow;SR
+2015;WAL;Hallam Amos;21;180;98;5;Wing;WI
+2015;WAL;Scott Baldwin;27;190;115;12;Hooker;HK
+2015;WAL;Jake Ball;24;200;122;15;Lock;SR
+2015;WAL;Tyler Morgan;20;186;103;1;Centre;CE
+2015;WAL;Tom Francis;23;189;130;4;Prop;PR
+2019;ARG;Matias Ignacio Alemanno;27;198;112;57;SR;SR
+2019;ARG;Emiliano Boffelli;24;191;91;25;FB;FB
+2019;ARG;Rodrigo Bruni Pleininger;26;187;109;3;BR;BR
+2019;ARG;Santiago Carreras;21;181;82;1;FB;FB
+2019;ARG;Agustín Creevy;34;182;106;85;HK;HK
+2019;ARG;Tomas Maria Cubelli;30;175;79;72;SH;SH
+2019;ARG;Jeronimo De La Fuente;28;183;93;50;CE;CE
+2019;ARG;Bautista Delguy;22;178;80;11;WI;WI
+2019;ARG;Felipe Ezcurra;26;179;85;5;SH;SH
+2019;ARG;Juan Guillermo Figallo;31;190;115;30;PR;PR
+2019;ARG;Marcos Mauricio Kremer;22;200;110;24;BR;BR
+2019;ARG;Tomas Ezequiel Lavanini;26;200;118;53;SR;SR
+2019;ARG;Juan Manuel Leguizamon;36;190;104;86;BR;BR
+2019;ARG;Tomas Martin Lezana;25;188;95;34;BR;BR
+2019;ARG;Juan Cruz Mallia;23;182;87;4;FB;FB
+2019;ARG;Pablo Nicolas Matera;26;193;99;62;BR;BR
+2019;ARG;Santiago Medrano;23;186;112;14;PR;PR
+2019;ARG;Lucas Mensa;23;183;92;1;CE;CE
+2019;ARG;Julian Sixto Montoya;25;183;110;55;HK;HK
+2019;ARG;Matías Moroni;28;184;85;43;CE;CE
+2019;ARG;Ramiro Moyano Joya;29;180;83;34;WI;WI
+2019;ARG;Matias Orlando;27;183;94;41;CE;CE
+2019;ARG;Javier Adolfo Ortega Desio;29;193;104;54;BR;BR
+2019;ARG;Guido Petti Pagadizabal;24;193;104;49;SR;SR
+2019;ARG;Enrique Pieretto Heiland;24;187;122;23;PR;PR
+2019;ARG;Federico Nicolas Sanchez;30;177;83;77;FH;FH
+2019;ARG;Santiago Gabriel Socino;27;186;110;2;HK;HK
+2019;ARG;Francisco Nahuel Tetaz Chaparro;29;188;121;54;PR;PR
+2019;ARG;Joaquin Tuculet;30;184;86;55;FB;FB
+2019;ARG;Benjamin Maria Urdapilleta;33;178;80;10;FH;FH
+2019;ARG;Mayco Geronimo Vivas;21;186;122;4;PR;PR
+2019;AUS;Allan Emani Alaalatoa;25;188;120;33;PR;PR
+2019;AUS;Rory Wiremu Arnold;29;208;120;22;SR;SR
+2019;AUS;Adam Phillip Ashley-Cooper;35;182;98;119;WI;WI
+2019;AUS;Kurtley James Beale;30;184;92;87;FB;FB
+2019;AUS;Adam Coleman;27;204;122;34;SR;SR
+2019;AUS;John Francis Dempsey;25;190;92;12;BR;BR
+2019;AUS;Folau Fakataha He-Lotu Fainga'a;24;179;107;11;HK;HK
+2019;AUS;Bernard Thomas Foley;30;182;89;70;FH;FH
+2019;AUS;Sanchez William Genia;31;174;82;105;SH;SH
+2019;AUS;Dane Stafford Haylett-Petty;30;189;93;33;FB;FB
+2019;AUS;Reece Hodge;25;189;90;37;FB;FB
+2019;AUS;Michael Kent Hooper;27;182;101;95;BR;BR
+2019;AUS;Sekope Miami Kepu;33;188;118;106;PR;PR
+2019;AUS;Samuela Vatuniveivuke Kerevi;25;186;108;29;WI;WI
+2019;AUS;Ratu Marika Koroibete;27;182;96;24;WI;WI
+2019;AUS;Latu Silatolu Latu;26;180;113;15;PR;PR
+2019;AUS;Christian Pharaoh Lealiifano;31;179;95;22;CE;CE
+2019;AUS;Isireli Domonakibau Naisarani;24;197;110;4;BR;BR
+2019;AUS;James David O'Connor;29;180;97;48;CE;CE
+2019;AUS;Jordan Washington Petaia;19;191;102;0;FB;FB
+2019;AUS;David Willmer Pocock;31;187;115;78;BR;BR
+2019;AUS;Izack Jon Rodda;23;202;119;21;SR;SR
+2019;AUS;Lukhan Herman Salakaia-Loto;22;198;116;16;BR;BR
+2019;AUS;Robert Andrew Simmons;30;200;115;98;SR;SR
+2019;AUS;Scott Tavita Sio;27;187;115;59;PR;PR
+2019;AUS;James Alexander Slipper;30;186;117;91;PR;PR
+2019;AUS;Matthew Poutoa To'omua;29;182;90;47;CE;CE
+2019;AUS;Daniel Tofeki o Fangapaua Folau Tupou;23;181;132;16;PR;PR
+2019;AUS;Jordan Filo Uelese;22;189;122;4;HK;HK
+2019;AUS;Nicholas William White;29;175;78;26;SH;SH
+2019;AUS;Ratu Tevita R N Kuridrani;28;192;102;60;CE;CE
+2019;CAN;Tyler James Ardron;28;194;111;34;BR;BR
+2019;CAN;Kyle James Baillie;28;194;113;28;SR;SR
+2019;CAN;Nickalas Leslie Blevins;30;186;100;62;CE;CE
+2019;CAN;Hubert Arthur Wayne Buydens;37;192;123;55;PR;PR
+2019;CAN;Luke Francis Campbell;26;190;110;12;BR;BR
+2019;CAN;Andrew Jordon Ditka Coe;23;187;93;11;FB;FB
+2019;CAN;Djustice Uchechukwe Quisbert Se Duru-Sears;25;185;124;49;PR;PR
+2019;CAN;Jeffrey Hassler;28;178;93;24;WI;WI
+2019;CAN;Ciaran Patrick Hearn;33;191;102;70;CE;CE
+2019;CAN;Matthew Josef Heaton;26;186;94;25;BR;BR
+2019;CAN;Eric Gerald Howard;26;175;104;23;HK;HK
+2019;CAN;Jake Henry Ilnicki;27;180;118;36;PR;PR
+2019;CAN;Cole Vance Keith;22;186;122;14;PR;PR
+2019;CAN;Conor Harris Keys;23;199;118;16;SR;SR
+2019;CAN;Benjamin Boselli Lesage;23;183;97;15;CE;CE
+2019;CAN;Philip Paul Robert Mack;33;170;80;57;SH;SH
+2019;CAN;Jamie Lee Mackenzie;30;175;90;19;SH;SH
+2019;CAN;Gordon Alexander McRorie;31;178;82;43;FH;FH
+2019;CAN;Peter Nelson;26;180;87;4;FH;FH
+2019;CAN;Shane Patrick O'Leary;26;178;89;13;FH;FH
+2019;CAN;Evan Dennis Olmstead;28;197;115;31;SR;SR
+2019;CAN;Patrick Brian Parfrey;27;185;95;30;FH;FH
+2019;CAN;Taylor Flavio Paris;26;183;93;27;WI;WI
+2019;CAN;Benoit Serge Fernand Piffero;32;183;108;24;HK;HK
+2019;CAN;Andrew Joseph Quattrin;23;183;114;3;HK;HK
+2019;CAN;Lucas James Rumball;24;188;105;32;BR;BR
+2019;CAN;Michael Allen Sheppard;30;193;113;8;SR;SR
+2019;CAN;Matthew Martin Joseph Tierney;23;188;127;20;PR;PR
+2019;CAN;Conor Adam Trainor;29;190;102;34;CE;CE
+2019;CAN;Daniel Tailliferre Hauman Van Der Merwe;33;183;98;58;WI;WI
+2019;CAN;Joshua Shorewood Larsen;25;196;112;12;SR;SR
+2019;ENG;Ratu Josateki Tuivanuavou W Cokanasiga;21;193;122;8;WI;WI
+2019;ENG;Daniel Richard Cole;32;191;118;89;PR;PR
+2019;ENG;Luke Anthony Cowan-Dickie;26;184;109;15;HK;HK
+2019;ENG;Thomas Anthony Curry;21;185;106;13;BR;BR
+2019;ENG;Elliot Fitzgerald Daly;26;184;94;33;FB;FB
+2019;ENG;Owen Andrew Farrell;27;188;92;73;FH;FH
+2019;ENG;George Thomas Ford;26;178;84;59;FH;FH
+2019;ENG;Piers George Francis;29;183;91;8;CE;CE
+2019;ENG;Ellis Genge;24;187;113;12;PR;PR
+2019;ENG;Jamie Edward George;28;183;109;40;HK;HK
+2019;ENG;William Alexander Heinz;32;182;89;4;SH;SH
+2019;ENG;Oghenemaro Miles Itoje;24;195;115;29;SR;SR
+2019;ENG;Jonathan Byron Alexander Joseph;28;183;93;42;CE;CE
+2019;ENG;George Edward John Kruis;29;198;117;35;SR;SR
+2019;ENG;Joseph Oliver Launchbury;28;196;125;61;SR;SR
+2019;ENG;Courtney Lindford Lawes;30;200;119;75;SR;SR
+2019;ENG;Lewis Wesley Ludlam;23;190;110;2;BR;BR
+2019;ENG;Joseph William Marler;29;183;120;62;PR;PR
+2019;ENG;Jonathon James May;29;188;90;47;WI;WI
+2019;ENG;Ruaridh Lawson McConnochie;27;190;93;1;WI;WI
+2019;ENG;Jack Thomas Nowell;26;180;98;33;WI;WI
+2019;ENG;Kyle Norval Jonathan Sean Sinckler;26;183;116;25;PR;PR
+2019;ENG;Jack Howard Singleton;23;180;111;2;HK;HK
+2019;ENG;Henry James Harvey Slade;26;188;95;22;CE;CE
+2019;ENG;Etuale ManuWSM Tuilagi;28;185;112;35;CE;CE
+2019;ENG;Samuel Gregory Underhill;23;186;106;10;BR;BR
+2019;ENG;Viliami Moe Lotu A T K M Vunipola;26;188;126;45;BR;BR
+2019;ENG;Makovina Wanangarua I Whanga Vunipola;28;180;123;54;PR;PR
+2019;ENG;Anthony Kenneth Chisom Watson;25;188;95;36;WI;WI
+2019;ENG;Mark Wilson;29;188;110;15;BR;BR
+2019;ENG;Ben Ryder Youngs;30;178;89;89;SH;SH
+2019;FIJ;Lee-Roy Eliki Atalifo;31;180;130;10;PR;PR
+2019;FIJ;Tevita Gucake Naqaqa Cavubati;32;200;120;26;SR;SR
+2019;FIJ;Mesulame Vuwai Dolokoto;24;161;112;6;HK;HK
+2019;FIJ;Vereniki Goneva;35;189;99;57;WI;WI
+2019;FIJ;Peni Ravai Kovekalou;29;185;105;29;PR;PR
+2019;FIJ;Semi Kunatani;28;190;97;10;BR;BR
+2019;FIJ;Frank Lomani;23;178;79;11;SH;SH
+2019;FIJ;George David Campese Ma'afu;34;182;114;57;PR;PR
+2019;FIJ;Viliame Sevakadrau Mata;27;196;103;13;BR;BR
+2019;FIJ;Joshua Lewis Matavesi;28;184;93;21;FH;FH
+2019;FIJ;Samuel Sireli Matavesi;27;182;102;8;HK;HK
+2019;FIJ;Nikola Leka Matawalu;30;179;85;36;SH;SH
+2019;FIJ;Eroni Cama Talemaisolomoni Mawi;23;189;116;9;PR;PR
+2019;FIJ;Kini Murimurivalu;30;184;94;26;FB;FB
+2019;FIJ;Leone Nakarawa;31;198;117;57;SR;SR
+2019;FIJ;Filipo Nakosi;27;183;98;1;WI;WI
+2019;FIJ;Apisalome Ratuniyarawa;33;198;114;30;SR;SR
+2019;FIJ;Tevita Kasikasi Ratuva;24;198;110;3;SR;SR
+2019;FIJ;Ratu Manasa Saulo Romumu;30;189;111;42;PR;PR
+2019;FIJ;Peceli Yato Senibitu;26;183;104;17;BR;BR
+2019;FIJ;Ratu Henry Wainiu Seniloli;30;174;70;26;SH;SH
+2019;FIJ;Josua Tuisova;25;171;92;9;WI;WI
+2019;FIJ;Jale Kaikadavu Vatubua;28;191;106;15;CE;CE
+2019;FIJ;Alivereti Veitokani;26;172;82;8;FH;FH
+2019;FIJ;Levani Botia Veivuke;30;178;98;14;CE;CE
+2019;FIJ;Mosese Voka;34;186;101;8;BR;BR
+2019;FIJ;Ben Thomas Tuvula Volavola;28;191;89;31;FH;FH
+2019;FIJ;Ratu Vere Taukanoa Vugakoto;21;183;108;6;HK;HK
+2019;FIJ;Waisea Nayacalevu Vuidravuwalu;29;195;97;17;WI;WI
+2019;FIJ;Dominiko Maiwiriwiri Waqaniburotu;33;189;111;45;BR;BR
+2019;FIJ;Semi Radradra Turagasoli Waqavatu;27;188;86;6;CE;CE
+2019;FRA;Cyril Gerard Rene Baille;25;182;117;13;PR;PR
+2019;FRA;Demba Bamba;21;185;119;6;PR;PR
+2019;FRA;Yacouba Camara;25;195;112;15;BR;BR
+2019;FRA;Camille Lionel Chat;23;178;95;22;HK;HK
+2019;FRA;Antoine Gilbert Louis Dupont;22;175;85;17;SH;SH
+2019;FRA;Gael Michel Angelo Fickou;25;190;100;48;CE;CE
+2019;FRA;Wesley Alioune Fofana;31;182;92;48;CE;CE
+2019;FRA;Paul Pierre Didier Gabrillagues;26;199;117;13;SR;SR
+2019;FRA;Guilhem Jean Laurent Guirado;33;183;105;70;HK;HK
+2019;FRA;Sofiane Guitoune;30;184;96;7;CE;CE
+2019;FRA;Yoann Elian Huget;32;190;96;59;WI;WI
+2019;FRA;Arthur Leo Aitor Iturria;25;198;113;13;BR;BR
+2019;FRA;Wenceslas Georgy Lauret;30;188;103;24;BR;BR
+2019;FRA;Bernard Le Roux;30;197;116;33;SR;SR
+2019;FRA;Camille Lopez;30;175;88;24;FH;FH
+2019;FRA;Maxime Machenaud;30;174;83;36;SH;SH
+2019;FRA;Peato Pulufegu Ofaloto Mauvaka;22;184;116;1;HK;HK
+2019;FRA;Maxime Jean Marie Francois Medard;32;182;87;59;WI;WI
+2019;FRA;Romain Ntamack-Muyenga;20;186;81;8;FH;FH
+2019;FRA;Charles Ollivon;26;199;114;8;BR;BR
+2019;FRA;Damian Penaud;22;189;95;13;WI;WI
+2019;FRA;Louis Georges Pierre Picamoles;33;193;117;79;BR;BR
+2019;FRA;Jefferson Pascal Paulvin Poirot;26;182;123;29;PR;PR
+2019;FRA;Alivereti Raka;24;189;105;2;WI;WI
+2019;FRA;Thomas Quentin Ramos;24;178;82;7;FB;FB
+2019;FRA;Baptiste Roland Marc Serin;25;180;78;30;SH;SH
+2019;FRA;Emerick Tuiseka Setiano;23;183;116;3;PR;PR
+2019;FRA;Rabah Slimani;29;178;110;53;PR;PR
+2019;FRA;Sebastien Maalamalu Vahaamahina;27;203;120;42;SR;SR
+2019;FRA;Virimi Vakatawa;27;185;100;18;CE;CE
+2019;FRA;Gregory Victor Alldritt;22;191;111;7;BR;BR
+2019;GEO;Tedo Abzhandadze;20;174;74;9;FH;FH
+2019;GEO;Gela Aprasidze;21;175;74;17;SH;SH
+2019;GEO;Giorgi Begadze;33;178;79;65;SH;SH
+2019;GEO;Jaba Bregvadze;32;178;103;54;HK;HK
+2019;GEO;Levan Chilachava;28;184;133;49;PR;PR
+2019;GEO;Zurabi Dzneladze;27;190;94;9;WI;WI
+2019;GEO;Beka Gigashvili;27;177;114;9;PR;PR
+2019;GEO;Otari Giorgadze;23;193;111;20;BR;BR
+2019;GEO;Guram Gogichashvili;21;183;118;6;PR;PR
+2019;GEO;Beka Gorgadze;23;189;107;19;BR;BR
+2019;GEO;Mamuka Sahulis Dze Gorgodze;35;195;118;71;SR;SR
+2019;GEO;David Kacharava;34;184;99;116;CE;CE
+2019;GEO;Vano Karkadze;19;178;107;3;HK;HK
+2019;GEO;Lasha Khmaladze;31;180;82;74;FH;FH
+2019;GEO;Giorgi Kveseladze;21;185;96;18;CE;CE
+2019;GEO;Vasil Lobzhanidze;22;175;75;44;SH;SH
+2019;GEO;Lasha Lomidze;27;195;110;46;BR;BR
+2019;GEO;Lasha Malaguradze;33;185;93;92;FH;FH
+2019;GEO;Shalva Mamukashvili;28;180;100;67;HK;HK
+2019;GEO;Ioseb Matiashvili;26;185;79;18;FB;FB
+2019;GEO;Tamaz Mchedlidze;26;194;115;52;CE;CE
+2019;GEO;Giorgi Melikidze;23;179;113;13;PR;PR
+2019;GEO;Konstantine Mikautadze;28;200;130;59;SR;SR
+2019;GEO;Miriani Modebadze;21;191;99;10;WI;WI
+2019;GEO;Mikheil Nariashvili;29;186;118;56;PR;PR
+2019;GEO;Giorgi Nemsadze;34;194;111;91;SR;SR
+2019;GEO;Beka Saginadze;20;192;105;5;BR;BR
+2019;GEO;Merab Sharikadze;26;185;96;63;CE;CE
+2019;GEO;Shalva Sutiashvili;35;193;107;76;SR;SR
+2019;GEO;Giorgi Tkhilaishvili;28;180;104;51;BR;BR
+2019;GEO;Alexander Todua;31;181;94;78;WI;WI
+2019;IRE;Fua Leiofi Aki;29;198;99;20;CE;CE
+2019;IRE;Tadhg Gerard Beirne;27;198;112;8;SR;SR
+2019;IRE;Joseph Carbery;23;184;87;19;FH;FH
+2019;IRE;Jack Carty;27;183;88;7;FH;FH
+2019;IRE;Jack Edward Conan;27;191;111;16;BR;BR
+2019;IRE;Andrew Joseph Conway;28;180;91;15;WI;WI
+2019;IRE;Sean Michael Cronin;33;180;102;70;HK;HK
+2019;IRE;Keith Gerard Earls;31;178;86;78;WI;WI
+2019;IRE;Christopher Robert Eric Farrell;26;195;110;7;CE;CE
+2019;IRE;Tadhg Vincent Furlong;26;185;125;36;PR;PR
+2019;IRE;William Iain Henderson;27;199;117;48;SR;SR
+2019;IRE;Robert Anthony Henshaw;26;192;99;38;CE;CE
+2019;IRE;Robert Kearney;33;187;93;92;FB;FB
+2019;IRE;David Kilcoyne;30;181;110;31;PR;PR
+2019;IRE;Jean Kleyn;26;203;121;3;SR;SR
+2019;IRE;Jordan Ian Larmour;22;172;88;16;WI;WI
+2019;IRE;Luke McGrath;26;175;82;14;SH;SH
+2019;IRE;Conor Gerard Murray;30;190;93;74;SH;SH
+2019;IRE;Peter James O'Mahony;29;191;105;59;BR;BR
+2019;IRE;Andrew Gerard Porter;23;184;123;18;PR;PR
+2019;IRE;Garry Ringrose;24;187;95;24;CE;CE
+2019;IRE;Rhys James Ruddock;28;192;111;23;BR;BR
+2019;IRE;James John Ryan;23;185;118;19;SR;SR
+2019;IRE;John William Ryan;31;200;113;20;PR;PR
+2019;IRE;Niall Scannell;27;186;107;16;HK;HK
+2019;IRE;Jonathan Jeremiah Sexton;34;188;92;84;FH;FH
+2019;IRE;Christiaan Johan Stander;29;188;112;33;BR;BR
+2019;IRE;Jacob Alexander Stockdale;23;191;103;21;WI;WI
+2019;IRE;Joshua Dirk Van Der Flier;26;187;104;19;BR;BR
+2019;IRE;Rory David Best;37;178;106;120;HK;HK
+2019;IRE;Cian Eoin Healy;31;184;113;91;PR;PR
+2019;ITA;Tommaso Allan;26;184;87;51;FH;FH
+2019;ITA;Mattia Bellini;25;188;93;20;WI;WI
+2019;ITA;Tommaso Benvenuti;28;187;100;59;WI;WI
+2019;ITA;Luca Bigi;28;181;100;21;HK;HK
+2019;ITA;Giulio Bisegni;27;180;83;13;WI;WI
+2019;ITA;Callum Edward Braley;25;178;82;3;FH;FH
+2019;ITA;Dean Serge Budd;33;196;110;23;SR;SR
+2019;ITA;Michele Campagnaro;26;184;91;44;CE;CE
+2019;ITA;Carlo Canna;27;191;93;36;FH;FH
+2019;ITA;Oliviero Fabiani;29;180;98;9;HK;HK
+2019;ITA;Simone Pietro Ferrari;25;185;120;26;PR;PR
+2019;ITA;Leonardo Ghiraldini;34;184;103;104;HK;HK
+2019;ITA;Jayden Hayward;32;184;90;20;FB;FB
+2019;ITA;Andrea Lovotti;30;187;111;38;PR;PR
+2019;ITA;Mata Maxime Esuite Mbandà;26;188;101;18;BR;BR
+2019;ITA;Matteo Minozzi;23;175;84;13;FB;FB
+2019;ITA;Luca Enrico Roberto Morisi;28;183;98;27;CE;CE
+2019;ITA;Sebastian Luke Negri Da Oleggio;25;195;110;20;BR;BR
+2019;ITA;Edoardo Padovani;26;189;90;23;FB;FB
+2019;ITA;Guglielmo Palazzani;28;173;83;34;SH;SH
+2019;ITA;Sergio Francesco Antonio Parisse;36;196;108;140;BR;BR
+2019;ITA;Tiziano Pasquali;25;183;111;20;PR;PR
+2019;ITA;Jake John Terry Polledri;23;189;106;10;BR;BR
+2019;ITA;Nicola Quaglio;28;183;115;11;PR;PR
+2019;ITA;Marco Riccioni;21;185;125;4;PR;PR
+2019;ITA;Federico Ruzza;25;198;108;15;SR;SR
+2019;ITA;David Alexander Sharp Sisi;26;193;117;7;SR;SR
+2019;ITA;Abraham Jurgens Steyn;27;192;110;33;BR;BR
+2019;ITA;Tito Tebaldi;31;180;88;34;SH;SH
+2019;ITA;Federico Zani;30;178;110;11;PR;PR
+2019;ITA;Alessandro Zanni;35;193;111;115;SR;SR
+2019;JPN;Kenki Fukuoka;27;175;83;34;WI;WI
+2019;JPN;Uwe Helu;29;193;115;14;SR;SR
+2019;JPN;Kazuki Himeno;25;187;108;12;BR;BR
+2019;JPN;Shota Horie;33;180;104;61;HK;HK
+2019;JPN;Keita Inagaki;29;183;115;29;PR;PR
+2019;JPN;Takuya Kitade;27;180;102;1;HK;HK
+2019;JPN;Yusuke Kizu;23;178;113;3;PR;PR
+2019;JPN;Jiwon Koo;25;184;115;8;PR;PR
+2019;JPN;Pieter Hermias Cornelius Labuschagne;30;189;107;3;BR;BR
+2019;JPN;Timothy Lafaele;28;186;96;18;CE;CE
+2019;JPN;Michael Geoffrey Leitch;30;189;99;63;BR;BR
+2019;JPN;Lomano Lava Lemeki;30;177;92;11;WI;WI
+2019;JPN;Amanaki Lelei Mafi;29;189;113;25;BR;BR
+2019;JPN;Rikiya Matsuda;25;181;92;20;FH;FH
+2019;JPN;Kotaro Munyaradzi Matsushima;26;178;87;34;FH;FH
+2019;JPN;Ataata Moeakiola;23;185;107;4;WI;WI
+2019;JPN;James William Moore;26;195;110;3;SR;SR
+2019;JPN;Yutaka Nagare;27;166;69;19;SH;SH
+2019;JPN;Isileli Vakauta Nakajima;30;186;120;3;PR;PR
+2019;JPN;Ryoto Nakamura;28;178;84;19;CE;CE
+2019;JPN;Atsushi Sakate;26;180;100;17;HK;HK
+2019;JPN;Kaito Shigeno;28;170;75;10;SH;SH
+2019;JPN;Yu Tamura;30;181;87;58;FH;FH
+2019;JPN;Fumiaki Tanaka;34;166;75;70;SH;SH
+2019;JPN;Luke Thompson;38;196;110;67;SR;SR
+2019;JPN;Yoshitaka Tokunaga;27;185;100;12;BR;BR
+2019;JPN;Hendrik Tui;31;189;109;44;BR;BR
+2019;JPN;William Kapineti-'O-Tonga Tupou;29;190;104;10;CE;CE
+2019;JPN;Asaeli Ai Fakahau Valu;30;187;115;9;PR;PR
+2019;JPN;Ryohei Yamanaka;31;188;93;13;FB;FB
+2019;JPN;Petrus Willem van der Walt;30;188;106;12;SR;SR
+2019;NAM;Jan Adriaan Booysen;23;184;112;5;BR;BR
+2019;NAM;Johannes Voges Coetzee;31;186;120;21;PR;PR
+2019;NAM;Wian Conradie;24;185;110;17;BR;BR
+2019;NAM;Abel Jacobus De Klerk;27;178;128;28;PR;PR
+2019;NAM;Darryl Pierce De La Harpe;32;183;97;48;CE;CE
+2019;NAM;Johan Deysel;27;184;94;24;CE;CE
+2019;NAM;Thomasau Roberto Forbes;30;174;86;17;BR;BR
+2019;NAM;Prince Rivaldo Gino Gaoseb;21;186;100;2;BR;BR
+2019;NAM;Johann Corne Greyling;28;187;92;32;WI;WI
+2019;NAM;Eugene Anthony Jantjies;33;177;87;66;SH;SH
+2019;NAM;Muharua Wilhelm Katjijeko;24;196;86;13;BR;BR
+2019;NAM;Helarius Axasman Kisting;25;175;80;8;FH;FH
+2019;NAM;Rohan Kitshoff;34;182;98;44;BR;BR
+2019;NAM;Lesley David Klim;24;187;100;11;WI;WI
+2019;NAM;Cliven Sven James Loubser;22;176;80;15;FH;FH
+2019;NAM;Justin Thomas Newman;24;190;90;14;CE;CE
+2019;NAM;Obert Daniell Nortje;22;179;98;15;HK;HK
+2019;NAM;Chad Zavier Plato;21;178;78;2;FB;FB
+2019;NAM;Andre Pretorius Rademeyer;21;186;108;4;PR;PR
+2019;NAM;Johannes Adriaan Retief;23;190;110;7;SR;SR
+2019;NAM;Desiderius Fernandus Sethie;26;178;115;11;PR;PR
+2019;NAM;Damian Leothon Stevens;24;175;82;25;SH;SH
+2019;NAM;Nelius Theron;22;188;113;4;PR;PR
+2019;NAM;Johannes Adriaan Tromp;28;183;91;40;WI;WI
+2019;NAM;Tjiuee Uanivi;28;200;108;30;SR;SR
+2019;NAM;Torsten George Van Jaarsveld;32;173;100;14;HK;HK
+2019;NAM;Pieter-Jan Van Lill;35;192;113;47;BR;BR
+2019;NAM;Janco Venter;24;193;100;25;BR;BR
+2019;NAM;Peter John Walters;26;187;105;0;WI;WI
+2019;NAM;Janry du Toit;23;175;85;0;WI;WI
+2019;NAM;Louis van der Westhuizen;24;178;100;19;HK;HK
+2019;NZL;Beauden John Barrett;28;187;92;78;FH;FH
+2019;NZL;Jordie Matthew Barrett;22;194;102;12;SH;SH
+2019;NZL;Scott Kevin Barrett;25;197;118;31;SR;SR
+2019;NZL;George Crispin Bridge;24;185;95;5;WI;WI
+2019;NZL;Samuel Jordan Cane;27;189;106;63;BR;BR
+2019;NZL;Dane Stuart Coles;32;184;110;64;HK;HK
+2019;NZL;Liam James Coltman;29;186;114;6;HK;HK
+2019;NZL;Ryan Stevenson Crotty;30;179;97;45;CE;CE
+2019;NZL;Elias Jack Goodhue;24;188;102;9;CE;CE
+2019;NZL;Rieko Edward Ioane;22;189;105;26;WI;WI
+2019;NZL;Nepo Eti Laulala;27;184;125;20;PR;PR
+2019;NZL;Anton Russell Lienert-Brown;24;187;101;38;CE;CE
+2019;NZL;Richard Mo'unga;25;179;85;12;FH;FH
+2019;NZL;Atunaisa Moli;24;189;130;2;PR;PR
+2019;NZL;Joseph Paul Tamatea Moody;30;188;124;41;PR;PR
+2019;NZL;Thomas Tekanapu Rawakata Perenara;27;183;92;59;SH;SH
+2019;NZL;Kieran James Read;33;193;110;122;BR;BR
+2019;NZL;Sevuloni Lasei Reece;22;179;95;3;WI;WI
+2019;NZL;Brodie Allan Retallick;28;204;120;77;SR;SR
+2019;NZL;Ardie Suemalo Savea;25;188;103;39;BR;BR
+2019;NZL;Aaron Luke Smith;30;171;82;87;SH;SH
+2019;NZL;Benjamin Robert Smith;33;186;95;80;FB;FB
+2019;NZL;Angus Wilkie Faiumiolemau Taavao-Matau;29;195;128;8;PR;PR
+2019;NZL;Codie Joshua Dane Taylor;28;183;110;45;HK;HK
+2019;NZL;Matthew Brendon Todd;31;183;103;21;BR;BR
+2019;NZL;Patrick Tito Tuipulotu;26;198;123;25;SR;SR
+2019;NZL;Aniseto Ofa He Mooni Tuungafasi;27;193;125;30;PR;PR
+2019;NZL;Brad McCormick Weber;28;172;75;2;SH;SH
+2019;NZL;Samuel Laurence Whitelock;30;202;119;112;SR;SR
+2019;NZL;SonnyWilliam Williams;34;191;110;53;CE;CE
+2019;NZL;Shannon Michael Frizell;25;188;114;5;BR;BR
+2019;RSA;Lukhanyo Am;25;186;93;9;CE;CE
+2019;RSA;Schalk Burger Brits;38;182;100;13;HK;HK
+2019;RSA;Lodewyk De Jager;26;205;122;40;SR;SR
+2019;RSA;Pieter Stephanus Du Toit;27;200;115;50;BR;BR
+2019;RSA;Eben Etzebeth;27;204;119;79;SR;SR
+2019;RSA;Warrick Gelant;24;179;86;7;FB;FB
+2019;RSA;Elton Thomas Jantjies;29;187;92;35;FH;FH
+2019;RSA;Herschel Jerome Jantjies;23;160;80;4;SH;SH
+2019;RSA;Steven Kitshoff;27;183;120;40;PR;PR
+2019;RSA;Vincent Philip Koch;29;185;118;15;PR;PR
+2019;RSA;Cheslin Kolbe;25;170;74;10;FB;FB
+2019;RSA;Siyamthanda Kolisi;28;186;99;43;BR;BR
+2019;RSA;Jesse Andre Kriel;25;186;96;45;CE;CE
+2019;RSA;Willem Jacobus Johannes Le Roux;30;186;90;56;FB;FB
+2019;RSA;Louis-Francois Pickard Louw;34;190;114;69;BR;BR
+2019;RSA;Jozua Francois Malherbe;28;190;123;32;PR;PR
+2019;RSA;Makazole Mapimpi;29;187;90;8;WI;WI
+2019;RSA;Malcolm Justin Marx;25;185;107;27;HK;HK
+2019;RSA;Mbongeni Theo Mbonambi;28;177;98;30;HK;HK
+2019;RSA;Franco John Mostert;28;198;112;32;SR;SR
+2019;RSA;Tendai Mtawarira;34;183;116;111;PR;PR
+2019;RSA;S'Busiso Romeo Nkosi;23;181;97;8;WI;WI
+2019;RSA;Ntando Trevor Nyakane;30;178;120;41;PR;PR
+2019;RSA;Handre Pollard;25;189;98;42;FH;FH
+2019;RSA;Jacobus Meyer Reinach;29;175;84;12;SH;SH
+2019;RSA;Albertus Stephanus Smith;26;181;85;4;BR;BR
+2019;RSA;Rudolph Gerhardus Snyman;24;206;117;16;SR;SR
+2019;RSA;Francois Phillippus Lodewyk Steyn;32;191;111;61;CE;CE
+2019;RSA;Daniel Johannes Vermeulen;33;193;108;49;BR;BR
+2019;RSA;Damian de Allende;27;189;101;40;CE;CE
+2019;RSA;Francois de Klerk;27;172;88;25;SH;SH
+2019;RUS;Vasily Artemyev;32;180;89;86;FB;FB
+2019;RUS;Azamat Bitiev;29;182;108;19;PR;PR
+2019;RUS;Sergey Chernyshev;31;178;101;10;HK;HK
+2019;RUS;German Davydov;25;186;99;17;WI;WI
+2019;RUS;Vasilii Dorofeev;29;175;82;22;SH;SH
+2019;RUS;Evgeny Elgin;32;190;114;24;SR;SR
+2019;RUS;Bogdan Fedotko;24;200;107;20;SR;SR
+2019;RUS;Tagir Gadzhiev;25;188;108;27;BR;BR
+2019;RUS;Ramil Gaisin;28;174;77;44;FH;FH
+2019;RUS;Igor Galinovskiy;33;183;82;49;CE;CE
+2019;RUS;Andrei Garbuzov;36;192;112;94;SR;SR
+2019;RUS;Dmitrii Gerasimov;31;185;92;64;CE;CE
+2019;RUS;Kirill Golosnitskii;25;185;105;9;CE;CE
+2019;RUS;Kirill Gotovtsev;32;187;118;3;PR;PR
+2019;RUS;Viktor Gresev;33;186;108;98;BR;BR
+2019;RUS;Sergei Ianiushkin;32;174;82;15;FH;FH
+2019;RUS;Roman Khodin;26;192;98;4;BR;BR
+2019;RUS;Iurii Kushnarev;34;182;95;109;FH;FH
+2019;RUS;Evgenii Matveev;35;187;102;58;HK;HK
+2019;RUS;Valeriy Morozov;24;190;115;17;PR;PR
+2019;RUS;Andrey Ostrikov;32;198;116;33;SR;SR
+2019;RUS;Vladimir Ostroushko;32;184;94;45;CE;CE
+2019;RUS;Dmitrii Perov;34;175;75;10;SH;SH
+2019;RUS;Vladimir Podrezov;25;188;115;24;PR;PR
+2019;RUS;Andrei Polivalov;33;183;104;25;PR;PR
+2019;RUS;Stanislav Selskii;28;178;95;35;HK;HK
+2019;RUS;Denis Simplikevich;28;192;100;28;WI;WI
+2019;RUS;Vladislav Sozonov;25;179;82;8;WI;WI
+2019;RUS;Anton Sychev;25;182;98;14;BR;BR
+2019;RUS;Nikita Vavilin;25;188;100;10;BR;BR
+2019;RUS;VITA Zhivatov;27;185;98;9;BR;BR
+2019;WSM;Michael Savea Alaalatoa;28;189;128;1;PR;PR
+2019;WSM;AJ Mamoe Alatimu;26;186;95;5;FH;FH
+2019;WSM;Paul Alo-Emile;27;181;130;13;PR;PR
+2019;WSM;Afaesetiti Amosa;28;189;113;3;BR;BR
+2019;WSM;Piula Baloiloi Faasalele;31;195;117;18;BR;BR
+2019;WSM;Motu Dean Farao Matu'u;32;182;112;21;HK;HK
+2019;WSM;Kieron Thomas Fonotia;31;186;106;9;CE;CE
+2019;WSM;Tala James Ioane;30;182;104;21;BR;BR
+2019;WSM;Jack Tafa Lam;31;186;100;35;BR;BR
+2019;WSM;Leon Seilala Lam;30;183;110;13;HK;HK
+2019;WSM;James Michael Lay;25;178;118;10;PR;PR
+2019;WSM;Jordan Andrew Lay;26;184;115;16;PR;PR
+2019;WSM;Kane Thomas Viliamu Le'aupepe;26;198;100;6;SR;SR
+2019;WSM;Reynold Lee-Lo;33;181;98;25;CE;CE
+2019;WSM;Alapati Leiua;30;182;100;27;CE;CE
+2019;WSM;Melani Matavao;23;180;79;9;SH;SH
+2019;WSM;Logovii Mulipola;32;192;120;30;PR;PR
+2019;WSM;Tavaefaga Timothy Nanai Tavae;30;182;90;12;FB;FB
+2019;WSM;Raymond Fetenuu Niuia;28;186;120;4;PR;PR
+2019;WSM;Teofilo Aloisio Mikaele Paulo;31;198;120;34;SR;SR
+2019;WSM;Tusiata MacKenzie Pisi;37;185;93;38;FH;FH
+2019;WSM;Dwayne Ene Polataivao;29;182;83;13;SH;SH
+2019;WSM;Ulupano Junior Seuteni;25;187;103;2;FH;FH
+2019;WSM;Leo Henry Taefu;26;183;100;3;CE;CE
+2019;WSM;Ed Teofilo Fidow;26;188;97;8;WI;WI
+2019;WSM;Senio Benedict Toleafoa;26;193;125;2;BR;BR
+2019;WSM;Ah See Tuala;30;186;106;20;FB;FB
+2019;WSM;Belgium Tuatagaloa;29;188;106;3;WI;WI
+2019;WSM;Joshua Iuni Tyrell;28;194;116;7;BR;BR
+2019;WSM;Christopher Fatu Vui;26;198;119;14;SR;SR
+2019;WSM;Pelefofoga Ziki Cowley;26;173;74;12;SH;SH
+2019;SCO;John Adam Barclay;32;190;106;74;BR;BR
+2019;SCO;Simon Andrew Berghan;28;190;120;22;PR;PR
+2019;SCO;Fraser James MacGregor Brown;30;182;113;42;HK;HK
+2019;SCO;Scott James Cummings;22;198;115;4;SR;SR
+2019;SCO;Allan Michael Elgin Dell;27;185;112;25;PR;PR
+2019;SCO;Alexander James Ragnar Fagerson;23;188;126;22;PR;PR
+2019;SCO;Grant Stuart Gilchrist;29;198;118;36;SR;SR
+2019;SCO;Darcy Graham;22;177;84;7;WI;WI
+2019;SCO;Jonathan Gray;25;198;120;52;SR;SR
+2019;SCO;Christopher James Harris;28;188;104;10;CE;CE
+2019;SCO;Adam Robert Hastings;22;185;87;14;FH;FH
+2019;SCO;Stuart William Hogg;27;180;93;69;FB;FB
+2019;SCO;George Horne;24;174;79;7;SH;SH
+2019;SCO;Peter Horne;29;183;92;43;CE;CE
+2019;SCO;Samuel Mark Johnson;26;185;95;6;CE;CE
+2019;SCO;Blair Simon Kinghorn;22;190;95;15;FB;FB
+2019;SCO;Greig David Laidlaw;33;176;78;73;SH;SH
+2019;SCO;Sean Daniel Maitland;31;185;101;42;WI;WI
+2019;SCO;Stuart McInally;29;190;109;29;HK;HK
+2019;SCO;Willem Petrus Nel;33;180;114;31;PR;PR
+2019;SCO;Alistair William Price;26;177;88;27;SH;SH
+2019;SCO;Gordon John Reid;32;190;120;37;PR;PR
+2019;SCO;James Thomas Ritchie;23;190;108;12;BR;BR
+2019;SCO;Finn Alastair Russell;26;182;87;46;FH;FH
+2019;SCO;Thomas Samuel Fenwick Seymour;31;183;93;52;WI;WI
+2019;SCO;Duncan McWilliam Taylor;30;192;98;23;CE;CE
+2019;SCO;Blade Neville Thomson;28;198;106;2;SR;SR
+2019;SCO;Benjamin Martin Toolis;27;203;118;21;SR;SR
+2019;SCO;George Edward Turner;26;180;105;8;HK;HK
+2019;SCO;Hamish Fergus Wallace Watson;27;185;102;27;BR;BR
+2019;SCO;Ryan Wilson;30;190;106;45;BR;BR
+2019;TON;James Nunu Fainga'anuku Faiva;25;185;89;5;FH;FH
+2019;TON;Daniel Tonga Faleafa;30;192;115;22;SR;SR
+2019;TON;Siosaia Lote Ma'afu-Toka Fia;29;178;124;6;PR;PR
+2019;TON;Salesi Halaleva Lapota Fifita;30;193;116;15;SR;SR
+2019;TON;Vunipola Fifita;23;180;117;2;PR;PR
+2019;TON;Siegfried Fisiihoi;32;184;125;9;PR;PR
+2019;TON;Samisoni Fisilau;31;183;120;19;SH;SH
+2019;TON;Leon Peter Channel Fukofuka;25;185;95;7;SH;SH
+2019;TON;David Frank Harvey Halaifonua;32;189;85;33;FB;FB
+2019;TON;Siosiua Halanukonuka;33;189;120;11;PR;PR
+2019;TON;Malietoa Seuli Seuli Hingano;27;184;94;4;CE;CE
+2019;TON;Sione Maake Kalamafoni;31;194;121;33;BR;BR
+2019;TON;Zane Rance Kapeli;26;189;130;6;BR;BR
+2019;TON;Fotu Suluka Lokotui;27;180;108;12;BR;BR
+2019;TON;Viliami Lolohea;26;181;93;9;WI;WI
+2019;TON;Samiuela Taufa Lousi;28;198;121;4;SR;SR
+2019;TON;Sitiveni Mafi;29;196;102;32;SR;SR
+2019;TON;Siua Pututau Maile;22;181;111;1;HK;HK
+2019;TON;Tavake Lecanus Manu;31;190;108;3;BR;BR
+2019;TON;Kurt Stanley Morath;34;186;85;37;FH;FH
+2019;TON;Paula Mark Ngauamo;29;185;122;19;HK;HK
+2019;TON;Atieli Pakalani;30;183;81;10;FB;FB
+2019;TON;Siale Vailea Piutau;33;185;99;39;CE;CE
+2019;TON;Sosefo Sakalia;27;180;105;10;HK;HK
+2019;TON;Sonatane Takulua;28;180;95;34;SH;SH
+2019;TON;Sione Latu Talakai;29;193;132;6;PR;PR
+2019;TON;Benjamin Va ' inga Charles Tameifuna;28;188;151;11;PR;PR
+2019;TON;Nafitalai Henry Tuitavake;30;179;90;13;CE;CE
+2019;TON;Maama 'Oe Mo' Ui Vaipulu;30;190;112;8;BR;BR
+2019;TON;Koloti TelUSA Pelaki Veainu;28;190;103;9;FB;FB
+2019;TON;Kerry Cooper Vuna;32;187;101;13;WI;WI
+2019;URY;Santiago Arata Perrone;23;174;78;29;SH;SH
+2019;URY;Diego Arbelo Garcia;25;190;114;5;PR;PR
+2019;URY;Manuel Ardao;21;177;90;3;BR;BR
+2019;URY;Felipe Berchesi Pisano;28;178;80;29;FH;FH
+2019;URY;Juan Manuel Cat Piccardo;23;178;83;25;CE;CE
+2019;URY;Santiago Civetta Ponce De Leon;21;184;90;3;BR;BR
+2019;URY;Agustin Della Corte Bertoni;22;178;90;5;CE;CE
+2019;URY;Manuel Diana Olaso;23;189;100;13;BR;BR
+2019;URY;Ignacio Francisco Dotti Uria;25;193;103;34;SR;SR
+2019;URY;Juan Antonio Echeverria Rodriguez;27;173;105;41;PR;PR
+2019;URY;Felipe Etcheverry Cavanna;23;178;75;2;FB;FB
+2019;URY;Federico Favaro Garcia;28;174;78;25;WI;WI
+2019;URY;Solen Nicolas Freitas Alleges;26;177;90;25;CE;CE
+2019;URY;Juan Manuel Gaminara;30;175;90;57;BR;BR
+2019;URY;Facundo Eduardo Gattas Clavell;24;184;107;23;PR;PR
+2019;URY;Tomas Inciarte;22;180;84;11;CE;CE
+2019;URY;Joaquin Jaunsolo Mezzetta;21;182;102;0;PR;PR
+2019;URY;German Eduardo Kessler Lordon;25;184;105;39;HK;HK
+2019;URY;Franco Lamanna Miranda;27;188;100;42;SR;SR
+2019;URY;Manuel Leindekar Virginio;22;200;110;10;SR;SR
+2019;URY;Luis Leandro Leivas Ballestrino;31;181;98;67;WI;WI
+2019;URY;Diego Gianni Magno;30;188;105;80;SR;SR
+2019;URY;Gaston Mieres Valente;29;181;80;62;FB;FB
+2019;URY;Alejandro Martin Nieto Serra;31;186;108;59;BR;BR
+2019;URY;Agustin Leon Ormaechea;28;176;86;41;SH;SH
+2019;URY;Juan Diego Ormaechea;30;184;97;27;BR;BR
+2019;URY;Guillermo Pujadas Leon;22;180;100;7;HK;HK
+2019;URY;Juan Pedro Rombys Aguzzi;32;185;115;29;PR;PR
+2019;URY;Mateo Sanguinetti;27;185;105;54;PR;PR
+2019;URY;Rodrigo Silva Pisano;26;175;75;49;FB;FB
+2019;URY;Andres Vilaseca Hontou;28;196;95;46;CE;CE
+2019;USA;David Faimafiliotama'ita'i Ainuu;19;180;120;8;HK;HK
+2019;USA;Malon Maurice Al-Jiboori;22;190;107;5;BR;BR
+2019;USA;Nathaniel Lee Augspurger;29;172;81;24;SH;SH
+2019;USA;Marcel Girard Brache;31;191;94;19;WI;WI
+2019;USA;Nathaniel Myers Brakeley;30;195;118;21;SR;SR
+2019;USA;Bryce Andrew Campbell;24;188;107;28;CE;CE
+2019;USA;Nicholas Anthony Civetta;29;203;119;23;SR;SR
+2019;USA;Shaun Michael Davies;30;174;83;25;SH;SH
+2019;USA;Cameron Alexander Dolan;29;198;113;47;BR;BR
+2019;USA;Dylan Paul Fawsitt;29;183;106;12;HK;HK
+2019;USA;Eric Christopher Fry;32;193;116;45;PR;PR
+2019;USA;Hanco Jacobus Ernst Lodewikus Germishuys;23;185;104;17;BR;BR
+2019;USA;James Andrew Hilterbrand;30;185;107;19;HK;HK
+2019;USA;William John Edward Hooley;25;188;89;12;FB;FB
+2019;USA;Martin Mulipa Iosefo;29;188;105;6;CE;CE
+2019;USA;Olive Onelani Kilifi;32;180;118;27;PR;PR
+2019;USA;Tony Andrew Lamborn;28;185;107;19;BR;BR
+2019;USA;Titi Edward Lamositele;24;183;113;28;PR;PR
+2019;USA;Benjamin Joseph Landry;28;198;122;22;SR;SR
+2019;USA;Paul Hiko Lasike;29;180;114;16;CE;CE
+2019;USA;Alan Leon MacGinty;29;185;92;24;FH;FH
+2019;USA;William Mac Gregor Magie;27;183;86;25;PR;PR
+2019;USA;Paul Mullen;27;183;125;14;PR;PR
+2019;USA;Thretton Davis Palamo;30;191;104;18;CE;CE
+2019;USA;Gregory Howard Peterson;28;204;123;26;SR;SR
+2019;USA;Benjamin Joseph Pinkelman;25;193;99;2;BR;BR
+2019;USA;John Francis Quill;29;188;106;36;BR;BR
+2019;USA;Blaine Hansen Scully;31;192;95;50;WI;WI
+2019;USA;Joseph Soosemea Taufetee;26;183;124;23;HK;HK
+2019;USA;Michael Paseka Teo;26;175;93;24;WI;WI
+2019;USA;Ruben Pieter de Hass;20;183;88;13;SH;SH
+2019;WAL;Joshua Huw Adams;24;186;95;14;WI;WI
+2019;WAL;Hallam Benjamen Amos;24;185;97;20;WI;WI
+2019;WAL;Jake Ball;28;198;124;36;SR;SR
+2019;WAL;Adam James Beard;23;203;117;16;SR;SR
+2019;WAL;Daniel Rhys Biggar;29;188;93;73;FH;FH
+2019;WAL;Rhys Michael Timothy Carre;21;191;132;1;PR;PR
+2019;WAL;Aled Huw Davies;27;175;86;19;SH;SH
+2019;WAL;David Gareth Davies;29;178;88;44;SH;SH
+2019;WAL;James Michael Davies;28;183;98;5;BR;BR
+2019;WAL;Jonathan James Vaughan Davies;31;185;101;76;CE;CE
+2019;WAL;Elliot Mitchell Dee;25;185;106;22;HK;HK
+2019;WAL;Ryan James Elias;24;188;110;8;HK;HK
+2019;WAL;Tomas William Francis;27;185;135;43;PR;PR
+2019;WAL;Stephen Leigh Halfpenny;30;178;85;82;FB;FB
+2019;WAL;Cory Lewis Hill;27;196;117;24;SR;SR
+2019;WAL;Alun Wyn Jones;33;196;118;128;SR;SR
+2019;WAL;Owain Tomos Wyn Jones;27;183;118;15;PR;PR
+2019;WAL;Dillon Anthony Lewis;23;183;118;15;PR;PR
+2019;WAL;Connall Ross Moriarty;25;188;103;34;BR;BR
+2019;WAL;George Philip North;27;193;109;86;WI;WI
+2019;WAL;Kenneth James Owens;32;183;110;67;HK;HK
+2019;WAL;Hadleigh William Parkes;31;188;101;18;CE;CE
+2019;WAL;Mathew Rhys Patchell;26;191;92;13;FH;FH
+2019;WAL;Joshua Rajai-Navidi;28;185;105;19;BR;BR
+2019;WAL;Aaron Craig Shingler;32;198;107;20;BR;BR
+2019;WAL;Nicky Paul Smith;25;183;116;31;PR;PR
+2019;WAL;Justin Charles Tipuric;30;188;102;66;BR;BR
+2019;WAL;Aaron James Wainwright;21;188;106;12;BR;BR
+2019;WAL;Owen Paul Watkin;22;188;100;16;CE;CE
+2019;WAL;Liam Brian Williams;28;185;87;58;FB;FB
+2019;WAL;Tomos Geraint Williams;24;178;77;9;SH;SH
