@@ -1,0 +1,621 @@
+team;pid;number;pos;plabel;age;height;weight;bplace;bdate;last;first;caps;isoc;ccoords
+ARG;39417;SR;SR;Lock;27;198;112;Cordoba, Argentina;1991-12-05;Alemanno;Matias Ignacio;57;AR;-38.416097,-63.616672
+ARG;48640;15;FB;Full Back;24;191;91;Santa Fe, Argentina;1995-01-16;Boffelli;Emiliano;25;AR;-38.416097,-63.616672
+ARG;58952;BR;BR;Back Row;26;187;109;Buenos Aires, Argentina;1993-09-03;Bruni Pleininger;Rodrigo;3;AR;-38.416097,-63.616672
+ARG;60461;15;FB;Full Back;21;181;82;Cordoba, Argentina;1998-03-30;Carreras;Santiago;1;AR;-38.416097,-63.616672
+ARG;26186;2;HK;Hooker;34;182;106;Buenos Aires, Argentina;1985-03-15;Creevy;Agustín;85;AR;-38.416097,-63.616672
+ARG;36719;9;SH;Scrum Half;30;175;79;Buenos Aires, Argentina;1989-06-12;Cubelli;Tomas Maria;72;AR;-38.416097,-63.616672
+ARG;43433;CE;CE;Centre;28;183;93;Santa Fe, Argentina;1991-02-24;De La Fuente;Jeronimo;50;AR;-38.416097,-63.616672
+ARG;57253;WI;WI;Wing;22;178;80;Buenos Aires, Argentina;1997-04-22;Delguy;Bautista;11;AR;-38.416097,-63.616672
+ARG;45836;9;SH;Scrum Half;26;179;85;Ciudad de Buenos Aires, Argentina;1993-04-15;Ezcurra;Felipe;5;AR;-38.416097,-63.616672
+ARG;29244;PR;PR;Prop;31;190;115;Salta, Argentina;1988-03-25;Figallo;Juan Guillermo;30;AR;-38.416097,-63.616672
+ARG;56924;BR;BR;Back Row;22;200;110;Entre Ríos, Argentina;1997-07-30;Kremer;Marcos Mauricio;24;AR;-38.416097,-63.616672
+ARG;48534;SR;SR;Lock;26;200;118;Buenos Aires, Argentina;1993-01-22;Lavanini;Tomas Ezequiel;53;AR;-38.416097,-63.616672
+ARG;26184;BR;BR;Back Row;36;190;104;Santiago del Estero, Argentina;1983-06-06;Leguizamon;Juan Manuel;86;AR;-38.416097,-63.616672
+ARG;48634;BR;BR;Back Row;25;188;95;Santiago del Estero, Argentina;1994-02-16;Lezana;Tomas Martin;34;AR;-38.416097,-63.616672
+ARG;55655;15;FB;Full Back;23;182;87;Cordoba, Argentina;1996-09-11;Mallia;Juan Cruz;4;AR;-38.416097,-63.616672
+ARG;45831;BR;BR;Back Row;26;193;99;Buenos Aires, Argentina;1993-07-18;Matera;Pablo Nicolas;62;AR;-38.416097,-63.616672
+ARG;55665;PR;PR;Prop;23;186;112;Buenos Aires, Argentina;1996-05-06;Medrano;Santiago;14;AR;-38.416097,-63.616672
+ARG;62515;CE;CE;Centre;23;183;92;Buenos Aires, Argentina;1996-05-24;Mensa;Lucas;1;AR;-38.416097,-63.616672
+ARG;48628;2;HK;Hooker;25;183;110;Buenos Aires, Argentina;1993-10-29;Montoya;Julian Sixto;55;AR;-38.416097,-63.616672
+ARG;43443;CE;CE;Centre;28;184;85;Buenos Aires, Argentina;1991-03-29;Moroni;Matías;43;AR;-38.416097,-63.616672
+ARG;39434;WI;WI;Wing;29;180;83;Tucumán, Argentina;1990-05-28;Moyano Joya;Ramiro;34;AR;-38.416097,-63.616672
+ARG;43444;CE;CE;Centre;27;183;94;Tucumán, Argentina;1991-11-14;Orlando;Matias;41;AR;-38.416097,-63.616672
+ARG;39436;BR;BR;Back Row;29;193;104;Entre Ríos, Argentina;1990-06-14;Ortega Desio;Javier Adolfo;54;AR;-38.416097,-63.616672
+ARG;48633;SR;SR;Lock;24;193;104;Buenos Aires, Argentina;1994-11-17;Petti Pagadizabal;Guido;49;AR;-38.416097,-63.616672
+ARG;50322;PR;PR;Prop;24;187;122;Cordoba, Argentina;1994-12-15;Pieretto Heiland;Enrique;23;AR;-38.416097,-63.616672
+ARG;32114;10;FH;Fly Half;30;177;83;San Miguel de Tucumán, Argentina;1988-10-26;Sanchez;Federico Nicolas;77;AR;-38.416097,-63.616672
+ARG;67406;2;HK;Hooker;27;186;110;Buenos Aires, Argentina;1992-05-07;Socino;Santiago Gabriel;2;AR;-38.416097,-63.616672
+ARG;36736;PR;PR;Prop;29;188;121;Buenos Aires, Argentina;1989-11-06;Tetaz Chaparro;Francisco Nahuel;54;AR;-38.416097,-63.616672
+ARG;36738;15;FB;Full Back;30;184;86;Buenos Aires, Argentina;1989-08-08;Tuculet;Joaquin;55;AR;-38.416097,-63.616672
+ARG;29455;10;FH;Fly Half;33;178;80;Buenos Aires, Argentina;1986-03-11;Urdapilleta;Benjamin Maria;10;AR;-38.416097,-63.616672
+ARG;60477;PR;PR;Prop;21;186;122;Buenos Aires, Argentina;1998-06-02;Vivas;Mayco Geronimo;4;AR;-38.416097,-63.616672
+AUS;45629;PR;PR;Prop;25;188;120;Camperdown, Australia;1994-01-28;Alaalatoa;Allan Emani;33;AU;-25.274398,133.775136
+AUS;49157;SR;SR;Lock;29;208;120;Wagga Wagga, Australia;1990-07-01;Arnold;Rory Wiremu;22;AU;-25.274398,133.775136
+AUS;26695;WI;WI;Wing;35;182;98;Camperdown, Australia;1984-03-27;Ashley-Cooper;Adam Phillip;119;AU;-25.274398,133.775136
+AUS;33014;15;FB;Full Back;30;184;92;Blacktown, Australia;1989-01-06;Beale;Kurtley James;87;AU;-25.274398,133.775136
+AUS;45216;SR;SR;Lock;27;204;122;Hobart, Tasmania, Australia;1991-10-07;Coleman;Adam;34;AU;-25.274398,133.775136
+AUS;48596;BR;BR;Back Row;25;190;92;Wahroonga, Australia;1994-04-12;Dempsey;John Francis;12;AU;-25.274398,133.775136
+AUS;50216;2;HK;Hooker;24;179;107;Paddington, Australia;1995-05-05;Fainga'a;Folau Fakataha He-Lotu;11;AU;-25.274398,133.775136
+AUS;42460;10;FH;Fly Half;30;182;89;Darlinghurst, Australia;1989-09-08;Foley;Bernard Thomas;70;AU;-25.274398,133.775136
+AUS;29265;9;SH;Scrum Half;31;174;82;Port Moresby, Papua New Guinea;1988-01-17;Genia;Sanchez William;105;PG;-6.314993,143.95555
+AUS;34010;15;FB;Full Back;30;189;93;Durban, South Africa;1989-06-18;Haylett-Petty;Dane Stafford;33;ZA;-30.559482,22.937506
+AUS;48953;15;FB;Full Back;25;189;90;North Sydney, Australia;1994-08-26;Hodge;Reece;37;AU;-25.274398,133.775136
+AUS;39454;BR;BR;Back Row;27;182;101;Manly, Australia;1991-10-29;Hooper;Michael Kent;95;AU;-25.274398,133.775136
+AUS;29613;PR;PR;Prop;33;188;118;Camperdown, Australia;1986-02-05;Kepu;Sekope Miami;106;AU;-25.274398,133.775136
+AUS;45887;WI;WI;Wing;25;186;108;Suva, Fiji;1993-09-27;Kerevi;Samuela Vatuniveivuke;29;FJ;-16.578193,179.414413
+AUS;59442;WI;WI;Wing;27;182;96;Namosi, Fiji;1992-07-26;Koroibete;Ratu Marika;24;FJ;-16.578193,179.414413
+AUS;45708;PR;PR;Prop;26;180;113;Tofoa, Tonga;1993-02-23;Latu;Latu Silatolu;15;TO;-21.178986,-175.198242
+AUS;29273;CE;CE;Centre;31;179;95;Auckland, New Zealand;1987-09-24;Lealiifano;Christian Pharaoh;22;NZ;-40.900557,174.885971
+AUS;61870;BR;BR;Back Row;24;197;110;Suva, Fiji;1995-02-14;Naisarani;Isireli Domonakibau;4;FJ;-16.578193,179.414413
+AUS;35307;CE;CE;Centre;29;180;97;Southport, Australia;1990-07-05;O'Connor;James David;48;AU;-25.274398,133.775136
+AUS;63173;15;FB;Full Back;19;191;102;Werribee, Australia;2000-03-14;Petaia;Jordan Washington;0;AU;-25.274398,133.775136
+AUS;29281;BR;BR;Back Row;31;187;115;Messina, South Africa;1988-04-23;Pocock;David Willmer;78;ZA;-30.559482,22.937506
+AUS;57897;SR;SR;Lock;23;202;119;Lismore, Australia;1996-08-20;Rodda;Izack Jon;21;AU;-25.274398,133.775136
+AUS;55788;BR;BR;Back Row;22;198;116;Otahuhu, New Zealand;1996-09-19;Salakaia-Loto;Lukhan Herman;16;NZ;-40.900557,174.885971
+AUS;32135;SR;SR;Lock;30;200;115;Theodore, Australia;1989-04-19;Simmons;Robert Andrew;98;AU;-25.274398,133.775136
+AUS;39738;PR;PR;Prop;27;187;115;Eastwood, Australia;1991-10-16;Sio;Scott Tavita;59;AU;-25.274398,133.775136
+AUS;36790;PR;PR;Prop;30;186;117;Southport, Australia;1989-06-06;Slipper;James Alexander;91;AU;-25.274398,133.775136
+AUS;36793;CE;CE;Centre;29;182;90;Box Hill, Australia;1990-01-02;To'omua;Matthew Poutoa;47;AU;-25.274398,133.775136
+AUS;61868;PR;PR;Prop;23;181;132;Tofoa, Tonga;1996-05-10;Tupou;Daniel Tofeki o Fangapaua Folau;16;TO;-21.178986,-175.198242
+AUS;57899;2;HK;Hooker;22;189;122;Wellington, Australia;1997-01-24;Uelese;Jordan Filo;4;AU;-25.274398,133.775136
+AUS;36794;9;SH;Scrum Half;29;175;78;Scone, Australia;1990-06-13;White;Nicholas William;26;AU;-25.274398,133.775136
+AUS;39727;CE;CE;Centre;28;192;102;Nausori, Fiji;1991-03-31;Kuridrani;Ratu Tevita R N;60;FJ;-16.578193,179.414413
+CAN;39095;BR;BR;Back Row;28;194;111;Peterborough, Canada;1991-06-16;Ardron;Tyler James;34;CA;56.130366,-106.346771
+CAN;49525;SR;SR;Lock;28;194;113;Yellowknife, Canada;1991-04-07;Baillie;Kyle James;28;CA;56.130366,-106.346771
+CAN;37948;CE;CE;Centre;30;186;100;Edmonton, Canada;1988-11-11;Blevins;Nickalas Leslie;62;CA;56.130366,-106.346771
+CAN;30806;PR;PR;Prop;37;192;123;Saskatoon, Canada;1982-01-04;Buydens;Hubert Arthur Wayne;55;CA;56.130366,-106.346771
+CAN;46646;BR;BR;Back Row;26;190;110;Victoria, Canada;1992-10-02;Campbell;Luke Francis;12;CA;56.130366,-106.346771
+CAN;54404;15;FB;Full Back;23;187;93;Brampton, Canada;1996-04-08;Coe;Andrew Jordon Ditka;11;CA;56.130366,-106.346771
+CAN;48383;PR;PR;Prop;25;185;124;Edmonton, Canada;1994-05-24;Duru-Sears;Djustice Uchechukwe Quisbert Se;49;CA;56.130366,-106.346771
+CAN;39101;WI;WI;Wing;28;178;93;Calgary, Canada;1991-08-21;Hassler;Jeffrey;24;CA;56.130366,-106.346771
+CAN;29748;CE;CE;Centre;33;191;102;St. John's, Canada;1985-12-30;Hearn;Ciaran Patrick;70;CA;56.130366,-106.346771
+CAN;45718;BR;BR;Back Row;26;186;94;Montreal, Canada;1993-02-09;Heaton;Matthew Josef;25;CA;56.130366,-106.346771
+CAN;56964;2;HK;Hooker;26;175;104;Halifax, Canada;1993-09-05;Howard;Eric Gerald;23;CA;56.130366,-106.346771
+CAN;45720;PR;PR;Prop;27;180;118;Williams Lake, Canada;1992-02-24;Ilnicki;Jake Henry;36;CA;56.130366,-106.346771
+CAN;59846;PR;PR;Prop;22;186;122;Saint John, Canada;1997-05-07;Keith;Cole Vance;14;CA;56.130366,-106.346771
+CAN;58956;SR;SR;Lock;23;199;118;Ottawa, Canada;1996-07-09;Keys;Conor Harris;16;CA;56.130366,-106.346771
+CAN;50041;CE;CE;Centre;23;183;97;Calgary, Canada;1995-11-24;Lesage;Benjamin Boselli;15;CA;56.130366,-106.346771
+CAN;26435;9;SH;Scrum Half;33;170;80;Victoria, Canada;1985-09-18;Mack;Philip Paul Robert;57;CA;56.130366,-106.346771
+CAN;32152;9;SH;Scrum Half;30;175;90;Troon, Scotland;1989-02-28;Mackenzie;Jamie Lee;19;GB;55.378051,-3.435973
+CAN;50728;10;FH;Fly Half;31;178;82;Hong Kong, Hong Kong;1988-05-12;McRorie;Gordon Alexander;43;HK;22.396428,114.109497
+CAN;45861;10;FH;Fly Half;26;180;87;Dungannon, Ireland;1992-10-05;Nelson;Peter;4;IE;53.41291,-8.24389
+CAN;48372;10;FH;Fly Half;26;178;89;Cork, Ireland;1993-03-12;O'Leary;Shane Patrick;13;IE;53.41291,-8.24389
+CAN;42995;SR;SR;Lock;28;197;115;North Vancouver, Canada;1991-02-21;Olmstead;Evan Dennis;31;CA;56.130366,-106.346771
+CAN;39107;10;FH;Fly Half;27;185;95;St. John's, Canada;1991-11-01;Parfrey;Patrick Brian;30;CA;56.130366,-106.346771
+CAN;42053;WI;WI;Wing;26;183;93;Barrie, Canada;1992-10-06;Paris;Taylor Flavio;27;CA;56.130366,-106.346771
+CAN;48984;2;HK;Hooker;32;183;108;Montreal, Canada;1987-05-21;Piffero;Benoit Serge Fernand;24;CA;56.130366,-106.346771
+CAN;67356;2;HK;Hooker;23;183;114;Markham, Canada;1996-08-29;Quattrin;Andrew Joseph;3;CA;56.130366,-106.346771
+CAN;50038;BR;BR;Back Row;24;188;105;Markham, Canada;1995-08-02;Rumball;Lucas James;32;CA;56.130366,-106.346771
+CAN;59018;SR;SR;Lock;30;193;113;Mississauga, Canada;1988-12-20;Sheppard;Michael Allen;8;CA;56.130366,-106.346771
+CAN;55209;PR;PR;Prop;23;188;127;Mississauga, Canada;1996-07-04;Tierney;Matthew Martin Joseph;20;CA;56.130366,-106.346771
+CAN;34203;CE;CE;Centre;29;190;102;Vancouver, Canada;1989-12-05;Trainor;Conor Adam;34;CA;56.130366,-106.346771
+CAN;31794;WI;WI;Wing;33;183;98;Worcester, South Africa;1986-04-28;Van Der Merwe;Daniel Tailliferre Hauman;58;ZA;-30.559482,22.937506
+CAN;50045;SR;SR;Lock;25;196;112;Nanaimo, Canada;1994-04-04;Larsen;Joshua Shorewood;12;CA;56.130366,-106.346771
+ENG;59729;WI;WI;Wing;21;193;122;Suva, Fiji;1997-11-15;Cokanasiga;Ratu Josateki Tuivanuavou W;8;FJ;-16.578193,179.414413
+ENG;29161;PR;PR;Prop;32;191;118;Leicester, England;1987-05-09;Cole;Daniel Richard;89;GB;55.378051,-3.435973
+ENG;45651;2;HK;Hooker;26;184;109;Truro, England;1993-06-20;Cowan-Dickie;Luke Anthony;15;GB;55.378051,-3.435973
+ENG;59731;BR;BR;Back Row;21;185;106;Hounslow, England;1998-06-15;Curry;Thomas Anthony;13;GB;55.378051,-3.435973
+ENG;43571;15;FB;Full Back;26;184;94;Croydon, England;1992-10-08;Daly;Elliot Fitzgerald;33;GB;55.378051,-3.435973
+ENG;43573;10;FH;Fly Half;27;188;92;Billinge, England;1991-09-24;Farrell;Owen Andrew;73;GB;55.378051,-3.435973
+ENG;43574;10;FH;Fly Half;26;178;84;Oldham, England;1993-03-16;Ford;George Thomas;59;GB;55.378051,-3.435973
+ENG;61033;CE;CE;Centre;29;183;91;Gravesend, England;1990-06-20;Francis;Piers George;8;GB;55.378051,-3.435973
+ENG;55592;PR;PR;Prop;24;187;113;Bristol, England;1995-02-16;Genge;Ellis;12;GB;55.378051,-3.435973
+ENG;36524;2;HK;Hooker;28;183;109;Welwyn Garden City, England;1990-10-20;George;Jamie Edward;40;GB;55.378051,-3.435973
+ENG;42667;9;SH;Scrum Half;32;182;89;Christchurch, New Zealand;1986-11-24;Heinz;William Alexander;4;NZ;-40.900557,174.885971
+ENG;50344;SR;SR;Lock;24;195;115;London, England;1994-10-28;Itoje;Oghenemaro Miles;29;GB;55.378051,-3.435973
+ENG;38907;CE;CE;Centre;28;183;93;Derby, England;1991-05-21;Joseph;Jonathan Byron Alexander;42;GB;55.378051,-3.435973
+ENG;38948;SR;SR;Lock;29;198;117;Guildford, England;1990-02-22;Kruis;George Edward John;35;GB;55.378051,-3.435973
+ENG;43585;SR;SR;Lock;28;196;125;Exeter, England;1991-04-12;Launchbury;Joseph Oliver;61;GB;55.378051,-3.435973
+ENG;34184;SR;SR;Lock;30;200;119;London, England;1989-02-23;Lawes;Courtney Lindford;75;GB;55.378051,-3.435973
+ENG;55596;BR;BR;Back Row;23;190;110;Ipswich, England;1995-12-08;Ludlam;Lewis Wesley;2;GB;55.378051,-3.435973
+ENG;36527;PR;PR;Prop;29;183;120;Eastbourne, England;1990-07-07;Marler;Joseph William;62;GB;55.378051,-3.435973
+ENG;38906;WI;WI;Wing;29;188;90;Swindon, England;1990-04-01;May;Jonathon James;47;GB;55.378051,-3.435973
+ENG;56571;WI;WI;Wing;27;190;93;London, England;1991-10-23;McConnochie;Ruaridh Lawson;1;GB;55.378051,-3.435973
+ENG;48701;WI;WI;Wing;26;180;98;Truro, England;1993-04-11;Nowell;Jack Thomas;33;GB;55.378051,-3.435973
+ENG;45662;PR;PR;Prop;26;183;116;London, England;1993-03-30;Sinckler;Kyle Norval Jonathan Sean;25;GB;55.378051,-3.435973
+ENG;56805;2;HK;Hooker;23;180;111;Hemel Hempstead, England;1996-05-14;Singleton;Jack Howard;2;GB;55.378051,-3.435973
+ENG;45664;CE;CE;Centre;26;188;95;Plymouth, England;1993-03-19;Slade;Henry James Harvey;22;GB;55.378051,-3.435973
+ENG;44193;CE;CE;Centre;28;185;112;Apia, Samoa;1991-05-18;Tuilagi;Etuale Manusamoa;35;WS;-13.759029,-172.104629
+ENG;60898;BR;BR;Back Row;23;186;106;Dayton, Ohio, United States;1996-07-22;Underhill;Samuel Gregory;10;US;37.09024,-95.712891
+ENG;46112;BR;BR;Back Row;26;188;126;Sydney, Australia;1992-11-03;Vunipola;Viliami Moe Lotu A T K M;45;AU;-25.274398,133.775136
+ENG;38888;PR;PR;Prop;28;180;123;Wellington, New Zealand;1991-01-14;Vunipola;Makovina Wanangarua I Whanga;54;NZ;-40.900557,174.885971
+ENG;48706;WI;WI;Wing;25;188;95;Ashford, England;1994-02-26;Watson;Anthony Kenneth Chisom;36;GB;55.378051,-3.435973
+ENG;60902;BR;BR;Back Row;29;188;110;Kendal, England;1989-10-06;Wilson;Mark;15;GB;55.378051,-3.435973
+ENG;34189;9;SH;Scrum Half;30;178;89;Cawston, England;1989-09-05;Youngs;Ben Ryder;89;GB;55.378051,-3.435973
+FIJ;47805;PR;PR;Prop;31;180;130;Suva, Fiji;1988-03-10;Atalifo;Lee-Roy Eliki;10;FJ;-16.578193,179.414413
+FIJ;42485;SR;SR;Lock;32;200;120;Suva, Fiji;1987-08-12;Cavubati;Tevita Gucake Naqaqa;26;FJ;-16.578193,179.414413
+FIJ;62611;2;HK;Hooker;24;161;112;Suva, Fiji;1995-01-21;Dolokoto;Mesulame Vuwai;6;FJ;-16.578193,179.414413
+FIJ;32581;WI;WI;Wing;35;189;99;Lautoka, Fiji;1984-04-05;Goneva;Vereniki;57;FJ;-16.578193,179.414413
+FIJ;49571;PR;PR;Prop;29;185;105;Ra, Fiji;1990-06-16;Kovekalou;Peni Ravai;29;FJ;-16.578193,179.414413
+FIJ;52808;BR;BR;Back Row;28;190;97;Sigatoka, Fiji;1990-10-27;Kunatani;Semi;10;FJ;-16.578193,179.414413
+FIJ;57371;9;SH;Scrum Half;23;178;79;Savusavu, Fiji;1996-04-18;Lomani;Frank;11;FJ;-16.578193,179.414413
+FIJ;39968;PR;PR;Prop;34;182;114;Camperdown, Australia;1984-12-19;Ma'afu;George David Campese;57;AU;-25.274398,133.775136
+FIJ;53284;BR;BR;Back Row;27;196;103;Suva, Fiji;1991-10-22;Mata;Viliame Sevakadrau;13;FJ;-16.578193,179.414413
+FIJ;37960;10;FH;Fly Half;28;184;93;Truro, England;1990-10-05;Matavesi;Joshua Lewis;21;GB;55.378051,-3.435973
+FIJ;48928;2;HK;Hooker;27;182;102;Truro, England;1992-01-13;Matavesi;Samuel Sireli;8;GB;55.378051,-3.435973
+FIJ;36150;9;SH;Scrum Half;30;179;85;Suva, Fiji;1989-03-08;Matawalu;Nikola Leka;36;FJ;-16.578193,179.414413
+FIJ;55246;PR;PR;Prop;23;189;116;Lautoka, Fiji;1996-06-02;Mawi;Eroni Cama Talemaisolomoni;9;FJ;-16.578193,179.414413
+FIJ;32240;15;FB;Full Back;30;184;94;Suva, Fiji;1989-05-15;Murimurivalu;Kini;26;FJ;-16.578193,179.414413
+FIJ;36161;SR;SR;Lock;31;198;117;Tavua, Fiji;1988-04-02;Nakarawa;Leone;57;FJ;-16.578193,179.414413
+FIJ;67249;WI;WI;Wing;27;183;98;Ba, Fiji;1992-04-08;Nakosi;Filipo;1;FJ;-16.578193,179.414413
+FIJ;36078;SR;SR;Lock;33;198;114;Sigatoka, Fiji;1986-07-11;Ratuniyarawa;Apisalome;30;FJ;-16.578193,179.414413
+FIJ;55245;SR;SR;Lock;24;198;110;Sigatoka, Fiji;1995-05-08;Ratuva;Tevita Kasikasi;3;FJ;-16.578193,179.414413
+FIJ;34212;PR;PR;Prop;30;189;111;Suva, Fiji;1989-04-06;Romumu;Ratu Manasa Saulo;42;FJ;-16.578193,179.414413
+FIJ;48805;BR;BR;Back Row;26;183;104;Sigatoka, Fiji;1993-01-17;Senibitu;Peceli Yato;17;FJ;-16.578193,179.414413
+FIJ;36149;9;SH;Scrum Half;30;174;70;Tavua, Fiji;1989-06-15;Seniloli;Ratu Henry Wainiu;26;FJ;-16.578193,179.414413
+FIJ;53366;WI;WI;Wing;25;171;92;Ba, Fiji;1994-02-04;Tuisova;Josua;9;FJ;-16.578193,179.414413
+FIJ;61040;CE;CE;Centre;28;191;106;Suva, Fiji;1991-08-30;Vatubua;Jale Kaikadavu;15;FJ;-16.578193,179.414413
+FIJ;56579;10;FH;Fly Half;26;172;82;Nausori, Fiji;1992-11-02;Veitokani;Alivereti;8;FJ;-16.578193,179.414413
+FIJ;49570;CE;CE;Centre;30;178;98;Suva, Fiji;1989-03-14;Veivuke;Levani Botia;14;FJ;-16.578193,179.414413
+FIJ;57109;BR;BR;Back Row;34;186;101;Lautoka, Fiji;1985-07-06;Voka;Mosese;8;FJ;-16.578193,179.414413
+FIJ;42557;10;FH;Fly Half;28;191;89;Hornsby, Australia;1991-01-13;Volavola;Ben Thomas Tuvula;31;AU;-25.274398,133.775136
+FIJ;60556;2;HK;Hooker;21;183;108;Daviqele, Fiji;1997-12-29;Vugakoto;Ratu Vere Taukanoa;6;FJ;-16.578193,179.414413
+FIJ;46441;WI;WI;Wing;29;195;97;Navua, Fiji;1990-06-26;Vuidravuwalu;Waisea Nayacalevu;17;FJ;-16.578193,179.414413
+FIJ;39970;BR;BR;Back Row;33;189;111;Suva, Fiji;1986-04-20;Waqaniburotu;Dominiko Maiwiriwiri;45;FJ;-16.578193,179.414413
+FIJ;43638;CE;CE;Centre;27;188;86;Taveuni, Fiji;1992-06-13;Waqavatu;Semi Radradra Turagasoli;6;FJ;-16.578193,179.414413
+FRA;48741;PR;PR;Prop;25;182;117;Pau, France;1993-09-15;Baille;Cyril Gerard Rene;13;FR;46.227638,2.213749
+FRA;62400;PR;PR;Prop;21;185;119;Stains, France;1998-03-17;Bamba;Demba;6;FR;46.227638,2.213749
+FRA;48773;BR;BR;Back Row;25;195;112;Aubervilliers, France;1994-06-02;Camara;Yacouba;15;FR;46.227638,2.213749
+FRA;50629;2;HK;Hooker;23;178;95;Auxerre, France;1995-12-18;Chat;Camille Lionel;22;FR;46.227638,2.213749
+FRA;55619;9;SH;Scrum Half;22;175;85;Lannemazan, France;1996-11-15;Dupont;Antoine Gilbert Louis;17;FR;46.227638,2.213749
+FRA;45702;CE;CE;Centre;25;190;100;La Seyne sur Mer, France;1994-03-26;Fickou;Gael Michel Angelo;48;FR;46.227638,2.213749
+FRA;32262;CE;CE;Centre;31;182;92;Paris, France;1988-01-20;Fofana;Wesley Alioune;48;FR;46.227638,2.213749
+FRA;62001;SR;SR;Lock;26;199;117;Paris, France;1993-06-03;Gabrillagues;Paul Pierre Didier;13;FR;46.227638,2.213749
+FRA;29523;2;HK;Hooker;33;183;105;Céret, France;1986-06-17;Guirado;Guilhem Jean Laurent;70;FR;46.227638,2.213749
+FRA;49569;CE;CE;Centre;30;184;96;Alger, France;1989-03-27;Guitoune;Sofiane;7;FR;46.227638,2.213749
+FRA;29037;WI;WI;Wing;32;190;96;Pamiers, France;1987-06-02;Huget;Yoann Elian;59;FR;46.227638,2.213749
+FRA;50361;BR;BR;Back Row;25;198;113;Pau, France;1994-05-13;Iturria;Arthur Leo Aitor;13;FR;46.227638,2.213749
+FRA;34139;BR;BR;Back Row;30;188;103;Tarbes, France;1989-03-28;Lauret;Wenceslas Georgy;24;FR;46.227638,2.213749
+FRA;48999;SR;SR;Lock;30;197;116;Moorreesburg, South Africa;1989-06-04;Le Roux;Bernard;33;ZA;-30.559482,22.937506
+FRA;47492;10;FH;Fly Half;30;175;88;Oloron Sainte Marie, France;1989-04-03;Lopez;Camille;24;FR;46.227638,2.213749
+FRA;32258;9;SH;Scrum Half;30;174;83;Bordeaux, France;1988-12-30;Machenaud;Maxime;36;FR;46.227638,2.213749
+FRA;56995;2;HK;Hooker;22;184;116;Noumea, Pacific Islands;1997-01-10;Mauvaka;Peato Pulufegu Ofaloto;1;NC;-20.9043045,165.618042
+FRA;26789;WI;WI;Wing;32;182;87;Toulouse, France;1986-11-16;Medard;Maxime Jean Marie Francois;59;FR;46.227638,2.213749
+FRA;59866;10;FH;Fly Half;20;186;81;Toulouse, France;1999-05-01;Ntamack-Muyenga;Romain;8;FR;46.227638,2.213749
+FRA;54574;BR;BR;Back Row;26;199;114;Bayonne, France;1993-05-11;Ollivon;Charles;8;FR;46.227638,2.213749
+FRA;55623;WI;WI;Wing;22;189;95;Brive La Gaillarde, France;1996-09-25;Penaud;Damian;13;FR;46.227638,2.213749
+FRA;29533;BR;BR;Back Row;33;193;117;Paris, France;1986-02-05;Picamoles;Louis Georges Pierre;79;FR;46.227638,2.213749
+FRA;45686;PR;PR;Prop;26;182;123;L'Isle-Adam, France;1992-11-01;Poirot;Jefferson Pascal Paulvin;29;FR;46.227638,2.213749
+FRA;67409;WI;WI;Wing;24;189;105;Vunidawa, Fiji;1994-12-09;Raka;Alivereti;2;FJ;-16.578193,179.414413
+FRA;55625;15;FB;Full Back;24;178;82;Mazamet, France;1995-07-23;Ramos;Thomas Quentin;7;FR;46.227638,2.213749
+FRA;48781;9;SH;Scrum Half;25;180;78;La Teste-de-Buch, France;1994-06-20;Serin;Baptiste Roland Marc;30;FR;46.227638,2.213749
+FRA;56943;PR;PR;Prop;23;183;116;Angers, France;1996-07-19;Setiano;Emerick Tuiseka;3;FR;46.227638,2.213749
+FRA;34137;PR;PR;Prop;29;178;110;Sarcelles, France;1989-10-18;Slimani;Rabah;53;FR;46.227638,2.213749
+FRA;43465;SR;SR;Lock;27;203;120;Noumea, New Caledonia;1991-10-21;Vahaamahina;Sebastien Maalamalu;42;NC;-20.9043045,165.618042
+FRA;52746;CE;CE;Centre;27;185;100;Vunidawa, Fiji;1992-05-01;Vakatawa;Virimi;18;FJ;-16.578193,179.414413
+FRA;65538;BR;BR;Back Row;22;191;111;Toulouse, France;1997-03-23;Alldritt;Gregory Victor;7;FR;46.227638,2.213749
+GEO;60519;10;FH;Fly Half;20;174;74;Kutaisi, Georgia;1999-06-13;Abzhandadze;Tedo;9;GE;42.315407,43.356892
+GEO;57879;9;SH;Scrum Half;21;175;74;Bolnisi, Georgia;1998-01-14;Aprasidze;Gela;17;GE;42.315407,43.356892
+GEO;28400;9;SH;Scrum Half;33;178;79;Tbilisi, Georgia;1986-03-04;Begadze;Giorgi;65;GE;42.315407,43.356892
+GEO;29299;2;HK;Hooker;32;178;103;Tbilisi, Georgia;1987-04-23;Bregvadze;Jaba;54;GE;42.315407,43.356892
+GEO;43009;PR;PR;Prop;28;184;133;Sokhumi, Georgia;1991-08-17;Chilachava;Levan;49;GE;42.315407,43.356892
+GEO;43028;WI;WI;Wing;27;190;94;Kutaisi, Georgia;1992-01-23;Dzneladze;Zurabi;9;GE;42.315407,43.356892
+GEO;65097;PR;PR;Prop;27;177;114;Bagdati, Georgia;1992-02-17;Gigashvili;Beka;9;GE;42.315407,43.356892
+GEO;55474;BR;BR;Back Row;23;193;111;Kutaisi, Georgia;1996-03-02;Giorgadze;Otari;20;GE;42.315407,43.356892
+GEO;60508;PR;PR;Prop;21;183;118;Khashuri, Georgia;1998-09-04;Gogichashvili;Guram;6;GE;42.315407,43.356892
+GEO;55476;BR;BR;Back Row;23;189;107;Rustavi, Georgia;1996-02-08;Gorgadze;Beka;19;GE;42.315407,43.356892
+GEO;13275;SR;SR;Lock;35;195;118;Tbilisi, Georgia;1984-07-14;Gorgodze;Mamuka Sahulis Dze;71;GE;42.315407,43.356892
+GEO;29819;CE;CE;Centre;34;184;99;Tbilisi, Georgia;1985-01-16;Kacharava;David;116;GE;42.315407,43.356892
+GEO;65803;2;HK;Hooker;19;178;107;Kutaisi, Georgia;2000-06-25;Karkadze;Vano;3;GE;42.315407,43.356892
+GEO;29298;10;FH;Fly Half;31;180;82;Tbilisi, Georgia;1988-01-20;Khmaladze;Lasha;74;GE;42.315407,43.356892
+GEO;62879;CE;CE;Centre;21;185;96;Tbilisi, Georgia;1997-11-11;Kveseladze;Giorgi;18;GE;42.315407,43.356892
+GEO;54763;9;SH;Scrum Half;22;175;75;Tbilisi, Georgia;1996-10-14;Lobzhanidze;Vasil;44;GE;42.315407,43.356892
+GEO;46107;BR;BR;Back Row;27;195;110;Tbilisi, Georgia;1992-06-30;Lomidze;Lasha;46;GE;42.315407,43.356892
+GEO;30656;10;FH;Fly Half;33;185;93;Tbilisi, Georgia;1986-06-02;Malaguradze;Lasha;92;GE;42.315407,43.356892
+GEO;44012;2;HK;Hooker;28;180;100;Tbilisi, Georgia;1990-10-02;Mamukashvili;Shalva;67;GE;42.315407,43.356892
+GEO;59978;15;FB;Full Back;26;185;79;Tbilisi, Georgia;1993-01-27;Matiashvili;Ioseb;18;GE;42.315407,43.356892
+GEO;46491;CE;CE;Centre;26;194;115;Tbilisi, Georgia;1993-03-17;Mchedlidze;Tamaz;52;GE;42.315407,43.356892
+GEO;55472;PR;PR;Prop;23;179;113;Aspindza, Georgia;1996-05-24;Melikidze;Giorgi;13;GE;42.315407,43.356892
+GEO;40057;SR;SR;Lock;28;200;130;Sokhumi, Georgia;1991-07-01;Mikautadze;Konstantine;59;GE;42.315407,43.356892
+GEO;57884;WI;WI;Wing;21;191;99;Kutaisi, Georgia;1997-10-27;Modebadze;Miriani;10;GE;42.315407,43.356892
+GEO;45076;PR;PR;Prop;29;186;118;Kutaisi, Georgia;1990-05-25;Nariashvili;Mikheil;56;GE;42.315407,43.356892
+GEO;31107;SR;SR;Lock;34;194;111;Kutaisi, Georgia;1984-09-26;Nemsadze;Giorgi;91;GE;42.315407,43.356892
+GEO;65802;BR;BR;Back Row;20;192;105;Bolnisi, Georgia;1998-10-29;Saginadze;Beka;5;GE;42.315407,43.356892
+GEO;45077;CE;CE;Centre;26;185;96;Moscow, Russian Federation;1993-05-17;Sharikadze;Merab;63;RU;61.52401,105.318756
+GEO;31109;SR;SR;Lock;35;193;107;Tbilisi, Georgia;1984-01-24;Sutiashvili;Shalva;76;GE;42.315407,43.356892
+GEO;43011;BR;BR;Back Row;28;180;104;Kobuleti, Georgia;1991-04-08;Tkhilaishvili;Giorgi;51;GE;42.315407,43.356892
+GEO;29288;WI;WI;Wing;31;181;94;Tbilisi, Georgia;1987-11-02;Todua;Alexander;78;GE;42.315407,43.356892
+IRE;45276;CE;CE;Centre;29;198;99;Otahuhu, New Zealand;1990-04-07;Aki;Fua Leiofi;20;NZ;-40.900557,174.885971
+IRE;45848;SR;SR;Lock;27;198;112;Dublin, Ireland;1992-01-08;Beirne;Tadhg Gerard;8;IE;53.41291,-8.24389
+IRE;55696;10;FH;Fly Half;23;184;87;Auckland, New Zealand;1995-11-01;Carbery;Joseph;19;NZ;-40.900557,174.885971
+IRE;46410;10;FH;Fly Half;27;183;88;Galway, Ireland;1992-08-31;Carty;Jack;7;IE;53.41291,-8.24389
+IRE;45851;BR;BR;Back Row;27;191;111;Dublin, Ireland;1992-07-29;Conan;Jack Edward;16;IE;53.41291,-8.24389
+IRE;38840;WI;WI;Wing;28;180;91;Dublin, Ireland;1991-07-11;Conway;Andrew Joseph;15;IE;53.41291,-8.24389
+IRE;30662;2;HK;Hooker;33;180;102;Limerick, Ireland;1986-05-06;Cronin;Sean Michael;70;IE;53.41291,-8.24389
+IRE;28999;WI;WI;Wing;31;178;86;Limerick, Ireland;1987-10-02;Earls;Keith Gerard;78;IE;53.41291,-8.24389
+IRE;45853;CE;CE;Centre;26;195;110;Fermanagh, Ireland;1993-03-16;Farrell;Christopher Robert Eric;7;IE;53.41291,-8.24389
+IRE;43490;PR;PR;Prop;26;185;125;Wexford, Ireland;1992-11-14;Furlong;Tadhg Vincent;36;IE;53.41291,-8.24389
+IRE;43494;SR;SR;Lock;27;199;117;Craigavon, Northern Ireland;1992-02-21;Henderson;William Iain;48;GB;55.378051,-3.435973
+IRE;47646;CE;CE;Centre;26;192;99;Galway, Ireland;1993-06-12;Henshaw;Robert Anthony;38;IE;53.41291,-8.24389
+IRE;29554;15;FB;Full Back;33;187;93;Dublin, Ireland;1986-03-26;Kearney;Robert;92;IE;53.41291,-8.24389
+IRE;47365;PR;PR;Prop;30;181;110;Limerick, Ireland;1988-12-14;Kilcoyne;David;31;IE;53.41291,-8.24389
+IRE;67415;SR;SR;Lock;26;203;121;Johannesburg, South Africa;1993-08-26;Kleyn;Jean;3;ZA;-30.559482,22.937506
+IRE;59779;WI;WI;Wing;22;172;88;Dublin, Ireland;1997-06-10;Larmour;Jordan Ian;16;IE;53.41291,-8.24389
+IRE;45859;9;SH;Scrum Half;26;175;82;Hamilton, Canada;1993-02-03;McGrath;Luke;14;CA;56.130366,-106.346771
+IRE;36654;9;SH;Scrum Half;30;190;93;Limerick, Ireland;1989-04-20;Murray;Conor Gerard;74;IE;53.41291,-8.24389
+IRE;36658;BR;BR;Back Row;29;191;105;Cork, Ireland;1989-09-17;O'Mahony;Peter James;59;IE;53.41291,-8.24389
+IRE;55709;PR;PR;Prop;23;184;123;Dublin, Ireland;1996-01-16;Porter;Andrew Gerard;18;IE;53.41291,-8.24389
+IRE;50499;CE;CE;Centre;24;187;95;Dublin, Ireland;1995-01-26;Ringrose;Garry;24;IE;53.41291,-8.24389
+IRE;36660;BR;BR;Back Row;28;192;111;Dublin, Ireland;1990-11-13;Ruddock;Rhys James;23;IE;53.41291,-8.24389
+IRE;56907;SR;SR;Lock;23;185;118;Dublin, Ireland;1996-07-24;Ryan;James John;19;IE;53.41291,-8.24389
+IRE;49064;PR;PR;Prop;31;200;113;Cork, Ireland;1988-08-02;Ryan;John William;20;IE;53.41291,-8.24389
+IRE;45866;2;HK;Hooker;27;186;107;Cork, Ireland;1992-04-08;Scannell;Niall;16;IE;53.41291,-8.24389
+IRE;26541;10;FH;Fly Half;34;188;92;Dublin, Ireland;1985-07-11;Sexton;Jonathan Jeremiah;84;IE;53.41291,-8.24389
+IRE;36637;BR;BR;Back Row;29;188;112;George, South Africa;1990-04-05;Stander;Christiaan Johan;33;ZA;-30.559482,22.937506
+IRE;55712;WI;WI;Wing;23;191;103;Newtownstewart, Ireland;1996-04-03;Stockdale;Jacob Alexander;21;IE;53.41291,-8.24389
+IRE;45944;BR;BR;Back Row;26;187;104;Dublin, Ireland;1993-04-25;Van Der Flier;Joshua Dirk;19;IE;53.41291,-8.24389
+IRE;28238;2;HK;Hooker;37;178;106;Craigavon, Northern Ireland;1982-08-15;Best;Rory David;120;GB;55.378051,-3.435973
+IRE;28983;PR;PR;Prop;31;184;113;Dublin, Ireland;1987-10-07;Healy;Cian Eoin;91;IE;53.41291,-8.24389
+ITA;49561;10;FH;Fly Half;26;184;87;Vicenza, Italy;1993-04-26;Allan;Tommaso;51;IT;41.87194,12.56738
+ITA;50378;WI;WI;Wing;25;188;93;Padova, Italy;1994-02-08;Bellini;Mattia;20;IT;41.87194,12.56738
+ITA;36948;WI;WI;Wing;28;187;100;Vittorio Veneto, Italy;1990-12-12;Benvenuti;Tommaso;59;IT;41.87194,12.56738
+ITA;56048;2;HK;Hooker;28;181;100;Reggio Emilia, Italy;1991-04-19;Bigi;Luca;21;IT;41.87194,12.56738
+ITA;45570;WI;WI;Wing;27;180;83;Frascati, Italy;1992-04-04;Bisegni;Giulio;13;IT;41.87194,12.56738
+ITA;48689;10;FH;Fly Half;25;178;82;Bristol, England;1994-03-20;Braley;Callum Edward;3;GB;55.378051,-3.435973
+ITA;29606;SR;SR;Lock;33;196;110;Whangarei, New Zealand;1986-07-31;Budd;Dean Serge;23;NZ;-40.900557,174.885971
+ITA;44009;CE;CE;Centre;26;184;91;Mirano, Italy;1993-03-13;Campagnaro;Michele;44;IT;41.87194,12.56738
+ITA;50801;10;FH;Fly Half;27;191;93;Benevento, Italy;1992-08-25;Canna;Carlo;36;IT;41.87194,12.56738
+ITA;51235;2;HK;Hooker;29;180;98;Roma, Italy;1990-07-13;Fabiani;Oliviero;9;IT;41.87194,12.56738
+ITA;48322;PR;PR;Prop;25;185;120;Cernusco sul Naviglio, Italy;1994-03-28;Ferrari;Simone Pietro;26;IT;41.87194,12.56738
+ITA;26628;2;HK;Hooker;34;184;103;Padova, Italy;1984-12-26;Ghiraldini;Leonardo;104;IT;41.87194,12.56738
+ITA;45354;15;FB;Full Back;32;184;90;Hawera, New Zealand;1987-02-11;Hayward;Jayden;20;NZ;-40.900557,174.885971
+ITA;36960;PR;PR;Prop;30;187;111;Piacenza, Italy;1989-07-28;Lovotti;Andrea;38;IT;41.87194,12.56738
+ITA;48324;BR;BR;Back Row;26;188;101;Roma, Italy;1993-04-10;Mbandà;Mata Maxime Esuite;18;IT;41.87194,12.56738
+ITA;55727;15;FB;Full Back;23;175;84;Padova, Italy;1996-06-04;Minozzi;Matteo;13;IT;41.87194,12.56738
+ITA;39867;CE;CE;Centre;28;183;98;Milano, Italy;1991-02-22;Morisi;Luca Enrico Roberto;27;IT;41.87194,12.56738
+ITA;56053;BR;BR;Back Row;25;195;110;Marondera, Zimbabwe;1994-06-30;Negri Da Oleggio;Sebastian Luke;20;ZW;-19.015438,29.154857
+ITA;43821;15;FB;Full Back;26;189;90;Venezia, Italy;1993-05-15;Padovani;Edoardo;23;IT;41.87194,12.56738
+ITA;39775;9;SH;Scrum Half;28;173;83;Gardone val Trompia, Italy;1991-04-11;Palazzani;Guglielmo;34;IT;41.87194,12.56738
+ITA;11570;BR;BR;Back Row;36;196;108;La Plata, Argentina;1983-09-12;Parisse;Sergio Francesco Antonio;140;AR;-38.416097,-63.616672
+ITA;48325;PR;PR;Prop;25;183;111;Roma, Italy;1994-07-14;Pasquali;Tiziano;20;IT;41.87194,12.56738
+ITA;55730;BR;BR;Back Row;23;189;106;Bristol, England;1995-11-08;Polledri;Jake John Terry;10;GB;55.378051,-3.435973
+ITA;43404;PR;PR;Prop;28;183;115;Rovigo, Italy;1991-03-09;Quaglio;Nicola;11;IT;41.87194,12.56738
+ITA;56889;PR;PR;Prop;21;185;125;Pescara, Italy;1997-10-19;Riccioni;Marco;4;IT;41.87194,12.56738
+ITA;50391;SR;SR;Lock;25;198;108;Padova, Italy;1994-08-04;Ruzza;Federico;15;IT;41.87194,12.56738
+ITA;45663;SR;SR;Lock;26;193;117;Rinteln, Germany;1993-02-05;Sisi;David Alexander Sharp;7;DE;51.165691,10.451526
+ITA;45548;BR;BR;Back Row;27;192;110;Cradock, South Africa;1992-05-02;Steyn;Abraham Jurgens;33;ZA;-30.559482,22.937506
+ITA;29359;9;SH;Scrum Half;31;180;88;Parma, Italy;1987-09-23;Tebaldi;Tito;34;IT;41.87194,12.56738
+ITA;56054;PR;PR;Prop;30;178;110;Parma, Italy;1989-04-09;Zani;Federico;11;IT;41.87194,12.56738
+ITA;26645;SR;SR;Lock;35;193;111;Udine, Italy;1984-01-31;Zanni;Alessandro;115;IT;41.87194,12.56738
+JPN;47921;WI;WI;Wing;27;175;83;Fukuoka, Japan;1992-09-07;Fukuoka;Kenki;34;JP;36.204824,138.252924
+JPN;59129;SR;SR;Lock;29;193;115;Nuku'alofa, Tonga;1990-07-12;Helu;Uwe;14;TO;-21.178986,-175.198242
+JPN;47916;BR;BR;Back Row;25;187;108;Aichi, Japan;1994-07-27;Himeno;Kazuki;12;JP;36.204824,138.252924
+JPN;28439;2;HK;Hooker;33;180;104;Osaka, Japan;1986-01-21;Horie;Shota;61;JP;36.204824,138.252924
+JPN;36544;PR;PR;Prop;29;183;115;Nigata, Japan;1990-06-02;Inagaki;Keita;29;JP;36.204824,138.252924
+JPN;67430;2;HK;Hooker;27;180;102;Kyoto, Japan;1992-09-14;Kitade;Takuya;1;JP;36.204824,138.252924
+JPN;59897;PR;PR;Prop;23;178;113;Oita, Japan;1995-12-02;Kizu;Yusuke;3;JP;36.204824,138.252924
+JPN;50109;PR;PR;Prop;25;184;115;Seoul, Korea;1994-07-20;Koo;Jiwon;8;KR;35.907757,127.766922
+JPN;49079;BR;BR;Back Row;30;189;107;Pretoria, South Africa;1989-01-11;Labuschagne;Pieter Hermias Cornelius;3;ZA;-30.559482,22.937506
+JPN;59134;CE;CE;Centre;28;186;96;Motootua, Samoa;1991-08-19;Lafaele;Timothy;18;WS;-13.759029,-172.104629
+JPN;34085;BR;BR;Back Row;30;189;99;Burwood, New Zealand;1988-10-07;Leitch;Michael Geoffrey;63;NZ;-40.900557,174.885971
+JPN;51350;WI;WI;Wing;30;177;92;Auckland, New Zealand;1989-01-20;Lemeki;Lomano Lava;11;NZ;-40.900557,174.885971
+JPN;36845;BR;BR;Back Row;29;189;113;Tofoa, Tonga;1990-01-11;Mafi;Amanaki Lelei;25;TO;-21.178986,-175.198242
+JPN;46008;10;FH;Fly Half;25;181;92;Kyoto, Japan;1994-05-03;Matsuda;Rikiya;20;JP;36.204824,138.252924
+JPN;50605;10;FH;Fly Half;26;178;87;Tokyo, Japan;1993-02-26;Matsushima;Kotaro Munyaradzi;34;JP;36.204824,138.252924
+JPN;55005;WI;WI;Wing;23;185;107;Tofoa, Tonga;1996-02-06;Moeakiola;Ataata;4;TO;-21.178986,-175.198242
+JPN;67431;SR;SR;Lock;26;195;110;South Brisbane, Australia;1993-06-11;Moore;James William;3;AU;-25.274398,133.775136
+JPN;45998;9;SH;Scrum Half;27;166;69;Fukuoka, Japan;1992-09-04;Nagare;Yutaka;19;JP;36.204824,138.252924
+JPN;64883;PR;PR;Prop;30;186;120;Vailoa, Palauli, Samoa;1989-07-09;Nakajima;Isileli Vakauta;3;WS;-13.759029,-172.104629
+JPN;43047;CE;CE;Centre;28;178;84;Kagoshima, Japan;1991-06-03;Nakamura;Ryoto;19;JP;36.204824,138.252924
+JPN;45987;2;HK;Hooker;26;180;100;Kyoto, Japan;1993-06-21;Sakate;Atsushi;17;JP;36.204824,138.252924
+JPN;58423;9;SH;Scrum Half;28;170;75;Osaka, Japan;1990-11-21;Shigeno;Kaito;10;JP;36.204824,138.252924
+JPN;45529;10;FH;Fly Half;30;181;87;Okinawa, Japan;1989-01-09;Tamura;Yu;58;JP;36.204824,138.252924
+JPN;29893;9;SH;Scrum Half;34;166;75;Kyoto, Japan;1985-01-03;Tanaka;Fumiaki;70;JP;36.204824,138.252924
+JPN;32857;SR;SR;Lock;38;196;110;Kaiapoi, New Zealand;1981-04-16;Thompson;Luke;67;NZ;-40.900557,174.885971
+JPN;57164;BR;BR;Back Row;27;185;100;Shizuoka, Japan;1992-04-10;Tokunaga;Yoshitaka;12;JP;36.204824,138.252924
+JPN;46461;BR;BR;Back Row;31;189;109;Auckland, New Zealand;1987-12-13;Tui;Hendrik;44;NZ;-40.900557,174.885971
+JPN;61101;CE;CE;Centre;29;190;104;Auckland, New Zealand;1990-07-20;Tupou;William Kapineti-'O-Tonga;10;NZ;-40.900557,174.885971
+JPN;61912;PR;PR;Prop;30;187;115;Tofoa, Tonga;1989-05-07;Valu;Asaeli Ai Fakahau;9;TO;-21.178986,-175.198242
+JPN;34087;15;FB;Full Back;31;188;93;Osaka, Japan;1988-06-22;Yamanaka;Ryohei;13;JP;36.204824,138.252924
+JPN;61911;SR;SR;Lock;30;188;106;Brits, South Africa;1989-01-06;van der Walt;Petrus Willem;12;ZA;-30.559482,22.937506
+NAM;67232;BR;BR;Back Row;23;184;112;Gobabis, Namibia;1996-05-17;Booysen;Jan Adriaan;5;NA;-22.95764,18.49041
+NAM;33762;PR;PR;Prop;31;186;120;Windhoek, Namibia;1988-03-14;Coetzee;Johannes Voges;21;NA;-22.95764,18.49041
+NAM;48338;BR;BR;Back Row;24;185;110;Windhoek, Namibia;1994-10-14;Conradie;Wian;17;NA;-22.95764,18.49041
+NAM;56042;PR;PR;Prop;27;178;128;Windhoek, Namibia;1991-12-09;De Klerk;Abel Jacobus;28;NA;-22.95764,18.49041
+NAM;28492;CE;CE;Centre;32;183;97;Windhoek, Namibia;1986-10-02;De La Harpe;Darryl Pierce;48;NA;-22.95764,18.49041
+NAM;49604;CE;CE;Centre;27;184;94;Windhoek, Namibia;1991-09-26;Deysel;Johan;24;NA;-22.95764,18.49041
+NAM;33765;BR;BR;Back Row;30;174;86;Swakopmund, Namibia;1988-10-12;Forbes;Thomasau Roberto;17;NA;-22.95764,18.49041
+NAM;61426;BR;BR;Back Row;21;186;100;Omaruru, Namibia;1998-07-07;Gaoseb;Prince Rivaldo Gino;2;NA;-22.95764,18.49041
+NAM;54471;WI;WI;Wing;28;187;92;Okahandja, Namibia;1991-06-21;Greyling;Johann Corne;32;NA;-22.95764,18.49041
+NAM;28498;9;SH;Scrum Half;33;177;87;Gobabis, Namibia;1986-08-10;Jantjies;Eugene Anthony;66;NA;-22.95764,18.49041
+NAM;55306;BR;BR;Back Row;24;196;86;Windhoek, Namibia;1995-04-08;Katjijeko;Muharua Wilhelm;13;NA;-22.95764,18.49041
+NAM;60270;10;FH;Fly Half;25;175;80;Mariental, Namibia;1994-01-13;Kisting;Helarius Axasman;8;NA;-22.95764,18.49041
+NAM;42208;BR;BR;Back Row;34;182;98;Windhoek, Namibia;1985-09-13;Kitshoff;Rohan;44;NA;-22.95764,18.49041
+NAM;55307;WI;WI;Wing;24;187;100;Windhoek, Namibia;1995-01-16;Klim;Lesley David;11;NA;-22.95764,18.49041
+NAM;60273;10;FH;Fly Half;22;176;80;Rehoboth, Namibia;1997-02-24;Loubser;Cliven Sven James;15;NA;-22.95764,18.49041
+NAM;50121;CE;CE;Centre;24;190;90;Windhoek, Namibia;1995-02-17;Newman;Justin Thomas;14;NA;-22.95764,18.49041
+NAM;57480;2;HK;Hooker;22;179;98;Windhoek, Namibia;1997-04-17;Nortje;Obert Daniell;15;NA;-22.95764,18.49041
+NAM;61431;15;FB;Full Back;21;178;78;Swakopmund, Namibia;1998-04-21;Plato;Chad Zavier;2;NA;-22.95764,18.49041
+NAM;61432;PR;PR;Prop;21;186;108;Windhoek, Namibia;1998-06-24;Rademeyer;Andre Pretorius;4;NA;-22.95764,18.49041
+NAM;50123;SR;SR;Lock;23;190;110;Windhoek, Namibia;1995-10-10;Retief;Johannes Adriaan;7;NA;-22.95764,18.49041
+NAM;61199;PR;PR;Prop;26;178;115;Walvis Bay, Namibia;1992-12-09;Sethie;Desiderius Fernandus;11;NA;-22.95764,18.49041
+NAM;55316;9;SH;Scrum Half;24;175;82;Walvis Bay, Namibia;1995-06-02;Stevens;Damian Leothon;25;NA;-22.95764,18.49041
+NAM;61435;PR;PR;Prop;22;188;113;Windhoek, Namibia;1997-01-29;Theron;Nelius;4;NA;-22.95764,18.49041
+NAM;35687;WI;WI;Wing;28;183;91;Windhoek, Namibia;1990-12-23;Tromp;Johannes Adriaan;40;NA;-22.95764,18.49041
+NAM;54470;SR;SR;Lock;28;200;108;Otjiwarongo, Namibia;1990-12-31;Uanivi;Tjiuee;30;NA;-22.95764,18.49041
+NAM;46642;2;HK;Hooker;32;173;100;Windhoek, Namibia;1987-06-30;Van Jaarsveld;Torsten George;14;NA;-22.95764,18.49041
+NAM;31684;BR;BR;Back Row;35;192;113;Keetmanshoop, Namibia;1983-12-04;Van Lill;Pieter-Jan;47;NA;-22.95764,18.49041
+NAM;48354;BR;BR;Back Row;24;193;100;Windhoek, Namibia;1994-09-19;Venter;Janco;25;NA;-22.95764,18.49041
+NAM;67472;WI;WI;Wing;26;187;105;Windhoek, Namibia;1993-04-23;Walters;Peter John;0;NA;-22.95764,18.49041
+NAM;60265;WI;WI;Wing;23;175;85;Windhoek, Namibia;1996-08-26;du Toit;Janry;0;NA;-22.95764,18.49041
+NAM;49605;2;HK;Hooker;24;178;100;Windhoek, Namibia;1995-02-25;van der Westhuizen;Louis;19;NA;-22.95764,18.49041
+NZL;42625;10;FH;Fly Half;28;187;92;New Plymouth, New Zealand;1991-05-27;Barrett;Beauden John;78;NZ;-40.900557,174.885971
+NZL;57717;9;SH;Scrum Half;22;194;102;New Plymouth, New Zealand;1997-02-17;Barrett;Jordie Matthew;12;NZ;-40.900557,174.885971
+NZL;48044;SR;SR;Lock;25;197;118;New Plymouth, New Zealand;1993-11-20;Barrett;Scott Kevin;31;NZ;-40.900557,174.885971
+NZL;55801;WI;WI;Wing;24;185;95;Gisborne, New Zealand;1995-04-01;Bridge;George Crispin;5;NZ;-40.900557,174.885971
+NZL;42605;BR;BR;Back Row;27;189;106;Rotorua, New Zealand;1992-01-13;Cane;Samuel Jordan;63;NZ;-40.900557,174.885971
+NZL;29607;2;HK;Hooker;32;184;110;Wellington, New Zealand;1986-12-10;Coles;Dane Stuart;64;NZ;-40.900557,174.885971
+NZL;39545;2;HK;Hooker;29;186;114;New Plymouth, New Zealand;1990-01-25;Coltman;Liam James;6;NZ;-40.900557,174.885971
+NZL;32480;CE;CE;Centre;30;179;97;Nelson, New Zealand;1988-09-23;Crotty;Ryan Stevenson;45;NZ;-40.900557,174.885971
+NZL;54729;CE;CE;Centre;24;188;102;Whangarei, New Zealand;1995-06-13;Goodhue;Elias Jack;9;NZ;-40.900557,174.885971
+NZL;54731;WI;WI;Wing;22;189;105;Auckland, New Zealand;1997-03-18;Ioane;Rieko Edward;26;NZ;-40.900557,174.885971
+NZL;56100;PR;PR;Prop;27;184;125;Faga'alu, American Samoa;1991-11-06;Laulala;Nepo Eti;20;AS;-14.2709723,-170.1322174
+NZL;50409;CE;CE;Centre;24;187;101;Lincoln, New Zealand;1995-04-15;Lienert-Brown;Anton Russell;38;NZ;-40.900557,174.885971
+NZL;50413;10;FH;Fly Half;25;179;85;Christchurch, New Zealand;1994-05-25;Mo'unga;Richard;12;NZ;-40.900557,174.885971
+NZL;50412;PR;PR;Prop;24;189;130;Gisborne, New Zealand;1995-06-12;Moli;Atunaisa;2;NZ;-40.900557,174.885971
+NZL;45238;PR;PR;Prop;30;188;124;Christchurch, New Zealand;1988-09-17;Moody;Joseph Paul Tamatea;41;NZ;-40.900557,174.885971
+NZL;42621;9;SH;Scrum Half;27;183;92;Porirua, New Zealand;1992-01-23;Perenara;Thomas Tekanapu Rawakata;59;NZ;-40.900557,174.885971
+NZL;26722;BR;BR;Back Row;33;193;110;Papakura, New Zealand;1985-10-26;Read;Kieran James;122;NZ;-40.900557,174.885971
+NZL;60952;WI;WI;Wing;22;179;95;Lautoka, Fiji;1997-02-13;Reece;Sevuloni Lasei;3;FJ;-16.578193,179.414413
+NZL;43512;SR;SR;Lock;28;204;120;Rangiora, New Zealand;1991-05-31;Retallick;Brodie Allan;77;NZ;-40.900557,174.885971
+NZL;47998;BR;BR;Back Row;25;188;103;Wellington, New Zealand;1993-10-14;Savea;Ardie Suemalo;39;NZ;-40.900557,174.885971
+NZL;34028;9;SH;Scrum Half;30;171;82;Palmerston North, New Zealand;1988-11-21;Smith;Aaron Luke;87;NZ;-40.900557,174.885971
+NZL;30541;15;FB;Full Back;33;186;95;Dunedin, New Zealand;1986-06-01;Smith;Benjamin Robert;80;NZ;-40.900557,174.885971
+NZL;39558;PR;PR;Prop;29;195;128;Auckland, New Zealand;1990-03-22;Taavao-Matau;Angus Wilkie Faiumiolemau;8;NZ;-40.900557,174.885971
+NZL;42575;2;HK;Hooker;28;183;110;Levin, New Zealand;1991-03-31;Taylor;Codie Joshua Dane;45;NZ;-40.900557,174.885971
+NZL;49085;BR;BR;Back Row;31;183;103;Burwood, New Zealand;1988-03-24;Todd;Matthew Brendon;21;NZ;-40.900557,174.885971
+NZL;48032;SR;SR;Lock;26;198;123;Christchurch, New Zealand;1993-01-23;Tuipulotu;Patrick Tito;25;NZ;-40.900557,174.885971
+NZL;43596;PR;PR;Prop;27;193;125;Tofoa, Tonga;1992-04-19;Tuungafasi;Aniseto Ofa He Mooni;30;TO;-21.178986,-175.198242
+NZL;43517;9;SH;Scrum Half;28;172;75;Napier, New Zealand;1991-01-17;Weber;Brad McCormick;2;NZ;-40.900557,174.885971
+NZL;32482;SR;SR;Lock;30;202;119;Palmerston North, New Zealand;1988-10-12;Whitelock;Samuel Laurence;112;NZ;-40.900557,174.885971
+NZL;42050;CE;CE;Centre;34;191;110;Auckland, New Zealand;1985-08-03;Williams;SonnyWilliam;53;NZ;-40.900557,174.885971
+NZL;50136;BR;BR;Back Row;25;188;114;Tofoa, Tonga;1994-02-11;Frizell;Shannon Michael;5;TO;-21.178986,-175.198242
+RSA;58707;CE;CE;Centre;25;186;93;East London, South Africa;1993-11-28;Am;Lukhanyo;9;ZA;-30.559482,22.937506
+RSA;33042;2;HK;Hooker;38;182;100;Empangeni, South Africa;1981-05-16;Brits;Schalk Burger;13;ZA;-30.559482,22.937506
+RSA;50682;SR;SR;Lock;26;205;122;Alberton, South Africa;1992-12-17;De Jager;Lodewyk;40;ZA;-30.559482,22.937506
+RSA;45550;BR;BR;Back Row;27;200;115;Riebeeck Kasteel, South Africa;1992-08-20;Du Toit;Pieter Stephanus;50;ZA;-30.559482,22.937506
+RSA;43559;SR;SR;Lock;27;204;119;Cape Town, South Africa;1991-10-29;Etzebeth;Eben;79;ZA;-30.559482,22.937506
+RSA;54664;15;FB;Full Back;24;179;86;Knysna, South Africa;1995-05-20;Gelant;Warrick;7;ZA;-30.559482,22.937506
+RSA;39664;10;FH;Fly Half;29;187;92;Graaf Reinet, South Africa;1990-08-01;Jantjies;Elton Thomas;35;ZA;-30.559482,22.937506
+RSA;67397;9;SH;Scrum Half;23;160;80;Cape Town, South Africa;1996-04-22;Jantjies;Herschel Jerome;4;ZA;-30.559482,22.937506
+RSA;45555;PR;PR;Prop;27;183;120;Somerset West, South Africa;1992-02-10;Kitshoff;Steven;40;ZA;-30.559482,22.937506
+RSA;49037;PR;PR;Prop;29;185;118;Empangeni, South Africa;1990-03-13;Koch;Vincent Philip;15;ZA;-30.559482,22.937506
+RSA;48565;15;FB;Full Back;25;170;74;Cape Town, South Africa;1993-10-28;Kolbe;Cheslin;10;ZA;-30.559482,22.937506
+RSA;39774;BR;BR;Back Row;28;186;99;Port Elizabeth, South Africa;1991-06-16;Kolisi;Siyamthanda;43;ZA;-30.559482,22.937506
+RSA;49029;CE;CE;Centre;25;186;96;Cape Town, South Africa;1994-02-15;Kriel;Jesse Andre;45;ZA;-30.559482,22.937506
+RSA;49080;15;FB;Full Back;30;186;90;Strand, South Africa;1989-08-18;Le Roux;Willem Jacobus Johannes;56;ZA;-30.559482,22.937506
+RSA;39965;BR;BR;Back Row;34;190;114;Cape Town, South Africa;1985-06-15;Louw;Louis-Francois Pickard;69;ZA;-30.559482,22.937506
+RSA;47012;PR;PR;Prop;28;190;123;Paarl, South Africa;1991-03-14;Malherbe;Jozua Francois;32;ZA;-30.559482,22.937506
+RSA;60865;WI;WI;Wing;29;187;90;Mdantsane, South Africa;1990-07-26;Mapimpi;Makazole;8;ZA;-30.559482,22.937506
+RSA;50452;2;HK;Hooker;25;185;107;Johannesburg, South Africa;1994-07-13;Marx;Malcolm Justin;27;ZA;-30.559482,22.937506
+RSA;43544;2;HK;Hooker;28;177;98;Bethlehem, South Africa;1991-01-07;Mbonambi;Mbongeni Theo;30;ZA;-30.559482,22.937506
+RSA;58426;SR;SR;Lock;28;198;112;Johannesburg, South Africa;1990-11-27;Mostert;Franco John;32;ZA;-30.559482,22.937506
+RSA;34362;PR;PR;Prop;34;183;116;Harare, Zimbabwe;1985-08-01;Mtawarira;Tendai;111;ZW;-19.015438,29.154857
+RSA;57852;WI;WI;Wing;23;181;97;Barberton, South Africa;1996-01-21;Nkosi;S'Busiso Romeo;8;ZA;-30.559482,22.937506
+RSA;49081;PR;PR;Prop;30;178;120;Limpopo, South Africa;1989-05-04;Nyakane;Ntando Trevor;41;ZA;-30.559482,22.937506
+RSA;46392;10;FH;Fly Half;25;189;98;Somerset West, South Africa;1994-03-11;Pollard;Handre;42;ZA;-30.559482,22.937506
+RSA;53956;9;SH;Scrum Half;29;175;84;Bloemfontein, South Africa;1990-02-07;Reinach;Jacobus Meyer;12;ZA;-30.559482,22.937506
+RSA;48550;BR;BR;Back Row;26;181;85;Krugersdorp, South Africa;1993-06-11;Smith;Albertus Stephanus;4;ZA;-30.559482,22.937506
+RSA;55747;SR;SR;Lock;24;206;117;Pretoria, South Africa;1995-01-29;Snyman;Rudolph Gerhardus;16;ZA;-30.559482,22.937506
+RSA;29126;CE;CE;Centre;32;191;111;Aliwal North, South Africa;1987-05-14;Steyn;Francois Phillippus Lodewyk;61;ZA;-30.559482,22.937506
+RSA;37137;BR;BR;Back Row;33;193;108;Mbombela, South Africa;1986-07-03;Vermeulen;Daniel Johannes;49;ZA;-30.559482,22.937506
+RSA;50681;CE;CE;Centre;27;189;101;Cape Town, South Africa;1991-11-25;de Allende;Damian;40;ZA;-30.559482,22.937506
+RSA;56104;9;SH;Scrum Half;27;172;88;Mbombela, South Africa;1991-10-19;de Klerk;Francois;25;ZA;-30.559482,22.937506
+RUS;35514;15;FB;Full Back;32;180;89;Moscow, Russian Federation;1987-07-24;Artemyev;Vasily;86;RU;61.52401,105.318756
+RUS;56541;PR;PR;Prop;29;182;108;Selo Kambileevskoe, Russian Federation;1989-12-09;Bitiev;Azamat;19;RU;61.52401,105.318756
+RUS;30234;2;HK;Hooker;31;178;101;Moscow, Russian Federation;1988-05-13;Chernyshev;Sergey;10;RU;61.52401,105.318756
+RUS;50766;WI;WI;Wing;25;186;99;Kazan, Russian Federation;1994-03-10;Davydov;German;17;RU;61.52401,105.318756
+RUS;39259;9;SH;Scrum Half;29;175;82;Krasnoyarsk, Russian Federation;1990-08-06;Dorofeev;Vasilii;22;RU;61.52401,105.318756
+RUS;57050;SR;SR;Lock;32;190;114;Krasnoyarsk, Russian Federation;1987-03-10;Elgin;Evgeny;24;RU;61.52401,105.318756
+RUS;59262;SR;SR;Lock;24;200;107;Krasnoyarsk, Russian Federation;1994-09-22;Fedotko;Bogdan;20;RU;61.52401,105.318756
+RUS;56489;BR;BR;Back Row;25;188;108;Dagestan, Russian Federation;1994-03-29;Gadzhiev;Tagir;27;RU;61.52401,105.318756
+RUS;39262;10;FH;Fly Half;28;174;77;Krasnoyarsk, Russian Federation;1991-07-26;Gaisin;Ramil;44;RU;61.52401,105.318756
+RUS;30046;CE;CE;Centre;33;183;82;Baku, Azerbaijan;1985-11-08;Galinovskiy;Igor;49;AZ;40.143105,47.576927
+RUS;25937;SR;SR;Lock;36;192;112;Krasnoyarsk, Russian Federation;1983-08-07;Garbuzov;Andrei;94;RU;61.52401,105.318756
+RUS;32300;CE;CE;Centre;31;185;92;Krasnoyarsk, Russian Federation;1988-04-16;Gerasimov;Dmitrii;64;RU;61.52401,105.318756
+RUS;56605;CE;CE;Centre;25;185;105;Moscow, Russian Federation;1994-05-30;Golosnitskii;Kirill;9;RU;61.52401,105.318756
+RUS;56486;PR;PR;Prop;32;187;118;Tulskaya Oblast, Russian Federation;1987-07-17;Gotovtsev;Kirill;3;RU;61.52401,105.318756
+RUS;28576;BR;BR;Back Row;33;186;108;Leningrad, Russian Federation;1986-03-31;Gresev;Viktor;98;RU;61.52401,105.318756
+RUS;49067;10;FH;Fly Half;32;174;82;Penza, Russian Federation;1986-11-16;Ianiushkin;Sergei;15;RU;61.52401,105.318756
+RUS;46023;BR;BR;Back Row;26;192;98;Penza, Russian Federation;1993-09-06;Khodin;Roman;4;RU;61.52401,105.318756
+RUS;30058;10;FH;Fly Half;34;182;95;Moscow, Russian Federation;1985-06-06;Kushnarev;Iurii;109;RU;61.52401,105.318756
+RUS;30550;2;HK;Hooker;35;187;102;Penza, Russian Federation;1984-04-15;Matveev;Evgenii;58;RU;61.52401,105.318756
+RUS;59263;PR;PR;Prop;24;190;115;Kirghizstan, Russian Federation;1994-09-21;Morozov;Valeriy;17;RU;61.52401,105.318756
+RUS;29095;SR;SR;Lock;32;198;116;Moscow, Russian Federation;1987-07-02;Ostrikov;Andrey;33;RU;61.52401,105.318756
+RUS;28585;CE;CE;Centre;32;184;94;Krasnodar, Russian Federation;1986-09-30;Ostroushko;Vladimir;45;RU;61.52401,105.318756
+RUS;30554;9;SH;Scrum Half;34;175;75;Moscow, Russian Federation;1984-11-18;Perov;Dmitrii;10;RU;61.52401,105.318756
+RUS;56209;PR;PR;Prop;25;188;115;Kaliningrad, Russian Federation;1994-01-27;Podrezov;Vladimir;24;RU;61.52401,105.318756
+RUS;47377;PR;PR;Prop;33;183;104;Penza, Russian Federation;1986-08-09;Polivalov;Andrei;25;RU;61.52401,105.318756
+RUS;39248;2;HK;Hooker;28;178;95;Dneprodzerjinsk, Ukraine;1991-09-02;Selskii;Stanislav;35;UA;48.379433,31.16558
+RUS;39257;WI;WI;Wing;28;192;100;Novokuznetsk, Russian Federation;1991-03-11;Simplikevich;Denis;28;RU;61.52401,105.318756
+RUS;46038;WI;WI;Wing;25;179;82;Kiev, Ukraine;1993-10-09;Sozonov;Vladislav;8;UA;48.379433,31.16558
+RUS;56490;BR;BR;Back Row;25;182;98;Kemerovo, Russian Federation;1994-02-05;Sychev;Anton;14;RU;61.52401,105.318756
+RUS;62749;BR;BR;Back Row;25;188;100;Moscow, Russian Federation;1994-05-13;Vavilin;Nikita;10;RU;61.52401,105.318756
+RUS;43174;BR;BR;Back Row;27;185;98;Orlovskaya Oblast, Russian Federation;1992-02-16;Zhivatov;Vitaly;9;RU;61.52401,105.318756
+WSA;43176;PR;PR;Prop;28;189;128;Camperdown, Australia;1991-08-28;Alaalatoa;Michael Savea;1;AU;-25.274398,133.775136
+WSA;48838;10;FH;Fly Half;26;186;95;Motootua, Samoa;1993-03-25;Alatimu;AJ Mamoe;5;WS;-13.759029,-172.104629
+WSA;39449;PR;PR;Prop;27;181;130;Henderson, New Zealand;1991-12-22;Alo-Emile;Paul;13;NZ;-40.900557,174.885971
+WSA;67474;BR;BR;Back Row;28;189;113;Henderson, New Zealand;1990-10-11;Amosa;Afaesetiti;3;NZ;-40.900557,174.885971
+WSA;28863;BR;BR;Back Row;31;195;117;Porirua, New Zealand;1988-01-22;Faasalele;Piula Baloiloi;18;NZ;-40.900557,174.885971
+WSA;42615;2;HK;Hooker;32;182;112;Wellington, New Zealand;1987-04-30;Farao Matu'u;Motu Dean;21;NZ;-40.900557,174.885971
+WSA;45244;CE;CE;Centre;31;186;106;Burwood, New Zealand;1988-02-02;Fonotia;Kieron Thomas;9;NZ;-40.900557,174.885971
+WSA;54609;BR;BR;Back Row;30;182;104;Motootua, Samoa;1989-05-09;Ioane;Tala James;21;WS;-13.759029,-172.104629
+WSA;29272;BR;BR;Back Row;31;186;100;Hamilton, New Zealand;1987-11-18;Lam;Jack Tafa;35;NZ;-40.900557,174.885971
+WSA;49195;2;HK;Hooker;30;183;110;Hamilton, New Zealand;1989-02-18;Lam;Leon Seilala;13;NZ;-40.900557,174.885971
+WSA;61138;PR;PR;Prop;25;178;118;Motootua, Samoa;1993-12-16;Lay;James Michael;10;WS;-13.759029,-172.104629
+WSA;45254;PR;PR;Prop;26;184;115;Motootua, Samoa;1992-11-05;Lay;Jordan Andrew;16;WS;-13.759029,-172.104629
+WSA;65058;SR;SR;Lock;26;198;100;Lower Hutt, New Zealand;1992-12-03;Le'aupepe;Kane Thomas Viliamu;6;NZ;-40.900557,174.885971
+WSA;42614;CE;CE;Centre;33;181;98;Motootua, Samoa;1986-02-20;Lee-Lo;Reynold;25;WS;-13.759029,-172.104629
+WSA;49016;CE;CE;Centre;30;182;100;Malie, Samoa;1988-09-21;Leiua;Alapati;27;WS;-13.759029,-172.104629
+WSA;55087;9;SH;Scrum Half;23;180;79;Motootua, Samoa;1995-11-19;Matavao;Melani;9;WS;-13.759029,-172.104629
+WSA;36205;PR;PR;Prop;32;192;120;Manono, Samoa;1987-03-11;Mulipola;Logovii;30;WS;-13.759029,-172.104629
+WSA;52857;15;FB;Full Back;30;182;90;Auckland, New Zealand;1989-06-12;Nanai Tavae;Tavaefaga Timothy;12;NZ;-40.900557,174.885971
+WSA;65059;PR;PR;Prop;28;186;120;Otahuhu, New Zealand;1991-06-19;Niuia;Raymond Fetenuu;4;NZ;-40.900557,174.885971
+WSA;47384;SR;SR;Lock;31;198;120;Porirua, New Zealand;1987-11-06;Paulo;Teofilo Aloisio Mikaele;34;NZ;-40.900557,174.885971
+WSA;31787;10;FH;Fly Half;37;185;93;Motootua, Samoa;1982-06-18;Pisi;Tusiata MacKenzie;38;WS;-13.759029,-172.104629
+WSA;58343;9;SH;Scrum Half;29;182;83;Auckland, New Zealand;1990-07-30;Polataivao;Dwayne Ene;13;NZ;-40.900557,174.885971
+WSA;45182;10;FH;Fly Half;25;187;103;Bedford Park, Australia;1993-12-09;Seuteni;Ulupano Junior;2;AU;-25.274398,133.775136
+WSA;48599;CE;CE;Centre;26;183;100;Motootua, Samoa;1993-04-02;Taefu;Leo Henry;3;WS;-13.759029,-172.104629
+WSA;57162;WI;WI;Wing;26;188;97;Motootua, Samoa;1993-09-11;Teofilo Fidow;Ed;8;WS;-13.759029,-172.104629
+WSA;45903;BR;BR;Back Row;26;193;125;Westmead, Australia;1993-08-26;Toleafoa;Senio Benedict;2;AU;-25.274398,133.775136
+WSA;42608;15;FB;Full Back;30;186;106;Motootua, Samoa;1989-08-23;Tuala;Ah See;20;WS;-13.759029,-172.104629
+WSA;55782;WI;WI;Wing;29;188;106;Otahuhu, New Zealand;1989-09-19;Tuatagaloa;Belgium;3;NZ;-40.900557,174.885971
+WSA;39689;BR;BR;Back Row;28;194;116;Hamilton, New Zealand;1990-10-16;Tyrell;Joshua Iuni;7;NZ;-40.900557,174.885971
+WSA;48619;SR;SR;Lock;26;198;119;Henderson, New Zealand;1993-02-11;Vui;Christopher Fatu;14;NZ;-40.900557,174.885971
+WSA;54578;9;SH;Scrum Half;26;173;74;Tokoroa, New Zealand;1993-04-16;Cowley;Pelefofoga Ziki;12;NZ;-40.900557,174.885971
+SCO;25797;BR;BR;Back Row;32;190;106;Hong Kong, Hong Kong;1986-09-24;Barclay;John Adam;74;HK;22.396428,114.109497
+SCO;59598;PR;PR;Prop;28;190;120;Christchurch, New Zealand;1990-12-07;Berghan;Simon Andrew;22;NZ;-40.900557,174.885971
+SCO;34293;2;HK;Hooker;30;182;113;Lanark, Scotland;1989-06-20;Brown;Fraser James MacGregor;42;GB;55.378051,-3.435973
+SCO;55636;SR;SR;Lock;22;198;115;Glasgow, Scotland;1996-12-03;Cummings;Scott James;4;GB;55.378051,-3.435973
+SCO;45546;PR;PR;Prop;27;185;112;Humansdorp, South Africa;1992-03-16;Dell;Allan Michael Elgin;25;ZA;-30.559482,22.937506
+SCO;50424;PR;PR;Prop;23;188;126;Perth, Scotland;1996-01-19;Fagerson;Alexander James Ragnar;22;GB;55.378051,-3.435973
+SCO;36676;SR;SR;Lock;29;198;118;Stirling, Scotland;1990-08-09;Gilchrist;Grant Stuart;36;GB;55.378051,-3.435973
+SCO;56855;WI;WI;Wing;22;177;84;Melrose, Scotland;1997-06-21;Graham;Darcy;7;GB;55.378051,-3.435973
+SCO;48678;SR;SR;Lock;25;198;120;Glasgow, Scotland;1994-03-14;Gray;Jonathan;52;GB;55.378051,-3.435973
+SCO;61993;CE;CE;Centre;28;188;104;Carlisle, England;1990-12-28;Harris;Christopher James;10;GB;55.378051,-3.435973
+SCO;56856;10;FH;Fly Half;22;185;87;Edinburgh, Scotland;1996-10-05;Hastings;Adam Robert;14;GB;55.378051,-3.435973
+SCO;43530;15;FB;Full Back;27;180;93;Melrose, Scotland;1992-06-24;Hogg;Stuart William;69;GB;55.378051,-3.435973
+SCO;55641;9;SH;Scrum Half;24;174;79;Dundee, Scotland;1995-05-12;Horne;George;7;GB;55.378051,-3.435973
+SCO;34123;CE;CE;Centre;29;183;92;Aberdeen, Scotland;1989-10-05;Horne;Peter;43;GB;55.378051,-3.435973
+SCO;49909;CE;CE;Centre;26;185;95;Dysart, Australia;1993-06-19;Johnson;Samuel Mark;6;AU;-25.274398,133.775136
+SCO;55642;15;FB;Full Back;22;190;95;Edinburgh, Scotland;1997-01-18;Kinghorn;Blair Simon;15;GB;55.378051,-3.435973
+SCO;26337;9;SH;Scrum Half;33;176;78;Edinburgh, Scotland;1985-10-12;Laidlaw;Greig David;73;GB;55.378051,-3.435973
+SCO;32498;WI;WI;Wing;31;185;101;Tokoroa, New Zealand;1988-09-14;Maitland;Sean Daniel;42;NZ;-40.900557,174.885971
+SCO;36683;2;HK;Hooker;29;190;109;Edinburgh, Scotland;1990-08-09;McInally;Stuart;29;GB;55.378051,-3.435973
+SCO;37061;PR;PR;Prop;33;180;114;Loeriesfontein, South Africa;1986-04-30;Nel;Willem Petrus;31;ZA;-30.559482,22.937506
+SCO;48670;9;SH;Scrum Half;26;177;88;King's Lynn, England;1993-05-12;Price;Alistair William;27;GB;55.378051,-3.435973
+SCO;28920;PR;PR;Prop;32;190;120;Irvine, Scotland;1987-03-04;Reid;Gordon John;37;GB;55.378051,-3.435973
+SCO;50434;BR;BR;Back Row;23;190;108;Dundee, Scotland;1996-08-16;Ritchie;James Thomas;12;GB;55.378051,-3.435973
+SCO;45928;10;FH;Fly Half;26;182;87;Stirling, Scotland;1992-09-23;Russell;Finn Alastair;46;GB;55.378051,-3.435973
+SCO;31945;WI;WI;Wing;31;183;93;Tullahoma, United States;1988-07-01;Seymour;Thomas Samuel Fenwick;52;US;37.09024,-95.712891
+SCO;49005;CE;CE;Centre;30;192;98;Northampton, England;1989-09-05;Taylor;Duncan McWilliam;23;GB;55.378051,-3.435973
+SCO;39557;SR;SR;Lock;28;198;106;Auckland, New Zealand;1990-12-04;Thomson;Blade Neville;2;NZ;-40.900557,174.885971
+SCO;47887;SR;SR;Lock;27;203;118;Brisbane, Australia;1992-03-31;Toolis;Benjamin Martin;21;AU;-25.274398,133.775136
+SCO;45921;2;HK;Hooker;26;180;105;Edinburgh, Scotland;1992-10-08;Turner;George Edward;8;GB;55.378051,-3.435973
+SCO;43538;BR;BR;Back Row;27;185;102;Manchester, England;1991-10-15;Watson;Hamish Fergus Wallace;27;GB;55.378051,-3.435973
+SCO;36688;BR;BR;Back Row;30;190;106;Aldershot, England;1989-05-18;Wilson;Ryan;45;GB;55.378051,-3.435973
+TON;59940;10;FH;Fly Half;25;185;89;Otahuhu, New Zealand;1994-06-13;Faiva;James Nunu Fainga'anuku;5;NZ;-40.900557,174.885971
+TON;36907;SR;SR;Lock;30;192;115;Auckland, New Zealand;1989-02-13;Faleafa;Daniel Tonga;22;NZ;-40.900557,174.885971
+TON;36908;PR;PR;Prop;29;178;124;Tofoa, Tonga;1989-11-22;Fia;Siosaia Lote Ma'afu-Toka;6;TO;-21.178986,-175.198242
+TON;36837;SR;SR;Lock;30;193;116;Neiafu, Tonga;1989-07-29;Fifita;Salesi Halaleva Lapota;15;TO;-21.178986,-175.198242
+TON;55864;PR;PR;Prop;23;180;117;Auckland, New Zealand;1996-02-28;Fifita;Vunipola;2;NZ;-40.900557,174.885971
+TON;58698;PR;PR;Prop;32;184;125;Neiafu, Tonga;1987-06-08;Fisiihoi;Siegfried;9;TO;-21.178986,-175.198242
+TON;28812;9;SH;Scrum Half;31;183;120;Tofoa, Tonga;1987-11-29;Fisilau;Samisoni;19;TO;-21.178986,-175.198242
+TON;50405;9;SH;Scrum Half;25;185;95;Auckland, New Zealand;1994-09-08;Fukofuka;Leon Peter Channel;7;NZ;-40.900557,174.885971
+TON;36069;15;FB;Full Back;32;189;85;Neiafu, Tonga;1987-07-05;Halaifonua;David Frank Harvey;33;TO;-21.178986,-175.198242
+TON;36100;PR;PR;Prop;33;189;120;Tofoa, Tonga;1986-08-09;Halanukonuka;Siosiua;11;TO;-21.178986,-175.198242
+TON;45637;CE;CE;Centre;27;184;94;Manly, Australia;1992-01-27;Hingano;Malietoa Seuli Seuli;4;AU;-25.274398,133.775136
+TON;28802;BR;BR;Back Row;31;194;121;Matahau, Tonga;1988-05-18;Kalamafoni;Sione Maake;33;TO;-21.178986,-175.198242
+TON;65067;BR;BR;Back Row;26;189;130;Auckland, New Zealand;1992-09-28;Kapeli;Zane Rance;6;NZ;-40.900557,174.885971
+TON;66565;BR;BR;Back Row;27;180;108;Longoteme, Tonga;1992-03-19;Lokotui;Fotu Suluka;12;TO;-21.178986,-175.198242
+TON;63866;WI;WI;Wing;26;181;93;Otahuhu, New Zealand;1993-07-04;Lolohea;Viliami;9;NZ;-40.900557,174.885971
+TON;61135;SR;SR;Lock;28;198;121;Auckland, New Zealand;1991-07-20;Lousi;Samiuela Taufa;4;NZ;-40.900557,174.885971
+TON;34256;SR;SR;Lock;29;196;102;Fairfield, Australia;1989-12-09;Mafi;Sitiveni;32;AU;-25.274398,133.775136
+TON;68253;2;HK;Hooker;22;181;111;Angaha, Tonga;1997-02-18;Maile;Siua Pututau;1;TO;-21.178986,-175.198242
+TON;34026;BR;BR;Back Row;31;190;108;Lincoln, New Zealand;1988-08-15;Manu;Tavake Lecanus;3;NZ;-40.900557,174.885971
+TON;38030;10;FH;Fly Half;34;186;85;Takapuna, New Zealand;1984-11-13;Morath;Kurt Stanley;37;NZ;-40.900557,174.885971
+TON;50000;2;HK;Hooker;29;185;122;Christchurch, New Zealand;1990-02-19;Ngauamo;Paula Mark;19;NZ;-40.900557,174.885971
+TON;58398;15;FB;Full Back;30;183;81;Ha'ateiho, Tonga;1989-08-02;Pakalani;Atieli;10;TO;-21.178986,-175.198242
+TON;44200;CE;CE;Centre;33;185;99;Auckland, New Zealand;1985-10-13;Piutau;Siale Vailea;39;NZ;-40.900557,174.885971
+TON;39749;2;HK;Hooker;27;180;105;Tofoa, Tonga;1991-12-14;Sakalia;Sosefo;10;TO;-21.178986,-175.198242
+TON;50727;9;SH;Scrum Half;28;180;95;Tofoa, Tonga;1991-01-11;Takulua;Sonatane;34;TO;-21.178986,-175.198242
+TON;36916;PR;PR;Prop;29;193;132;Neiafu, Tonga;1989-12-26;Talakai;Sione Latu;6;TO;-21.178986,-175.198242
+TON;43516;PR;PR;Prop;28;188;151;Otahuhu, New Zealand;1991-08-30;Tameifuna;Benjamin Va ' inga Charles;11;NZ;-40.900557,174.885971
+TON;36920;CE;CE;Centre;30;179;90;Auckland, New Zealand;1989-01-21;Tuitavake;Nafitalai Henry;13;NZ;-40.900557,174.885971
+TON;48056;BR;BR;Back Row;30;190;112;Pakaura, New Zealand;1989-07-21;Vaipulu;Maama 'Oe Mo' Ui;8;NZ;-40.900557,174.885971
+TON;39559;15;FB;Full Back;28;190;103;Kawakawa, New Zealand;1990-12-26;Veainu;Koloti Telusa Pelaki;9;NZ;-40.900557,174.885971
+TON;44208;WI;WI;Wing;32;187;101;Auckland, New Zealand;1987-07-05;Vuna;Kerry Cooper;13;NZ;-40.900557,174.885971
+URY;62992;9;SH;Scrum Half;23;174;78;Montevideo, Uruguay;1996-09-02;Arata Perrone;Santiago;29;UY;-32.522779,-55.765835
+URY;48433;PR;PR;Prop;25;190;114;Montevideo, Uruguay;1994-08-19;Arbelo Garcia;Diego;5;UY;-32.522779,-55.765835
+URY;62623;BR;BR;Back Row;21;177;90;Montevideo, Uruguay;1998-09-09;Ardao;Manuel;3;UY;-32.522779,-55.765835
+URY;39180;10;FH;Fly Half;28;178;80;Montevideo, Uruguay;1991-04-12;Berchesi Pisano;Felipe;29;UY;-32.522779,-55.765835
+URY;58417;CE;CE;Centre;23;178;83;Montevideo, Uruguay;1996-09-06;Cat Piccardo;Juan Manuel;25;UY;-32.522779,-55.765835
+URY;60291;BR;BR;Back Row;21;184;90;Montevideo, Uruguay;1998-02-28;Civetta Ponce De Leon;Santiago;3;UY;-32.522779,-55.765835
+URY;62627;CE;CE;Centre;22;178;90;Paysandu, Uruguay;1997-09-11;Della Corte Bertoni;Agustin;5;UY;-32.522779,-55.765835
+URY;55332;BR;BR;Back Row;23;189;100;Montevideo, Uruguay;1996-03-07;Diana Olaso;Manuel;13;UY;-32.522779,-55.765835
+URY;50157;SR;SR;Lock;25;193;103;Montevideo, Uruguay;1994-08-18;Dotti Uria;Ignacio Francisco;34;UY;-32.522779,-55.765835
+URY;39173;PR;PR;Prop;27;173;105;Florida, Uruguay;1991-10-09;Echeverria Rodriguez;Juan Antonio;41;UY;-32.522779,-55.765835
+URY;55335;15;FB;Full Back;23;178;75;Montevideo, Uruguay;1996-06-23;Etcheverry Cavanna;Felipe;2;UY;-32.522779,-55.765835
+URY;43064;WI;WI;Wing;28;174;78;Montevideo, Uruguay;1991-05-19;Favaro Garcia;Federico;25;UY;-32.522779,-55.765835
+URY;48443;CE;CE;Centre;26;177;90;Montevideo, Uruguay;1993-07-03;Freitas Alleges;Solen Nicolas;25;UY;-32.522779,-55.765835
+URY;32385;BR;BR;Back Row;30;175;90;Montevideo, Uruguay;1989-05-01;Gaminara;Juan Manuel;57;UY;-32.522779,-55.765835
+URY;50170;PR;PR;Prop;24;184;107;Montevideo, Uruguay;1995-07-02;Gattas Clavell;Facundo Eduardo;23;UY;-32.522779,-55.765835
+URY;57453;CE;CE;Centre;22;180;84;Montevideo, Uruguay;1996-10-22;Inciarte;Tomas;11;UY;-32.522779,-55.765835
+URY;63905;PR;PR;Prop;21;182;102;Montevideo, Uruguay;1998-09-12;Jaunsolo Mezzetta;Joaquin;0;UY;-32.522779,-55.765835
+URY;50154;2;HK;Hooker;25;184;105;Montevideo, Uruguay;1994-07-01;Kessler Lordon;German Eduardo;39;UY;-32.522779,-55.765835
+URY;43067;SR;SR;Lock;27;188;100;Montevideo, Uruguay;1991-10-05;Lamanna Miranda;Franco;42;UY;-32.522779,-55.765835
+URY;55337;SR;SR;Lock;22;200;110;Montevideo, Uruguay;1997-04-23;Leindekar Virginio;Manuel;10;UY;-32.522779,-55.765835
+URY;30236;WI;WI;Wing;31;181;98;Montevideo, Uruguay;1988-07-06;Leivas Ballestrino;Luis Leandro;67;UY;-32.522779,-55.765835
+URY;32389;SR;SR;Lock;30;188;105;Montevideo, Uruguay;1989-04-27;Magno;Diego Gianni;80;UY;-32.522779,-55.765835
+URY;36604;15;FB;Full Back;29;181;80;Maldonado, Uruguay;1989-10-05;Mieres Valente;Gaston;62;UY;-32.522779,-55.765835
+URY;32391;BR;BR;Back Row;31;186;108;Montevideo, Uruguay;1988-01-07;Nieto Serra;Alejandro Martin;59;UY;-32.522779,-55.765835
+URY;39181;9;SH;Scrum Half;28;176;86;Montevideo, Uruguay;1991-03-08;Ormaechea;Agustin Leon;41;UY;-32.522779,-55.765835
+URY;32393;BR;BR;Back Row;30;184;97;Montevideo, Uruguay;1989-01-28;Ormaechea;Juan Diego;27;UY;-32.522779,-55.765835
+URY;57461;2;HK;Hooker;22;180;100;Montevideo, Uruguay;1997-02-06;Pujadas Leon;Guillermo;7;UY;-32.522779,-55.765835
+URY;29021;PR;PR;Prop;32;185;115;Paysandu, Uruguay;1987-03-05;Rombys Aguzzi;Juan Pedro;29;UY;-32.522779,-55.765835
+URY;43070;PR;PR;Prop;27;185;105;Montevideo, Uruguay;1992-07-26;Sanguinetti;Mateo;54;UY;-32.522779,-55.765835
+URY;43074;15;FB;Full Back;26;175;75;Montevideo, Uruguay;1992-11-02;Silva Pisano;Rodrigo;49;UY;-32.522779,-55.765835
+URY;39179;CE;CE;Centre;28;196;95;Montevideo, Uruguay;1991-05-08;Vilaseca Hontou;Andres;46;UY;-32.522779,-55.765835
+USA;65053;2;HK;Hooker;19;180;120;-, American Samoa;1999-11-20;Ainuu;David Faimafiliotama'ita'i;8;AS;-14.2709723,-170.1322174
+USA;59977;BR;BR;Back Row;22;190;107;Oklahoma, United States;1997-01-08;Al-Jiboori;Malon Maurice;5;US;37.09024,-95.712891
+USA;51378;9;SH;Scrum Half;29;172;81;Minnesota, United States;1990-01-31;Augspurger;Nathaniel Lee;24;US;37.09024,-95.712891
+USA;49923;WI;WI;Wing;31;191;94;California, United States;1987-10-15;Brache;Marcel Girard;19;US;37.09024,-95.712891
+USA;57052;SR;SR;Lock;30;195;118;Massachusetts, United States;1989-08-31;Brakeley;Nathaniel Myers;21;US;37.09024,-95.712891
+USA;58928;CE;CE;Centre;24;188;107;Indiana, United States;1994-09-21;Campbell;Bryce Andrew;28;US;37.09024,-95.712891
+USA;47089;SR;SR;Lock;29;203;119;New York, United States;1989-11-05;Civetta;Nicholas Anthony;23;US;37.09024,-95.712891
+USA;46505;9;SH;Scrum Half;30;174;83;Durban, South Africa;1989-06-20;Davies;Shaun Michael;25;ZA;-30.559482,22.937506
+USA;35569;BR;BR;Back Row;29;198;113;Florida, United States;1990-03-07;Dolan;Cameron Alexander;47;US;37.09024,-95.712891
+USA;62526;2;HK;Hooker;29;183;106;Dublin, Ireland;1990-07-24;Fawsitt;Dylan Paul;12;IE;53.41291,-8.24389
+USA;28746;PR;PR;Prop;32;193;116;Davis, California, United States;1987-09-14;Fry;Eric Christopher;45;US;37.09024,-95.712891
+USA;50016;BR;BR;Back Row;23;185;104;Kimberley, South Africa;1996-08-24;Germishuys;Hanco Jacobus Ernst Lodewikus;17;ZA;-30.559482,22.937506
+USA;47937;2;HK;Hooker;30;185;107;Henley Beach, Australia;1989-05-21;Hilterbrand;James Andrew;19;AU;-25.274398,133.775136
+USA;48697;15;FB;Full Back;25;188;89;Cambridge, England;1993-11-28;Hooley;William John Edward;12;GB;55.378051,-3.435973
+USA;54679;CE;CE;Centre;29;188;105;Hawaii, United States;1990-01-13;Iosefo;Martin Mulipa;6;US;37.09024,-95.712891
+USA;49572;PR;PR;Prop;32;180;118;California, United States;1986-09-28;Kilifi;Olive Onelani;27;US;37.09024,-95.712891
+USA;58431;BR;BR;Back Row;28;185;107;Timaru, New Zealand;1991-07-31;Lamborn;Tony Andrew;19;NZ;-40.900557,174.885971
+USA;49434;PR;PR;Prop;24;183;113;Washington, United States;1995-02-11;Lamositele;Titi Edward;28;US;37.09024,-95.712891
+USA;55585;SR;SR;Lock;28;198;122;Wisconsin, United States;1991-03-26;Landry;Benjamin Joseph;22;US;37.09024,-95.712891
+USA;62527;CE;CE;Centre;29;180;114;Takapuna, New Zealand;1990-06-18;Lasike;Paul Hiko;16;NZ;-40.900557,174.885971
+USA;55462;10;FH;Fly Half;29;185;92;Dublin, Ireland;1990-02-26;MacGinty;Alan Leon;24;IE;53.41291,-8.24389
+USA;43093;PR;PR;Prop;27;183;86;London, England;1992-02-23;Magie;William Mac Gregor;25;GB;55.378051,-3.435973
+USA;43096;PR;PR;Prop;27;183;125;Galway, Ireland;1991-11-16;Mullen;Paul;14;IE;53.41291,-8.24389
+USA;33170;CE;CE;Centre;30;191;104;Woodland, California, United States;1988-09-22;Palamo;Thretton Davis;18;US;37.09024,-95.712891
+USA;39462;SR;SR;Lock;28;204;123;Sydney, Australia;1991-03-26;Peterson;Gregory Howard;26;AU;-25.274398,133.775136
+USA;54297;BR;BR;Back Row;25;193;99;Nebraska, United States;1994-06-13;Pinkelman;Benjamin Joseph;2;US;37.09024,-95.712891
+USA;47101;BR;BR;Back Row;29;188;106;Cork, Ireland;1990-03-10;Quill;John Francis;36;IE;53.41291,-8.24389
+USA;44123;WI;WI;Wing;31;192;95;Sacramento, California, United States;1988-02-29;Scully;Blaine Hansen;50;US;37.09024,-95.712891
+USA;56281;2;HK;Hooker;26;183;124;Nu'uuli, American Samoa;1992-10-04;Taufetee;Joseph Soosemea;23;AS;-14.2709723,-170.1322174
+USA;48658;WI;WI;Wing;26;175;93;California, United States;1993-07-23;Teo;Michael Paseka;24;US;37.09024,-95.712891
+USA;57408;9;SH;Scrum Half;20;183;88;George, South Africa;1998-10-09;de Hass;Ruben Pieter;13;ZA;-30.559482,22.937506
+WAL;50463;WI;WI;Wing;24;186;95;Swansea, Wales;1995-04-21;Adams;Joshua Huw;14;GB;55.378051,-3.435973
+WAL;48729;WI;WI;Wing;24;185;97;Stockport, England;1994-09-24;Amos;Hallam Benjamen;20;GB;55.378051,-3.435973
+WAL;49835;SR;SR;Lock;28;198;124;Ascot, England;1991-06-21;Ball;Jake;36;GB;55.378051,-3.435973
+WAL;55680;SR;SR;Lock;23;203;117;Swansea, Wales;1996-01-07;Beard;Adam James;16;GB;55.378051,-3.435973
+WAL;33997;10;FH;Fly Half;29;188;93;Swansea, Wales;1989-10-16;Biggar;Daniel Rhys;73;GB;55.378051,-3.435973
+WAL;59616;PR;PR;Prop;21;191;132;Cardiff, Wales;1998-02-08;Carre;Rhys Michael Timothy;1;GB;55.378051,-3.435973
+WAL;56109;9;SH;Scrum Half;27;175;86;Carmarthen, Wales;1992-07-19;Davies;Aled Huw;19;GB;55.378051,-3.435973
+WAL;38914;9;SH;Scrum Half;29;178;88;Carmarthen, Wales;1990-08-18;Davies;David Gareth;44;GB;55.378051,-3.435973
+WAL;51122;BR;BR;Back Row;28;183;98;Carmarthen, Wales;1990-10-25;Davies;James Michael;5;GB;55.378051,-3.435973
+WAL;29368;CE;CE;Centre;31;185;101;Solihull, England;1988-04-05;Davies;Jonathan James Vaughan;76;GB;55.378051,-3.435973
+WAL;48715;2;HK;Hooker;25;185;106;Newport, Wales;1994-03-07;Dee;Elliot Mitchell;22;GB;55.378051,-3.435973
+WAL;55677;2;HK;Hooker;24;188;110;Carmarthen, Wales;1995-01-07;Elias;Ryan James;8;GB;55.378051,-3.435973
+WAL;56108;PR;PR;Prop;27;185;135;York, England;1992-04-27;Francis;Tomas William;43;GB;55.378051,-3.435973
+WAL;32440;15;FB;Full Back;30;178;85;Swansea, Wales;1988-12-22;Halfpenny;Stephen Leigh;82;GB;55.378051,-3.435973
+WAL;43410;SR;SR;Lock;27;196;117;Pontypridd, Wales;1992-02-10;Hill;Cory Lewis;24;GB;55.378051,-3.435973
+WAL;26376;SR;SR;Lock;33;196;118;Swansea, Wales;1985-09-19;Jones;Alun Wyn;128;GB;55.378051,-3.435973
+WAL;61092;PR;PR;Prop;27;183;118;Carmarthen, Wales;1992-02-26;Jones;Owain Tomos Wyn;15;GB;55.378051,-3.435973
+WAL;55674;PR;PR;Prop;23;183;118;Church Village, Wales;1996-01-04;Lewis;Dillon Anthony;15;GB;55.378051,-3.435973
+WAL;48700;BR;BR;Back Row;25;188;103;St Helens, England;1994-04-18;Moriarty;Connall Ross;34;GB;55.378051,-3.435973
+WAL;42052;WI;WI;Wing;27;193;109;King's Lynn, England;1992-04-13;North;George Philip;86;GB;55.378051,-3.435973
+WAL;29385;2;HK;Hooker;32;183;110;Carmarthen, Wales;1987-01-03;Owens;Kenneth James;67;GB;55.378051,-3.435973
+WAL;62250;CE;CE;Centre;31;188;101;Hunterville, New Zealand;1987-10-05;Parkes;Hadleigh William;18;NZ;-40.900557,174.885971
+WAL;48724;10;FH;Fly Half;26;191;92;Cardiff, Wales;1993-05-17;Patchell;Mathew Rhys;13;GB;55.378051,-3.435973
+WAL;36763;BR;BR;Back Row;28;185;105;Bridgend, Wales;1990-12-30;Rajai-Navidi;Joshua;19;GB;55.378051,-3.435973
+WAL;45082;BR;BR;Back Row;32;198;107;Aldershot, England;1987-08-07;Shingler;Aaron Craig;20;GB;55.378051,-3.435973
+WAL;48713;PR;PR;Prop;25;183;116;Swansea, Wales;1994-04-07;Smith;Nicky Paul;31;GB;55.378051,-3.435973
+WAL;34001;BR;BR;Back Row;30;188;102;Neath, Wales;1989-08-06;Tipuric;Justin Charles;66;GB;55.378051,-3.435973
+WAL;63868;BR;BR;Back Row;21;188;106;Cardiff, Wales;1997-09-25;Wainwright;Aaron James;12;GB;55.378051,-3.435973
+WAL;55690;CE;CE;Centre;22;188;100;Bridgend, Wales;1996-10-12;Watkin;Owen Paul;16;GB;55.378051,-3.435973
+WAL;43423;15;FB;Full Back;28;185;87;Swansea, Wales;1991-04-09;Williams;Liam Brian;58;GB;55.378051,-3.435973
+WAL;50478;9;SH;Scrum Half;24;178;77;Treorchy, Wales;1995-01-01;Williams;Tomos Geraint;9;GB;55.378051,-3.435973
