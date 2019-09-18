@@ -1,0 +1,42 @@
+RWC2019 (Rugby World Cup 2019)
+==============================
+
+team -- team 
+pid -- players id
+number -- 
+pos -- position
+plabel -- position label
+age -- age (years)
+height -- height (cm)
+weight -- weight (kg)
+bplace -- place of birth
+bdate -- dat of birth
+last -- last name
+first -- first name
+caps -- number of caps
+isoc -- country of birth
+ccoords -- country of birth coordinates
+
+source:
+=======
+arg =https://www.rugbyworldcup.com/teams/40  
+aus =https://www.rugbyworldcup.com/teams/38  
+can =https://www.rugbyworldcup.com/teams/50  
+eng =https://www.rugbyworldcup.com/teams/34  
+fij =https://www.rugbyworldcup.com/teams/46  
+fra =https://www.rugbyworldcup.com/teams/42  
+geo =https://www.rugbyworldcup.com/teams/720  
+ire =https://www.rugbyworldcup.com/teams/36  
+ita =https://www.rugbyworldcup.com/teams/41  
+jpn =https://www.rugbyworldcup.com/teams/49  
+nam =https://www.rugbyworldcup.com/teams/58  
+nzl =https://www.rugbyworldcup.com/teams/37  
+rus =https://www.rugbyworldcup.com/teams/756  
+wsm =https://www.rugbyworldcup.com/teams/45  
+sco =https://www.rugbyworldcup.com/teams/35  
+rsa =https://www.rugbyworldcup.com/teams/39  
+ton =https://www.rugbyworldcup.com/teams/47  
+ury =https://www.rugbyworldcup.com/teams/68  
+usa =https://www.rugbyworldcup.com/teams/51  
+wal =https://www.rugbyworldcup.com/teams/33  
+
