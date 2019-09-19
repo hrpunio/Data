@@ -1,4 +1,4 @@
-## RWC 2019 players simple statistical analysis
+## RWC 2019 players elementary statistical analysis
 ## tprzechlewski@gmail.com
 ## CC by license
 require(ggplot2)
