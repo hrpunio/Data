@@ -1,0 +1,871 @@
+cat;sex;fid;cntry1;name1;winner;name2;cntry2;score1;score2;time;round;comment;ippon;idr
+48;F;67;JPN;TONAKI=Funa;R;BILODID=Daria; UKR;0=;1 0= █ █;04:00;Final;;0;r8
+48;F;66;ESP;MARTINEZ ABELENDA=Laura;R;KRASNIQI=Distria; KOS;0=;1 0 0=;00:32;Bronze;;1;r8
+48;F;65;FRA;CLEMENT=Melanie;R;MUNKHBAT=Urantsetseg; MGL;0=;1 0 0=;02:31;Bronze;;1;r8
+48;F;64;UKR;BILODID=Daria;L;MUNKHBAT=Urantsetseg; MGL;1 0 0= █;0= █;01:36;Semi-Final;;1;r7
+48;F;63;JPN;TONAKI=Funa;L;KRASNIQI=Distria; KOS;1 1 0= █;0= █ █;03:34;Semi-Final;;1;r7
+48;F;62;ESP;MARTINEZ ABELENDA=Laura;L;GALBADRAKH=Otgontsetseg; KAZ;1 0= █;0=;04:00;Repechage;;0;r5
+48;F;61;FRA;CLEMENT=Melanie;L;PARETO=Paula; ARG;0= █ █;0= █ █;03:56;Repechage;;0;r5
+48;F;60;MGL;MUNKHBAT=Urantsetseg;L;GALBADRAKH=Otgontsetseg; KAZ;1 0 0=;0=;01:04;Quarter-Final;;1;r6
+48;F;59;UKR;BILODID=Daria;L;MARTINEZ ABELENDA=Laura; ESP;1 0 0=;0=;01:38;Quarter-Final;;1;r6
+48;F;58;ARG;PARETO=Paula;R;KRASNIQI=Distria; KOS;0= █ █;1 0= █;06:24;Quarter-Final;;0;r6
+48;F;57;JPN;TONAKI=Funa;L;CLEMENT=Melanie; FRA;1 1 0=;0=;01:31;Quarter-Final;;1;r6
+48;F;56;KAZ;GALBADRAKH=Otgontsetseg;L;ALVAREZ=Luz; COL;1 1 0=;0=;00:44;Round 3;;1;r3
+48;F;55;MGL;MUNKHBAT=Urantsetseg;L;UNGUREANU=Monica; ROU;1 1 0=;0=;00:52;Round 3;;1;r3
+48;F;54;RUS;DOLGOVA=Irina;R;MARTINEZ ABELENDA=Laura; ESP;0= █;1 1 0= █;02:50;Round 3;;1;r3
+48;F;53;UKR;BILODID=Daria;L;TSYZHIPOVA=Sariuna; IJF;1 1 0=;0= █;01:17;Round 3;;1;r3
+48;F;52;KOS;KRASNIQI=Distria;L;FIGUEROA=Julia; ESP;1 0= █;0= █ █;04:42;Round 3;;0;r3
+48;F;51;ARG;PARETO=Paula;L;KANG=Yujeong; KOR;1 0= █;0= █ █;04:07;Round 3;;0;r3
+48;F;50;SRB;NIKOLIC=Milica;R;CLEMENT=Melanie; FRA;0= █;1 0=;04:00;Round 3;;0;r3
+48;F;49;JPN;TONAKI=Funa;L;CSERNOVICZKI=Eva; HUN;1 0 0=;0=;02:25;Round 3;;1;r3
+48;F;48;COL;ALVAREZ=Luz;L;VARGAS LEY=Mary Dee; CHI;1 0= █;0= █ █;04:00;Round 2;;0;r2
+48;F;47;KAZ;GALBADRAKH=Otgontsetseg;L;RISHONY=Shira; ISR;1 0=;0= █;04:22;Round 2;;0;r2
+48;F;46;TUR;SENTURK=Gulkader;R;UNGUREANU=Monica; ROU;0=;1 0 0=;00:38;Round 2;;1;r2
+48;F;45;MGL;MUNKHBAT=Urantsetseg;L;LIN=Chen-Hao; TPE;1 1 0=;0= █ █;01:24;Round 2;;1;r2
+48;F;44;ESP;MARTINEZ ABELENDA=Laura;L;LI=Yanan; CHN;1 1 0= █;0= █;02:20;Round 2;;1;r2
+48;F;43;RUS;DOLGOVA=Irina;L;CARRILLO=Edna; MEX;1 0= █ █;0= █ █;04:00;Round 2;;0;r2
+48;F;41;UKR;BILODID=Daria;L;COSTA=Catarina; POR;0=;0= █ █;02:43;Round 2;;0;r2
+48;F;40;HKG;WONG=Ka Lee;R;FIGUEROA=Julia; ESP;0= █;1 0 0= █;01:18;Round 2;;1;r2
+48;F;39;KOS;KRASNIQI=Distria;L;GANBAATAR=Narantsetseg; MGL;1 0 0= █;0=;01:00;Round 2;;1;r2
+48;F;38;KOR;KANG=Yujeong;L;NAZAROVA=Aziza; TKM;1 1 0=;0= █;02:08;Round 2;;1;r2
+48;F;37;ARG;PARETO=Paula;L;MENZ=Katharina; GER;1 0 0=;0= █;01:58;Round 2;;1;r2
+48;F;36;VIE;HOANG THI=Tinh;R;CLEMENT=Melanie; FRA;0= █ █;0= █;03:48;Round 2;;0;r2
+48;F;35;SRB;NIKOLIC=Milica;L;GURBANLI=Aisha; AZE;1 1 0=;0=;03:13;Round 2;;1;r2
+48;F;34;RSA;WHITEBOOI=Geronay;R;CSERNOVICZKI=Eva; HUN;0= █;1 1 0= █;03:32;Round 2;;1;r2
+48;F;33;JPN;TONAKI=Funa;L;GILIAZOVA=Sabina; RUS;1 0 0=;0= █;03:47;Round 2;;1;r2
+48;F;32;PAK;ASHIQ=Humaira;R;VARGAS LEY=Mary Dee; CHI;0=;1 0 0=;00:59;Round 1;;1;r1
+48;F;28;ROU;UNGUREANU=Monica;L;SORIANO=Estefania; DOM;1 1 0=;0=;01:24;Round 1;;1;r1
+48;F;26;TPE;LIN=Chen-Hao;L;SOLIS=Jacqueline; GUA;1 0 0=;0=;01:38;Round 1;;1;r1
+48;F;23;PHI;LOPEZ=Ma. Jeanalane;R;MARTINEZ ABELENDA=Laura; ESP;0=;1 1 0=;01:30;Round 1;;1;r1
+48;F;22;MEX;CARRILLO=Edna;L;BLANARU=Cristina; MDA;1 0= █ █;0= █;05:19;Round 1;;0;r1
+48;F;18;POR;COSTA=Catarina;L;ALIYEVA=Leyla; AZE;0=;0= █ █;03:01;Round 1;;0;r1
+48;F;14;MGL;GANBAATAR=Narantsetseg;L;STANGAR=Marusa; SLO;1 0 0=;0= █ █;06:47;Round 1;;1;r1
+48;F;12;TKM;NAZAROVA=Aziza;L;GIMENEZ=Maria; VEN;1 0 0=;0=;00:46;Round 1;;1;r1
+48;F;10;GER;MENZ=Katharina;L;SUZUKI=Anne; USA;1 0 0=;0= █;01:36;Round 1;;1;r1
+48;F;7;MAR;CHAKIR=Aziza;R;HOANG THI=Tinh; VIE;0=;1 0 0=;00:47;Round 1;;1;r1
+48;F;6;AZE;GURBANLI=Aisha;L;CHERNIAK=Maryna; UKR;1 1 0=;0= █;02:21;Round 1;;1;r1
+48;F;4;HUN;CSERNOVICZKI=Eva;L;MORAND=Priscilla; MRI;1 0= █ █;0= █ █;04:19;Round 1;;0;r1
+48;F;2;MAW;BONFACE=Harriet;R;GILIAZOVA=Sabina; RUS;0= █;1 1 0=;02:13;Round 1;;1;r1
+52;F;67;RUS;KUZIUTINA=Natalia;R;ABE=Uta; JPN;0=;1 0 0=;00:29;Final;;1;r8
+52;F;66;JPN;SHISHIME=Ai;L;BUCHARD=Amandine; FRA;1 1 0= █;0= █;03:41;Bronze;;1;r8
+52;F;65;POR;RAMOS=Joana;R;KELMENDI=Majlinda; KOS;0= █ █;0= █;02:29;Bronze;;0;r8
+52;F;64;JPN;ABE=Uta;L;KELMENDI=Majlinda; KOS;1 0 0= █ █;0= █ █;07:15;Semi-Final;;1;r7
+52;F;63;FRA;BUCHARD=Amandine;R;KUZIUTINA=Natalia; RUS;0= █;1 0= █;05:16;Semi-Final;;0;r7
+52;F;62;GBR;GILES=Chelsie;R;SHISHIME=Ai; JPN;0= █ █;1 0= █;08:37;Repechage;;0;r5
+52;F;61;POR;RAMOS=Joana;L;VAN SNICK=Charline; BEL;0= █ █;0= █ █;09:38;Repechage;;0;r5
+52;F;60;JPN;SHISHIME=Ai;R;KELMENDI=Majlinda; KOS;0= █ █;0= █;03:49;Quarter-Final;;0;r6
+52;F;59;JPN;ABE=Uta;L;GILES=Chelsie; GBR;1 0=;0= █;04:00;Quarter-Final;;0;r6
+52;F;58;BEL;VAN SNICK=Charline;R;KUZIUTINA=Natalia; RUS;0= █ █;0= █;04:34;Quarter-Final;;0;r6
+52;F;57;FRA;BUCHARD=Amandine;L;RAMOS=Joana; POR;1 0 0=;0= █;01:14;Quarter-Final;;1;r6
+52;F;56;KOS;KELMENDI=Majlinda;L;PERENC=Agata; POL;1 0= █;0=;04:00;Round 3;;0;r3
+52;F;55;JPN;SHISHIME=Ai;L;PUPP=Reka; HUN;1 0=;0= █;04:00;Round 3;;0;r3
+52;F;54;SUI;TSCHOPP=Evelyne;R;GILES=Chelsie; GBR;0=;1 1 0=;00:22;Round 3;;1;r3
+52;F;53;JPN;ABE=Uta;L;KELDIYOROVA=Diyora; UZB;1 0 0=;0= █ █;02:56;Round 3;;1;r3
+52;F;52;RUS;KUZIUTINA=Natalia;L;GIUFFRIDA=Odette; ITA;1 0=;0= █;05:01;Round 3;;0;r3
+52;F;51;BEL;VAN SNICK=Charline;L;LIU=Liping; CHN;1 1 0= █;0= █;03:49;Round 3;;1;r3
+52;F;50;ESP;PEREZ BOX=Ana;R;RAMOS=Joana; POR;0= █;1 0= █ █;04:00;Round 3;;0;r3
+52;F;49;FRA;BUCHARD=Amandine;L;NGUYEN=Thuy; VIE;1 1 0=;0=;02:05;Round 3;;1;r3
+52;F;48;AUS;EASTON=Tinka;R;PERENC=Agata; POL;0=;1 0=;04:00;Round 2;;0;r2
+52;F;47;KOS;KELMENDI=Majlinda;L;OLVERA=Luz; MEX;1 0 0=;0=;02:29;Round 2;;1;r2
+52;F;46;KOR;PARK=Da Sol;R;PUPP=Reka; HUN;0=;1 0= █ █;04:00;Round 2;;0;r2
+52;F;45;JPN;SHISHIME=Ai;L;RYHEUL=Amber; BEL;1 1 0=;0=;02:24;Round 2;;1;r2
+52;F;44;GBR;GILES=Chelsie;L;BISHRELT=Khorloodoi; MGL;1 1 0=;0=;02:11;Round 2;;1;r2
+52;F;43;SUI;TSCHOPP=Evelyne;L;LOPEZ SHERIFF=Estrella; ESP;1 0=;0=;04:00;Round 2;;0;r2
+52;F;42;AZE;MAMMADALIYEVA=Gultaj;R;KELDIYOROVA=Diyora; UZB;0= █;1 1 0=;01:02;Round 2;;1;r2
+52;F;41;JPN;ABE=Uta;L;PIMENTA=Larissa; BRA;1 1 0= █;0= █;01:35;Round 2;;1;r2
+52;F;40;MGL;LKHAGVASUREN=Sosorbaram;R;GIUFFRIDA=Odette; ITA;0= █ █;1 0 0=;05:19;Round 2;;1;r2
+52;F;39;RUS;KUZIUTINA=Natalia;L;FLORIAN=Alexandra-Larisa; AZE;1 0 0= █;0= █;03:31;Round 2;;1;r2
+52;F;38;CHN;LIU=Liping;L;BABAMURATOVA=Gulbadam; TKM;1 0 0= █ █;0= █ █;05:54;Round 2;;1;r2
+52;F;37;BEL;VAN SNICK=Charline;L;GUICA=Ecaterina; CAN;1 0 0=;0=;00:42;Round 2;;1;r2
+52;F;36;POR;RAMOS=Joana;L;WARASIHA=Kachakorn; THA;1 1 0=;0= █;03:18;Round 2;;1;r2
+52;F;35;ESP;PEREZ BOX=Ana;L;DELGADO=Angelica; USA;1 1 0=;0=;01:11;Round 2;;1;r2
+52;F;34;GEO;LEVYTSKA-SHUKVANI=Tetiana;R;NGUYEN=Thuy; VIE;0= █;1 0= █;04:00;Round 2;;0;r2
+52;F;33;FRA;BUCHARD=Amandine;L;TSIORINIRINA=Tessia; MAD;1 0 0=;0= █;01:47;Round 2;;1;r2
+52;F;32;POL;PERENC=Agata;L;FOFANA=Salimata; CIV;1 0 0=;0=;00:49;Round 1;;1;r1
+52;F;31;HAI;ANESTOR=Sabiana;R;EASTON=Tinka; AUS;0=;1 1 0=;00:40;Round 1;;1;r1
+52;F;30;NOR;RUBINSTEIN=Madelene;R;OLVERA=Luz; MEX;0= █;1 0=;06:01;Round 1;;0;r1
+52;F;28;HUN;PUPP=Reka;L;CHITU=Andreea; ROU;1 1 0= █ █;0=;04:00;Round 1;;1;r1
+52;F;27;RUS;KUZNETSOVA=Alesya;R;PARK=Da Sol; KOR;0= █;1 0= █;09:22;Round 1;;0;r1
+52;F;26;BEL;RYHEUL=Amber;L;KHIN KHIN=Su; MYA;1 0 0=;0= █;01:07;Round 1;;1;r1
+52;F;24;MGL;BISHRELT=Khorloodoi;L;CESAR=Taciana; GBS;1 0 0=;1 0= █;03:17;Round 1;;1;r1
+52;F;23;ISR;PRIMO=Gefen;R;GILES=Chelsie; GBR;0= █ █;1 1 0= █;03:12;Round 1;;1;r1
+52;F;22;TUR;KORKMAZ=Irem;R;LOPEZ SHERIFF=Estrella; ESP;0= █ █;0= █;03:54;Round 1;;0;r1
+52;F;20;UZB;KELDIYOROVA=Diyora;L;DIOGO=Joana; POR;1 1 0= █;0=;00:46;Round 1;;1;r1
+52;F;19;AZE;MAMMADALIYEVA=Gultaj;L;FERREIRA=Jacira; MOZ;1 0=;0= █ █;02:39;Round 1;;0;r1
+52;F;18;DJI;ABDOURAHMAN=Raguib;R;PIMENTA=Larissa; BRA;0=;1 0 0=;00:50;Round 1;;1;r1
+52;F;16;MAR;IRAOUI=Soumiya;R;GIUFFRIDA=Odette; ITA;0= █ █;1 0 0=;03:02;Round 1;;1;r1
+52;F;15;MGL;LKHAGVASUREN=Sosorbaram;L;STANGAR=Anja; SLO;1 0=;0=;04:00;Round 1;;0;r1
+52;F;14;HKG;TSUI=Shuk Ki;R;FLORIAN=Alexandra-Larisa; AZE;0= █;1 0 0=;01:47;Round 1;;1;r1
+52;F;12;TKM;BABAMURATOVA=Gulbadam;L;LEGENTIL=Christianne; MRI;1 1 0=;0= █ █;03:56;Round 1;;1;r1
+52;F;11;CHA;BARKA SEGUE=Fatime;R;LIU=Liping; CHN;0= █ █;1 1 0=;03:19;Round 1;;1;r1
+52;F;10;SUI;KOCHER=Fabienne;R;GUICA=Ecaterina; CAN;0=;1 0 0=;00:59;Round 1;;1;r1
+52;F;8;THA;WARASIHA=Kachakorn;L;KAKKO=Katri; FIN;1 0 0=;0=;00:29;Round 1;;1;r1
+52;F;7;CPV;SILVA=Djamila;R;RAMOS=Joana; POR;0=;1 1 0=;02:56;Round 1;;1;r1
+52;F;6;USA;DELGADO=Angelica;L;VALENTIM=Eleudis; BRA;1 0= █;0= █ █;05:12;Round 1;;0;r1
+52;F;5;ESP;PEREZ BOX=Ana;L;PABULAYAN=Khrizzie; PHI;1 1 0=;0=;02:55;Round 1;;1;r1
+52;F;4;VIE;NGUYEN=Thuy;L;KAZYULINA=Anna; KAZ;0= █;0= █ █;05:26;Round 1;;0;r1
+52;F;3;GEO;LEVYTSKA-SHUKVANI=Tetiana;L;KALETA=Aleksandra; POL;1 1 0= █;0= █;02:58;Round 1;;1;r1
+52;F;2;BLR;DANILOVICH=Kseniya;R;TSIORINIRINA=Tessia; MAD;0= █;1 1 0=;00:31;Round 1;;1;r1
+57;F;67;JPN;YOSHIDA=Tsukasa;R;DEGUCHI=Christa; CAN;0= █;1 0= █;06:23;Final;;0;r8
+57;F;66;FRA;CYSIQUE=Sarah Leonie;R;SILVA=Rafaela; BRA;0=;1 0= █ █;04:00;Bronze;;0;r8
+57;F;65;POL;KOWALCZYK=Julia;L;ILIEVA=Ivelina; BUL;1 0 0= █ █;0= █;03:42;Bronze;;1;r8
+57;F;64;CAN;DEGUCHI=Christa;L;ILIEVA=Ivelina; BUL;1 0 0=;0=;01:24;Semi-Final;;1;r7
+57;F;63;JPN;YOSHIDA=Tsukasa;L;SILVA=Rafaela; BRA;1 0 0= █;0= █ █;06:22;Semi-Final;;1;r7
+57;F;62;FRA;CYSIQUE=Sarah Leonie;L;GJAKOVA=Nora; KOS;1 0 0=;0=;02:20;Repechage;;1;r5
+57;F;61;POL;KOWALCZYK=Julia;L;MEZHETSKAIA=Daria; RUS;1 1 0=;1 0= █ █;08:29;Repechage;;1;r5
+57;F;60;KOS;GJAKOVA=Nora;R;ILIEVA=Ivelina; BUL;1 0= █;1 1 0= █;04:20;Quarter-Final;;1;r6
+57;F;59;CAN;DEGUCHI=Christa;L;CYSIQUE=Sarah Leonie; FRA;1 0 0=;1 0=;01:04;Quarter-Final;;1;r6
+57;F;58;BRA;SILVA=Rafaela;L;MEZHETSKAIA=Daria; RUS;1 1 0=;0= █;03:27;Quarter-Final;;1;r6
+57;F;57;JPN;YOSHIDA=Tsukasa;L;KOWALCZYK=Julia; POL;1 1 0= █;1 0= █ █;05:30;Quarter-Final;;1;r6
+57;F;56;KOR;KIM=Jisu;R;ILIEVA=Ivelina; BUL;0= █ █;1 1 0= █;04:00;Round 3;;1;r3
+57;F;55;KOS;GJAKOVA=Nora;L;LIEN=Chen-Ling; TPE;1 0= █ █;0= █;04:00;Round 3;;0;r3
+57;F;54;GER;STOLL=Theresa;R;CYSIQUE=Sarah Leonie; FRA;0= █;1 0= █;06:09;Round 3;;0;r3
+57;F;53;CAN;DEGUCHI=Christa;L;ROGIC=Jovana; SRB;1 1 0=;0=;00:39;Round 3;;1;r3
+57;F;52;RUS;MEZHETSKAIA=Daria;L;ROPER=Miryam; PAN;1 0 0=;0=;00:17;Round 3;;1;r3
+57;F;51;BRA;SILVA=Rafaela;L;MONTEIRO=Telma; POR;1 0= █;0= █ █;03:36;Round 3;;0;r3
+57;F;50;ISR;NELSON LEVY=Timna;R;KOWALCZYK=Julia; POL;0= █;1 0=;04:00;Round 3;;0;r3
+57;F;49;JPN;YOSHIDA=Tsukasa;L;VERHAGEN=Sanne; NED;1 0 0=;0=;02:32;Round 3;;1;r3
+57;F;48;POR;GOMES=Wilsa;R;ILIEVA=Ivelina; BUL;0=;1 1 0=;01:28;Round 2;;1;r2
+57;F;47;GBR;SMYTHE-DAVIS=Nekoda;R;KIM=Jisu; KOR;1 0= █;1 1 0= █;05:44;Round 2;;1;r2
+57;F;46;TUN;KHELIFI=Ghofran;R;LIEN=Chen-Ling; TPE;0=;1 0 0=;01:44;Round 2;;1;r2
+57;F;45;KOS;GJAKOVA=Nora;L;BISHOP=Justine; NZL;1 0 0=;0=;00:53;Round 2;;1;r2
+57;F;44;FRA;CYSIQUE=Sarah Leonie;L;BOROWSKA=Anna; POL;1 0 0=;0=;00:18;Round 2;;1;r2
+57;F;43;GER;STOLL=Theresa;L;OHAI=Loredana; ROU;1 1 0= █;0= █;03:47;Round 2;;1;r2
+57;F;42;SRB;ROGIC=Jovana;L;MUCUNGUI=Diassonema; ANG;1 0= █;0= █ █;02:19;Round 2;;0;r2
+57;F;41;CAN;DEGUCHI=Christa;L;KONKINA=Anastasiia; RUS;1 0 0=;0=;01:16;Round 2;;1;r2
+57;F;40;PAN;ROPER=Miryam;L;NISHANBAYEVA=Sevara; KAZ;1 0 0= █;1 0=;02:30;Round 2;;1;r2
+57;F;39;CAN;KLIMKAIT=Jessica;R;MEZHETSKAIA=Daria; RUS;0=;1 0 0=;00:44;Round 2;;1;r2
+57;F;38;POR;MONTEIRO=Telma;L;NAIRNE=Lele; GBR;1 1 0=;0= █ █;02:07;Round 2;;1;r2
+57;F;37;BRA;SILVA=Rafaela;L;DABONNE=Zouleiha Abzetta; CIV;1 1 0=;0=;00:47;Round 2;;1;r2
+57;F;36;POL;KOWALCZYK=Julia;L;PERISIC=Marica; SRB;1 0=;0=;04:00;Round 2;;0;r2
+57;F;35;ISR;NELSON LEVY=Timna;L;MOHAMED=Maitha; UAE;1 0 0=;0=;00:53;Round 2;;1;r2
+57;F;34;NED;VERHAGEN=Sanne;L;STARKE=Pauline; GER;1 0 0=;0=;00:34;Round 2;;1;r2
+57;F;33;JPN;YOSHIDA=Tsukasa;L;RECEVEAUX=Helene; FRA;1 1 0= █;0=;02:55;Round 2;;1;r2
+57;F;32;BUL;ILIEVA=Ivelina;L;KARAKAS=Hedvig; HUN;1 0= █;0= █;04:16;Round 1;;0;r1
+57;F;31;POR;GOMES=Wilsa;L;TARIYAL=Suchika; IND;0= █ █;0= █ █;02:29;Round 1;;0;r1
+57;F;30;KOR;KIM=Jisu;L;SHRESTHA PRADHAN=Manita; NEP;1 1 0=;0=;01:25;Round 1;;1;r1
+57;F;28;TPE;LIEN=Chen-Ling;L;HOLGUIN=Mariah; USA;1 1 0=;0=;01:57;Round 1;;1;r1
+57;F;27;TUN;KHELIFI=Ghofran;L;RAHMING=Cynthia; BAH;1 0 0=;0= █;01:21;Round 1;;1;r1
+57;F;26;NZL;BISHOP=Justine;L;DELGADO=Megumi; PHI;1 0=;0= █;04:00;Round 1;;0;r1
+57;F;24;POL;BOROWSKA=Anna;L;ELALMI=Hadeel; JOR;1 0 0=;0=;00:16;Round 1;;1;r1
+57;F;23;AUT;FILZMOSER=Sabrina;R;CYSIQUE=Sarah Leonie; FRA;0= █ █;1 1 0= █;03:43;Round 1;;1;r1
+57;F;22;HKG;LEUNG=Po Sum;R;OHAI=Loredana; ROU;0= █ █;0= █;07:16;Round 1;;0;r1
+57;F;20;ANG;MUCUNGUI=Diassonema;L;ANDRIATIANA=Brenda; MAD;1 1 0=;0= █ █;03:16;Round 1;;1;r1
+57;F;19;CHN;LU=Tongjuan;R;ROGIC=Jovana; SRB;0= █ █;0= █;09:19;Round 1;;0;r1
+57;F;18;RUS;KONKINA=Anastasiia;L;WARASIHA=Yuriko; THA;1 0 0=;0=;00:53;Round 1;;1;r1
+57;F;16;KAZ;NISHANBAYEVA=Sevara;L;NGUYEN NGOC DIEM=Phuong; VIE;1 0 0=;0=;00:48;Round 1;;1;r1
+57;F;15;AZE;MUNKHTSEDEV=Ichinkhorloo;R;ROPER=Miryam; PAN;0= █ █;0=;03:34;Round 1;;0;r1
+57;F;14;MGL;LOSOL=Enkh-Otgon;R;MEZHETSKAIA=Daria; RUS;0=;1 0 0=;00:31;Round 1;;1;r1
+57;F;12;GBR;NAIRNE=Lele;L;ROSA=Ana; DOM;1 0= █;0= █;06:29;Round 1;;0;r1
+57;F;11;POR;MONTEIRO=Telma;L;FURUKAWA=Rena; PHI;1 1 0=;0= █;03:31;Round 1;;1;r1
+57;F;10;USA;FULGENTES=Amelia;R;DABONNE=Zouleiha Abzetta; CIV;0= █ █;0= █ █;05:32;Round 1;;0;r1
+57;F;8;SRB;PERISIC=Marica;L;KIM=Jandi; KOR;1 0= █;0= █;04:26;Round 1;;0;r1
+57;F;7;HKG;YEUNG=Nok Lam;R;KOWALCZYK=Julia; POL;0=;1 1 0=;01:02;Round 1;;1;r1
+57;F;4;GER;STARKE=Pauline;L;TOYODA=Amina; PAK;1 0 0=;0=;00:59;Round 1;;1;r1
+57;F;3;UKR;SKORA=Mariia;R;VERHAGEN=Sanne; NED;0=;1 1 0=;00:58;Round 1;;1;r1
+57;F;2;BEL;LIBEER=Mina;R;RECEVEAUX=Helene; FRA;0=;1 0 0=;01:37;Round 1;;1;r1
+63;F;67;FRA;AGBEGNENOU=Clarisse;L;TASHIRO=Miku; JPN;1 0= █ █;0= █;11:07;Final;;0;r8
+63;F;66;NED;VERMEER=Sanne;R;FRANSSEN=Juul; NED;0= █;1 0=;04:00;Bronze;;0;r8
+63;F;65;GER;TRAJDOS=Martyna;L;TRSTENJAK=Tina; SLO;1 0 0=;0=;00:00;Bronze;;1;r8
+63;F;64;SLO;TRSTENJAK=Tina;R;TASHIRO=Miku; JPN;0= █;0=;01:19;Semi-Final;;0;r7
+63;F;63;FRA;AGBEGNENOU=Clarisse;L;FRANSSEN=Juul; NED;1 0=;0= █;04:00;Semi-Final;;0;r7
+63;F;62;MGL;BOLD=Gankhaich;R;VERMEER=Sanne; NED;0=;1 1 0=;03:54;Repechage;;1;r5
+63;F;61;TPE;LIAO=Yu-Jung;R;TRAJDOS=Martyna; GER;0= █ █;1 1 0=;01:48;Repechage;;1;r5
+63;F;60;JPN;TASHIRO=Miku;L;VERMEER=Sanne; NED;1 0=;0=;04:00;Quarter-Final;;0;r6
+63;F;59;SLO;TRSTENJAK=Tina;L;BOLD=Gankhaich; MGL;1 0 0=;0= █;01:59;Quarter-Final;;1;r6
+63;F;58;NED;FRANSSEN=Juul;L;TRAJDOS=Martyna; GER;1 0= █ █;0= █ █;04:00;Quarter-Final;;0;r6
+63;F;57;FRA;AGBEGNENOU=Clarisse;L;LIAO=Yu-Jung; TPE;1 0 0=;0=;00:12;Quarter-Final;;1;r6
+63;F;56;NED;VERMEER=Sanne;L;WATANABE=Kiyomi; PHI;1 0 0=;0= █ █;03:14;Round 3;;1;r3
+63;F;55;JPN;TASHIRO=Miku;L;BARRIOS=Anriquelis; VEN;1 0 0=;0= █;01:37;Round 3;;1;r3
+63;F;54;MGL;BOLD=Gankhaich;L;CENTRACCHIO=Maria; ITA;1 0= █ █;0= █ █;04:41;Round 3;;0;r3
+63;F;53;SLO;TRSTENJAK=Tina;L;RENSHALL=Lucy; GBR;1 0= █;0= █;04:00;Round 3;;0;r3
+63;F;52;GER;TRAJDOS=Martyna;L;GWEND=Edwige; ITA;0= █ █;0= █ █;06:32;Round 3;;0;r3
+63;F;51;NED;FRANSSEN=Juul;L;TANG=Jing; CHN;2 0= █;0= █;04:00;Round 3;;0;r3
+63;F;50;ISR;SHARIR=Gili;R;LIAO=Yu-Jung; TPE;0= █ █;0= █;07:47;Round 3;;0;r3
+63;F;49;FRA;AGBEGNENOU=Clarisse;L;AWITI ALCARAZ=Prisca; MEX;1 1 0=;0=;01:05;Round 3;;1;r3
+63;F;48;AUT;KRSSAKOVA=Magdalena;R;WATANABE=Kiyomi; PHI;0= █;1 0= █;04:00;Round 2;;0;r2
+63;F;47;NED;VERMEER=Sanne;L;HAECKER=Katharina; AUS;1 0 0= █;0=;01:36;Round 2;;1;r2
+63;F;46;DEN;OLSEN=Laerke;R;BARRIOS=Anriquelis; VEN;0= █ █;0=;03:47;Round 2;;0;r2
+63;F;45;JPN;TASHIRO=Miku;L;YANG=Junxia; CHN;1 0 0=;0=;01:14;Round 2;;1;r2
+63;F;44;USA;MARTIN=Hannah;R;CENTRACCHIO=Maria; ITA;0= █ █;1 0= █;04:00;Round 2;;0;r2
+63;F;43;CAN;BEAUCHEMIN-PINARD=Catherine;R;BOLD=Gankhaich; MGL;0=;1 0 0=;03:07;Round 2;;1;r2
+63;F;42;CMR;WEZEU DOMBEU=Helene;R;RENSHALL=Lucy; GBR;0= █;1 1 0= █;03:57;Round 2;;1;r2
+63;F;41;SLO;TRSTENJAK=Tina;L;CABANA PEREZ=Cristina; ESP;1 0 0=;0= █ █;02:48;Round 2;;1;r2
+63;F;40;RUS;DAVYDOVA=Daria;R;GWEND=Edwige; ITA;0= █ █;1 0 0=;03:26;Round 2;;1;r2
+63;F;39;GER;TRAJDOS=Martyna;L;NOMENJANAHARY=Damiella; MAD;1 0 0=;0=;00:25;Round 2;;1;r2
+63;F;38;AUT;UNTERWURZACHER=Kathrin;R;TANG=Jing; CHN;0=;1 0 0=;01:47;Round 2;;1;r2
+63;F;37;NED;FRANSSEN=Juul;L;QUADROS=Ketleyn; BRA;0= █;0= █ █;03:13;Round 2;;0;r2
+63;F;36;AUS;COUGHLAN=Maeve;R;LIAO=Yu-Jung; TPE;0=;1 1 0= █;02:27;Round 2;;1;r2
+63;F;35;CUB;DEL TORO CARVAJAL=Maylin;R;SHARIR=Gili; ISR;0= █ █;0= █ █;09:19;Round 2;;0;r2
+63;F;34;MEX;AWITI ALCARAZ=Prisca;L;BERDYBEKOVA=Iolanta; KAZ;1 1 0= █;0= █;01:39;Round 2;;1;r2
+63;F;33;FRA;AGBEGNENOU=Clarisse;L;SCHLESINGER=Alice; GBR;1 0 0=;0=;00:10;Round 2;;1;r2
+63;F;31;AUT;KRSSAKOVA=Magdalena;L;GARCIA=Estefania; ECU;1 0= █;0= █ █;04:00;Round 1;;0;r1
+63;F;30;AUS;HAECKER=Katharina;L;OZDOBA-BLACH=Agata; POL;1 0=;0= █ █;04:00;Round 1;;0;r1
+63;F;28;MAR;BELATTAR=Sofia;R;BARRIOS=Anriquelis; VEN;0=;1 0 0=;00:51;Round 1;;1;r1
+63;F;26;CHN;YANG=Junxia;L;HAN=Hee Ju; KOR;1 0 0= █;0= █;03:56;Round 1;;1;r1
+63;F;24;ISR;SHEMESH=Inbal;R;CENTRACCHIO=Maria; ITA;0=;1 1 0=;03:24;Round 1;;1;r1
+63;F;22;BRA;CASTILHOS=Alexia;R;BOLD=Gankhaich; MGL;0=;1 1 0= █;03:38;Round 1;;1;r1
+63;F;20;CPV;BILLIET=Sandrine;R;RENSHALL=Lucy; GBR;0= █;1 0 0= █;02:11;Round 1;;1;r1
+63;F;16;ITA;GWEND=Edwige;L;KANERVA=Emilia; FIN;1 0 0=;0=;02:25;Round 1;;1;r1
+63;F;14;MAC;TANG=Lai Man;R;NOMENJANAHARY=Damiella; MAD;0=;1 0 0= █;01:24;Round 1;;1;r1
+63;F;12;CHN;TANG=Jing;L;TALACH-GAST=Karolina; POL;1 0 0=;0= █;03:05;Round 1;;1;r1
+63;F;10;SEN;FAYE=Anna Siga;R;QUADROS=Ketleyn; BRA;0=;1 0 0=;00:09;Round 1;;1;r1
+63;F;8;TPE;LIAO=Yu-Jung;L;GALLES=Alisha; USA;1 1 0= █;0=;01:32;Round 1;;1;r1
+63;F;6;ISR;SHARIR=Gili;L;BALDORJ=Mungunchimeg; MGL;1 1 0= █ █;0= █ █;03:30;Round 1;;1;r1
+63;F;2;GBR;SCHLESINGER=Alice;L;BELKADI=Amina; ALG;1 0 0=;0=;00:20;Round 1;;1;r1
+70;F;67;POR;TIMO=Barbara;R;GAHIE=Marie Eve; FRA;0=;1 0 0=;00:46;Final;;1;r8
+70;F;66;SWE;BERNHOLM=Anna;R;PINOT=Margaux; FRA;0= █;1 0 0=;01:21;Bronze;;1;r8
+70;F;65;AUT;POLLERES=Michaela;R;CONWAY=Sally; GBR;1 0=;1 1 0=;02:14;Bronze;;1;r8
+70;F;64;FRA;GAHIE=Marie Eve;L;CONWAY=Sally; GBR;1 0 0=;0= █;01:15;Semi-Final;;1;r7
+70;F;63;POR;TIMO=Barbara;L;PINOT=Margaux; FRA;1 0 0= █;0=;00:53;Semi-Final;;1;r7
+70;F;62;PUR;PEREZ=Maria;R;BERNHOLM=Anna; SWE;0= █ █;0= █ █;02:58;Repechage;;0;r5
+70;F;61;NED;VAN DIJKE=Sanne;R;POLLERES=Michaela; AUT;0= █ █;1 0 0=;06:58;Repechage;;1;r5
+70;F;60;SWE;BERNHOLM=Anna;R;CONWAY=Sally; GBR;0=;1 0=;04:00;Quarter-Final;;0;r6
+70;F;59;FRA;GAHIE=Marie Eve;L;PEREZ=Maria; PUR;1 0=;0=;04:00;Quarter-Final;;0;r6
+70;F;58;AUT;POLLERES=Michaela;R;PINOT=Margaux; FRA;0= █;1 0= █;04:00;Quarter-Final;;0;r6
+70;F;57;POR;TIMO=Barbara;L;VAN DIJKE=Sanne; NED;0= █ █;0= █ █;06:20;Quarter-Final;;0;r6
+70;F;56;GBR;CONWAY=Sally;L;SCOCCIMARRO=Giovanna; GER;1 1 0= █;1 0=;06:09;Round 3;;1;r3
+70;F;55;SWE;BERNHOLM=Anna;L;ALVEAR=Yuri; COL;1 1 0=;0=;04:00;Round 3;;1;r3
+70;F;54;PUR;PEREZ=Maria;L;POLLING=Kim; NED;0=;0=;00:16;Round 3;;0;r3
+70;F;53;FRA;GAHIE=Marie Eve;L;YOU=Jeyoung; KOR;1 1 0=;0=;01:37;Round 3;;1;r3
+70;F;52;BRA;PORTELA=Maria;R;PINOT=Margaux; FRA;0= █ █;1 0= █;04:44;Round 3;;0;r3
+70;F;51;AUT;POLLERES=Michaela;L;BERNABEU=Maria; ESP;1 0 0=;0=;01:45;Round 3;;1;r3
+70;F;50;NED;VAN DIJKE=Sanne;L;COUGHLAN=Aoife; AUS;1 1 0=;0= █ █;03:48;Round 3;;1;r3
+70;F;49;JPN;ARAI=Chizuru;R;TIMO=Barbara; POR;0= █;1 0= █ █;04:00;Round 3;;0;r3
+70;F;48;GER;SCOCCIMARRO=Giovanna;L;SOOK=Emilie; DEN;1 1 0= █;0= █;01:22;Round 2;;1;r2
+70;F;47;GBR;CONWAY=Sally;L;MATNIYAZOVA=Gulnoza; UZB;1 1 0= █;1 0=;02:11;Round 2;;1;r2
+70;F;46;COL;ALVEAR=Yuri;L;TAKAYAWA=Shanice; FIJ;1 1 0=;0=;00:31;Round 2;;1;r2
+70;F;45;SWE;BERNHOLM=Anna;L;RODRIGUEZ=Elvismar; VEN;1 1 0= █;0=;02:22;Round 2;;1;r2
+70;F;44;CHN;SUN=Xiaoqian;R;POLLING=Kim; NED;0=;1 1 0=;00:21;Round 2;;1;r2
+70;F;43;PUR;PEREZ=Maria;L;WILLEMS=Gabriella; BEL;1 0 0= █;0= █;03:43;Round 2;;1;r2
+70;F;42;PHI;TAKAHASHI=Mariya;R;YOU=Jeyoung; KOR;0= █ █;1 0= █ █;04:00;Round 2;;0;r2
+70;F;41;FRA;GAHIE=Marie Eve;L;TELTSIDOU=Elisavet; GRE;1 1 0=;0=;00:54;Round 2;;1;r2
+70;F;40;FRA;PINOT=Margaux;L;HOWELL=Gemma; GBR;0= █;0= █ █;03:26;Round 2;;0;r2
+70;F;39;BRA;PORTELA=Maria;L;MATIC=Barbara; CRO;1 1 0= █;0= █;01:45;Round 2;;1;r2
+70;F;38;POL;POGORZELEC=Daria;R;BERNABEU=Maria; ESP;0= █ █;0=;03:44;Round 2;;0;r2
+70;F;37;AUT;POLLERES=Michaela;L;FLETCHER=Megan; IRL;1 1 0= █;0=;02:24;Round 2;;1;r2
+70;F;36;CMR;ARREY SOPHINA=Ayuk Otay;R;COUGHLAN=Aoife; AUS;0= █ █;1 1 0= █;03:35;Round 2;;1;r2
+70;F;35;NED;VAN DIJKE=Sanne;L;CORTES ALDAMA=Onix; CUB;1 0 0=;0= █ █;02:39;Round 2;;1;r2
+70;F;34;POR;TIMO=Barbara;L;TAEYMANS=Roxane; BEL;1 0 0=;0=;01:09;Round 2;;1;r2
+70;F;33;JPN;ARAI=Chizuru;L;NIANG=Assmaa; MAR;1 0 0=;0=;01:03;Round 2;;1;r2
+70;F;31;POL;WROBLEWSKA=Eliza;R;SCOCCIMARRO=Giovanna; GER;0=;1 0 0=;00:45;Round 1;;1;r1
+70;F;30;TUN;LANDOLSI=Nihel;R;MATNIYAZOVA=Gulnoza; UZB;0=;1 0 0=;01:05;Round 1;;1;r1
+70;F;27;COL;ALVEAR=Yuri;L;NARYNOVA=Moldir; KAZ;1 0 0=;0= █;01:39;Round 1;;1;r1
+70;F;26;VEN;RODRIGUEZ=Elvismar;L;RODRIGUEZ=Sara; ESP;1 0 0=;0=;00:25;Round 1;;1;r1
+70;F;23;TPE;SHANG=Liu-Yu;R;SUN=Xiaoqian; CHN;0= █ █;0= █;05:35;Round 1;;0;r1
+70;F;22;BEL;WILLEMS=Gabriella;L;CHOUDHARY=Garima; IND;0=;0= █ █;01:44;Round 1;;0;r1
+70;F;20;KOR;YOU=Jeyoung;L;BELLANDI=Alice; ITA;1 0= █ █;0= █ █;08:48;Round 1;;0;r1
+70;F;18;CHA;MEMNELOUM=Demos;R;TELTSIDOU=Elisavet; GRE;0=;1 0 0=;01:37;Round 1;;1;r1
+70;F;15;KEN;KANA=Dianah;R;PINOT=Margaux; FRA;0=;1 0 0=;00:52;Round 1;;1;r1
+70;F;14;GER;BOEHM=Alina;R;MATIC=Barbara; CRO;0= █ █;0= █;03:58;Round 1;;0;r1
+70;F;10;GAB;AGONO WORA=Karene;R;FLETCHER=Megan; IRL;0= █ █;1 0 0= █;02:49;Round 1;;1;r1
+70;F;8;AUS;COUGHLAN=Aoife;L;HASANLI=Gunel; AZE;1 0=;0= █ █;04:00;Round 1;;0;r1
+70;F;6;CUB;CORTES ALDAMA=Onix;L;THONGSRI=Surattana; THA;0= █;0= █ █;02:41;Round 1;;0;r1
+70;F;3;POR;TIMO=Barbara;L;TSERENDULAM=Enkhchimeg; MGL;1 1 0=;0=;01:08;Round 1;;1;r1
+70;F;2;JAM;DRYSDALE DALEY=Ebony;R;NIANG=Assmaa; MAR;0= █ █;1 0= █;03:21;Round 1;;0;r1
+78;F;67;FRA;MALONGA=Madeleine;L;HAMADA=Shori; JPN;1 1 0= █;0= █;02:22;Final;;1;r8
+78;F;66;POR;SAMPAIO=Patricia;R;AGUIAR=Mayra; BRA;0= █;1 0 0=;01:17;Bronze;;1;r8
+78;F;65;KOS;KUKA=Loriana;L;APOTEKAR=Klara; SLO;1 1 0= █;0=;03:20;Bronze;;1;r8
+78;F;64;SLO;APOTEKAR=Klara;R;HAMADA=Shori; JPN;0=;1 0 0=;00:46;Semi-Final;;1;r7
+78;F;63;BRA;AGUIAR=Mayra;R;MALONGA=Madeleine; FRA;0= █;1 0 0=;02:42;Semi-Final;;1;r7
+78;F;62;CHN;MA=Zhenzhao;R;SAMPAIO=Patricia; POR;0=;1 0 0=;00:00;Repechage;;1;r5
+78;F;61;KOS;KUKA=Loriana;L;POWELL=Natalie; GBR;1 0 0=;0= █ █;04:27;Repechage;;1;r5
+78;F;60;JPN;HAMADA=Shori;L;SAMPAIO=Patricia; POR;1 0 0=;0=;01:04;Quarter-Final;;1;r6
+78;F;59;CHN;MA=Zhenzhao;R;APOTEKAR=Klara; SLO;0= █ █;0= █;03:32;Quarter-Final;;0;r6
+78;F;58;FRA;MALONGA=Madeleine;L;POWELL=Natalie; GBR;1 1 0=;0=;01:20;Quarter-Final;;1;r6
+78;F;57;BRA;AGUIAR=Mayra;L;KUKA=Loriana; KOS;1 0 0= █ █;0= █;03:38;Quarter-Final;;1;r6
+78;F;56;NED;VERKERK=Marhinde;R;SAMPAIO=Patricia; POR;0= █ █;1 0 0= █ █;08:55;Round 3;;1;r3
+78;F;55;JPN;HAMADA=Shori;L;BERGER=Sophie; BEL;1 0 0=;0=;00:41;Round 3;;1;r3
+78;F;54;SLO;APOTEKAR=Klara;L;YOON=Hyunji; KOR;1 1 0= █;1 0= █;03:27;Round 3;;1;r3
+78;F;53;CHN;MA=Zhenzhao;L;GRAF=Bernadette; AUT;1 0 0= █ █;0=;04:49;Round 3;;1;r3
+78;F;52;GBR;POWELL=Natalie;L;ANTOMARCHI=Kaliema; CUB;1 0= █ █;0= █;04:00;Round 3;;0;r3
+78;F;51;FRA;MALONGA=Madeleine;L;CHALA=Vanessa; ECU;1 0 0= █ █;0= █ █;02:26;Round 3;;1;r3
+78;F;50;KOS;KUKA=Loriana;L;CANTERO=Lucia; ARG;1 1 0=;0=;01:25;Round 3;;1;r3
+78;F;49;BRA;AGUIAR=Mayra;L;MAZOUZ=Sarah-Myriam; GAB;1 0 0=;0=;00:16;Round 3;;1;r3
+78;F;48;POR;SAMPAIO=Patricia;L;PEKOVIC=Jovana; MNE;1 0 0=;1 0= █;03:53;Round 2;;1;r2
+78;F;47;NED;VERKERK=Marhinde;L;PAPADAKIS=Nefeli; USA;1 0=;0= █ █;04:25;Round 2;;0;r2
+78;F;46;BEL;BERGER=Sophie;L;BABINTSEVA=Aleksandra; RUS;1 0 0= █;0= █;05:20;Round 2;;1;r2
+78;F;45;JPN;HAMADA=Shori;L;CARDENAS=Liliana; MEX;1 1 0=;0=;03:21;Round 2;;1;r2
+78;F;44;MGL;OTGON=Munkhtsetseg;R;YOON=Hyunji; KOR;1 0= █;1 1 0= █ █;05:34;Round 2;;1;r2
+78;F;43;GER;WAGNER=Anna Maria;R;APOTEKAR=Klara; SLO;0= █ █;1 0=;07:16;Round 2;;0;r2
+78;F;42;THA;OEDA=Ikumi;R;GRAF=Bernadette; AUT;0= █;1 0 0= █;01:27;Round 2;;1;r2
+78;F;41;NED;STEENHUIS=Guusje;R;MA=Zhenzhao; CHN;0=;1 0= █;04:00;Round 2;;0;r2
+78;F;40;CUB;ANTOMARCHI=Kaliema;L;CHEN=Fei; CHN;1 0 0= █ █;0= █ █;03:56;Round 2;;1;r2
+78;F;39;GBR;POWELL=Natalie;L;BRENES=Diana; CRC;1 0 0=;0=;00:42;Round 2;;1;r2
+78;F;38;ALG;OUALLAL=Kaouthar;R;CHALA=Vanessa; ECU;0=;1 0 0=;00:44;Round 2;;1;r2
+78;F;37;FRA;MALONGA=Madeleine;L;LEE=Jeongyun; KOR;1 0 0=;0=;00:58;Round 2;;1;r2
+78;F;36;ARG;CANTERO=Lucia;L;LEON=Karen; VEN;1 0= █;0=;04:00;Round 2;;0;r2
+78;F;35;GER;MALZAHN=Luise;R;KUKA=Loriana; KOS;0= █ █;1 0= █ █;07:17;Round 2;;0;r2
+78;F;33;BRA;AGUIAR=Mayra;L;RAMIREZ=Yahima; POR;1 1 0=;0=;00:15;Round 2;;1;r2
+78;F;31;TPE;HSU WANG=Shu Huei;R;SAMPAIO=Patricia; POR;0=;1 1 0=;01:17;Round 1;;1;r1
+78;F;26;MEX;CARDENAS=Liliana;L;PACUT=Beata; POL;0= █ █;0= █ █;06:53;Round 1;;0;r1
+78;F;22;SLO;APOTEKAR=Klara;L;BRANSER=Marie; COD;1 0 0=;0= █;02:43;Round 1;;1;r1
+78;F;18;CHN;MA=Zhenzhao;L;PRODAN=Karla; CRO;1 0 0=;0=;00:50;Round 1;;1;r1
+78;F;14;CRC;BRENES=Diana;L;SNYMAN=Unelle; RSA;1 0= █ █;0= █;04:00;Round 1;;0;r1
+78;F;10;KOR;LEE=Jeongyun;L;SHMELEVA=Antonina; RUS;1 1 0=;1 0=;04:12;Round 1;;1;r1
+78;F;4;GAB;MAZOUZ=Sarah-Myriam;L;SYLLA=Mamadama; GUI;1 0 0= █ █;0= █;01:43;Round 1;;1;r1
+178;F;67;CUB;ORTIZ=Idalys;R;SONE=Akira; JPN;0= █ █;0= █ █;08:09;Final;;0;r8
+178;F;66;JPN;ASAHINA=Sarah;L;ALTHEMAN=Maria Suelen; BRA;1 0 0=;0= █;03:55;Bronze;;1;r8
+178;F;65;BRA;SOUZA=Beatriz;R;SAYIT=Kayra; TUR;0= █;1 1 0= █;02:51;Bronze;;1;r8
+178;F;64;TUR;SAYIT=Kayra;R;SONE=Akira; JPN;0=;1 1 0=;00:11;Semi-Final;;1;r7
+178;F;63;CUB;ORTIZ=Idalys;L;ALTHEMAN=Maria Suelen; BRA;1 0= █;0= █ █;04:30;Semi-Final;;0;r7
+178;F;62;JPN;ASAHINA=Sarah;L;CERIC=Larisa; BIH;1 0 0= █;0=;02:18;Repechage;;1;r5
+178;F;61;BRA;SOUZA=Beatriz;L;KINDZERSKA=Iryna; AZE;1 1 0= █;0=;03:19;Repechage;;1;r5
+178;F;60;BIH;CERIC=Larisa;R;SONE=Akira; JPN;0= █ █;0=;03:41;Quarter-Final;;0;r6
+178;F;59;JPN;ASAHINA=Sarah;R;SAYIT=Kayra; TUR;0= █ █;0=;03:44;Quarter-Final;;0;r6
+178;F;58;BRA;ALTHEMAN=Maria Suelen;L;KINDZERSKA=Iryna; AZE;1 1 0= █;0= █;02:08;Quarter-Final;;1;r6
+178;F;57;CUB;ORTIZ=Idalys;L;SOUZA=Beatriz; BRA;2 0 0=;0= █;03:47;Quarter-Final;;0;r6
+178;F;56;JPN;SONE=Akira;L;VELENSEK=Anamari; SLO;1 0 0= █;0= █ █;04:22;Round 3;;1;r3
+178;F;55;BIH;CERIC=Larisa;L;TARASOVA=Galyna; UKR;0= █;0= █ █;03:03;Round 3;;0;r3
+178;F;54;BLR;SLUTSKAYA=Maryna;R;SAYIT=Kayra; TUR;0= █ █;0= █ █;04:29;Round 3;;0;r3
+178;F;53;JPN;ASAHINA=Sarah;L;ZABIC=Milica; SRB;1 0 0= █ █;0= █;03:10;Round 3;;1;r3
+178;F;52;AZE;KINDZERSKA=Iryna;L;CHEIKH ROUHOU=Nihel; TUN;1 0 0=;0= █ █;03:19;Round 3;;1;r3
+178;F;51;BRA;ALTHEMAN=Maria Suelen;L;MOJICA=Melissa; PUR;1 1 0=;0= █;03:27;Round 3;;1;r3
+178;F;50;BRA;SOUZA=Beatriz;L;SZIGETVARI=Mercedesz; HUN;1 0 0=;0=;01:14;Round 3;;1;r3
+178;F;49;CUB;ORTIZ=Idalys;L;MBALLA ATANGANA=Hortence Vanessa; CMR;0= █;0= █ █;05:17;Round 3;;0;r3
+178;F;48;ISR;HERSHKO=Raz;R;VELENSEK=Anamari; SLO;0=;1 0 0=;01:58;Round 2;;1;r2
+178;F;47;JPN;SONE=Akira;L;HAN=Mi Jin; KOR;1 0 0=;0=;01:10;Round 2;;1;r2
+178;F;46;ARG;BREDESTON=Amanda;R;TARASOVA=Galyna; UKR;0= █ █;0=;02:13;Round 2;;0;r2
+178;F;45;BIH;CERIC=Larisa;L;GRABOWSKI=Jasmin; GER;1 0 0= █;0=;01:32;Round 2;;1;r2
+178;F;44;KAZ;MARATOVA=Nazgul;R;SAYIT=Kayra; TUR;0= █ █;1 0 0= █;02:40;Round 2;;1;r2
+178;F;43;BLR;SLUTSKAYA=Maryna;L;PAKENYTE=Santa; LTU;1 1 0= █;0= █;01:20;Round 2;;1;r2
+178;F;42;FRA;M BAIRO=Anne Fatoumata;R;ZABIC=Milica; SRB;0=;1 0 0=;00:18;Round 2;;1;r2
+178;F;41;JPN;ASAHINA=Sarah;L;NUNES=Rochele; POR;1 1 0= █;1 0= █;05:21;Round 2;;1;r2
+178;F;40;LTU;JABLONSKYTE=Sandra;R;CHEIKH ROUHOU=Nihel; TUN;0= █ █;0= █;02:47;Round 2;;0;r2
+178;F;39;AZE;KINDZERSKA=Iryna;L;SAVELKOULS=Tessie; NED;1 1 0=;0=;01:32;Round 2;;1;r2
+178;F;38;PUR;MOJICA=Melissa;L;PAULUSOVA=Marketa; CZE;1 1 0=;0=;00:25;Round 2;;1;r2
+178;F;37;BRA;ALTHEMAN=Maria Suelen;L;WANG=Yan; CHN;1 0 0= █;0= █ █;04:46;Round 2;;1;r2
+178;F;36;MYA;KHIN MYO=Thu;R;SZIGETVARI=Mercedesz; HUN;0= █;1 0 0=;01:55;Round 2;;1;r2
+178;F;35;BRA;SOUZA=Beatriz;L;CUTRO-KELLY=Nina; USA;1 0 0=;0= █;00:33;Round 2;;1;r2
+178;F;34;CMR;MBALLA ATANGANA=Hortence Vanessa;L;MAAN=Tulika; IND;1 1 0=;0=;00:54;Round 2;;1;r2
+178;F;33;CUB;ORTIZ=Idalys;L;SAGNA=Monica; SEN;0= █;0= █ █;03:14;Round 2;;0;r2
+178;F;30;KOR;HAN=Mi Jin;L;MARENCO=Izayana; NCA;1 0 0=;0= █;01:07;Round 1;;1;r1
+178;F;26;CRO;SUTALO=Ivana;R;GRABOWSKI=Jasmin; GER;0= █ █;0=;02:52;Round 1;;0;r1
+178;F;22;LTU;PAKENYTE=Santa;L;WILLIAMS=Mackenzie; USA;1 0 0=;0=;00:12;Round 1;;1;r1
+178;F;18;PHI;SALINAS=Ryouko;R;NUNES=Rochele; POR;0=;1 0 0=;00:24;Round 1;;1;r1
+178;F;14;GBR;ADLINGTON=Sarah;R;SAVELKOULS=Tessie; NED;0= █ █;1 0= █;04:00;Round 1;;0;r1
+178;F;10;TPE;TSAI=Jia Wen;R;WANG=Yan; CHN;0=;1 0 0=;00:23;Round 1;;1;r1
+178;F;8;HUN;SZIGETVARI=Mercedesz;L;KALANINA=Yelyzaveta; UKR;0= █;0= █ █;03:01;Round 1;;0;r1
+60;M;131;GEO;CHKHVIMIANI=Lukhumi;L;LUTFILLAEV=Sharafuddin; UZB;1 1 0= █ █;0= █;03:42;Final;;1;r8
+60;M;130;JPN;TAKATO=Naohisa;R;NAGAYAMA=Ryuju; JPN;1 0=;1 1 0= █;04:00;Bronze;;1;r8
+60;M;129;KAZ;SMETOV=Yeldos;L;KYRGYZBAYEV=Gusman; KAZ;1 0 0= █ █;0= █ █;05:38;Bronze;;1;r8
+60;M;128;UZB;LUTFILLAEV=Sharafuddin;L;KYRGYZBAYEV=Gusman; KAZ;1 0 0=;0= █;01:38;Semi-Final;;1;r7
+60;M;127;GEO;CHKHVIMIANI=Lukhumi;L;NAGAYAMA=Ryuju; JPN;1 0= █;0= █;05:51;Semi-Final;;0;r7
+60;M;126;JPN;TAKATO=Naohisa;L;AIBEK UULU=Kubanychbek; KGZ;1 0= █;0= █;04:00;Repechage;;0;r5
+60;M;125;TPE;YANG=Yung Wei;R;SMETOV=Yeldos; KAZ;0=;1 0 0= █;01:03;Repechage;;1;r5
+60;M;124;KAZ;KYRGYZBAYEV=Gusman;L;AIBEK UULU=Kubanychbek; KGZ;0= █ █;0= █ █;06:29;Quarter-Final;;0;r6
+60;M;123;JPN;TAKATO=Naohisa;R;LUTFILLAEV=Sharafuddin; UZB;0= █ █;1 0 0=;01:43;Quarter-Final;;1;r6
+60;M;122;JPN;NAGAYAMA=Ryuju;L;SMETOV=Yeldos; KAZ;1 1 0= █;0= █;03:16;Quarter-Final;;1;r6
+60;M;121;TPE;YANG=Yung Wei;R;CHKHVIMIANI=Lukhumi; GEO;0=;1 0= █;04:00;Quarter-Final;;0;r6
+60;M;120;MGL;DASHDAVAA=Amartuvshin;R;AIBEK UULU=Kubanychbek; KGZ;0= █ █;1 0 0= █ █;08:28;Round 4;;1;r4
+60;M;119;GEO;PAPINASHVILI=Amiran;R;KYRGYZBAYEV=Gusman; KAZ;0=;1 0= █ █;04:00;Round 4;;0;r4
+60;M;118;UZB;LUTFILLAEV=Sharafuddin;L;KATZ=Joshua; AUS;1 0 0=;0= █;01:32;Round 4;;1;r4
+60;M;117;JPN;TAKATO=Naohisa;L;KHYAR=Walide; FRA;0= █;0= █ █;02:16;Round 4;;0;r4
+60;M;116;KAZ;SMETOV=Yeldos;L;KHOUSROF=Ali; YEM;1 1 0=;0=;01:08;Round 4;;1;r4
+60;M;115;JPN;NAGAYAMA=Ryuju;L;GERCHEV=Yanislav; BUL;1 0= █ █;0= █ █;04:00;Round 4;;0;r4
+60;M;114;GEO;CHKHVIMIANI=Lukhumi;L;LESIUK=Artem; UKR;1 0 0= █ █;0=;04:25;Round 4;;1;r4
+60;M;113;TPE;YANG=Yung Wei;L;UROZBOEV=Diyorbek; UZB;1 0 0= █;0=;05:31;Round 4;;1;r4
+60;M;112;NCA;MONTES=Luis;R;AIBEK UULU=Kubanychbek; KGZ;0= █ █;1 0=;02:18;Round 3;;0;r3
+60;M;111;MGL;DASHDAVAA=Amartuvshin;L;CHOI=In Hyuk; KOR;1 0 0=;0=;00:31;Round 3;;1;r3
+60;M;110;KAZ;KYRGYZBAYEV=Gusman;L;ALIPIEV=Valentin; BUL;1 0= █ █;0= █;04:00;Round 3;;0;r3
+60;M;109;GEO;PAPINASHVILI=Amiran;L;VERSTRAETEN=Jorre; BEL;1 1 0= █ █;0= █;03:06;Round 3;;1;r3
+60;M;108;AUS;KATZ=Joshua;L;BEN DAVID=Daniel; ISR;0= █ █;0= █ █;08:12;Round 3;;0;r3
+60;M;107;UZB;LUTFILLAEV=Sharafuddin;L;ALTHUFAIRI=Omar; KUW;1 1 0=;1 0= █ █;02:42;Round 3;;1;r3
+60;M;106;FRA;KHYAR=Walide;L;MAMMADSOY=Davud; AZE;1 0 0= █ █;0= █;04:49;Round 3;;1;r3
+60;M;105;JPN;TAKATO=Naohisa;L;JUMAYEV=Hakberdi; TKM;1 0 0=;1 0=;01:43;Round 3;;1;r3
+60;M;104;YEM;KHOUSROF=Ali;L;RAMOS=Jose; GUA;1 1 0=;0= █;03:24;Round 3;;1;r3
+60;M;103;KAZ;SMETOV=Yeldos;L;MANZI=Elios; ITA;1 0 0=;0=;01:09;Round 3;;1;r3
+60;M;102;POR;LOPES=Rodrigo Costa;R;GERCHEV=Yanislav; BUL;0= █ █;1 0= █ █;04:00;Round 3;;0;r3
+60;M;101;JPN;NAGAYAMA=Ryuju;L;PLAFKY=Moritz; GER;1 1 0=;0= █;03:36;Round 3;;1;r3
+60;M;100;CHA;ISSA SANI=Ibrahim;R;LESIUK=Artem; UKR;0= █;1 0 0=;01:38;Round 3;;1;r3
+60;M;99;GEO;CHKHVIMIANI=Lukhumi;L;TAKABATAKE=Eric; BRA;1 0=;0= █ █;04:52;Round 3;;0;r3
+60;M;98;UZB;UROZBOEV=Diyorbek;L;PULKRABEK=David; CZE;1 0= █ █;0= █;04:00;Round 3;;0;r3
+60;M;97;TPE;YANG=Yung Wei;L;MKHEIDZE=Luka; FRA;1 0 0=;0= █ █;05:23;Round 3;;1;r3
+60;M;96;HKG;LAU=Martin;R;AIBEK UULU=Kubanychbek; KGZ;0=;1 1 0=;02:23;Round 2;;1;r2
+60;M;95;NCA;MONTES=Luis;L;PHIRI=Andrew; ZAM;1 0 0=;0=;00:06;Round 2;;1;r2
+60;M;94;LAO;SITHISANE=Soukphaxay;R;CHOI=In Hyuk; KOR;0=;1 1 0= █;03:02;Round 2;;1;r2
+60;M;93;MGL;DASHDAVAA=Amartuvshin;L;SICCARDI=Yann; MON;0= █;0= █ █;03:21;Round 2;;0;r2
+60;M;92;BUL;ALIPIEV=Valentin;L;NAMGYEL=Ngawang; BHU;1 0=;0= █ █;04:00;Round 2;;0;r2
+60;M;91;KAZ;KYRGYZBAYEV=Gusman;L;KITADAI=Felipe; BRA;1 0= █;1 0= █ █;05:01;Round 2;;0;r2
+60;M;90;MAW;KUPHIRI=Martin;R;VERSTRAETEN=Jorre; BEL;0=;1 1 0=;00:30;Round 2;;1;r2
+60;M;89;GEO;PAPINASHVILI=Amiran;L;PRECIADO=Lenin; ECU;1 0 0=;0= █;01:09;Round 2;;1;r2
+60;M;88;ISR;BEN DAVID=Daniel;L;SZABO=Csaba; HUN;1 0= █;0= █;04:00;Round 2;;0;r2
+60;M;87;PHI;QUILLOTES=Bryn;R;KATZ=Joshua; AUS;0= █ █;0= █;05:35;Round 2;;0;r2
+60;M;86;NEP;BAM=Mohan;R;ALTHUFAIRI=Omar; KUW;0= █ █;0= █;03:56;Round 2;;0;r2
+60;M;85;UZB;LUTFILLAEV=Sharafuddin;L;RASHNONEZHAD=Mohammad; IJF;1 1 0=;0=;02:57;Round 2;;1;r2
+60;M;84;NED;TSJAKADOEA=Tornike;R;MAMMADSOY=Davud; AZE;0= █;1 0 0= █;03:50;Round 2;;1;r2
+60;M;83;FRA;KHYAR=Walide;L;GOLOMB=Tomer; POL;1 1 0= █;0=;02:46;Round 2;;1;r2
+60;M;82;TKM;JUMAYEV=Hakberdi;L;ELCOCK=Darren; GUY;1 1 0=;0= █;02:41;Round 2;;1;r2
+60;M;81;JPN;TAKATO=Naohisa;L;AKKUS=Mihrac; TUR;1 0 0=;0= █;01:51;Round 2;;1;r2
+60;M;80;GUA;RAMOS=Jose;L;KATHEWERA=Chikondi Samuel; MAW;1 1 0= █;0= █;02:12;Round 2;;1;r2
+60;M;79;YEM;KHOUSROF=Ali;L;TSALA TSALA=Bernadin; CMR;1 1 0= █;0= █;03:40;Round 2;;1;r2
+60;M;78;IJF;AKKASH=Mohamad;R;MANZI=Elios; ITA;0= █ █;0= █;02:41;Round 2;;0;r2
+60;M;77;KAZ;SMETOV=Yeldos;L;ALAMIRI=Saoud; KUW;1 1 0= █;0= █;01:46;Round 2;;1;r2
+60;M;75;POR;LOPES=Rodrigo Costa;L;DE BARROS E SILVA=Alexandre; CPV;1 0= █;0= █ █;03:17;Round 2;;0;r2
+60;M;74;GER;PLAFKY=Moritz;L;CALLE=Dilmer; PER;0=;0= █ █;03:15;Round 2;;0;r2
+60;M;73;JPN;NAGAYAMA=Ryuju;L;KIM=Won Jin; KOR;1 0 0=;0=;02:02;Round 2;;1;r2
+60;M;72;UKR;LESIUK=Artem;L;ATIENO=Carlos; KEN;1 1 0=;0= █ █;02:25;Round 2;;1;r2
+60;M;71;CHA;ISSA SANI=Ibrahim;L;TAALAIBEK UULU=Doolotbek; KGZ;1 0 0=;0= █;02:04;Round 2;;1;r2
+60;M;70;BRA;TAKABATAKE=Eric;L;DHOUIBI=Fraj; TUN;0=;0= █ █;02:47;Round 2;;0;r2
+60;M;69;ESP;GARRIGOS=Francisco;R;CHKHVIMIANI=Lukhumi; GEO;0= █ █;1 0= █ █;05:43;Round 2;;0;r2
+60;M;68;CZE;PULKRABEK=David;L;BASSOU=Issam; MAR;1 0 0=;0= █;01:12;Round 2;;1;r2
+60;M;67;UZB;UROZBOEV=Diyorbek;L;DIAZ=Adonis; USA;1 0 0=;0=;00:24;Round 2;;1;r2
+60;M;66;IND;YADAV=Vijay Kumar;R;MKHEIDZE=Luka; FRA;0= █ █;0=;05:05;Round 2;;0;r2
+60;M;65;RUS;MSHVIDOBADZE=Robert;R;YANG=Yung Wei; TPE;0= █ █;0= █;05:55;Round 2;;0;r2
+60;M;62;ZAM;PHIRI=Andrew;L;CROES=Isaac; ARU;1 0 0=;0=;01:26;Round 1;;1;r1
+60;M;58;MON;SICCARDI=Yann;L;PISCO=Miguel; POR;1 1 0= █;0= █;02:27;Round 1;;1;r1
+60;M;53;GUA;MOLINA=Julio;R;KYRGYZBAYEV=Gusman; KAZ;0= █;1 1 0= █;01:44;Round 1;;1;r1
+60;M;48;HUN;SZABO=Csaba;L;NOKETI=Nanimatang; KIR;1 0 0=;0=;00:27;Round 1;;1;r1
+60;M;35;BOT;SELLO=Edwin;R;JUMAYEV=Hakberdi; TKM;0=;1 0 0= █;01:58;Round 1;;1;r1
+60;M;28;ECU;MOROCHO=Steven;R;MANZI=Elios; ITA;0= █ █;0= █ █;05:57;Round 1;;0;r1
+60;M;18;KOR;KIM=Won Jin;L;NAZIR BIN=Abdou; MAD;1 0 0=;0= █;02:10;Round 1;;1;r1
+60;M;15;UKR;LESIUK=Artem;L;DIOP=Moussa; SEN;1 1 0=;0=;00:40;Round 1;;1;r1
+60;M;10;GEO;CHKHVIMIANI=Lukhumi;L;LAI=Yiu Long; HKG;1 1 0=;0= █ █;03:40;Round 1;;1;r1
+60;M;2;TPE;YANG=Yung Wei;L;MCKENZIE=Ashley; GBR;1 0=;0= █ █;04:00;Round 1;;0;r1
+66;M;131;KOR;KIM=Limhwan;R;MARUYAMA=Joshiro; JPN;0= █;1 1 0=;03:31;Final;;1;r8
+66;M;130;MGL;YONDONPERENLEI=Baskhuu;R;VIERU=Denis; MDA;0= █ █;1 0 0= █ █;04:17;Bronze;;1;r8
+66;M;129;ITA;LOMBARDO=Manuel;R;ABE=Hifumi; JPN;0= █;1 0 0=;05:40;Bronze;;1;r8
+66;M;128;JPN;MARUYAMA=Joshiro;L;ABE=Hifumi; JPN;1 0= █ █;0= █;07:46;Semi-Final;;0;r7
+66;M;127;KOR;KIM=Limhwan;L;VIERU=Denis; MDA;1 1 0=;0=;01:51;Semi-Final;;1;r7
+66;M;126;EGY;ABDELMAWGOUD=Mohamed;R;YONDONPERENLEI=Baskhuu; MGL;1 0= █ █;0=;03:45;Repechage;;0;r5
+66;M;125;UKR;IADOV=Bogdan;R;LOMBARDO=Manuel; ITA;0=;1 1 0=;01:50;Repechage;;1;r5
+66;M;124;JPN;ABE=Hifumi;L;YONDONPERENLEI=Baskhuu; MGL;1 0= █;0= █;04:00;Quarter-Final;;0;r6
+66;M;123;JPN;MARUYAMA=Joshiro;L;ABDELMAWGOUD=Mohamed; EGY;1 0 0= █;0= █;03:14;Quarter-Final;;1;r6
+66;M;122;ITA;LOMBARDO=Manuel;R;VIERU=Denis; MDA;0=;1 0 0=;01:19;Quarter-Final;;1;r6
+66;M;121;KOR;KIM=Limhwan;L;IADOV=Bogdan; UKR;1 0 0=;0= █;01:11;Quarter-Final;;1;r6
+66;M;120;ISR;FLICKER=Tal;R;YONDONPERENLEI=Baskhuu; MGL;0=;1 0 0= █ █;03:17;Round 4;;1;r4
+66;M;119;JPN;ABE=Hifumi;L;MEDVES=Matteo; ITA;1 0 0=;0=;03:24;Round 4;;1;r4
+66;M;118;AZE;SHIKHALIZADA=Nijat;R;ABDELMAWGOUD=Mohamed; EGY;1 0=;1 1 0= █;03:29;Round 4;;1;r4
+66;M;117;JPN;MARUYAMA=Joshiro;L;NURILLAEV=Sardor; UZB;1 0= █;0= █;04:00;Round 4;;0;r4
+66;M;116;MDA;VIERU=Denis;L;WAWRZYCZEK=Patryk; POL;1 0 0= █;0= █ █;02:38;Round 4;;1;r4
+66;M;115;ISR;SHMAILOV=Baruch;R;LOMBARDO=Manuel; ITA;1 0= █;1 1 0= █;05:13;Round 4;;1;r4
+66;M;114;BRA;CARGNIN=Daniel;R;IADOV=Bogdan; UKR;0=;1 0= █ █;07:39;Round 4;;0;r4
+66;M;113;KOR;KIM=Limhwan;L;AKHADOV=Shakhram; UZB;1 0= █;0= █ █;04:00;Round 4;;0;r4
+66;M;112;MGL;YONDONPERENLEI=Baskhuu;L;NINIASHVILI=Bagrati; GEO;0= █ █;0= █ █;07:52;Round 3;;0;r3
+66;M;111;ISR;FLICKER=Tal;L;MUNGANDU=Steven; ZAM;1 0= █;0= █;04:00;Round 3;;0;r3
+66;M;110;BIH;ZADRO=Petar;R;MEDVES=Matteo; ITA;0= █;1 0 0=;02:14;Round 3;;1;r3
+66;M;109;JPN;ABE=Hifumi;L;MA=Duanbin; CHN;1 1 0= █;0=;00:39;Round 3;;1;r3
+66;M;108;EGY;ABDELMAWGOUD=Mohamed;L;NURKOVIC=Jusuf; MNE;1 1 0=;0= █;02:17;Round 3;;1;r3
+66;M;107;AZE;SHIKHALIZADA=Nijat;L;ALTYNBEK UULU=Almaz; KGZ;1 0= █ █;0= █;04:00;Round 3;;0;r3
+66;M;106;FRA;LE BLOUCH=Kilian;R;NURILLAEV=Sardor; UZB;0= █;1 0= █ █;06:09;Round 3;;0;r3
+66;M;105;JPN;MARUYAMA=Joshiro;L;GOMBOC=Adrian; SLO;1 0 0=;0= █ █;02:46;Round 3;;1;r3
+66;M;104;HUN;BOROS=Bence;R;WAWRZYCZEK=Patryk; POL;0=;1 0 0=;01:11;Round 3;;1;r3
+66;M;103;MDA;VIERU=Denis;L;PEREZ ROMAN=Daniel; ESP;1 0= █ █;0=;04:00;Round 3;;0;r3
+66;M;102;ITA;LOMBARDO=Manuel;L;MINKOU=Dzmitry; BLR;1 0=;0= █ █;04:00;Round 3;;0;r3
+66;M;101;ISR;SHMAILOV=Baruch;L;TE=Artur; KGZ;1 0= █;0= █ █;04:00;Round 3;;0;r3
+66;M;100;UKR;IADOV=Bogdan;L;BUNCIC=Strahinja; SRB;1 0 0= █;0= █;04:12;Round 3;;1;r3
+66;M;99;BRA;CARGNIN=Daniel;L;TEMELKOV=Bozhidar; BUL;1 0= █ █;0= █;04:47;Round 3;;0;r3
+66;M;98;UZB;AKHADOV=Shakhram;L;TSAI=Ming Yen; TPE;1 0 0= █ █;0= █;02:46;Round 3;;1;r3
+66;M;97;GEO;MARGVELASHVILI=Vazha;R;KIM=Limhwan; KOR;0= █;1 0 0= █;02:02;Round 3;;1;r3
+66;M;96;GEO;NINIASHVILI=Bagrati;L;KATZ=Nathan; AUS;1 0=;0= █;04:00;Round 2;;0;r2
+66;M;95;MGL;YONDONPERENLEI=Baskhuu;L;AN=Baul; KOR;0= █;0= █ █;09:41;Round 2;;0;r2
+66;M;94;ZAM;MUNGANDU=Steven;L;CADET=Gerard; HAI;0= █;0= █ █;03:01;Round 2;;0;r2
+66;M;93;ISR;FLICKER=Tal;L;ZANTARAIA=Georgii; UKR;0= █ █;0= █ █;05:28;Round 2;;0;r2
+66;M;92;ITA;MEDVES=Matteo;L;POLIAK=Matej; SVK;1 0 0=;0= █;00:48;Round 2;;1;r2
+66;M;91;MYA;AUNG ZAYAR=Tun;R;ZADRO=Petar; BIH;0= █;1 1 0= █;02:15;Round 2;;1;r2
+66;M;90;MAD;CHAN LING=Janeiro;R;MA=Duanbin; CHN;0=;1 0 0=;01:39;Round 2;;1;r2
+66;M;89;JPN;ABE=Hifumi;L;GAITERO MARTIN=Alberto; ESP;1 0 0=;0=;00:33;Round 2;;1;r2
+66;M;88;MNE;NURKOVIC=Jusuf;L;MUHAMMAD=HASNAIN; PAK;1 1 0=;0=;02:37;Round 2;;1;r2
+66;M;87;EGY;ABDELMAWGOUD=Mohamed;L;EL IDRISSI=Alaa; USA;0=;0= █ █;02:19;Round 2;;0;r2
+66;M;86;BLR;SHERSHAN=Dzmitry;R;ALTYNBEK UULU=Almaz; KGZ;0=;1 0= █ █;04:19;Round 2;;0;r2
+66;M;85;KAZ;SERIKZHANOV=Yerlan;R;SHIKHALIZADA=Nijat; AZE;1 0=;1 1 0=;04:38;Round 2;;1;r2
+66;M;84;UZB;NURILLAEV=Sardor;L;CULLHAJ=Indrit; ALB;1 1 0= █;0= █ █;03:11;Round 2;;1;r2
+66;M;83;KSA;ALBASHI=Abdulaziz;R;LE BLOUCH=Kilian; FRA;0= █ █;0= █;01:47;Round 2;;0;r2
+66;M;82;MAC;CHEN=Haozheng;R;GOMBOC=Adrian; SLO;0=;1 0 0=;01:37;Round 2;;1;r2
+66;M;81;JPN;MARUYAMA=Joshiro;L;PETRIKOV=Pavel; CZE;1 1 0=;0= █;03:59;Round 2;;1;r2
+66;M;80;PHI;NAKANO=Shugen;R;WAWRZYCZEK=Patryk; POL;0=;1 1 0=;01:05;Round 2;;1;r2
+66;M;79;HUN;BOROS=Bence;L;BURNS=Nathon; IRL;1 0= █ █;0= █;07:12;Round 2;;0;r2
+66;M;78;ESP;PEREZ ROMAN=Daniel;L;MAK=Hong nin; HKG;1 0 0=;0= █;00:59;Round 2;;1;r2
+66;M;77;MDA;VIERU=Denis;L;MATEO=Wander; DOM;1 0= █;0= █;04:00;Round 2;;0;r2
+66;M;76;SLO;JEREB=Andraz;R;MINKOU=Dzmitry; BLR;0= █;1 0 0=;02:03;Round 2;;1;r2
+66;M;75;MOZ;LOFORTE=Kevin;R;LOMBARDO=Manuel; ITA;0=;1 0 0=;00:57;Round 2;;1;r2
+66;M;74;RUS;PULIAEV=Mikhail;R;TE=Artur; KGZ;0=;1 0 0=;00:51;Round 2;;1;r2
+66;M;73;ISR;SHMAILOV=Baruch;L;FAZLI=Abdul Fahim; AFG;1 0 0= █;0= █ █;02:41;Round 2;;1;r2
+66;M;72;NIG;ALHASSANE=Ismael;R;BUNCIC=Strahinja; SRB;0= █;1 0 0= █;01:08;Round 2;;1;r2
+66;M;71;MAR;BOUSHITA=Abderrahmane;R;IADOV=Bogdan; UKR;0= █;1 1 0=;04:51;Round 2;;1;r2
+66;M;70;BUL;TEMELKOV=Bozhidar;L;ZHUMAKANOV=Yeldos; KAZ;0= █ █;0= █ █;01:45;Round 2;;0;r2
+66;M;69;BRA;CARGNIN=Daniel;L;SANDAL=Sinan; TUR;1 0 0=;0=;01:07;Round 2;;1;r2
+66;M;68;TPE;TSAI=Ming Yen;L;VALOIS=Jacob; CAN;1 0= █ █;0= █;04:00;Round 2;;0;r2
+66;M;67;NEP;SHRESTHA=Indra Bahadur;R;AKHADOV=Shakhram; UZB;0= █ █;1 0 0=;03:14;Round 2;;1;r2
+66;M;66;KOR;KIM=Limhwan;L;KOSSEKOV=Muhammet; TKM;1 0 0=;0=;01:29;Round 2;;1;r2
+66;M;65;GEO;MARGVELASHVILI=Vazha;L;ABELRAHMAN=Ahmed; EGY;1 0 0= █;0=;02:30;Round 2;;1;r2
+66;M;63;GEO;NINIASHVILI=Bagrati;L;KABA=Moussa; GUI;1 0 0=;0=;00:50;Round 1;;1;r1
+66;M;60;BHU;TSHERING=Kinley;R;CADET=Gerard; HAI;0= █ █;1 0= █ █;04:00;Round 1;;0;r1
+66;M;58;UKR;ZANTARAIA=Georgii;L;SANCHO CHINCHILA=Ian; CRC;1 0 0=;0= █ █;01:54;Round 1;;1;r1
+66;M;55;ITA;MEDVES=Matteo;L;CRISOSTOMO=Joao; POR;1 0= █;0= █ █;04:38;Round 1;;0;r1
+66;M;54;TAN;ABDULLA=Abdulrabi Alawi;R;ZADRO=Petar; BIH;0= █ █;0=;02:20;Round 1;;0;r1
+66;M;52;CUB;SOLIS=Osniel;R;MA=Duanbin; CHN;0=;1 0 0=;02:14;Round 1;;1;r1
+66;M;50;TJK;ZHABBOROV=Khaiyomiddin;R;GAITERO MARTIN=Alberto; ESP;0= █ █;1 1 0= █;03:30;Round 1;;1;r1
+66;M;47;MEX;CASTILLO=Nabor;R;NURKOVIC=Jusuf; MNE;0= █;1 0 0=;02:41;Round 1;;1;r1
+66;M;46;VAN;MAHIT=Joe;R;EL IDRISSI=Alaa; USA;0=;1 1 0=;00:26;Round 1;;1;r1
+66;M;43;AFG;ARYAN=Mod Reshad;R;SHERSHAN=Dzmitry; BLR;0=;1 0 0=;00:16;Round 1;;1;r1
+66;M;42;AZE;SHIKHALIZADA=Nijat;L;NGO XUAN=Quoc; VIE;1 0 0=;0=;00:16;Round 1;;1;r1
+66;M;40;ALB;CULLHAJ=Indrit;L;ELIDRISSI=Ayoub; QAT;0= █ █;0= █ █;05:44;Round 1;;0;r1
+66;M;36;SLO;GOMBOC=Adrian;L;CHOW=Ka Yau Leon Taylor; HKG;1 0 0=;0= █;02:04;Round 1;;1;r1
+66;M;34;CZE;PETRIKOV=Pavel;L;SAINI=Jasleen Singh; IND;1 0 0= █ █;0= █;02:03;Round 1;;1;r1
+66;M;32;POL;WAWRZYCZEK=Patryk;L;CESAR=Diogo; GBS;1 0= █;0=;04:00;Round 1;;0;r1
+66;M;30;POR;OLEINIC=Sergiu;R;BURNS=Nathon; IRL;0= █ █;1 0=;05:00;Round 1;;0;r1
+66;M;27;KUW;ALENEZI=Hamad;R;PEREZ ROMAN=Daniel; ESP;0=;1 0 0=;00:48;Round 1;;1;r1
+66;M;26;BOT;MOGOPA=Gavin;R;MATEO=Wander; DOM;0= █ █;1 0 0=;02:21;Round 1;;1;r1
+66;M;24;BEL;VAN GANSBEKE=Kenneth;R;MINKOU=Dzmitry; BLR;0= █ █;1 1 0=;03:23;Round 1;;1;r1
+66;M;20;VIE;NGUYEN=Hai Ba;R;TE=Artur; KGZ;0= █;1 0 0=;01:25;Round 1;;1;r1
+66;M;18;AFG;FAZLI=Abdul Fahim;L;MWENDA=Thomas; TAN;1 0= █ █;0= █ █;03:29;Round 1;;0;r1
+66;M;16;THA;PUNTANAM=Surasak;R;BUNCIC=Strahinja; SRB;0= █ █;0= █;01:53;Round 1;;0;r1
+66;M;11;PER;POSTIGOS=Juan;R;TEMELKOV=Bozhidar; BUL;0=;1 0 0= █;03:05;Round 1;;1;r1
+66;M;10;TUR;SANDAL=Sinan;L;KUKU=Rodrick; COD;1 0 0=;0=;02:03;Round 1;;1;r1
+66;M;8;CAN;VALOIS=Jacob;L;KAIRABI=John Nderitu; KEN;1 0 0=;0=;01:06;Round 1;;1;r1
+66;M;6;UZB;AKHADOV=Shakhram;L;TOLINANTENAINA=MARCO LEBRUN; MAD;1 1 0=;0=;01:22;Round 1;;1;r1
+66;M;3;GER;SEIDL=Sebastian;R;KIM=Limhwan; KOR;0=;1 0= █;04:47;Round 1;;0;r1
+66;M;2;ARG;ALMOG=Tal;R;ABELRAHMAN=Ahmed; EGY;1 0=;1 0 0= █ █;02:50;Round 1;;1;r1
+73;M;131;AZE;ORUJOV=Rustam;R;ONO=Shohei; JPN;0=;1 0 0= █;01:15;Final;;1;r8
+73;M;130;TJK;MAKHMADBEKOV=Somon;R;HEYDAROV=Hidayat; AZE;0= █ █;1 0= █ █;11:45;Bronze;;0;r8
+73;M;129;TJK;KHOJAZODA=Behruzi;R;IARTCEV=Denis; RUS;0= █ █;1 0= █ █;04:00;Bronze;;0;r8
+73;M;128;JPN;ONO=Shohei;L;IARTCEV=Denis; RUS;1 1 0=;0= █;03:46;Semi-Final;;1;r7
+73;M;127;AZE;ORUJOV=Rustam;L;HEYDAROV=Hidayat; AZE;1 0= █ █;0= █ █;04:00;Semi-Final;;0;r7
+73;M;126;TUR;CILOGLU=Bilal;R;MAKHMADBEKOV=Somon; TJK;0= █ █;0= █;04:33;Repechage;;0;r5
+73;M;125;ISR;BUTBUL=Tohar;R;KHOJAZODA=Behruzi; TJK;0=;1 1 0=;01:49;Repechage;;1;r5
+73;M;124;TJK;MAKHMADBEKOV=Somon;R;IARTCEV=Denis; RUS;0= █;1 0= █;04:23;Quarter-Final;;0;r6
+73;M;123;JPN;ONO=Shohei;L;CILOGLU=Bilal; TUR;1 0 0= █;0= █;03:33;Quarter-Final;;1;r6
+73;M;122;AZE;HEYDAROV=Hidayat;L;KHOJAZODA=Behruzi; TJK;1 0= █ █;0= █ █;06:21;Quarter-Final;;0;r6
+73;M;121;AZE;ORUJOV=Rustam;L;BUTBUL=Tohar; ISR;1 0= █;0= █;04:00;Quarter-Final;;0;r6
+73;M;120;RUS;IARTCEV=Denis;L;CHAINE=Guillaume; FRA;1 1 0=;0= █;03:53;Round 4;;1;r4
+73;M;119;TJK;MAKHMADBEKOV=Somon;L;NUNES DOS SANTOS=Claudio; LUX;0=;0= █ █;04:11;Round 4;;0;r4
+73;M;118;MGL;GANBAATAR=Odbayar;R;CILOGLU=Bilal; TUR;0= █ █;0= █;05:14;Round 4;;0;r4
+73;M;117;GEO;SHAVDATUASHVILI=Lasha;R;ONO=Shohei; JPN;0=;1 0 0=;01:43;Round 4;;1;r4
+73;M;116;TJK;KHOJAZODA=Behruzi;L;SAIYINJIRIGALA=; CHN;1 0= █ █;0= █ █;04:00;Round 4;;0;r4
+73;M;115;AZE;HEYDAROV=Hidayat;L;HAM=Eric; GBR;1 0 0=;0= █;03:32;Round 4;;1;r4
+73;M;114;ISR;BUTBUL=Tohar;L;BASILE=Fabio; ITA;0=;0= █ █;07:39;Round 4;;0;r4
+73;M;113;AZE;ORUJOV=Rustam;L;GABUN=Constantin; CAN;1 1 0=;1 0=;04:57;Round 4;;1;r4
+73;M;112;FRA;CHAINE=Guillaume;L;DIALLO=Lucas; BUR;0=;0= █ █;02:07;Round 3;;0;r3
+73;M;111;CAN;MARGELIDON=Arthur;R;IARTCEV=Denis; RUS;0=;1 0 0=;02:33;Round 3;;1;r3
+73;M;110;LUX;NUNES DOS SANTOS=Claudio;L;JECMINEK=Jakub; CZE;1 0= █ █;0= █;04:00;Round 3;;0;r3
+73;M;109;TJK;MAKHMADBEKOV=Somon;L;STERPU=Victor; MDA;1 0 0=;0=;01:28;Round 3;;1;r3
+73;M;108;ITA;ESPOSITO=Giovanni;R;CILOGLU=Bilal; TUR;0= █ █;0=;03:22;Round 3;;0;r3
+73;M;107;MGL;GANBAATAR=Odbayar;L;MOHYELDIN=Mohamed; EGY;1 1 0= █;0= █ █;03:03;Round 3;;1;r3
+73;M;106;JPN;ONO=Shohei;L;EYAL SLMAN=Younis; JOR;1 0 0=;0= █ █;01:11;Round 3;;1;r3
+73;M;105;GEO;SHAVDATUASHVILI=Lasha;L;SCVORTOV=Victor; UAE;1 1 0= █ █;0= █ █;03:18;Round 3;;1;r3
+73;M;104;MEX;CARDOSO=Gilberto;R;SAIYINJIRIGALA=; CHN;0= █;1 1 0= █;02:21;Round 3;;1;r3
+73;M;103;KOS;GJAKOVA=Akil;R;KHOJAZODA=Behruzi; TJK;0= █ █;1 0 0= █ █;03:07;Round 3;;1;r3
+73;M;102;ROU;RAICU=Alexandru;R;HAM=Eric; GBR;0= █ █;0= █;05:01;Round 3;;0;r3
+73;M;101;AZE;HEYDAROV=Hidayat;L;MOGUSHKOV=Musa; RUS;1 0= █ █;0=;04:00;Round 3;;0;r3
+73;M;100;AUT;REITER=Lukas;R;BASILE=Fabio; ITA;0=;1 0= █;04:00;Round 3;;0;r3
+73;M;99;ISR;BUTBUL=Tohar;L;NOURINE=Fethi; ALG;1 0 0=;0=;00:00;Round 3;;1;r3
+73;M;98;CAN;GABUN=Constantin;L;MROWCZYNSKI=Wiktor; POL;1 0 0=;0=;02:06;Round 3;;1;r3
+73;M;97;AZE;ORUJOV=Rustam;L;MARKARIAN=Georgios; GRE;1 0= █;0= █ █;02:08;Round 3;;0;r3
+73;M;95;MAR;EL MEZIATI=Ahmed;R;CHAINE=Guillaume; FRA;0= █;1 0 0= █ █;04:37;Round 2;;1;r2
+73;M;94;RUS;IARTCEV=Denis;L;ALBALI=Abdulelah; KSA;1 0 0=;0=;00:42;Round 2;;1;r2
+73;M;93;CAN;MARGELIDON=Arthur;L;QING=Daga; CHN;1 0= █ █;0= █ █;07:08;Round 2;;0;r2
+73;M;92;CRC;SANCHO=Julian;R;JECMINEK=Jakub; CZE;0=;1 0 0=;00:23;Round 2;;1;r2
+73;M;91;GHA;NARTEY=Emmanuel;R;NUNES DOS SANTOS=Claudio; LUX;0= █ █;1 0= █;04:34;Round 2;;0;r2
+73;M;90;SUI;STUMP=Nils;R;STERPU=Victor; MDA;0=;1 1 0=;02:50;Round 2;;1;r2
+73;M;89;SWE;MACIAS=Tommy;R;MAKHMADBEKOV=Somon; TJK;0=;1 0 0= █;02:02;Round 2;;1;r2
+73;M;88;TUR;CILOGLU=Bilal;L;TRIKOMITIS=Christos; CYP;0=;0= █ █;01:49;Round 2;;0;r2
+73;M;87;GRE;AZOIDIS=Georgios;R;ESPOSITO=Giovanni; ITA;1 0= █;1 1 0= █ █;03:46;Round 2;;1;r2
+73;M;86;EGY;MOHYELDIN=Mohamed;L;TURAEV=Khikmatillokh; UZB;1 1 0= █;0= █;04:00;Round 2;;1;r2
+73;M;85;MGL;GANBAATAR=Odbayar;L;NAKANO=Keisei; PHI;1 1 0= █;0= █ █;03:08;Round 2;;1;r2
+73;M;84;IJF;ALIKAJ=Ahmad;R;EYAL SLMAN=Younis; JOR;0=;1 1 0=;01:39;Round 2;;1;r2
+73;M;83;HUN;UNGVARI=Miklos;R;ONO=Shohei; JPN;0= █;1 0 0=;01:05;Round 2;;1;r2
+73;M;82;UAE;SCVORTOV=Victor;L;DELPOPOLO=Nicholas; USA;1 0 0=;0= █;02:22;Round 2;;1;r2
+73;M;81;GEO;SHAVDATUASHVILI=Lasha;L;KNOESTER=Calvin; AUS;1 1 0=;0= █;02:27;Round 2;;1;r2
+73;M;80;KSA;HAMAD=Sulaiman;R;SAIYINJIRIGALA=; CHN;0= █ █;1 0 0=;04:14;Round 2;;1;r2
+73;M;79;PER;WONG=Alonso;R;CARDOSO=Gilberto; MEX;0= █;1 0 0=;01:23;Round 2;;1;r2
+73;M;78;TJK;KHOJAZODA=Behruzi;L;ESTRADA=Magdiel; CUB;0= █;0= █ █;07:14;Round 2;;0;r2
+73;M;77;KOS;GJAKOVA=Akil;L;WANDTKE=Igor; GER;1 1 0=;0= █ █;02:56;Round 2;;1;r2
+73;M;76;UKR;KHOMULA=Artem;R;HAM=Eric; GBR;0=;1 0 0=;01:27;Round 2;;1;r2
+73;M;75;USA;TURNER=Alexander;R;RAICU=Alexandru; ROU;0= █ █;1 0 0=;01:56;Round 2;;1;r2
+73;M;74;SRI;REPIYALLAGE=Chamara;R;MOGUSHKOV=Musa; RUS;0=;1 0 0=;00:32;Round 2;;1;r2
+73;M;73;AZE;HEYDAROV=Hidayat;L;SZABO=Frigyes; HUN;0=;0= █ █;03:49;Round 2;;0;r2
+73;M;72;DJI;HOUSSEIN=Aden-Alexandre;R;BASILE=Fabio; ITA;0= █ █;0=;05:09;Round 2;;0;r2
+73;M;71;AUT;REITER=Lukas;L;BADAWI=Fares; IJF;1 0 0=;0= █;02:02;Round 2;;1;r2
+73;M;69;ISR;BUTBUL=Tohar;L;SMAGULOV=Zhansay; KAZ;1 0= █;0= █ █;04:14;Round 2;;0;r2
+73;M;68;HKG;LEE=Kwok Wing;R;MROWCZYNSKI=Wiktor; POL;0= █;1 1 0=;03:03;Round 2;;1;r2
+73;M;66;GRE;MARKARIAN=Georgios;L;NJIE=Faye; GAM;1 0 0= █;0= █;00:59;Round 2;;1;r2
+73;M;65;AZE;ORUJOV=Rustam;L;SHOKA=Vadzim; BLR;1 0=;0= █ █;04:31;Round 2;;0;r2
+73;M;62;EST;PERTELSON=Oscar;R;CHAINE=Guillaume; FRA;0= █;1 0 0= █;01:42;Round 1;;1;r1
+73;M;60;KSA;ALBALI=Abdulelah;L;WANGCHUK=Tandin; BHU;0=;0= █ █;03:37;Round 1;;0;r1
+73;M;58;MOZ;SIQUIR=Ayton;R;QING=Daga; CHN;0=;1 1 0=;00:50;Round 1;;1;r1
+73;M;56;CZE;JECMINEK=Jakub;L;AYASH=Ahmed; YEM;1 0 0=;0=;00:41;Round 1;;1;r1
+73;M;54;KGZ;AMANOV=Ishen;R;NUNES DOS SANTOS=Claudio; LUX;0=;1 0= █ █;04:00;Round 1;;0;r1
+73;M;51;GER;ZINGG=Anthony;R;STUMP=Nils; SUI;0=;1 0 0= █;03:01;Round 1;;1;r1
+73;M;50;TJK;MAKHMADBEKOV=Somon;L;MENDES=Magner; CPV;1 0 0=;0=;00:28;Round 1;;1;r1
+73;M;47;TUR;CILOGLU=Bilal;L;HOJAK=Martin; SLO;1 1 0=;0= █;03:58;Round 1;;1;r1
+73;M;43;EGY;MOHYELDIN=Mohamed;L;FERNANDES=Jorge; POR;1 0=;0= █;04:44;Round 1;;0;r1
+73;M;42;PHI;NAKANO=Keisei;L;VILLAMAYOR=Luis; PAR;1 1 0=;0=;02:36;Round 1;;1;r1
+73;M;40;JOR;EYAL SLMAN=Younis;L;HAJ KADOUR=Abd al salam; SYR;1 0=;0= █;04:00;Round 1;;0;r1
+73;M;37;MEX;ARAUJO=Eduardo;R;UNGVARI=Miklos; HUN;0= █ █;0=;04:51;Round 1;;0;r1
+73;M;34;SEN;DIOP=Tidiane;R;KNOESTER=Calvin; AUS;0=;1 1 0=;01:41;Round 1;;1;r1
+73;M;32;ARM;KARAPETIAN=Ferdinand;R;SAIYINJIRIGALA=; CHN;0= █ █;0= █;05:40;Round 1;;0;r1
+73;M;30;MON;BESSI=Cedric;R;CARDOSO=Gilberto; MEX;0=;1 0 0=;01:25;Round 1;;1;r1
+73;M;27;MGL;TSEND-OCHIR=Tsogtbaatar;R;KHOJAZODA=Behruzi; TJK;0=;1 0 0= █;02:24;Round 1;;1;r1
+73;M;26;TAN;MLUGU=Andrew Thomas;R;WANDTKE=Igor; GER;0= █;1 1 0=;02:53;Round 1;;1;r1
+73;M;23;TKM;ARZIKULOV=Mominjan;R;KHOMULA=Artem; UKR;0=;1 0 0=;01:17;Round 1;;1;r1
+73;M;22;BOT;LEBANG=Thato;R;RAICU=Alexandru; ROU;0=;1 0 0=;01:08;Round 1;;1;r1
+73;M;18;VIE;NGUYEN TAN=Cong;R;SZABO=Frigyes; HUN;0=;1 1 0=;01:01;Round 1;;1;r1
+73;M;15;DJI;HOUSSEIN=Aden-Alexandre;L;SALIM=Husain; KUW;1 1 0=;0=;00:31;Round 1;;1;r1
+73;M;13;AUT;REITER=Lukas;L;VAN TICHELT=Dirk; BEL;1 1 0=;0= █;02:03;Round 1;;1;r1
+73;M;12;ALG;NOURINE=Fethi;L;METELLUS=Philippe Abel; HAI;1 0 0=;0=;01:55;Round 1;;1;r1
+73;M;8;POL;MROWCZYNSKI=Wiktor;L;QUIFUCUSSA=Acacio; ANG;1 0 0= █;0= █ █;04:47;Round 1;;1;r1
+73;M;6;SAM;TAI TIN=William;R;GABUN=Constantin; CAN;0=;1 1 0=;00:42;Round 1;;1;r1
+73;M;2;BLR;SHOKA=Vadzim;L;SARAIVA=Nuno; POR;1 0= █;0=;04:00;Round 1;;0;r1
+81;M;131;BEL;CASSE=Matthias;R;MUKI=Sagi; ISR;0=;1 1 0=;02:39;Final;;1;r8
+81;M;130;GEO;MAISURADZE=Luka;L;MOLLAEI=Saeid; IRI;1 1 0= █ █;0= █;03:13;Bronze;;1;r8
+81;M;129;CAN;VALOIS-FORTIER=Antoine;L;ABDELAAL=Mohamed; EGY;1 0= █ █;0=;04:00;Bronze;;0;r8
+81;M;128;ISR;MUKI=Sagi;L;ABDELAAL=Mohamed; EGY;1 0= █ █;0= █;04:00;Semi-Final;;0;r7
+81;M;127;IRI;MOLLAEI=Saeid;R;CASSE=Matthias; BEL;0= █ █;1 0 0=;06:27;Semi-Final;;1;r7
+81;M;126;UZB;BOLTABOEV=Sharofiddin;R;MAISURADZE=Luka; GEO;1 0= █;1 1 0= █;04:55;Repechage;;1;r5
+81;M;125;CAN;VALOIS-FORTIER=Antoine;L;RESSEL=Dominic; GER;1 1 0=;0=;02:40;Repechage;;1;r5
+81;M;124;EGY;ABDELAAL=Mohamed;L;MAISURADZE=Luka; GEO;1 1 0= █ █;0=;03:49;Quarter-Final;;1;r6
+81;M;123;ISR;MUKI=Sagi;L;BOLTABOEV=Sharofiddin; UZB;1 0 0=;0=;00:22;Quarter-Final;;1;r6
+81;M;122;BEL;CASSE=Matthias;L;RESSEL=Dominic; GER;1 0 0=;0= █;07:03;Quarter-Final;;1;r6
+81;M;121;IRI;MOLLAEI=Saeid;L;VALOIS-FORTIER=Antoine; CAN;1 0 0= █;0= █;01:19;Quarter-Final;;1;r6
+81;M;120;GEO;MAISURADZE=Luka;L;CHOUCHI=Sami; BEL;1 0 0= █;0= █;02:33;Round 4;;1;r4
+81;M;119;EGY;ABDELAAL=Mohamed;L;BRIAND=Etienne; CAN;0= █;0= █ █;05:53;Round 4;;0;r4
+81;M;118;UZB;BOLTABOEV=Sharofiddin;L;NTANATSIDIS=Alexios; GRE;1 0 0=;0=;01:00;Round 4;;1;r4
+81;M;117;ISR;MUKI=Sagi;L;ZOLOEV=Vladimir; KGZ;1 0 0=;0= █ █;01:52;Round 4;;1;r4
+81;M;116;GER;RESSEL=Dominic;L;MOHAMED=Abdelrahman; EGY;1 0= █;0= █ █;04:11;Round 4;;0;r4
+81;M;115;BEL;CASSE=Matthias;L;STANCEL=Filip; SVK;1 1 0=;0= █;02:47;Round 4;;1;r4
+81;M;114;CAN;VALOIS-FORTIER=Antoine;L;ELIAS=Nacif; LBN;1 0= █;0= █ █;04:00;Round 4;;0;r4
+81;M;113;IRI;MOLLAEI=Saeid;L;KHALMURZAEV=Khasan; RUS;1 0= █;0=;04:00;Round 4;;0;r4
+81;M;112;BEL;CHOUCHI=Sami;L;GANDIA=Adrian; PUR;1 0=;0= █ █;04:55;Round 3;;0;r3
+81;M;111;GEO;MAISURADZE=Luka;L;OTGONBAATAR=Uuganbaatar; MGL;1 0= █;0= █;04:13;Round 3;;0;r3
+81;M;110;BRA;SANTOS=Eduardo Yudy;R;BRIAND=Etienne; CAN;0=;1 0 0=;00:32;Round 3;;1;r3
+81;M;109;DOM;DEL ORBE CORTORREAL=Medickson;R;ABDELAAL=Mohamed; EGY;0= █ █;1 0= █ █;03:58;Round 3;;0;r3
+81;M;108;GER;WIECZERZAK=Alexander;R;NTANATSIDIS=Alexios; GRE;0=;1 0= █;04:00;Round 3;;0;r3
+81;M;107;UZB;BOLTABOEV=Sharofiddin;L;BORCHASHVILI=Shamil; AUT;1 1 0=;0=;02:04;Round 3;;1;r3
+81;M;106;USA;HATTON=Jack;R;ZOLOEV=Vladimir; KGZ;0= █ █;1 0 0=;03:58;Round 3;;1;r3
+81;M;105;ISR;MUKI=Sagi;L;UNGVARI=Attila; HUN;1 1 0=;0=;01:16;Round 3;;1;r3
+81;M;104;EGY;MOHAMED=Abdelrahman;L;DJALO=Alpha Oumar; FRA;1 1 0= █;0=;03:26;Round 3;;1;r3
+81;M;103;GER;RESSEL=Dominic;L;MARCINKIEWICZ=Sebastian; POL;1 0= █;0= █ █;04:00;Round 3;;0;r3
+81;M;102;SVK;STANCEL=Filip;L;ANGELES SOTELO=Luis; PER;1 0 0=;0=;00:46;Round 3;;1;r3
+81;M;101;BEL;CASSE=Matthias;L;ESPOSITO=Antonio; ITA;1 0= █;0= █;04:33;Round 3;;0;r3
+81;M;100;LBN;ELIAS=Nacif;L;MURODOV=Akmal; TJK;1 1 0= █;0= █ █;03:36;Round 3;;1;r3
+81;M;99;CAN;VALOIS-FORTIER=Antoine;L;MORALES=Tomas; ARG;1 1 0=;0= █ █;03:26;Round 3;;1;r3
+81;M;98;QAT;ZEMOURI=Morad;R;KHALMURZAEV=Khasan; RUS;0= █;1 0 0= █;02:16;Round 3;;1;r3
+81;M;97;IRI;MOLLAEI=Saeid;L;LUZ=Carlos; POR;1 0 0= █;0= █;01:05;Round 3;;1;r3
+81;M;96;TAN;ABDULLA=Mansab Alawi;R;GANDIA=Adrian; PUR;0=;1 0 0=;00:23;Round 2;;1;r2
+81;M;95;ITA;PARLATI=Christian;R;CHOUCHI=Sami; BEL;0= █;1 0 0= █ █;02:41;Round 2;;1;r2
+81;M;94;MGL;OTGONBAATAR=Uuganbaatar;L;RATSIMIZIVA=Fetra; MAD;1 0 0=;0= █;03:35;Round 2;;1;r2
+81;M;93;TUR;ALBAYRAK=Vedat;R;MAISURADZE=Luka; GEO;0= █;1 1 0= █;02:28;Round 2;;1;r2
+81;M;92;MEX;TORRES=Jesus;R;BRIAND=Etienne; CAN;0= █;1 1 0= █;02:11;Round 2;;1;r2
+81;M;91;BRA;SANTOS=Eduardo Yudy;L;EGUTIDZE=Anri; POR;1 0= █;0= █ █;04:39;Round 2;;0;r2
+81;M;90;EGY;ABDELAAL=Mohamed;L;SARWAI=Muhammad Zaher; AFG;1 0 0=;0= █;00:55;Round 2;;1;r2
+81;M;89;NED;DE WIT=Frank;R;DEL ORBE CORTORREAL=Medickson; DOM;0= █;1 0 0= █ █;03:55;Round 2;;1;r2
+81;M;88;ALB;MADDALONI=Marco;R;NTANATSIDIS=Alexios; GRE;0= █ █;1 0 0= █ █;04:43;Round 2;;1;r2
+81;M;87;AUS;COUGHLAN=Eoin;R;WIECZERZAK=Alexander; GER;0=;1 1 0= █;02:33;Round 2;;1;r2
+81;M;86;POL;SZWARNOWIECKI=Damian;R;BORCHASHVILI=Shamil; AUT;0= █;1 1 0=;02:21;Round 2;;1;r2
+81;M;85;JPN;FUJIWARA=Sotaro;R;BOLTABOEV=Sharofiddin; UZB;0=;1 0= █ █;04:00;Round 2;;0;r2
+81;M;84;COD;MBUYI=Kalonji;R;ZOLOEV=Vladimir; KGZ;0= █ █;1 1 0= █;02:09;Round 2;;1;r2
+81;M;83;ISL;IURA=Sveinbjorn;R;HATTON=Jack; USA;0= █ █;0=;04:27;Round 2;;0;r2
+81;M;82;SWE;PACEK=Robin;R;UNGVARI=Attila; HUN;0= █ █;1 0 0= █ █;06:41;Round 2;;1;r2
+81;M;81;ISR;MUKI=Sagi;L;MUSSAYEV=Ruslan; KAZ;1 0 0= █;0= █;00:38;Round 2;;1;r2
+81;M;80;FRA;DJALO=Alpha Oumar;L;TERADA=Masayuki; THA;1 0=;0= █ █;02:32;Round 2;;0;r2
+81;M;79;EGY;MOHAMED=Abdelrahman;L;MRVALJEVIC=Srdjan; MNE;1 0 0=;0=;00:00;Round 2;;1;r2
+81;M;78;MDA;GOTONOAGA=Dorin;R;MARCINKIEWICZ=Sebastian; POL;0= █ █;1 0 0=;03:53;Round 2;;1;r2
+81;M;77;GER;RESSEL=Dominic;L;KHAMZA=Didar; KAZ;1 0 0= █ █;0= █ █;07:01;Round 2;;1;r2
+81;M;76;KUW;ALBATHALI=Mohammad;R;ANGELES SOTELO=Luis; PER;0= █;1 1 0=;02:30;Round 2;;1;r2
+81;M;75;JOR;ALZIDANEEN=Baker;R;STANCEL=Filip; SVK;0= █ █;0= █;01:57;Round 2;;0;r2
+81;M;74;IJF;AL MAWARDE=Odai;R;ESPOSITO=Antonio; ITA;0= █ █;0= █;03:40;Round 2;;0;r2
+81;M;73;BEL;CASSE=Matthias;L;ZHA=Lasai; CHN;1 1 0=;0= █;03:31;Round 2;;1;r2
+81;M;72;TJK;MURODOV=Akmal;L;KALONGA=Cedrick; COD;1 0 0=;0= █;01:55;Round 2;;1;r2
+81;M;71;KOR;LEE=Sungho;R;ELIAS=Nacif; LBN;0= █ █;0= █ █;05:46;Round 2;;0;r2
+81;M;70;AFG;QADERI=Jamaluddin;R;MORALES=Tomas; ARG;0= █ █;1 0= █ █;03:32;Round 2;;0;r2
+81;M;69;BUL;IVANOV=Ivaylo;R;VALOIS-FORTIER=Antoine; CAN;0= █ █;0= █ █;06:42;Round 2;;0;r2
+81;M;68;RUS;KHALMURZAEV=Khasan;L;ALI=Khamis Hussein; TAN;1 0 0=;0=;00:19;Round 2;;1;r2
+81;M;67;GUM;ANDREW=Joshter;R;ZEMOURI=Morad; QAT;0= █ █;0=;02:00;Round 2;;0;r2
+81;M;66;IND;SINGH=Jobandeep;R;LUZ=Carlos; POR;0=;1 1 0=;02:23;Round 2;;1;r2
+81;M;65;IRI;MOLLAEI=Saeid;L;MOUTII=Achraf; MAR;1 1 0= █;0= █ █;02:08;Round 2;;1;r2
+81;M;62;KUW;ALKHUZAM=Abdullah;R;CHOUCHI=Sami; BEL;0= █;1 1 0=;02:37;Round 1;;1;r1
+81;M;58;SAM;PERCIVAL=Peniamina;R;MAISURADZE=Luka; GEO;0=;2 0 0=;00:27;Round 1;;0;r1
+81;M;54;POR;EGUTIDZE=Anri;L;LUCENTI=Emmanuel; ARG;0=;0= █ █;03:45;Round 1;;0;r1
+81;M;50;TOG;DENANYOH=Sacha;R;DEL ORBE CORTORREAL=Medickson; DOM;0= █ █;0=;02:01;Round 1;;0;r1
+81;M;48;GBR;MCWATT=Stuart;R;NTANATSIDIS=Alexios; GRE;0= █;1 1 0= █ █;03:56;Round 1;;1;r1
+81;M;42;MDA;ZABOROSCIUC=Nicon;R;BOLTABOEV=Sharofiddin; UZB;0=;1 1 0=;01:32;Round 1;;1;r1
+81;M;38;PHI;TUMAMPAD=Marco;R;HATTON=Jack; USA;0=;1 0 0=;00:29;Round 1;;1;r1
+81;M;35;RUS;LAPPINAGOV=Aslan;R;PACEK=Robin; SWE;0=;1 0= █ █;04:00;Round 1;;0;r1
+81;M;34;EST;TONISTE=Kristjan;R;MUSSAYEV=Ruslan; KAZ;0= █;1 0 0= █;03:54;Round 1;;1;r1
+81;M;32;THA;TERADA=Masayuki;L;WRIGHT=Arthur; USA;1 0=;0= █;04:00;Round 1;;0;r1
+81;M;28;URU;APRAHAMIAN=Alain;R;MARCINKIEWICZ=Sebastian; POL;0= █;1 1 0= █;02:18;Round 1;;1;r1
+81;M;22;SVK;STANCEL=Filip;L;KOUAMBA=Terence; GAB;1 0 0=;0=;01:28;Round 1;;1;r1
+81;M;13;KOR;LEE=Sungho;L;DRUZETA=Dominik; CRO;1 0= █;0= █ █;04:38;Round 1;;0;r1
+81;M;10;CAN;VALOIS-FORTIER=Antoine;L;WEITHERS=Asa; BAR;2 1 0=;0=;01:07;Round 1;;0;r1
+81;M;5;GUM;ANDREW=Joshter;L;CUMBO=Hugo; VAN;1 0 0=;0=;00:51;Round 1;;1;r1
+81;M;4;POR;LUZ=Carlos;L;GUILLEN VARGAS=David; CRC;1 1 0=;0= █;03:14;Round 1;;1;r1
+81;M;2;SYR;KASEM=Mohamad;R;MOUTII=Achraf; MAR;0= █ █;0= █;03:04;Round 1;;0;r1
+90;M;131;NED;VAN T END=Noel;L;MUKAI=Shoichiro; JPN;1 0= █ █;0= █;04:00;Final;;0;r8
+90;M;130;HUN;TOTH=Krisztian;R;MAJDOV=Nemanja; SRB;0= █ █;1 1 0= █ █;03:11;Bronze;;1;r8
+90;M;129;FRA;CLERGET=Axel;L;NYMAN=Marcus; SWE;1 0 0= █;0=;03:57;Bronze;;1;r8
+90;M;128;SWE;NYMAN=Marcus;R;MUKAI=Shoichiro; JPN;0= █ █;0= █;06:17;Semi-Final;;0;r7
+90;M;127;NED;VAN T END=Noel;L;MAJDOV=Nemanja; SRB;1 0 0= █ █;0= █ █;05:18;Semi-Final;;1;r7
+90;M;126;HUN;TOTH=Krisztian;L;SILVA MORALES=Ivan Felipe; CUB;1 0= █ █;0= █;05:03;Repechage;;0;r5
+90;M;125;FRA;CLERGET=Axel;L;MEHDIYEV=Mammadali; AZE;0= █ █;0= █ █;04:46;Repechage;;0;r5
+90;M;124;CUB;SILVA MORALES=Ivan Felipe;R;MUKAI=Shoichiro; JPN;0= █;1 0 0= █ █;06:35;Quarter-Final;;1;r6
+90;M;123;HUN;TOTH=Krisztian;R;NYMAN=Marcus; SWE;0=;1 1 0=;02:38;Quarter-Final;;1;r6
+90;M;122;AZE;MEHDIYEV=Mammadali;R;MAJDOV=Nemanja; SRB;0= █ █;1 1 0= █;02:20;Quarter-Final;;1;r6
+90;M;121;FRA;CLERGET=Axel;R;VAN T END=Noel; NED;0=;1 0= █ █;04:00;Quarter-Final;;0;r6
+90;M;120;NED;SMINK=Jesper;R;MUKAI=Shoichiro; JPN;0= █;1 1 0= █;02:56;Round 4;;1;r4
+90;M;119;CUB;SILVA MORALES=Ivan Felipe;L;STEWART=Max; GBR;1 0 0=;0= █;03:39;Round 4;;1;r4
+90;M;118;SWE;NYMAN=Marcus;L;GROSSKLAUS=Ciril; SUI;1 0 0=;0=;00:50;Round 4;;1;r4
+90;M;117;HUN;TOTH=Krisztian;L;KUUSIK=Mattias; EST;1 0 0=;0= █ █;02:43;Round 4;;1;r4
+90;M;116;SRB;MAJDOV=Nemanja;L;KOCHMAN=Li; ISR;1 1 0= █ █;1 0= █ █;05:04;Round 4;;1;r4
+90;M;115;AZE;MEHDIYEV=Mammadali;L;OZERLER=Mikail; TUR;1 1 0= █;0=;02:30;Round 4;;1;r4
+90;M;114;KOR;GWAK=Donghan;R;VAN T END=Noel; NED;0= █ █;0= █ █;03:35;Round 4;;0;r4
+90;M;113;FRA;CLERGET=Axel;L;BROWN=Colton; USA;1 0 0=;0=;00:39;Round 4;;1;r4
+90;M;112;SVK;ZILKA=Peter;R;MUKAI=Shoichiro; JPN;0= █ █;1 0= █;03:51;Round 3;;0;r3
+90;M;111;GEO;GVINIASHVILI=Beka;R;SMINK=Jesper; NED;0= █;1 0 0= █ █;04:51;Round 3;;1;r3
+90;M;110;GBR;STEWART=Max;L;MACEDO=Rafael; BRA;1 0= █ █;0= █;04:00;Round 3;;0;r3
+90;M;109;CUB;SILVA MORALES=Ivan Felipe;L;BENAMADI=Abderrahmane; ALG;0=;0= █ █;03:26;Round 3;;0;r3
+90;M;108;SUI;GROSSKLAUS=Ciril;L;KLAMMERT=David; CZE;1 0 0= █;0= █ █;06:06;Round 3;;1;r3
+90;M;107;SRB;KUKOLJ=Aleksandar;R;NYMAN=Marcus; SWE;0=;1 0 0=;01:42;Round 3;;1;r3
+90;M;106;ITA;MUNGAI=Nicholas;R;KUUSIK=Mattias; EST;0= █ █;0= █;03:45;Round 3;;0;r3
+90;M;105;HUN;TOTH=Krisztian;L;YAMAMOTO SERVAN=Daryl; PER;1 0= █;0= █ █;04:00;Round 3;;0;r3
+90;M;104;ITA;MARCONCINI=Matteo;R;KOCHMAN=Li; ISR;1 0=;1 1 0= █;02:05;Round 3;;1;r3
+90;M;103;SRB;MAJDOV=Nemanja;L;PACHER=Johannes; AUT;1 1 0=;0= █;01:24;Round 3;;1;r3
+90;M;102;TUR;OZERLER=Mikail;L;VARAPAYEU=Yahor; BLR;0= █;0= █ █;04:55;Round 3;;0;r3
+90;M;101;AZE;MEHDIYEV=Mammadali;L;FEUILLET=Remi; MRI;1 0= █ █;0= █ █;04:00;Round 3;;0;r3
+90;M;100;NED;VAN T END=Noel;L;CASSAR=Harrison; AUS;1 0 0=;0=;00:28;Round 3;;1;r3
+90;M;99;KOR;GWAK=Donghan;L;KALJULAID=Klen Kristofer; EST;1 0 0= █ █;0= █ █;05:37;Round 3;;1;r3
+90;M;98;USA;BROWN=Colton;L;BOZBAYEV=Islam; KAZ;0= █ █;0= █ █;03:44;Round 3;;0;r3
+90;M;97;ESP;SHERAZADISHVILI=Nikoloz;R;CLERGET=Axel; FRA;0= █;1 0= █ █;04:00;Round 3;;0;r3
+90;M;96;JPN;MUKAI=Shoichiro;L;KLIAVUSAU=Viktar; BLR;1 0 0=;0= █;01:56;Round 2;;1;r2
+90;M;95;SVK;ZILKA=Peter;L;BLONDAL=Egill; ISL;1 0 0=;0= █;01:48;Round 2;;1;r2
+90;M;94;NED;SMINK=Jesper;L;NHABALI=Quedjau; UKR;1 0= █ █;0=;04:00;Round 2;;0;r2
+90;M;93;GEO;GVINIASHVILI=Beka;L;MISTRY=Ajay Devilal; IND;1 1 0=;0=;00:33;Round 2;;1;r2
+90;M;92;BRA;MACEDO=Rafael;L;BU=Hebilige; CHN;1 0= █ █;0=;04:00;Round 2;;0;r2
+90;M;91;TJK;USTOPIRIYON=Komronshokh;R;STEWART=Max; GBR;0=;1 0= █ █;04:00;Round 2;;0;r2
+90;M;90;ALG;BENAMADI=Abderrahmane;L;BALANTA=Francisco; COL;1 1 0= █;1 0= █ █;05:18;Round 2;;1;r2
+90;M;89;CUB;SILVA MORALES=Ivan Felipe;L;LAAMANEN=Aatu; FIN;1 1 0=;0= █ █;03:33;Round 2;;1;r2
+90;M;88;CZE;KLAMMERT=David;L;UERA=Iniki; NRU;1 0 0=;0=;01:11;Round 2;;1;r2
+90;M;87;GHA;AHIAVOR=Victor;R;GROSSKLAUS=Ciril; SUI;0= █;1 0=;04:00;Round 2;;0;r2
+90;M;86;EGY;HAZEM=Ali;R;NYMAN=Marcus; SWE;0=;1 0 0=;01:25;Round 2;;1;r2
+90;M;85;SRB;KUKOLJ=Aleksandar;L;FLORENTINO=Robert; DOM;1 0 0=;0=;00:37;Round 2;;1;r2
+90;M;84;KGZ;SHEROV=Erlan;R;KUUSIK=Mattias; EST;0= █ █;0= █ █;05:02;Round 2;;0;r2
+90;M;83;MGL;GANTULGA=Altanbagana;R;MUNGAI=Nicholas; ITA;0= █ █;1 0= █ █;04:11;Round 2;;0;r2
+90;M;82;AUT;BUBANJA=Marko;R;YAMAMOTO SERVAN=Daryl; PER;1 0= █ █;1 0 0= █ █;02:23;Round 2;;1;r2
+90;M;81;HUN;TOTH=Krisztian;L;BURT=Zachary; CAN;1 1 0= █;0= █ █;02:58;Round 2;;1;r2
+90;M;80;THA;HANTRATIN=Kittipong;R;KOCHMAN=Li; ISR;0=;1 1 0=;00:43;Round 2;;1;r2
+90;M;79;IJF;MISENGA=Popole;R;MARCONCINI=Matteo; ITA;0=;1 0 0= █;02:52;Round 2;;1;r2
+90;M;78;AUT;PACHER=Johannes;L;HAYARI=Mohamed Hashim; JOR;1 1 0=;0= █;01:23;Round 2;;1;r2
+90;M;77;SRB;MAJDOV=Nemanja;L;ABD EL AKHER=Hatem; EGY;1 0= █ █;0= █ █;04:00;Round 2;;0;r2
+90;M;76;CHN;WANG=Xuewen;R;VARAPAYEU=Yahor; BLR;0= █;1 0 0= █;02:34;Round 2;;1;r2
+90;M;75;KEN;KIRIMI=John;R;OZERLER=Mikail; TUR;0=;1 1 0=;01:11;Round 2;;1;r2
+90;M;74;MRI;FEUILLET=Remi;L;ALENEZI=Talal; KUW;0= █;0= █ █;02:56;Round 2;;0;r2
+90;M;73;AZE;MEHDIYEV=Mammadali;L;PETR=Jiri; CZE;1 1 0= █ █;0= █ █;03:58;Round 2;;1;r2
+90;M;72;GUI;MILLIMONO=Abdoulaye;R;CASSAR=Harrison; AUS;0=;1 0 0=;00:25;Round 2;;1;r2
+90;M;71;GER;TRIPPEL=Eduard;R;VAN T END=Noel; NED;0= █;1 0 0= █;03:14;Round 2;;1;r2
+90;M;70;EST;KALJULAID=Klen Kristofer;L;GALARRETA VILLAR=Yuta; PER;1 0 0= █;0= █ █;01:53;Round 2;;1;r2
+90;M;69;KOR;GWAK=Donghan;L;TEJENOV=Tejen; TKM;0= █;0= █ █;01:49;Round 2;;0;r2
+90;M;68;SVK;RANDL=Milan;R;BOZBAYEV=Islam; KAZ;0=;1 0 0=;00:15;Round 2;;1;r2
+90;M;67;SMR;PERSOGLIA=Paolo;R;BROWN=Colton; USA;0= █ █;0=;01:29;Round 2;;0;r2
+90;M;66;GBR;CHAMBERLAIN=Frazer;R;CLERGET=Axel; FRA;0=;1 1 0= █ █;03:41;Round 2;;1;r2
+90;M;65;ESP;SHERAZADISHVILI=Nikoloz;L;LE BEAU=Eyale; COD;1 2 0= █;0=;01:49;Round 2;;1;r2
+90;M;61;SEY;FINESSE=Nantenaina;R;ZILKA=Peter; SVK;0=;1 1 0=;01:09;Round 1;;1;r1
+90;M;44;UZB;IMAMOV=Yakhyo;R;NYMAN=Marcus; SWE;1 0= █;1 0 0= █;03:42;Round 1;;1;r1
+90;M;18;CZE;PETR=Jiri;L;DUDA=Davis; LAT;1 0 0= █;0= █;03:10;Round 1;;1;r1
+90;M;16;BEN;DOSSOU YOVO=Celtus Williams Abiola;R;CASSAR=Harrison; AUS;1 0=;1 0 0=;01:03;Round 1;;1;r1
+90;M;2;PHI;FERRER=John Viron;R;LE BEAU=Eyale; COD;0=;1 0 0=;00:08;Round 1;;1;r1
+100;M;67;POR;FONSECA=Jorge;L;ILYASOV=Niyaz; RUS;1 0= █ █;0= █;04:00;Final;;0;r8
+100;M;66;JPN;WOLF=Aaron;L;GASIMOV=Elmar; AZE;1 0= █ █;0=;04:00;Bronze;;0;r8
+100;M;65;NED;KORREL=Michael;L;CHO=Guham; KOR;1 0= █ █;0= █ █;04:00;Bronze;;0;r8
+100;M;64;KOR;CHO=Guham;R;ILYASOV=Niyaz; RUS;0= █ █;0= █ █;09:41;Semi-Final;;0;r7
+100;M;63;POR;FONSECA=Jorge;L;GASIMOV=Elmar; AZE;1 0=;0= █;04:00;Semi-Final;;0;r7
+100;M;62;JPN;WOLF=Aaron;L;ELNAHAS=Shady; CAN;1 1 0=;0=;02:54;Repechage;;1;r5
+100;M;61;GEO;LIPARTELIANI=Varlam;R;KORREL=Michael; NED;0= █;1 0= █ █;04:00;Repechage;;0;r5
+100;M;60;CAN;ELNAHAS=Shady;R;ILYASOV=Niyaz; RUS;0= █;1 0 0=;03:15;Quarter-Final;;1;r6
+100;M;59;KOR;CHO=Guham;L;WOLF=Aaron; JPN;1 0= █;0= █;05:13;Quarter-Final;;0;r6
+100;M;58;NED;KORREL=Michael;R;GASIMOV=Elmar; AZE;0=;1 1 0= █;03:09;Quarter-Final;;1;r6
+100;M;57;GEO;LIPARTELIANI=Varlam;R;FONSECA=Jorge; POR;0= █ █;1 0 0= █;03:11;Quarter-Final;;1;r6
+100;M;56;FRA;MARET=Cyrille;R;ILYASOV=Niyaz; RUS;0=;1 0 0=;01:54;Round 3;;1;r3
+100;M;55;CAN;ELNAHAS=Shady;L;FARA=Aaron; AUT;1 0 0= █;0=;05:15;Round 3;;1;r3
+100;M;54;JPN;WOLF=Aaron;L;SVIRYD=Mikita; BLR;1 0=;0= █ █;04:17;Round 3;;0;r3
+100;M;53;KOR;CHO=Guham;L;CATHARINA=Simeon; NED;0= █ █;0= █ █;03:53;Round 3;;0;r3
+100;M;52;BRA;BUZACARINI=Rafael;R;GASIMOV=Elmar; AZE;0= █;1 0 0=;01:35;Round 3;;1;r3
+100;M;51;NED;KORREL=Michael;L;DICHEV=Daniel; BUL;1 0=;0= █ █;03:24;Round 3;;0;r3
+100;M;50;POR;FONSECA=Jorge;L;FLETCHER=Benjamin; IRL;1 1 0=;0=;01:15;Round 3;;1;r3
+100;M;49;GEO;LIPARTELIANI=Varlam;L;IDDIR=Alexandre; FRA;1 0= █;0= █;04:00;Round 3;;0;r3
+100;M;48;SWE;DVARBY=Joakim;R;ILYASOV=Niyaz; RUS;0=;1 1 0=;01:24;Round 2;;1;r2
+100;M;47;EGY;DARWISH=Ramadan;R;MARET=Cyrille; FRA;1 0= █;1 1 0= █;04:00;Round 2;;1;r2
+100;M;46;MNE;PANTIC=Danilo;R;FARA=Aaron; AUT;0=;1 0 0=;00:41;Round 2;;1;r2
+100;M;45;UZB;KHURRAMOV=Mukhammadkarim;R;ELNAHAS=Shady; CAN;0= █ █;0= █ █;05:09;Round 2;;0;r2
+100;M;44;BLR;SVIRYD=Mikita;L;SMITH III=L.A.; USA;0=;0= █ █;05:45;Round 2;;0;r2
+100;M;43;JPN;WOLF=Aaron;L;KOTSOIEV=Zelym; AZE;0=;0=;03:28;Round 2;;0;r2
+100;M;42;NED;CATHARINA=Simeon;L;MEDINA=Lewis; DOM;1 0 0= █ █;1 0= █ █;03:52;Round 2;;1;r2
+100;M;41;KOR;CHO=Guham;L;ALLI=Jaakko; FIN;1 0=;0= █ █;02:18;Round 2;;0;r2
+100;M;40;RUS;ADAMIAN=Arman;R;GASIMOV=Elmar; AZE;0=;1 1 0=;01:15;Round 2;;1;r2
+100;M;39;GER;FREY=Karl-Richard;R;BUZACARINI=Rafael; BRA;0= █ █;1 0 0= █ █;06:15;Round 2;;1;r2
+100;M;38;BUL;DICHEV=Daniel;L;SHAH=Hussain Shah; PAK;1 1 0= █;0= █ █;03:31;Round 2;;1;r2
+100;M;37;NED;KORREL=Michael;L;ARROYO OSORIO=Jose Luis; PER;1 0 0=;0= █ █;02:35;Round 2;;1;r2
+100;M;36;CAN;REYES=Kyle;R;FLETCHER=Benjamin; IRL;0= █ █;1 0 0= █;05:15;Round 2;;1;r2
+100;M;35;POR;FONSECA=Jorge;L;SINGH=Avtar; IND;1 1 0=;0=;00:18;Round 2;;1;r2
+100;M;34;CRO;KUMRIC=Zlatko;R;IDDIR=Alexandre; FRA;0= █ █;1 0= █;04:50;Round 2;;0;r2
+100;M;33;GEO;LIPARTELIANI=Varlam;L;MINASKIN=Grigori; EST;0= █ █;0= █ █;03:51;Round 2;;0;r2
+100;M;32;RUS;ILYASOV=Niyaz;L;FIZEL=Marius; SVK;1 1 0=;0=;01:26;Round 1;;1;r1
+100;M;31;SWE;DVARBY=Joakim;L;APRAHAMIAN=Pablo; URU;1 0= █;0= █;04:00;Round 1;;0;r1
+100;M;30;FRA;MARET=Cyrille;L;LYSENKO=Oleksii; POL;1 0 0=;0=;01:58;Round 1;;1;r1
+100;M;29;EGY;DARWISH=Ramadan;L;OHAT=Zalan; HUN;0= █;0= █ █;02:15;Round 1;;0;r1
+100;M;28;LTU;BAUZA=Karolis;R;FARA=Aaron; AUT;0= █;1 1 0=;02:47;Round 1;;1;r1
+100;M;27;PHI;ASENETA=Carl Dave;R;PANTIC=Danilo; MNE;0= █;1 0 0= █ █;01:31;Round 1;;1;r1
+100;M;26;NZL;KOSTER=Jason;R;ELNAHAS=Shady; CAN;0= █;1 1 0=;01:49;Round 1;;1;r1
+100;M;25;ISR;PALTCHIK=Peter;R;KHURRAMOV=Mukhammadkarim; UZB;0=;1 0= █ █;04:00;Round 1;;0;r1
+100;M;24;USA;SMITH III=L.A.;L;BORODAVKO=Jevgenijs; LAT;1 0 0= █ █;0=;02:47;Round 1;;1;r1
+100;M;22;AZE;KOTSOIEV=Zelym;L;GONCALVES=Leonardo; BRA;1 0 0= █;0=;01:11;Round 1;;1;r1
+100;M;21;JPN;WOLF=Aaron;L;KOBENA=Koffi Kreme; CIV;0= █;0= █ █;03:34;Round 1;;0;r1
+100;M;20;NRU;KAM=Joshua;R;MEDINA=Lewis; DOM;0=;1 0 0=;00:09;Round 1;;1;r1
+100;M;19;SRB;DOSEN=Bojan;R;CATHARINA=Simeon; NED;0= █;1 0 0=;03:42;Round 1;;1;r1
+100;M;18;IJF;KHANKAN=Adnan;R;ALLI=Jaakko; FIN;0= █;1 0 0=;02:00;Round 1;;1;r1
+100;M;16;AZE;GASIMOV=Elmar;L;MUKETE=Daniel; BLR;1 0=;0= █ █;04:44;Round 1;;0;r1
+100;M;15;KEN;MBURU=George;R;ADAMIAN=Arman; RUS;0=;1 0 0=;00:12;Round 1;;1;r1
+100;M;14;BRA;BUZACARINI=Rafael;L;REMARENCO=Ivan; UAE;0=;0= █ █;03:18;Round 1;;0;r1
+100;M;13;MGL;LKHAGVASUREN=Otgonbaatar;R;FREY=Karl-Richard; GER;0= █ █;1 0 0= █ █;06:50;Round 1;;1;r1
+100;M;12;TJK;SAIDOV=Saidzhalol;R;SHAH=Hussain Shah; PAK;0=;1 0 0=;01:51;Round 1;;1;r1
+100;M;11;KAZ;SERIKBAYEV=Aibek;R;DICHEV=Daniel; BUL;0= █ █;1 0= █ █;04:00;Round 1;;0;r1
+100;M;9;NED;KORREL=Michael;L;BOEHLER=Laurin; AUT;1 1 0= █;0=;03:27;Round 1;;1;r1
+100;M;8;IRL;FLETCHER=Benjamin;L;BARANIEWSKI=Iwo; POL;1 1 0= █;0= █ █;03:21;Round 1;;1;r1
+100;M;7;CAN;REYES=Kyle;L;DUBRETA=Anto; MNE;1 1 0=;0= █ █;02:05;Round 1;;1;r1
+100;M;6;IND;SINGH=Avtar;L;TAKAYAWA=Tevita; FIJ;1 1 0=;0=;01:20;Round 1;;1;r1
+100;M;5;POR;FONSECA=Jorge;L;BRICENO=Thomas; CHI;1 0= █ █;0= █ █;04:00;Round 1;;0;r1
+100;M;4;HUN;CIRJENICS=Miklos;R;IDDIR=Alexandre; FRA;0= █ █;1 0 0=;01:04;Round 1;;1;r1
+100;M;3;ALG;BOUYACOUB=Lyes;R;KUMRIC=Zlatko; CRO;0= █ █;1 0= █ █;05:04;Round 1;;0;r1
+100;M;2;CHN;ERIHEMUBATU=;R;MINASKIN=Grigori; EST;0=;1 1 0=;00:28;Round 1;;1;r1
+200;M;67;JPN;HARASAWA=Hisayoshi;R;KRPALEK=Lukas; CZE;0= █ █;0= █ █;07:50;Final;;0;r8
+200;M;66;NED;MEYER=Roy;L;TUSHISHVILI=Guram; GEO;1 0= █ █;0= █;04:00;Bronze;;0;r8
+200;M;65;BRA;SILVA=Rafael;R;KIM=Minjong; KOR;0=;1 0 0=;06:27;Bronze;;1;r8
+200;M;64;CZE;KRPALEK=Lukas;L;KIM=Minjong; KOR;1 0 0= █ █;0= █ █;05:28;Semi-Final;;1;r7
+200;M;63;GEO;TUSHISHVILI=Guram;R;HARASAWA=Hisayoshi; JPN;0=;1 0 0= █;02:37;Semi-Final;;1;r7
+200;M;62;NED;MEYER=Roy;L;MOURA=David; BRA;1 0 0=;0= █;03:33;Repechage;;1;r5
+200;M;61;NED;GROL=Henk;R;SILVA=Rafael; BRA;0= █ █;1 0 0= █;03:47;Repechage;;1;r5
+200;M;60;BRA;MOURA=David;R;KIM=Minjong; KOR;1 0= █ █;1 0 0= █;02:26;Quarter-Final;;1;r6
+200;M;59;CZE;KRPALEK=Lukas;L;MEYER=Roy; NED;0=;0= █ █;05:38;Quarter-Final;;0;r6
+200;M;58;JPN;HARASAWA=Hisayoshi;L;SILVA=Rafael; BRA;0= █ █;0= █ █;06:33;Quarter-Final;;0;r6
+200;M;57;GEO;TUSHISHVILI=Guram;L;GROL=Henk; NED;1 1 0=;0= █ █;02:19;Quarter-Final;;1;r6
+200;M;56;KOR;KIM=Minjong;L;FREY=Johannes; GER;1 0 0= █;0=;03:22;Round 3;;1;r3
+200;M;55;BRA;MOURA=David;L;DRAGIC=Vito; SLO;1 0 0= █ █;0=;05:20;Round 3;;1;r3
+200;M;54;NED;MEYER=Roy;L;ULZIIBAYAR=Duurenbayar; MGL;0= █;0= █ █;04:35;Round 3;;0;r3
+200;M;53;CZE;KRPALEK=Lukas;L;MIRMAMADOV=Shakarmamad; TJK;1 0 0= █;0= █;02:10;Round 3;;1;r3
+200;M;52;BRA;SILVA=Rafael;L;SIMIONESCU=Vladut; ROU;1 0 0= █;0= █ █;03:19;Round 3;;1;r3
+200;M;51;JPN;HARASAWA=Hisayoshi;L;NAIDAN=Tuvshinbayar; MGL;1 0 0=;0=;03:39;Round 3;;1;r3
+200;M;50;ECU;FIGUEROA=Freddy;R;GROL=Henk; NED;0= █ █;1 0 0= █;02:10;Round 3;;1;r3
+200;M;49;GEO;TUSHISHVILI=Guram;L;RAKHIMOV=Temur; TJK;1 1 0=;0= █ █;02:38;Round 3;;1;r3
+200;M;48;CHN;YUAN=Shaotong;R;FREY=Johannes; GER;0= █ █;1 0= █;04:00;Round 2;;0;r2
+200;M;47;ISR;SASSON=Or;R;KIM=Minjong; KOR;0= █ █;1 0= █;04:00;Round 2;;0;r2
+200;M;46;SLO;DRAGIC=Vito;L;SIDIBE=Rachid; BUR;1 0 0= █;0= █ █;02:19;Round 2;;1;r2
+200;M;45;BRA;MOURA=David;L;ZAIDAN=Rakan; KSA;1 1 0=;0=;01:07;Round 2;;1;r2
+200;M;44;MGL;ULZIIBAYAR=Duurenbayar;L;PARK=Liam; AUS;0= █;0= █ █;01:58;Round 2;;0;r2
+200;M;43;NED;MEYER=Roy;L;TASOEV=Inal; RUS;0= █;0= █ █;05:01;Round 2;;0;r2
+200;M;42;TJK;MIRMAMADOV=Shakarmamad;L;OLTIBOEV=Bekmurod; UZB;1 0 0= █;0= █;01:43;Round 2;;1;r2
+200;M;41;CZE;KRPALEK=Lukas;L;CULUM=Zarko; SRB;1 0 0= █ █;0= █ █;02:49;Round 2;;1;r2
+200;M;40;ROU;SIMIONESCU=Vladut;L;GRANDA=Andy; CUB;1 0 0= █ █;0= █ █;02:51;Round 2;;1;r2
+200;M;39;BRA;SILVA=Rafael;L;SADIKOVIC=Harun; BIH;1 0= █;0= █ █;04:00;Round 2;;0;r2
+200;M;38;MGL;NAIDAN=Tuvshinbayar;L;NDIAYE=Mbagnick; SEN;1 0 0=;0=;00:57;Round 2;;1;r2
+200;M;37;JPN;HARASAWA=Hisayoshi;L;HEGYI=Stephan; AUT;1 1 0=;0= █;03:08;Round 2;;1;r2
+200;M;36;CHI;SOLIS=Francisco;R;GROL=Henk; NED;0=;1 1 0=;01:11;Round 2;;1;r2
+200;M;34;TJK;RAKHIMOV=Temur;L;VAKHAVIAK=Aliaksandr; BLR;1 0 0=;0= █ █;07:23;Round 2;;1;r2
+200;M;33;GEO;TUSHISHVILI=Guram;L;KUMAR=Shubham; IND;1 0 0=;0=;00:15;Round 2;;1;r2
+200;M;30;KOR;KIM=Minjong;L;TOKTOGONOV=Bekbolot; KGZ;1 0=;0= █;04:00;Round 1;;0;r1
+200;M;26;MYA;ZAW MYO=Oo;R;ZAIDAN=Rakan; KSA;0= █ █;1 1 0=;01:21;Round 1;;1;r1
+200;M;22;EGY;WAHID=Ahmed;R;TASOEV=Inal; RUS;0= █;1 0 0= █;01:15;Round 1;;1;r1
+200;M;19;BLR;TSIARPITSKI=Uladzislau;R;MIRMAMADOV=Shakarmamad; TJK;0=;1 0 0=;00:42;Round 1;;1;r1
+200;M;18;USA;TADEHARA=Ajax;R;CULUM=Zarko; SRB;0= █;1 0 0=;01:48;Round 1;;1;r1
+200;M;16;SAM;SUA=Derek;R;GRANDA=Andy; CUB;0=;1 0 0=;00:43;Round 1;;1;r1
+200;M;10;AZE;KOKAURI=Ushangi;R;HEGYI=Stephan; AUT;0= █;1 0 0=;02:25;Round 1;;1;r1
+200;M;8;NED;GROL=Henk;L;KRAKOVETSKII=Iurii; KGZ;0= █ █;0= █ █;03:27;Round 1;;0;r1
+200;M;4;PHI;MATSUMURA=Shin;R;VAKHAVIAK=Aliaksandr; BLR;0= █;1 1 0= █;02:56;Round 1;;1;r1
