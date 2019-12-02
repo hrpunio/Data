@@ -1,9 +1,10 @@
 # JUDOBASE
 
-Ze strony pobrano Dane dotyczące turniejów o Mistrzostwo Świata w judo
-oraz turnieju judo na Igrzyskach Olimpijskich w latach 2000--2019
-pobrano ze strony https://judobase.ijf.org/.  Dało się je względnie
-sprawnie zamienić na plik csv:
+Pobrano dane dotyczące turniejów o Mistrzostwo Świata w judo oraz
+turnieju judo na Igrzyskach Olimpijskich w latach 2000--2019 ze strony
+https://judobase.ijf.org/.
+Dało się je względnie sprawnie zamienić na
+plik csv `jbase_2000_2019.csv`.
 
 Plik zawiera około 7 tys walk. Poszczególne kolumny zawierają:
 `event` -- symbol trumieju (oo albo wc);
