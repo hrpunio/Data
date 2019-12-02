@@ -1,7 +1,7 @@
 ---
-title: "Mistrzostwa Świata w Judo 2019"
+title: "Mistrzostwa Świata/Igrzyska Olimpijskie w Judo 2000--2019"
 author: "TP"
-date: "27/11/2019"
+date: "2/12/2019"
 output: html_document
 ---
 
@@ -11,113 +11,133 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Dane
 
-Ze strony https://judobase.ijf.org/#/competition/profile/1751 pobrano
-dane dotyczące turnieju o Mistrzostwo Świata w judo (Tokio 2019).
+Ze strony https://judobase.ijf.org/ pobrano
+dane dotyczące turniejów o Mistrzostwo Świata w judo oraz
+turnieju judo na Igrzyskach Olimpijskich w latach 2000--2019.
 Dało się je zwględnie sprawnie zamienić na plik csv:
 
 ```{r message=F}
-d <- read.csv("wc2019Tokyo_x.csv", sep = ';', dec = ",",  
-              header=T, na.string="NA");
+d <- read.csv("jbase_2000_2019.csv", sep = ';', dec = ",",  header=T, na.string="NA");
+
 names(d)
 fN <- nrow(d)
+fNvalid <- nrow(na.omit(d))
 ```
-plik zawiera `r fN` walk.
+plik zawiera `r fN` walk. Poszczególne kolumny zawierają:
+event -- symbol trumieju (oo albo wc); year -- rok; cat -- kategoria wagowa (178/200 to umowny zapisa dla kategorii +78 oraz +100); sex -- płeć; fid -- id walki (nieużywane); cntry1 -- kraj zawodnika z kolumny następnej; name1 -- imię nazwisko; winner -- zwycięzca (L/R jeżeli L to pierwszy zawodnik w wierszy/R drugi); name2 -- imię nazwisko; cntry2 -- kraj zawodnika z poprzedniej kolumny --; score1 -- wynik zawodnika 1 (zapis i w y = ostrzeżenia; iwy są opcjonalne, jeżeli ich nie było, tj może być zapis 1 (równoważny 0 0 1) lub 1 1 (równoważny 0 1 1));
+score2 -- wynik zawodnika 2 (zapis i w y = ostrzeżenia);
+time -- czas walki (mm:ss);
+round -- runda turnieju;
+idr -- id rundy turnieju;
+ippon -- czy koniec przez ippon (1/tak, 0/nie);
+stime -- czas walki w sekundach;
+in -- liczba ippon (1 lub zero/kopia zmiennej ippon) ;
+wn -- liczba wazari ;
+yn -- liczba yuka.
 
-## Zależność między długością walki a kategorią wagową oraz rundą
+Uwaga: ja ani nie jestem judoką ani kibicem judo. Powyższe
+ustaliłem `na szybko', więc 
+może coś pomyliłem (zwłaszcza dotyczy to punktacji).
 
-Do porówania długość walki wg kategorii wagowych `cat` (odzielnie kobiety i mężczyźni) wykorzystamy wykres pudełkowy. Ponieważ zmienna `time` jest napisem,
-zamieniamy ją wcześniej na liczbę (długość walki w sekundach `stime`):
+Uwaga2: czas walki czasamy jest absurdalnie długi albo podjerzanie krótki.
+Arbitralnie podjąłem decyzję że walki dłuże niż 480 s (8 minut) albo
+krótsze niż 2 s mają błędny czas i oznaczam wartość jako NA (zmienna stime).
+Jeżeli powyższa arbitralna decyzja jest zła to każdy może sobie
+obliczyć czas samodzielnie (na podstawie zmiennej time).
+Walk oznaczonych jak NA jest `r fN - fNvalid` 
+(czyli `r sprintf ("%.2f%%", 100 - fNvalid/fN *100)`)
+
+## Długość walki
+
+Do porówania długość walki w poszczególnych latach
+(odzielnie kobiety `df` i mężczyźni `dm`) wykorzystano wykres pudełkowy. Ponieważ zmienna `year` jest liczbą, zamieniamy ją wcześniej na czynnik:
 
 ```{r message=FALSE}
 require(ggplot2)
 require(dplyr)
 
-## zamieniamy czas mm:ss na czas w sekundach
-min <- substr(d$time,  1, 2)
-sec <- substr(d$time,  4, 5)
-
-d$stime <- as.numeric(min) * 60 + as.numeric(sec)
-d$wcat <- as.factor(d$cat)
-
-## dm -- walki mężczyzn ;; df walki -- kobiet
 dm <- d %>% filter(sex=="M") %>% as.data.frame
 df <- d %>% filter(sex=="F") %>% as.data.frame
 
 nm <- nrow(dm)
 nf <- nrow(df)
 
-tit.t <- "JWC 2019/Tokyo: time vs weight"
-tit.m <-  sprintf("%s/M (mean = %.1fs/N = %i)", tit.t, mean(dm$stime), nm)
-tit.f <-  sprintf("%s/F (mean = %.1fs/N = %i)", tit.t, mean(df$stime), nf)
+tit.m <-  sprintf("MS/IO 2000--19//M: czas (sr = %.1fs / N = %i)", 
+                  mean(dm$stime, na.rm=T), nm)
+tit.f <-  sprintf("MS/IO 2000--19//K: czas (sr = %.1fs / N = %i)", 
+                  mean(df$stime, na.rm=T), nf)
 
-ggplot(dm, aes(x=wcat, y=stime, fill=wcat)) + 
-  geom_boxplot() + ylab("time (s)") +
-  ggtitle(tit.m) +
-  xlab("cat");
+ggplot(dm, aes(x=as.factor(year), y=stime, fill=as.factor(year))) + geom_boxplot() + ylab("czas (s)") + ggtitle(tit.m) +
+  xlab("rok");
 
-ggplot(df, aes(x=wcat, y=stime, fill=wcat)) + 
-  geom_boxplot() + ylab("time (s)") +
+ggplot(df, aes(x=as.factor(year), y=stime, fill=as.factor(year))) +
+  geom_boxplot() + ylab("czas (s)") +
   ggtitle(tit.f) +
-  xlab("cat")
+  xlab("rok");
+
+ddm <- dm %>%
+  mutate(cat = factor(year)) %>%
+  group_by (cat) %>%
+  summarise(
+    pmean = mean(stime, na.rm=TRUE),
+    pmedian = median(stime, na.rm=TRUE)
+  ) %>%
+  as.data.frame
+ddf <- df %>%
+  mutate(cat = factor(year)) %>%
+  group_by (cat) %>%
+  summarise(
+    pmean = mean(stime, na.rm=TRUE),
+    pmedian = median(stime, na.rm=TRUE)
+  ) %>%
+  as.data.frame
 ```
 
-Zmienna `idr` to kod rundy od `r1` do `r8` (finał).
-Do porówania długość walki wg rund turnieju (odzielnie kobiety i mężczyźni) także wykorzystamy wykres pudełkowy:
+Wartości średnie czasu walki w poszczególnych latach:
 
 ```{r message=FALSE}
-tit.t <- "JWC 2019/Tokyo: time vs round"
-tit.m <-  sprintf("%s/M (mean = %.1fs/N = %i)", tit.t, mean(dm$stime), nm)
-tit.f <-  sprintf("%s/F (mean = %.1fs/N = %i)", tit.t, mean(df$stime), nf)
-
-ggplot(dm, aes(x=idr, y=stime, fill=idr)) + 
-  geom_boxplot() + ylab("time (s)") +
-  ggtitle(tit.m) +
-  xlab("cat");
-
-ggplot(df, aes(x=idr, y=stime, fill=idr)) + 
-  geom_boxplot() + ylab("time (s)") +
-  ggtitle(tit.f) +
-  xlab("cat")
+ddm
+ddf
 ```
+
 
 ## Odsetek walk zakończonych przez ippon
 
-Dane są agregowane wg kategorii wagowych a następnie prezentowane
+Dane są agregowane dla poszczególnych lat (liczba walk zakończonych ippon/łączna liczba walki) a następnie prezentowane
 za pomocą wykresu słupkowego (oddzielnie dla kobiet i mężczyzn):
 
 ```{r message=F}
-tit.m <-  sprintf("JWC 2019/Tokyo/M: fights won by ippon (%%)")
-tit.f <-  sprintf("JWC 2019/Tokyo/F: fights won by ippon (%%)")
+
+tit.m <-  sprintf("MS/IO 2000--19//M: walki zakończone ippon (%%)")
+tit.f <-  sprintf("MS/OI 2000--19//K: walki zakończone ippon (%%)")
 
 dm <- d %>% filter(sex=="M")  %>%
-  mutate(cat = factor(cat)) %>%
-  group_by (cat) %>%
+  mutate(yr = factor(year)) %>%
+  group_by (yr) %>%
   summarise( pmean = mean(ippon, na.rm=TRUE) * 100,) %>%
   as.data.frame
 
 ## ##
 df <- d %>% filter(sex=="F") %>%
-  mutate(cat = factor(cat)) %>%
-  group_by (cat) %>%
+  mutate(yr = factor(year)) %>%
+  group_by (yr) %>%
   summarise( pmean = mean(ippon, na.rm=TRUE) *100,) %>%
   as.data.frame
 
-p.m <- ggplot(dm, aes(x = cat, y = pmean )) +
+p.m <- ggplot(dm, aes(x = yr, y = pmean )) +
     ggtitle(tit.m) +
-    xlab("cat") + ylab("%") +
+    xlab("rok") + ylab("%") +
     geom_bar(position = 'dodge', stat = 'identity', fill = "steelblue") +
     geom_text(data=dm, aes(label=sprintf("%.1f", pmean), y= pmean), vjust=1.5, color="white" )
 
-p.f <- ggplot(df, aes(x = cat, y = pmean )) +
+p.f <- ggplot(df, aes(x = yr, y = pmean )) +
     ggtitle(tit.f) +
-    xlab("cat") + ylab("%") +
+    xlab("rok") + ylab("%") +
     geom_bar(position = 'dodge', stat = 'identity', fill = "steelblue") +
     geom_text(data=df, aes(label=sprintf("%.1f", pmean), y= pmean), vjust=1.5, color="white" )
 
-## ##
 p.m
 p.f
-
 ```
 
 Koniec.
