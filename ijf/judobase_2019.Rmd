@@ -1,0 +1,123 @@
+---
+title: "Mistrzostwa Świata w Judo 2019"
+author: "TP"
+date: "27/11/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Dane
+
+Ze strony https://judobase.ijf.org/#/competition/profile/1751 pobrano
+dane dotyczące turnieju o Mistrzostwo Świata w judo (Tokio 2019).
+Dało się je zwględnie sprawnie zamienić na plik csv:
+
+```{r message=F}
+d <- read.csv("wc2019Tokyo_x.csv", sep = ';', dec = ",",  
+              header=T, na.string="NA");
+names(d)
+fN <- nrow(d)
+```
+plik zawiera `r fN` walk.
+
+## Zależność między długością walki a kategorią wagową oraz rundą
+
+Do porówania długość walki wg kategorii wagowych `cat` (odzielnie kobiety i mężczyźni) wykorzystamy wykres pudełkowy. Ponieważ zmienna `time` jest napisem,
+zamieniamy ją wcześniej na liczbę (długość walki w sekundach `stime`):
+
+```{r message=FALSE}
+require(ggplot2)
+require(dplyr)
+
+## zamieniamy czas mm:ss na czas w sekundach
+min <- substr(d$time,  1, 2)
+sec <- substr(d$time,  4, 5)
+
+d$stime <- as.numeric(min) * 60 + as.numeric(sec)
+d$wcat <- as.factor(d$cat)
+
+## dm -- walki mężczyzn ;; df walki -- kobiet
+dm <- d %>% filter(sex=="M") %>% as.data.frame
+df <- d %>% filter(sex=="F") %>% as.data.frame
+
+nm <- nrow(dm)
+nf <- nrow(df)
+
+tit.t <- "JWC 2019/Tokyo: time vs weight"
+tit.m <-  sprintf("%s/M (mean = %.1fs/N = %i)", tit.t, mean(dm$stime), nm)
+tit.f <-  sprintf("%s/F (mean = %.1fs/N = %i)", tit.t, mean(df$stime), nf)
+
+ggplot(dm, aes(x=wcat, y=stime, fill=wcat)) + 
+  geom_boxplot() + ylab("time (s)") +
+  ggtitle(tit.m) +
+  xlab("cat");
+
+ggplot(df, aes(x=wcat, y=stime, fill=wcat)) + 
+  geom_boxplot() + ylab("time (s)") +
+  ggtitle(tit.f) +
+  xlab("cat")
+```
+
+Zmienna `idr` to kod rundy od `r1` do `r8` (finał).
+Do porówania długość walki wg rund turnieju (odzielnie kobiety i mężczyźni) także wykorzystamy wykres pudełkowy:
+
+```{r message=FALSE}
+tit.t <- "JWC 2019/Tokyo: time vs round"
+tit.m <-  sprintf("%s/M (mean = %.1fs/N = %i)", tit.t, mean(dm$stime), nm)
+tit.f <-  sprintf("%s/F (mean = %.1fs/N = %i)", tit.t, mean(df$stime), nf)
+
+ggplot(dm, aes(x=idr, y=stime, fill=idr)) + 
+  geom_boxplot() + ylab("time (s)") +
+  ggtitle(tit.m) +
+  xlab("cat");
+
+ggplot(df, aes(x=idr, y=stime, fill=idr)) + 
+  geom_boxplot() + ylab("time (s)") +
+  ggtitle(tit.f) +
+  xlab("cat")
+```
+
+## Odsetek walk zakończonych przez ippon
+
+Dane są agregowane wg kategorii wagowych a następnie prezentowane
+za pomocą wykresu słupkowego (oddzielnie dla kobiet i mężczyzn):
+
+```{r message=F}
+tit.m <-  sprintf("JWC 2019/Tokyo/M: fights won by ippon (%%)")
+tit.f <-  sprintf("JWC 2019/Tokyo/F: fights won by ippon (%%)")
+
+dm <- d %>% filter(sex=="M")  %>%
+  mutate(cat = factor(cat)) %>%
+  group_by (cat) %>%
+  summarise( pmean = mean(ippon, na.rm=TRUE) * 100,) %>%
+  as.data.frame
+
+## ##
+df <- d %>% filter(sex=="F") %>%
+  mutate(cat = factor(cat)) %>%
+  group_by (cat) %>%
+  summarise( pmean = mean(ippon, na.rm=TRUE) *100,) %>%
+  as.data.frame
+
+p.m <- ggplot(dm, aes(x = cat, y = pmean )) +
+    ggtitle(tit.m) +
+    xlab("cat") + ylab("%") +
+    geom_bar(position = 'dodge', stat = 'identity', fill = "steelblue") +
+    geom_text(data=dm, aes(label=sprintf("%.1f", pmean), y= pmean), vjust=1.5, color="white" )
+
+p.f <- ggplot(df, aes(x = cat, y = pmean )) +
+    ggtitle(tit.f) +
+    xlab("cat") + ylab("%") +
+    geom_bar(position = 'dodge', stat = 'identity', fill = "steelblue") +
+    geom_text(data=df, aes(label=sprintf("%.1f", pmean), y= pmean), vjust=1.5, color="white" )
+
+## ##
+p.m
+p.f
+
+```
+
+Koniec.
