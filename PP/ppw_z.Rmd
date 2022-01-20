@@ -1,0 +1,155 @@
+---
+title: "Zabici w wypadkach drogowych w PL"
+author: "TP"
+date: "01/01/2022"
+output: html_document
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F, message = F)
+
+library("dplyr")
+library("ggplot2")
+library("ggpubr")
+library("scales")
+today <- Sys.Date()
+lastDay <- format(today, "%Y-%m-%d")
+```
+
+Dane (dzienne) są pobierane ze strony
+https://policja.pl/pol/form/1,Informacja-dzienna.html. Zamieniane na format CSV.
+Plik `ppw.csv` zawiera dane tygodniowe dotyczące m.in. liczby wypadków i zabitych
+
+```{r}
+d <- read.csv("ppw.csv", sep = ';',  header=T, na.string="NA") %>%
+ select(rok, nrt, zabici, d1) %>%
+  ## rok 2008 jest niepełny
+  filter (rok > 2008)
+```
+
+Dane dla roku 2008 są szczątkowe, więc pomijamy ten rok.
+
+## Zabici od roku 2009
+
+Wykresy pudełkowe (środkowa kreska w prostokącie to tygodniowa mediana zgonów)
+
+```{r}
+### Wszystkie lata bo kolor są nieistotne
+p1 <- ggplot(d, aes(x= as.factor(rok), y= zabici, fill=as.factor(rok))) + 
+ geom_boxplot() +
+ xlab(label="") +
+ scale_y_continuous(breaks=seq(0,100, by=10)) +
+ theme(plot.subtitle=element_text(size=8, hjust=0, color="black"), legend.position = "none") +
+ ggtitle("Wypadki/zabici wg tygodni", subtitle="policja.pl/pol/form/1,Informacja-dzienna.html") 
+
+ggsave(plot=p1, "PPW_Zabici_1.png", width=12)
+p1
+```
+
+## Zabici od 2016
+
+```{r}
+d <- d %>% filter(as.Date(d1) > "2015-12-31") %>% as.data.frame
+
+maxY <- max (d$zabici)
+p2 <- ggplot(d, aes(x= as.Date(d1), y=zabici)) + 
+ geom_point(color="steelblue", size=.4) +
+ geom_smooth(method="loess", color="red", size=1, se=F, span=.5) +
+ geom_line(color="steelblue", size=.4, alpha=.4) +
+ xlab(label="") +
+ scale_x_date( labels = date_format("%Y"), breaks ="1 year") +
+ theme(plot.subtitle=element_text(size=8, hjust=0, color="black")) +
+  annotate("rect", xmin = as.Date("2020-03-12"), xmax = as.Date(lastDay), ymin = 0, ymax = maxY, alpha = .2) +
+  annotate("rect", xmin = as.Date("2020-03-12"), xmax = as.Date("2020-03-12"), ymin = 0, ymax = maxY, color = "darkblue", 
+           size=1.5, alpha=.2) +
+  annotate("rect", xmin = as.Date("2021-06-01"), xmax = as.Date("2021-06-01"), ymin = 0, ymax = maxY, color = "green4", size=1.5, alpha=.2) +
+  annotate("rect", xmin = as.Date("2022-01-01"), xmax = as.Date("2022-01-01"), ymin = 0, ymax = maxY, color = "orange", size=1.5, alpha=.2) +
+  annotate("text", x = as.Date("2020-03-12"), y=0, label = "12/3", vjust = 1.2, size=3, color="darkblue") +
+  annotate("text", x = as.Date("2021-06-01"), y=0, label = "01/06", vjust = 1.2, size=3, color="green4") +
+  annotate("text", x = as.Date("2022-01-01"), y=0, label = "01/01", vjust = 1.2, size=3, color="orange") +
+ ggtitle("Wypadki/zabici wg tygodni", subtitle="policja.pl/pol/form/1,Informacja-dzienna.html") 
+
+ggsave(plot=p2, "PPW_Zabici_2.png", width=12)
+p2
+```
+
+Pionowa kreska niebieska -- początek lockdownu w PL
+(well ograniczeń w poruszaniu się); zielona -- zmiana przepisów
+dotyczących pierwszeństwa na przejściu na pieszych; pomarańczowa --
+zmiana taryfikatora mandatów.
+
+```{r, warning=F}
+p3 <- d %>% mutate (r=as.factor(rok)) %>%
+  ggplot(aes(x= nrt, color=r,
+             y=zabici, group=r)) + 
+ geom_point(size=.4) +
+ geom_smooth(se=F, span=.5 ) +
+ #facet_wrap(~ rok, , scales = "fixed") +
+ geom_line(size=.4, alpha=.9) +
+ xlab(label="") +
+ ##scale_x_date( labels = date_format("%Y"), breaks ="1 year") +
+ theme(plot.subtitle=element_text(size=8, hjust=0, color="black")) +
+ ggtitle("Wypadki/zabici wg tygodni", subtitle="policja.pl/pol/form/1,Informacja-dzienna.html") +
+ geom_blank()
+
+
+ggsave(plot=p3, "PPW_Zabici_3.png", width=12)
+p3
+```
+
+Dane dzienne zamieniamy na miesięczne:
+
+```{r}
+### daily
+d <- read.csv("pp.csv", sep = ';',  header=T, na.string="NA") %>%
+  select(data, zabici) %>%
+  mutate ( ##data = as.character(data),
+    rok = as.integer(substr(data, 1, 4)),
+          mc = as.integer(substr(data, 6, 7))
+  ) %>%
+  ## rok 2008 jest niepełny
+  filter (rok > 2008) %>%
+  group_by(rok, mc) %>%
+  summarise(zabici = sum(zabici, na.rm=T))
+```
+
+```{r}
+p4 <- d %>% filter (rok > 2016) %>%
+  mutate (r=as.factor(rok)) %>%
+  ggplot(aes(x= as.factor(mc), color=r,
+             y=zabici, group=r)) + 
+  geom_point(size=.4) +
+  geom_smooth(se=F, span=.5 ) +
+  #facet_wrap(~ rok, , scales = "fixed") +
+  #geom_line(size=.4, alpha=.9) +
+  xlab(label="") +
+  ##scale_x_date( labels = date_format("%Y"), breaks ="1 year") +
+  theme(plot.subtitle=element_text(size=8, hjust=0, color="black")) +
+  ggtitle("Wypadki/zabici wg miesięcy", subtitle="policja.pl/pol/form/1,Informacja-dzienna.html") +
+  geom_blank()
+p4
+```
+
+Dane roczne
+
+```{r}
+d.total <- d %>% group_by(rok)  %>%
+  filter (rok < 2022) %>%
+  summarise(zabici = sum(zabici)) %>%
+  ungroup()
+
+d.d <- d.total %>% filter (rok == 2010 | rok == 2015 | rok == 2019 | rok == 2021 )
+
+p5 <- d.total %>% 
+  ggplot(aes(x= rok,
+             y=zabici)) + 
+  geom_bar(position="stack", stat="identity", fill=default_cyan) +
+  #geom_point(size=.4) +
+  geom_line(data=d.d, mapping = aes(x = rok, y = zabici), 
+            color="red", alpha=.45,
+            size=1.5) +
+scale_x_continuous(breaks=seq(2008, 2030, by=1))
+
+p5
+```
