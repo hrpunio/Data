@@ -1,0 +1,927 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2' xmlns:gx='http://www.google.com/kml/ext/2.2'>
+<Document>
+<name>kml</name>
+<description>tomasz przechlewski, http://pinkaccordions.homelinux.org. Some rights reserved (CC BY 2.0)</description>
+<Style id='PinX'><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon49.png</href></Icon></IconStyle></Style>
+<Style id='XLine'><LineStyle><color>ffb18ff4</color><width>4</width></LineStyle></Style>
+<Placemark><styleUrl>#PinX</styleUrl><name>LIPIŃSKI Adam Józef PiS</name><description>Mst Warszawa (a) PiS Legnica</description><Point><coordinates>21.041473,52.254408</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WITEK Elżbieta Barbara PiS</name><description>Jawor PiS Legnica</description><Point><coordinates>16.184602,51.064664</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MACHAŁEK Marzena Anna PiS</name><description>Jelenia Góra (a) PiS Legnica</description><Point><coordinates>15.736810,50.853730</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUBÓW Krzysztof Jan PiS</name><description>Lubin (a) PiS Legnica</description><Point><coordinates>16.202945,51.401672</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZUBOWSKI Wojciech Michał PiS</name><description>Głogów PiS Legnica</description><Point><coordinates>16.046834,51.679740</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYMAŃSKA Ewa Zofia PiS</name><description>Legnica PiS Legnica</description><Point><coordinates>16.162948,51.213568</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZEMBIK Teresa PiS</name><description>Lubań PiS Legnica</description><Point><coordinates>15.275076,51.114486</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BABUŚKA Adam PiS</name><description>Legnickie Pole PiS Legnica</description><Point><coordinates>16.237365,51.147475</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RYPIŃSKI Józef SolidarnaPolska</name><description>Jelenia Góra (a) PiS Legnica</description><Point><coordinates>15.732732,50.855954</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POGODA Szymon Marek PiS</name><description>Bolesławiec PiS Legnica</description><Point><coordinates>15.555957,51.261333</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARCINIAK Wojciech PiS</name><description>Polkowice PiS Legnica</description><Point><coordinates>16.079529,51.503501</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARWAN Jacek PiS</name><description>Złotoryja PiS Legnica</description><Point><coordinates>15.949698,51.142694</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KREDKOWSKI Andrzej PiS</name><description>Lwówek Śląski PiS Legnica</description><Point><coordinates>15.598228,51.122722</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUCIUTO Jadwiga Barbara PiS</name><description>Zgorzelec PiS Legnica</description><Point><coordinates>15.015067,51.157367</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GĘBORYS Dagmara Helena BEZP</name><description>Kamienna Góra PiS Legnica</description><Point><coordinates>16.034927,50.782419</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRZOZOWSKA Kamila Dorota PiS</name><description>Złotoryja PiS Legnica</description><Point><coordinates>15.920932,51.123671</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BADZIŃSKA Agnieszka Ewa PiS</name><description>Głogów PiS Legnica</description><Point><coordinates>16.035188,51.668654</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SADOWSKA-KOWALSKA Aurelia Barbara PiS</name><description>Lubin PiS Legnica</description><Point><coordinates>16.184729,51.375864</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZYRKO Eurydyka Maria PiS</name><description>Olszyna PiS Legnica</description><Point><coordinates>15.358080,51.059069</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KWIATKOWSKA Ewa PiS</name><description>Polkowice PiS Legnica</description><Point><coordinates>16.084000,51.499188</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>URBANOWICZ Łukasz Franciszek PiS</name><description>Mirsk PiS Legnica</description><Point><coordinates>15.403486,50.921266</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SARBAK Dawid Łukasz PiS</name><description>Bolesławiec PiS Legnica</description><Point><coordinates>15.557099,51.257813</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOJAKOWSKA Dorota PiS</name><description>Bogatynia PiS Legnica</description><Point><coordinates>14.913613,50.945458</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LESZCZYK Wojciech Paweł PiS</name><description>Jelenia Góra (a) PiS Legnica</description><Point><coordinates>15.721718,50.847732</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DWORCZYK Michał Paweł PiS</name><description>Mst Warszawa (a) PiS Wałbrzych</description><Point><coordinates>21.097830,52.210750</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZYSKA Ireneusz PiS</name><description>Świebodzice PiS Wałbrzych</description><Point><coordinates>16.335225,50.871921</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MURDZEK Wojciech Piotr PorozumienieJarosławaGowina</name><description>Świdnica PiS Wałbrzych</description><Point><coordinates>16.494338,50.847286</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BADORA Maciej Adam PiS</name><description>Wałbrzych PiS Wałbrzych</description><Point><coordinates>16.288439,50.779104</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GWÓŹDŹ Marcin Piotr PiS</name><description>Ząbkowice Śląskie PiS Wałbrzych</description><Point><coordinates>16.831114,50.600548</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIELAWSKA Zuzanna PiS</name><description>Piława Górna PiS Wałbrzych</description><Point><coordinates>16.756576,50.684890</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SURMA Renata Lucyna BEZP</name><description>Bystrzyca Kłodzka PiS Wałbrzych</description><Point><coordinates>16.641546,50.285600</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MUCHA Beata Maria PiS</name><description>Wałbrzych PiS Wałbrzych</description><Point><coordinates>16.291734,50.787749</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DEC Jerzy Grzegorz PiS</name><description>Nowa Ruda PiS Wałbrzych</description><Point><coordinates>16.509111,50.588374</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WĘGŁOWSKI Jarosław PiS</name><description>Niemcza PiS Wałbrzych</description><Point><coordinates>16.812676,50.714311</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZPYTMA Bogusław Krzysztof BEZP</name><description>Kłodzko PiS Wałbrzych</description><Point><coordinates>16.650784,50.429071</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GREINER Małgorzata Joanna PiS</name><description>Bielawa PiS Wałbrzych</description><Point><coordinates>16.604564,50.675614</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TARNACKI Marek PiS</name><description>Boguszów-Gorce PiS Wałbrzych</description><Point><coordinates>16.204572,50.755994</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYDŁOWSKA Ewelina Agnieszka BEZP</name><description>Wrocław (a) PiS Wałbrzych</description><Point><coordinates>16.992333,51.144533</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIERZBICKA Renata Teresa BEZP</name><description>Wałbrzych PiS Wałbrzych</description><Point><coordinates>16.287389,50.791193</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRZEGORZEWICZ Grzegorz Sławomir BEZP</name><description>Jaworzyna Śląska PiS Wałbrzych</description><Point><coordinates>16.436488,50.907200</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STACHOWIAK-RÓŻECKA Mirosława Agnieszka PiS</name><description>Wrocław (a) PiS Wrocław</description><Point><coordinates>17.002228,51.118832</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HRENIAK Paweł Marek PiS</name><description>Wrocław (a) PiS Wrocław</description><Point><coordinates>16.969594,51.106519</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚWIAT Jacek PiS</name><description>Wrocław (a) PiS Wrocław</description><Point><coordinates>16.972261,51.142118</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZARNECKI Przemysław Maksymilian PiS</name><description>Wrocław (a) PiS Wrocław</description><Point><coordinates>17.006757,51.106584</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CALIŃSKA-MAYER Małgorzata Maria PiS</name><description>Wrocław (a) PiS Wrocław</description><Point><coordinates>17.012339,51.133485</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAROCH Andrzej Stanisław PiS</name><description>Wrocław (a) PiS Wrocław</description><Point><coordinates>16.971064,51.135033</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JĘDRYSEK Mariusz Orion PiS</name><description>Wrocław (a) PiS Wrocław</description><Point><coordinates>17.001780,51.154260</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOIN Agnieszka Anna PiS</name><description>Wrocław (a) PiS Wrocław</description><Point><coordinates>16.987057,51.135531</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DYTKO Piotr Jan PorozumienieJarosławaGowina</name><description>Długołęka PiS Wrocław</description><Point><coordinates>17.210167,51.189901</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ADAMSKI Artur BEZP</name><description>Wrocław (a) PiS Wrocław</description><Point><coordinates>16.978502,51.120063</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BREZDEŃ Zdzisław Ireneusz PiS</name><description>Oława PiS Wrocław</description><Point><coordinates>17.319623,50.925293</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARTNIK Wojciech Stanisław BEZP</name><description>Oleśnica PiS Wrocław</description><Point><coordinates>17.382194,51.210976</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DOMAGAŁA Krzysztof Marek PiS</name><description>Krośnice PiS Wrocław</description><Point><coordinates>17.399243,51.442234</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALCZYK Roman PiS</name><description>Wrocław (a) PiS Wrocław</description><Point><coordinates>16.994405,51.129056</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIEŃKOWSKI Robert PiS</name><description>Wrocław (a) PiS Wrocław</description><Point><coordinates>17.015262,51.128082</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STOPA Urszula Maria PiS</name><description>Wrocław (a) PiS Wrocław</description><Point><coordinates>16.998626,51.152412</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAJĄC Wiesław Antoni PiS</name><description>Długołęka PiS Wrocław</description><Point><coordinates>17.208293,51.187497</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRZĄKAŁA Agnieszka Maria PiS</name><description>Wisznia Mała PiS Wrocław</description><Point><coordinates>17.028643,51.222823</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WAWRZYNIAK Adrian Sławomir PiS</name><description>Wińsko PiS Wrocław</description><Point><coordinates>16.618373,51.442785</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJEWÓDKA Karolina BEZP</name><description>Środa Śląska PiS Wrocław</description><Point><coordinates>16.587199,51.165570</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIECHEL Michał PiS</name><description>Wrocław (a) PiS Wrocław</description><Point><coordinates>16.982003,51.140717</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STRUMECKA Marzanna Teresa BEZP</name><description>Oleśnica PiS Wrocław</description><Point><coordinates>17.452687,51.209918</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LESZCZYŃSKA-NER Zofia Maria BEZP</name><description>Siechnice PiS Wrocław</description><Point><coordinates>17.144071,51.027384</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HARASNY Marek PiS</name><description>Żórawina PiS Wrocław</description><Point><coordinates>17.048731,50.964105</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAKSYMIAK Magdalena Maria PiS</name><description>Wiązów PiS Wrocław</description><Point><coordinates>17.240605,50.792893</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MROZOWSKA Karolina Marta PiS</name><description>Wrocław (a) PiS Wrocław</description><Point><coordinates>16.984480,51.119252</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KEMPA Cezary Piotr BEZP</name><description>Syców PiS Wrocław</description><Point><coordinates>17.649436,51.298285</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZARTORYSKI Tytus Henryk PiS</name><description>Oborniki Śląskie PiS Wrocław</description><Point><coordinates>16.893216,51.280697</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LATOS Tomasz Edward PiS</name><description>Bydgoszcz (a) PiS Bydgoszcz</description><Point><coordinates>18.038458,53.147707</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SCHREIBER Łukasz Paweł PiS</name><description>Bydgoszcz (a) PiS Bydgoszcz</description><Point><coordinates>18.047902,53.114969</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRÓL Piotr Marek PiS</name><description>Bydgoszcz (a) PiS Bydgoszcz</description><Point><coordinates>18.039020,53.115202</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWNACKI Bartosz Józef PiS</name><description>Raszyn PiS Bydgoszcz</description><Point><coordinates>20.910633,52.130324</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOZANECKA Ewa Elżbieta PiS</name><description>Bydgoszcz (a) PiS Bydgoszcz</description><Point><coordinates>18.046452,53.135544</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WITKOWSKI Marek Leon PiS</name><description>Więcbork PiS Bydgoszcz</description><Point><coordinates>17.434246,53.349203</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WROŃSKI Marcin PorozumienieJarosławaGowina</name><description>Inowrocław PiS Bydgoszcz</description><Point><coordinates>18.249153,52.781451</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STACHOWIAK Ireneusz SolidarnaPolska</name><description>Inowrocław PiS Bydgoszcz</description><Point><coordinates>18.244002,52.777810</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALIK Jerzy PiS</name><description>Tuchola PiS Bydgoszcz</description><Point><coordinates>17.892978,53.654940</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRZEMKOWSKI Michał PiS</name><description>Bydgoszcz (a) PiS Bydgoszcz</description><Point><coordinates>18.024169,53.118041</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZABELSKA Grażyna Edyta PiS</name><description>Bydgoszcz (a) PiS Bydgoszcz</description><Point><coordinates>18.029816,53.124703</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FALKOWSKA Anna PiS</name><description>Barcin PiS Bydgoszcz</description><Point><coordinates>17.944654,52.857343</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZAMOCKI Tomasz Paweł BEZP</name><description>Świecie PiS Bydgoszcz</description><Point><coordinates>18.450895,53.393993</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOŁODZIEJ Jolanta PiS</name><description>Kruszwica PiS Bydgoszcz</description><Point><coordinates>18.371298,52.638811</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOGOLA Elżbieta PiS</name><description>Żnin PiS Bydgoszcz</description><Point><coordinates>17.713984,52.855648</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NAPIERALSKI Krzysztof PiS</name><description>Kcynia PiS Bydgoszcz</description><Point><coordinates>17.461806,53.002740</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUFFEL Stanisława BEZP</name><description>Bukowiec PiS Bydgoszcz</description><Point><coordinates>18.246177,53.424670</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JABŁOŃSKA Kamila Teresa PiS</name><description>Sośno PiS Bydgoszcz</description><Point><coordinates>17.660200,53.362651</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEWANDOWSKI Antoni PiS</name><description>Lubiewo PiS Bydgoszcz</description><Point><coordinates>17.994719,53.460758</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WENDERLICH Paulina BEZP</name><description>Bydgoszcz (a) PiS Bydgoszcz</description><Point><coordinates>18.023201,53.115847</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PILARSKA Danuta Stanisława PiS</name><description>Szubin PiS Bydgoszcz</description><Point><coordinates>17.717763,53.008524</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚRUBKOWSKA Żaneta Katarzyna PiS</name><description>Koronowo PiS Bydgoszcz</description><Point><coordinates>17.881688,53.326742</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WARDA Maria Alina PiS</name><description>Gąsawa PiS Bydgoszcz</description><Point><coordinates>17.799950,52.765846</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CIESIELCZYK Dariusz PiS</name><description>Jeziora Wielkie PiS Bydgoszcz</description><Point><coordinates>18.225931,52.537202</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ARDANOWSKI Jan Krzysztof PiS</name><description>Lubicz PiS Toruń</description><Point><coordinates>18.773971,53.039248</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZABAŃSKI Krzysztof BEZP</name><description>Mst Warszawa (a) PiS Toruń</description><Point><coordinates>21.043486,52.212179</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MICHAŁEK Iwona Krystyna PorozumienieJarosławaGowina</name><description>Toruń PiS Toruń</description><Point><coordinates>18.590221,53.017172</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOROWIAK Joanna Beata PiS</name><description>Włocławek PiS Toruń</description><Point><coordinates>19.067673,52.669104</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOBECKA Anna Elżbieta PiS</name><description>Toruń PiS Toruń</description><Point><coordinates>18.604063,53.014244</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GEMBICKA Anna Urszula PiS</name><description>Włocławek PiS Toruń</description><Point><coordinates>19.064911,52.658465</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAZURKIEWICZ Maria PiS</name><description>Toruń PiS Toruń</description><Point><coordinates>18.603259,53.005484</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAŁUŻNY Mariusz Piotr SolidarnaPolska</name><description>Chełmża PiS Toruń</description><Point><coordinates>18.606437,53.195200</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JARANOWSKI Wojciech PiS</name><description>Włocławek PiS Toruń</description><Point><coordinates>19.057540,52.677168</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GIRZYŃSKI Zbigniew PiS</name><description>Toruń PiS Toruń</description><Point><coordinates>18.605419,53.015482</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STEFANIAK Arkadiusz Andrzej PiS</name><description>Chełmno PiS Toruń</description><Point><coordinates>18.485440,53.349712</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STRYCH Marcin PiS</name><description>Ciechocinek PiS Toruń</description><Point><coordinates>18.793107,52.885259</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOSIŃSKI Krzysztof Roman PiS</name><description>Grudziądz PiS Toruń</description><Point><coordinates>18.778641,53.475896</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TYBURSKI Jacek Aleksander PiS</name><description>Brodnica PiS Toruń</description><Point><coordinates>19.406403,53.264176</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZWED Anna Bożena PiS</name><description>Unisław PiS Toruń</description><Point><coordinates>18.366484,53.227161</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ORŁOWSKI Arkadiusz PiS</name><description>Brzozie PiS Toruń</description><Point><coordinates>19.602478,53.302135</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JASZCZAK Edyta Maria BEZP</name><description>Aleksandrów Kujawski PiS Toruń</description><Point><coordinates>18.662792,52.860227</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SADURSKI Piotr PiS</name><description>Toruń PiS Toruń</description><Point><coordinates>18.619261,53.012861</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KLIMEK Łukasz Szymon PiS</name><description>Ryńsk PiS Toruń</description><Point><coordinates>18.911578,53.265366</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KLIMASZEWSKA-ANTOS Ewa Zofia BEZP</name><description>Radziejów PiS Toruń</description><Point><coordinates>18.561838,52.633801</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KŁOSOWSKI Ziemowit Zawisza PiS</name><description>Rogowo PiS Toruń</description><Point><coordinates>19.418085,52.982946</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOMOROWSKI Paweł PiS</name><description>Lipno PiS Toruń</description><Point><coordinates>19.176777,52.845429</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KALISZEWSKA Alina Katarzyna BEZP</name><description>Rogóźno PiS Toruń</description><Point><coordinates>18.932226,53.548813</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WARNEL Zbigniew Dariusz PiS</name><description>Golub-Dobrzyń PiS Toruń</description><Point><coordinates>19.100373,53.137624</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RATYŃSKA-DRABCZAK Izabela Iwona PiS</name><description>Fabianki PiS Toruń</description><Point><coordinates>19.096315,52.720153</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DRAB Marzenna Stefania PiS</name><description>Grudziądz PiS Toruń</description><Point><coordinates>18.773688,53.479165</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TUŁAJEW Sylwester Karol PiS</name><description>Lublin PiS Lublin</description><Point><coordinates>22.540078,51.207784</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZARNEK Przemysław PiS</name><description>Jastków PiS Lublin</description><Point><coordinates>22.408515,51.299556</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MASŁOWSKA Gabriela BEZP</name><description>Lublin PiS Lublin</description><Point><coordinates>22.565373,51.223503</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOBOŃ Artur PiS</name><description>Świdnik (a) PiS Lublin</description><Point><coordinates>22.680843,51.209302</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SPRAWKA Lech Stanisław PiS</name><description>Konopnica PiS Lublin</description><Point><coordinates>22.425455,51.213982</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZULOWSKI Krzysztof PiS</name><description>Janowiec PiS Lublin</description><Point><coordinates>21.883923,51.332652</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GŁUCHOWSKI Krzysztof PiS</name><description>Łuków PiS Lublin</description><Point><coordinates>22.351019,51.936467</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKWAREK Sławomir PiS</name><description>Adamów PiS Lublin</description><Point><coordinates>22.214211,51.705853</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAŁASKA Adam Krzysztof PiS</name><description>Ryki PiS Lublin</description><Point><coordinates>21.950844,51.620063</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIELECKI Jerzy Feliks PiS</name><description>Janów Lubelski PiS Lublin</description><Point><coordinates>22.394272,50.664299</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOGACKA Teresa PorozumienieJarosławaGowina</name><description>Lublin PiS Lublin</description><Point><coordinates>22.585450,51.211853</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FILIPEK-SOBCZAK Magdalena PiS</name><description>Jastków PiS Lublin</description><Point><coordinates>22.409282,51.293392</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALCZYK Leszek PiS</name><description>Ryki PiS Lublin</description><Point><coordinates>21.961268,51.611435</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHOMA Kazimierz Bogusław PiS</name><description>Kraśnik PiS Lublin</description><Point><coordinates>22.212746,50.950934</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJCIECHOWSKI Marek Grzegorz PiS</name><description>Wojciechów PiS Lublin</description><Point><coordinates>22.236935,51.232022</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PITUCHA Tomasz Zbigniew PiS</name><description>Lublin PiS Lublin</description><Point><coordinates>22.555922,51.219609</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JUREK Arkadiusz BEZP</name><description>Trawniki PiS Lublin</description><Point><coordinates>22.986254,51.144901</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PATKOWSKI Piotr Andrzej BEZP</name><description>Lublin PiS Lublin</description><Point><coordinates>22.559001,51.205217</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZAŁAS Jolanta BEZP</name><description>Wilków PiS Lublin</description><Point><coordinates>21.894071,51.249085</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PRUSZKOWSKI Andrzej Marek PiS</name><description>Lublin PiS Lublin</description><Point><coordinates>22.541364,51.225088</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZYBAŁA Ewa PiS</name><description>Lubartów PiS Lublin</description><Point><coordinates>22.589307,51.450140</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PODKAŃSKI Krzysztof Piotr członek partii politycznej: Stronnictwo „Piast”</name><description>Głusk PiS Lublin</description><Point><coordinates>22.582240,51.165543</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZCZYPA Renata Maria PiS</name><description>Puławy PiS Lublin</description><Point><coordinates>21.979256,51.428941</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARANOWSKA Dorota PiS</name><description>Wólka PiS Lublin</description><Point><coordinates>22.680294,51.279701</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZAŁACHWIEJ Ewa BEZP</name><description>Krasnystaw PiS Lublin</description><Point><coordinates>23.173376,50.994933</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKRZAT Dorota PiS</name><description>Annopol PiS Lublin</description><Point><coordinates>21.892880,50.875547</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>UDRYCKA Magdalena Sylwia BEZP</name><description>Wólka PiS Lublin</description><Point><coordinates>22.681400,51.283778</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚPIEWAK Radosław Marian PiS</name><description>Opole Lubelskie PiS Lublin</description><Point><coordinates>21.988886,51.120865</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DUDA Ilona Ewelina PiS</name><description>Nałęczów PiS Lublin</description><Point><coordinates>22.235893,51.307532</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KANTHAK Jan Jakub BEZP</name><description>Gdańsk (ab) PiS Lublin</description><Point><coordinates>18.690042,54.355983</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SASIN Jacek Robert PiS</name><description>Ząbki PiS Chełm</description><Point><coordinates>21.114963,52.297788</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAWIŚLAK Sławomir PiS</name><description>Zamość PiS Chełm</description><Point><coordinates>23.207786,50.705405</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DUSZEK Marcin Kamil PiS</name><description>Międzyrzec Podlaski PiS Chełm</description><Point><coordinates>22.780907,51.986076</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HAŁAS Teresa PiS</name><description>Izbica PiS Chełm</description><Point><coordinates>23.152421,50.893885</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIELIŃSKI Tomasz Andrzej PiS</name><description>Tomaszów Lubelski PiS Chełm</description><Point><coordinates>23.423985,50.443627</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STEFANIUK Dariusz Paweł PiS</name><description>Biała Podlaska PiS Chełm</description><Point><coordinates>23.140009,52.029878</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROMANOWSKI Marcin SolidarnaPolska</name><description>Biłgoraj PiS Chełm</description><Point><coordinates>22.716407,50.544086</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CICHOSZ Lucjan PiS</name><description>Żółkiewka PiS Chełm</description><Point><coordinates>22.843465,50.892272</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZWED Zdzisław PiS</name><description>Chełm PiS Chełm</description><Point><coordinates>23.491608,51.131063</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKIBA Leszek Marcin PiS</name><description>Mst Warszawa (a) PiS Chełm</description><Point><coordinates>21.090747,52.216232</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GMYZ Maria BEZP</name><description>Zamość PiS Chełm</description><Point><coordinates>23.252251,50.727075</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GMITRUCZUK Robert PiS</name><description>Komarówka Podlaska PiS Chełm</description><Point><coordinates>22.947688,51.831497</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STRZAŁKA Beata Małgorzata PiS</name><description>Biłgoraj PiS Chełm</description><Point><coordinates>22.707006,50.540658</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAŁASZKIEWICZ Krzysztof Jan PiS</name><description>Sitno PiS Chełm</description><Point><coordinates>23.384907,50.741970</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAWICKI Konrad Bernard PiS</name><description>Świdnik (a) PiS Chełm</description><Point><coordinates>22.681855,51.224230</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUSIAK-JANIEC Anna PiS</name><description>Hrubieszów (c) PiS Chełm</description><Point><coordinates>23.892874,50.803805</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZWAJ Jerzy Ryszard PiS</name><description>Parczew PiS Chełm</description><Point><coordinates>22.916144,51.599345</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARSZCZEWSKA Barbara Aldona BEZP</name><description>Biała Podlaska PiS Chełm</description><Point><coordinates>23.130843,52.029008</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHMIELEWSKA Iwona PiS</name><description>Kąkolewnica PiS Chełm</description><Point><coordinates>22.657880,51.900233</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAŃKO Mariusz Artur BEZP</name><description>Włodawa PiS Chełm</description><Point><coordinates>23.534711,51.537699</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZARNECKA Halina PiS</name><description>Tarnawatka PiS Chełm</description><Point><coordinates>23.392715,50.526150</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MISZTAL Stanisław PorozumienieJarosławaGowina</name><description>Zamość PiS Chełm</description><Point><coordinates>23.246335,50.721616</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIEKARSKA Agnieszka PiS</name><description>Parczew PiS Chełm</description><Point><coordinates>22.913456,51.602741</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DĄBROWSKA-BANASZEK Anna BEZP</name><description>Chełm PiS Chełm</description><Point><coordinates>23.491023,51.128290</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>AST Marek PiS</name><description>Wschowa PiS Zielona Góra</description><Point><coordinates>16.288040,51.814357</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DAJCZAK Władysław PiS</name><description>Strzelce Krajeńskie PiS Zielona Góra</description><Point><coordinates>15.486578,52.904718</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MATERNA Jerzy Marian PiS</name><description>Zielona Góra (a) PiS Zielona Góra</description><Point><coordinates>15.525803,51.922672</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PŁONKA Elżbieta Teresa PiS</name><description>Gorzów Wielkopolski PiS Zielona Góra</description><Point><coordinates>15.221303,52.733668</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KURZĘPA Jacek Sławomir PiS</name><description>Krosno Odrzańskie PiS Zielona Góra</description><Point><coordinates>15.098779,52.054483</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>IWAN Stanisław Antoni PorozumienieJarosławaGowina</name><description>Zielona Góra (a) PiS Zielona Góra</description><Point><coordinates>15.530977,51.931112</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIECZOREK Andrzej Leszek PiS</name><description>Nowa Sól PiS Zielona Góra</description><Point><coordinates>15.709824,51.808371</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GANCARZ Ewa Danuta PiS</name><description>Szprotawa PiS Zielona Góra</description><Point><coordinates>15.600070,51.570068</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARCZAK Piotr PiS</name><description>Zielona Góra (a) PiS Zielona Góra</description><Point><coordinates>15.526138,51.925271</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOŚNIOWSKA-KOLA Małgorzata Barbara PiS</name><description>Wschowa PiS Zielona Góra</description><Point><coordinates>16.287556,51.812098</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WERSTLER-WOJTASZEK Joanna Magdalena PiS</name><description>Żary PiS Zielona Góra</description><Point><coordinates>15.148400,51.628306</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MOLICKA Anita Agnieszka PiS</name><description>Świebodzin PiS Zielona Góra</description><Point><coordinates>15.527542,52.240799</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RAFALSKI Tomasz Rafał PiS</name><description>Gorzów Wielkopolski PiS Zielona Góra</description><Point><coordinates>15.222994,52.727982</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TRZPIS Gabriela Marianna PiS</name><description>Sulęcin PiS Zielona Góra</description><Point><coordinates>15.207583,52.439141</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PORWICH Jarosław BEZP</name><description>Gorzów Wielkopolski PiS Zielona Góra</description><Point><coordinates>15.221299,52.738785</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRABAREK Grzegorz PiS</name><description>Bledzew PiS Zielona Góra</description><Point><coordinates>15.410900,52.519834</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZUŁCIK Alicja PiS</name><description>Kargowa PiS Zielona Góra</description><Point><coordinates>15.871944,52.065505</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JASZCZ Mieczysław PiS</name><description>Kostrzyn nad Odrą PiS Zielona Góra</description><Point><coordinates>14.642315,52.611684</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RONOWICZ Bożena PiS</name><description>Zielona Góra (a) PiS Zielona Góra</description><Point><coordinates>15.520967,51.927984</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GÓRSKA Anna BEZP</name><description>Słubice PiS Zielona Góra</description><Point><coordinates>14.637858,52.363042</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUJTKOWSKA Marzanna Nina PiS</name><description>Zielona Góra (a) PiS Zielona Góra</description><Point><coordinates>15.507825,51.927325</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SŁOMIŃSKA Urszula Kazimiera PiS</name><description>Żagań PiS Zielona Góra</description><Point><coordinates>15.315904,51.614961</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZERNIAWSKI Krzysztof Władysław PiS</name><description>Lubsko PiS Zielona Góra</description><Point><coordinates>14.980196,51.819235</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIEŃKOWSKI Sebastian PiS</name><description>Gorzów Wielkopolski PiS Zielona Góra</description><Point><coordinates>15.211189,52.723721</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GLIŃSKI Piotr Tadeusz PiS</name><description>Mst Warszawa (a) PiS Łódź</description><Point><coordinates>21.026536,52.220456</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RAU Zbigniew Włodzimierz BEZP</name><description>Zgierz PiS Łódź</description><Point><coordinates>19.383873,51.937894</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUDA Waldemar Grzegorz PiS</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.462617,51.748541</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ADAMCZYK Piotr PiS</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.485355,51.784015</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FISIAK Włodzimierz PorozumienieJarosławaGowina</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.490959,51.756548</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACZOROWSKA Alicja Grażyna PiS</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.500102,51.751078</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SASIN Roman PiS</name><description>Brzeziny PiS Łódź</description><Point><coordinates>19.752104,51.802749</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CIEPLUCHA Piotr Paweł BEZP</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.471223,51.758400</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOBIERA Renata Agnieszka PiS</name><description>Brzeziny PiS Łódź</description><Point><coordinates>19.734656,51.818036</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAKUBOWSKI Jacek Grzegorz PiS</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.452096,51.760524</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WĘCŁAW Halina PiS</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.486396,51.745809</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ANIELAK Tomasz Lucjan PiS</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.478259,51.776086</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁUCZYŃSKA Justyna Aleksandra PiS</name><description>Rzgów PiS Łódź</description><Point><coordinates>19.512740,51.659533</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIETRZAK Sławomir PiS</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.483391,51.750780</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LIK Krzysztof Jerzy PiS</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.496978,51.781856</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PRZYBYŁ Anna PiS</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.492930,51.795760</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEWANDOWSKA Barbara PiS</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.491815,51.762124</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>EMANUEL Sławomir PiS</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.483222,51.779788</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARDAS Paulina Marianna PiS</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.488718,51.792528</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TOMASZEWSKI Włodzimierz PorozumienieJarosławaGowina</name><description>Łódź (a) PiS Łódź</description><Point><coordinates>19.502748,51.763593</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MACIEREWICZ Antoni PiS</name><description>Mst Warszawa (a) PiS Piotrków Trybunalski</description><Point><coordinates>21.057939,52.218097</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJCIECHOWSKI Grzegorz Michał PiS</name><description>Regnów PiS Piotrków Trybunalski</description><Point><coordinates>20.390048,51.731255</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TELUS Robert PiS</name><description>Opoczno PiS Piotrków Trybunalski</description><Point><coordinates>20.312128,51.414073</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MILCZANOWSKA Anna Maria PiS</name><description>Radomsko PiS Piotrków Trybunalski</description><Point><coordinates>19.437959,51.077000</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DRÓŻDŻ Beata Zofia PiS</name><description>Piotrków Trybunalski PiS Piotrków Trybunalski</description><Point><coordinates>19.710125,51.413084</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LOREK Grzegorz Andrzej PiS</name><description>Piotrków Trybunalski PiS Piotrków Trybunalski</description><Point><coordinates>19.710562,51.419878</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUBIAK Dariusz Jan PiS</name><description>Bełchatów PiS Piotrków Trybunalski</description><Point><coordinates>19.359048,51.361389</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WENDROWSKA Ewa Beata SolidarnaPolska</name><description>Tomaszów Mazowiecki PiS Piotrków Trybunalski</description><Point><coordinates>20.026377,51.517852</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MACIEJEWSKI Krzysztof PiS</name><description>Radomsko PiS Piotrków Trybunalski</description><Point><coordinates>19.437118,51.066023</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JANOWSKA Małgorzata Monika PiS</name><description>Bełchatów PiS Piotrków Trybunalski</description><Point><coordinates>19.365829,51.362709</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OZGA-FLEJSZER Beata Ewa BEZP</name><description>Skierniewice PiS Piotrków Trybunalski</description><Point><coordinates>20.159431,51.955875</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WYCZACHOWSKI Waldemar PiS</name><description>Kleszczów PiS Piotrków Trybunalski</description><Point><coordinates>19.297428,51.242341</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJCIECHOWSKA Martyna Olga PiS</name><description>Ujazd PiS Piotrków Trybunalski</description><Point><coordinates>19.912315,51.602497</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAŁEK Paweł BEZP</name><description>Maków PiS Piotrków Trybunalski</description><Point><coordinates>20.011237,51.952513</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WYSOCKA Agnieszka Katarzyna PiS</name><description>Bełchatów PiS Piotrków Trybunalski</description><Point><coordinates>19.358616,51.349299</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MISZTAL Dariusz Adam PiS</name><description>Rawa Mazowiecka PiS Piotrków Trybunalski</description><Point><coordinates>20.252694,51.761599</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIEMBA Zbigniew Jan PiS</name><description>Wola Krzysztoporska PiS Piotrków Trybunalski</description><Point><coordinates>19.564112,51.347886</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CIECIÓRA Krzysztof Jan PorozumienieJarosławaGowina</name><description>Radomsko PiS Piotrków Trybunalski</description><Point><coordinates>19.447648,51.071082</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LICHOCKA Joanna Katarzyna PiS</name><description>Mst Warszawa (a) PiS Sieradz</description><Point><coordinates>21.107208,52.259782</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POLAK Piotr Stanisław PiS</name><description>Zadzim PiS Sieradz</description><Point><coordinates>18.904350,51.786507</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOŹNIAK Tadeusz Jacek SolidarnaPolska</name><description>Krzyżanów PiS Sieradz</description><Point><coordinates>19.441317,52.171818</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MATEUSIAK-PIELUCHA Beata Anna PiS</name><description>Działoszyn PiS Sieradz</description><Point><coordinates>18.851694,51.118785</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CIEBIADA Krzysztof PiS</name><description>Pabianice PiS Sieradz</description><Point><coordinates>19.361145,51.669725</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RZYMKOWSKI Tomasz Piotr BEZP</name><description>Kutno PiS Sieradz</description><Point><coordinates>19.380452,52.221495</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RYCHLIK Paweł Piotr PiS</name><description>Wieluń PiS Sieradz</description><Point><coordinates>18.580535,51.221261</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MATUSZEWSKI Marek PiS</name><description>Zgierz PiS Sieradz</description><Point><coordinates>19.394860,51.858122</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIECZOREK Iwona Małgorzata BEZP</name><description>Zgierz PiS Sieradz</description><Point><coordinates>19.391626,51.852938</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GÓRCZYŃSKI Andrzej Robert BEZP</name><description>Bedlno PiS Sieradz</description><Point><coordinates>19.607014,52.174946</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RZYMKOWSKA Ewa PiS</name><description>Kutno PiS Sieradz</description><Point><coordinates>19.366523,52.218199</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWAK Krzysztof Jan BEZP</name><description>Szadek PiS Sieradz</description><Point><coordinates>18.950752,51.712639</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRZAK Michał Bazyli PiS</name><description>Lututów PiS Sieradz</description><Point><coordinates>18.460191,51.347422</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOŁOSZCZYK Olga Anna PiS</name><description>Błaszki PiS Sieradz</description><Point><coordinates>18.447518,51.642758</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAPROTA Katarzyna PiS</name><description>Złoczew PiS Sieradz</description><Point><coordinates>18.620140,51.412659</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAŁKA Mariusz PiS</name><description>Działoszyn PiS Sieradz</description><Point><coordinates>18.851735,51.109793</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WALCZAK Sławomir BEZP</name><description>Buczek PiS Sieradz</description><Point><coordinates>19.167874,51.518782</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHADRYŚ Iwona PiS</name><description>Łubnice PiS Sieradz</description><Point><coordinates>18.282729,51.171547</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TWARDOWSKA Monika Malwina PiS</name><description>Łęczyca PiS Sieradz</description><Point><coordinates>19.152796,52.069941</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RATYŃSKA Elżbieta Beata PiS</name><description>Pabianice PiS Sieradz</description><Point><coordinates>19.359120,51.668496</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WRZAŁA Sylwia Marianna PiS</name><description>Wierzchlas PiS Sieradz</description><Point><coordinates>18.730543,51.164402</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAŹMIERCZAK Wieńczysław Jerzy PiS</name><description>Poddębice PiS Sieradz</description><Point><coordinates>18.902010,51.888099</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KALETA Paweł Tomasz BEZP</name><description>Opatówek PiS Sieradz</description><Point><coordinates>18.227482,51.747996</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJCIECHOWSKI Waldemar Jan PiS</name><description>Kocierzew Południowy PiS Sieradz</description><Point><coordinates>20.016497,52.202340</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOCHENEK Rafał Paweł BEZP</name><description>Wieliczka PiS Kraków</description><Point><coordinates>20.057337,49.981176</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POLAK Marek Władysław PiS</name><description>Andrychów PiS Kraków</description><Point><coordinates>19.369597,49.825934</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIERNAT Zbigniew Stanisław PiS</name><description>Zator PiS Kraków</description><Point><coordinates>19.447578,49.992065</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FILIPIAK Ewa Maria PiS</name><description>Wadowice PiS Kraków</description><Point><coordinates>19.522153,49.854786</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOZIK Krzysztof Janusz PiS</name><description>Libiąż PiS Kraków</description><Point><coordinates>19.313859,50.083462</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HAJOS Sławomir Paweł PiS</name><description>Zawoja PiS Kraków</description><Point><coordinates>19.572704,49.633836</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUROWSKI Władysław Michał BEZP</name><description>Myślenice PiS Kraków</description><Point><coordinates>19.948509,49.855177</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STARZEC Zbigniew Władysław PiS</name><description>Oświęcim PiS Kraków</description><Point><coordinates>19.256490,50.033077</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GIBAS Iwona Józefa BEZP</name><description>Brzeszcze PiS Kraków</description><Point><coordinates>19.145888,49.973483</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KASPROWSKI Wojciech Marcin PorozumienieJarosławaGowina</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>20.005979,50.020326</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAJKA Jolanta Maria PiS</name><description>Raciechowice PiS Kraków</description><Point><coordinates>20.167799,49.841109</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACZYŃSKI Filip Roman PiS</name><description>Wadowice PiS Kraków</description><Point><coordinates>19.534069,49.851386</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚWIERKOSZ Grażyna BEZP</name><description>Stryszawa PiS Kraków</description><Point><coordinates>19.474729,49.727699</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KASPRZYCKA Stanisława Marzena PiS</name><description>Wiśniowa PiS Kraków</description><Point><coordinates>20.093315,49.779551</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TROJANOWSKA Grażyna PiS</name><description>Chrzanów PiS Kraków</description><Point><coordinates>19.388974,50.136413</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DUDA Roman Wincenty BEZP</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>20.025109,50.053545</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WASSERMANN Małgorzata Ewa BEZP</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>20.011690,50.070624</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TERLECKI Ryszard Iwon PiS</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>19.983121,50.020946</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ADAMCZYK Andrzej Mieczysław PiS</name><description>Krzeszowice PiS Kraków</description><Point><coordinates>19.623408,50.130556</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUBULA Barbara Ewa PiS</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>20.001881,50.013838</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OSUCH Jacek Piotr PiS</name><description>Olkusz PiS Kraków</description><Point><coordinates>19.589471,50.267173</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ĆWIK Piotr Krzysztof PiS</name><description>Skawina PiS Kraków</description><Point><coordinates>19.763422,49.941671</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DUDA Elżbieta PiS</name><description>Skała PiS Kraków</description><Point><coordinates>19.861023,50.227956</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚWIERCZEK Krzysztof PiS</name><description>Miechów PiS Kraków</description><Point><coordinates>20.072492,50.359174</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAMROT Piotr Tadeusz PiS</name><description>Wolbrom PiS Kraków</description><Point><coordinates>19.744352,50.390893</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIOBRO Jan Paweł SolidarnaPolska</name><description>Niepołomice PiS Kraków</description><Point><coordinates>20.240692,50.036274</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PODOSEK Adam Piotr PiS</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>19.989756,50.059241</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DANIOŁ Ewa PiS</name><description>Kozłów PiS Kraków</description><Point><coordinates>20.003061,50.475219</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DOPART Bogusław Jan BEZP</name><description>Wieliczka PiS Kraków</description><Point><coordinates>20.053215,49.984236</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SERAFIN Piotr Karol BEZP</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>20.016282,50.046242</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWAK Stanisław Andrzej BEZP</name><description>Kocmyrzów-Luborzyca PiS Kraków</description><Point><coordinates>20.114065,50.156253</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STANOWSKA-CICHOŃ Bogusława Maria BEZP</name><description>Wieliczka PiS Kraków</description><Point><coordinates>20.055329,49.974647</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUŚ Rafał Andrzej PiS</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>19.984046,50.017317</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FRANKIEWICZ Krystyna Anna PiS</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>20.000171,50.038575</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUDKOWSKA Anna Maria BEZP</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>19.985164,50.071462</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAŁUŻA Szymon Franciszek PiS</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>19.977485,50.036493</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACZMARCZYK Magdalena Maria PiS</name><description>Igołomia-Wawrzeńczyce PiS Kraków</description><Point><coordinates>20.268445,50.107436</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FIRLEJ Paweł Jacek BEZP</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>20.000424,50.021454</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PĘK Bogdan Marek PiS</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>20.027944,50.023398</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOSECKA Justyna Natalia BEZP</name><description>Łososina Dolna PiS Kraków</description><Point><coordinates>20.626265,49.737875</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GĘGOTEK Zbigniew PiS</name><description>Olkusz PiS Kraków</description><Point><coordinates>19.590176,50.266589</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRUSZKA Stanisław Piotr PiS</name><description>Mogilany PiS Kraków</description><Point><coordinates>19.887715,49.943555</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BĘTKOWSKA Monika BEZP</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>20.010245,50.024968</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOWIN Jarosław Adam PorozumienieJarosławaGowina</name><description>Kraków (a) PiS Kraków</description><Point><coordinates>19.973994,50.029082</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MULARCZYK Arkadiusz PiS</name><description>Nowy Sącz PiS Nowy Sącz</description><Point><coordinates>20.704703,49.612630</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PALUCH Anna PiS</name><description>Krościenko nad Dunajcem PiS Nowy Sącz</description><Point><coordinates>20.395461,49.450419</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARTUŚ Barbara Halina PiS</name><description>Lipinki PiS Nowy Sącz</description><Point><coordinates>21.296615,49.657574</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JANCZYK Wiesław Stanisław PiS</name><description>Limanowa PiS Nowy Sącz</description><Point><coordinates>20.440012,49.727652</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIARKA Edward SolidarnaPolska</name><description>Raba Wyżna PiS Nowy Sącz</description><Point><coordinates>19.861261,49.572654</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEŚNIAK Józef Krzysztof PiS</name><description>Chełmiec PiS Nowy Sącz</description><Point><coordinates>20.694576,49.650634</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DUDA Jan Wiesław PiS</name><description>Chełmiec PiS Nowy Sącz</description><Point><coordinates>20.691923,49.647898</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PICZURA Jan PiS</name><description>Kościelisko PiS Nowy Sącz</description><Point><coordinates>19.849012,49.272551</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GUT-MOSTOWY Andrzej Józef PorozumienieJarosławaGowina</name><description>Zakopane PiS Nowy Sącz</description><Point><coordinates>19.974245,49.280617</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIEDROŃ Grzegorz Janusz PiS</name><description>Limanowa PiS Nowy Sącz</description><Point><coordinates>20.409814,49.710862</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WICHER Patryk Tomasz PiS</name><description>Nowy Sącz PiS Nowy Sącz</description><Point><coordinates>20.709147,49.611462</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIELIŃSKA Elżbieta Joanna BEZP</name><description>Gorlice PiS Nowy Sącz</description><Point><coordinates>21.150504,49.654514</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NIKA Zofia PiS</name><description>Korzenna PiS Nowy Sącz</description><Point><coordinates>20.838436,49.699088</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FILIPIAK Ewa PiS</name><description>Mszana Dolna PiS Nowy Sącz</description><Point><coordinates>20.118297,49.656324</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TYLKA Grażyna Katarzyna BEZP</name><description>Nowy Targ PiS Nowy Sącz</description><Point><coordinates>20.046401,49.491299</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WALICKI Tomasz Stanisław PiS</name><description>Grybów PiS Nowy Sącz</description><Point><coordinates>20.958932,49.614946</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ADAMCZYK Marta PiS</name><description>Muszyna PiS Nowy Sącz</description><Point><coordinates>20.903865,49.365029</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PARUCH Zygmunt Jan PiS</name><description>Gródek nad Dunajcem PiS Nowy Sącz</description><Point><coordinates>20.739664,49.750182</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEKSANDER Bartosz PiS</name><description>Spytkowice PiS Nowy Sącz</description><Point><coordinates>19.813046,49.574514</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZUBEK Marcin Marian BEZP</name><description>Zakopane PiS Nowy Sącz</description><Point><coordinates>19.979515,49.278718</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIECZARKA Anna Maria PiS</name><description>Tarnów PiS Tarnów</description><Point><coordinates>21.025936,49.999200</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZCZUREK-ŻELAZKO Józefa PiS</name><description>Kamionka Wielka PiS Tarnów</description><Point><coordinates>20.833922,49.581594</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJTKIEWICZ Michał Jan PiS</name><description>Tuchów PiS Tarnów</description><Point><coordinates>21.051960,49.886340</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RUSECKA Urszula Beata PiS</name><description>Wieliczka PiS Tarnów</description><Point><coordinates>20.063126,49.979374</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAJEWSKI Wiesław PiS</name><description>Dąbrowa Tarnowska PiS Tarnów</description><Point><coordinates>21.019221,50.179930</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAK Piotr Paweł SolidarnaPolska</name><description>Tarnów PiS Tarnów</description><Point><coordinates>20.977523,50.021755</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZECH Anna Małgorzata PiS</name><description>Tarnów PiS Tarnów</description><Point><coordinates>20.989135,50.025773</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUKOWIEC Stanisław Marcin PorozumienieJarosławaGowina</name><description>Bochnia PiS Tarnów</description><Point><coordinates>20.429382,49.980013</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAJĄC Mariusz Artur PiS</name><description>Bochnia PiS Tarnów</description><Point><coordinates>20.429287,49.976499</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACZMARCZYK Norbert Jakub BEZP</name><description>Proszowice PiS Tarnów</description><Point><coordinates>20.373970,50.204085</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SORYS Jarosław Jan PiS</name><description>Brzesko PiS Tarnów</description><Point><coordinates>20.626538,49.981829</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WAJDA Piotr BEZP</name><description>Gdów PiS Tarnów</description><Point><coordinates>20.215084,49.923472</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JACEWICZ Celina Joanna PiS</name><description>Łapanów PiS Tarnów</description><Point><coordinates>20.307118,49.858459</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAŚKO Małgorzata Anna BEZP</name><description>Tarnów PiS Tarnów</description><Point><coordinates>20.969253,50.029473</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOPCZYŃSKA Magdalena Anna PiS</name><description>Skrzyszów PiS Tarnów</description><Point><coordinates>21.104626,49.990265</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻUROWSKI Kazimierz Józef PiS</name><description>Tarnów PiS Tarnów</description><Point><coordinates>20.974684,50.020224</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIETRUSZKA Dariusz Piotr PiS</name><description>Kraków (a) PiS Tarnów</description><Point><coordinates>20.002407,50.063716</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKRUCH Wojciech PiS</name><description>Tuchów PiS Tarnów</description><Point><coordinates>21.047212,49.884987</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZUMOWSKI Łukasz Jan BEZP</name><description>Mst Warszawa (a) PiS Płock</description><Point><coordinates>21.032686,52.193922</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAŁECKI Maciej PiS</name><description>Sochaczew PiS Płock</description><Point><coordinates>20.242151,52.235787</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WĄSIK Maciej Roman PiS</name><description>Mst Warszawa (a) PiS Płock</description><Point><coordinates>21.094980,52.189440</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OPIOŁA Marek PiS</name><description>Mst Warszawa (a) PiS Płock</description><Point><coordinates>21.067161,52.194247</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CICHOLSKA Anna Ewa PiS</name><description>Regimin PiS Płock</description><Point><coordinates>20.581463,52.947292</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OLEJNICZAK Waldemar Ryszard PiS</name><description>Sierpc PiS Płock</description><Point><coordinates>19.659789,52.855438</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOŁAKOWSKI Robert Jerzy PiS</name><description>Ciechanów PiS Płock</description><Point><coordinates>20.611306,52.865923</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROMANOWSKI Rafał PiS</name><description>Maków Mazowiecki PiS Płock</description><Point><coordinates>21.094285,52.865266</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OZDOBA Jacek Dawid BEZP</name><description>Mst Warszawa (a) PiS Płock</description><Point><coordinates>21.042844,52.279145</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIEŃKOWSKI Krzysztof PiS</name><description>Przasnysz PiS Płock</description><Point><coordinates>20.883520,53.019384</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAJEWSKA Maria Bożena PiS</name><description>Gostynin PiS Płock</description><Point><coordinates>19.411538,52.429754</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAZURSKA Marlena PiS</name><description>Gąbin PiS Płock</description><Point><coordinates>19.762835,52.415846</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KIEŁBIŃSKI Marek PiS</name><description>Mława PiS Płock</description><Point><coordinates>20.378039,53.132867</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KULPA Wioletta Maria PiS</name><description>Płock PiS Płock</description><Point><coordinates>19.726091,52.530783</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEŚNIEWSKA Ewa Anna PiS</name><description>Żuromin PiS Płock</description><Point><coordinates>19.902925,53.048578</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHOIŃSKI Łukasz PiS</name><description>Żyrardów PiS Płock</description><Point><coordinates>20.439649,52.051526</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARZĘDA-PRZYBYSZ Beata Katarzyna BEZP</name><description>Żyrardów PiS Płock</description><Point><coordinates>20.434860,52.056228</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUŹNIEWSKA Elżbieta BEZP</name><description>Raciąż PiS Płock</description><Point><coordinates>20.112892,52.785312</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARPIŃSKA Jolanta PiS</name><description>Szydłowo PiS Płock</description><Point><coordinates>20.488368,53.085245</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HUMIĘCKI Waldemar Paweł PiS</name><description>Mst Warszawa (a) PiS Płock</description><Point><coordinates>21.066484,52.188802</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SUSKI Marek PiS</name><description>Grójec PiS Radom</description><Point><coordinates>20.888850,51.880044</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FOGIEL Radosław Aleksander PiS</name><description>Radom (a) PiS Radom</description><Point><coordinates>21.151805,51.430350</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KWIECIEŃ Anna BEZP</name><description>Radom (a) PiS Radom</description><Point><coordinates>21.171580,51.423636</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOSZTOWNIAK Andrzej Tomasz PiS</name><description>Radom (a) PiS Radom</description><Point><coordinates>21.157027,51.414632</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BĄK Dariusz BEZP</name><description>Białobrzegi PiS Radom</description><Point><coordinates>20.967420,51.635801</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIAŁECKA Ewa BEZP</name><description>Odrzywół PiS Radom</description><Point><coordinates>20.506876,51.546511</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GÓRSKA Agnieszka Beata PiS</name><description>Szydłowiec PiS Radom</description><Point><coordinates>20.833373,51.243219</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>REJCZAK Jan BEZP</name><description>Radom (a) PiS Radom</description><Point><coordinates>21.150463,51.417995</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARKOWSKA-BZDUCHA Ewa Iwona PiS</name><description>Wolanów PiS Radom</description><Point><coordinates>20.954832,51.384783</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARGAS Leszek Tadeusz BEZP</name><description>Zakrzew PiS Radom</description><Point><coordinates>21.021761,51.443147</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MICHAŁOWSKA Aurelia Bogusława BEZP</name><description>Radom (a) PiS Radom</description><Point><coordinates>21.138112,51.415762</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PACZYŃSKA Dorota Jolanta PiS</name><description>Iłża PiS Radom</description><Point><coordinates>21.260650,51.156026</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUREK Karol PiS</name><description>Rzeczniów PiS Radom</description><Point><coordinates>21.397679,51.127950</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOŁAGA Kinga Anna PiS</name><description>Tczów PiS Radom</description><Point><coordinates>21.446296,51.331062</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIUBA Mariusz Jakub PiS</name><description>Nowe Miasto nad Pilicą PiS Radom</description><Point><coordinates>20.523401,51.624329</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIERZEJEWSKI Łukasz PiS</name><description>Jedlnia-Letnisko PiS Radom</description><Point><coordinates>21.314963,51.420627</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁUKASIEWICZ Marcin Wojciech PiS</name><description>Kozienice PiS Radom</description><Point><coordinates>21.529276,51.603228</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STRZEŻEK Jan Longin PorozumienieJarosławaGowina</name><description>Mst Warszawa (a) PiS Radom</description><Point><coordinates>21.051453,52.190469</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TCHÓRZEWSKI Krzysztof Józef PiS</name><description>Siedlce PiS Siedlce</description><Point><coordinates>22.272185,52.158064</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALCZYK Henryk PiS</name><description>Winnica PiS Siedlce</description><Point><coordinates>20.922614,52.635522</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZARTORYSKI Arkadiusz PiS</name><description>Ostrołęka PiS Siedlce</description><Point><coordinates>21.584036,53.070992</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAGÓRSKI Marek Tadeusz PiS</name><description>Mst Warszawa (a) PiS Siedlce</description><Point><coordinates>21.077995,52.216376</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WARGOCKA Teresa Anna PiS</name><description>Mińsk Mazowiecki PiS Siedlce</description><Point><coordinates>21.552833,52.171985</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOŹNIAK Grzegorz Adam PiS</name><description>Pilawa PiS Siedlce</description><Point><coordinates>21.540590,51.985911</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIARKOWSKA Anna Maria członek partii politycznej: Partia Republikańska</name><description>Siedlce PiS Siedlce</description><Point><coordinates>22.283536,52.157597</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GÓRSKI Maciej PiS</name><description>Korytnica PiS Siedlce</description><Point><coordinates>21.807527,52.421121</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKRZYPEK Dorota BEZP</name><description>Wieliszew PiS Siedlce</description><Point><coordinates>20.879388,52.446553</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻUKOWSKI Jerzy PiS</name><description>Brańszczyk PiS Siedlce</description><Point><coordinates>21.630829,52.664934</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAWELCZYK Bartosz BEZP</name><description>Ostrołęka PiS Siedlce</description><Point><coordinates>21.583646,53.077757</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GROMADZKI Marek Łukasz PiS</name><description>Huszlew PiS Siedlce</description><Point><coordinates>22.833657,52.124996</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KURKUS Bartłomiej PiS</name><description>Kotuń PiS Siedlce</description><Point><coordinates>22.033493,52.159557</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUROWSKA Iwona Teresa PiS</name><description>Garwolin PiS Siedlce</description><Point><coordinates>21.626477,51.892082</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIEŃKOWSKI Bartłomiej Tomasz PiS</name><description>Ostrów Mazowiecka PiS Siedlce</description><Point><coordinates>21.893502,52.808197</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROGALSKA Barbara PiS</name><description>Maków Mazowiecki PiS Siedlce</description><Point><coordinates>21.092469,52.857332</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAKOWIECKI Grzegorz PiS</name><description>Ostrołęka PiS Siedlce</description><Point><coordinates>21.591954,53.070085</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KASZUBA Anna PiS</name><description>Sadowne PiS Siedlce</description><Point><coordinates>21.853177,52.641755</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚNIADACH Anna Agnieszka BEZP</name><description>Kadzidło PiS Siedlce</description><Point><coordinates>21.466604,53.251135</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RUNO Ewa Grażyna PiS</name><description>Rząśnik PiS Siedlce</description><Point><coordinates>21.381779,52.710145</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻYLUK Zygmunt Czesław BEZP</name><description>Repki PiS Siedlce</description><Point><coordinates>22.434922,52.372231</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HAWRYLUK Urszula Maria PiS</name><description>Cegłów PiS Siedlce</description><Point><coordinates>21.727431,52.119609</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAŚ Agnieszka BEZP</name><description>Małkinia Górna PiS Siedlce</description><Point><coordinates>22.027703,52.701065</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MILEWSKI Daniel George PiS</name><description>Mińsk Mazowiecki PiS Siedlce</description><Point><coordinates>21.560645,52.177860</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACZYŃSKI Jarosław Aleksander PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.053216,52.212320</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAMIŃSKI Mariusz PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.071643,52.211030</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOSIEWSKA Małgorzata Maria PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.066073,52.210814</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NAIMSKI Piotr Aleksander PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.058095,52.214940</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAJEWSKI Jarosław Karol PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.098390,52.216609</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LISIECKI Paweł Jacek PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.029439,52.258144</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRYGLAS Zbigniew PorozumienieJarosławaGowina</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.051463,52.240999</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TOMASZEWSKA Ewa PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.093276,52.229890</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KALETA Sebastian Jerzy PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.114089,52.220115</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WYPYCH Małgorzata Maria BEZP</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.006873,52.231626</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MELAK Andrzej Józef BEZP</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.086473,52.219274</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SEMENIUK Olga Ewa PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.102290,52.267523</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GÓRSKI Patryk PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.043482,52.236020</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOROWSKI Adam Zbigniew BEZP</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.060827,52.187963</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FRĄCKOWIAK Filip Jakub PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.068977,52.265211</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHOJNOWSKI Wojciech Maciej PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.096444,52.200154</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TERLECKA Mirosława Hanna PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.049709,52.243054</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOZDEK Piotr Paweł PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.075468,52.274849</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PERET Ewa BEZP</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.031909,52.210132</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GÓRSKI Krzysztof Robert PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.079330,52.280314</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOSAK Krzysztof Tomasz BEZP</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.092278,52.208982</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOLASIŃSKA Bożena PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.012394,52.209103</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CACKOWSKI Marek Jan PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.028890,52.209099</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POLAK Katarzyna Maria PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.052492,52.219689</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACPROWICZ Sławomir Stanisław PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.113635,52.216474</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SMALCERZ Ewa Maria PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.058513,52.254931</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIODUSZEWSKA Teresa PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.111047,52.231779</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KULESZA Stefan PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.044873,52.276693</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZARTORYSKA-PLUTECKA Izabela Joanna BEZP</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.087618,52.226443</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TERLECKI Paweł Andrzej PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.072696,52.264258</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WYSOCKI Krzysztof PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.023931,52.193714</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KĘZIK Anna PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.087274,52.190840</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAJEWSKA Irena BEZP</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.024773,52.219702</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYMAŃSKI Paweł PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.021268,52.214580</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PALUSZEK Aneta PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.055649,52.234134</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAKUBOWSKA Agnieszka Jadwiga PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.060432,52.189280</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MOLICKI Maciej PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.072113,52.229928</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KSIĘŻAK Paweł Krzysztof BEZP</name><description>Opole PiS Warszawa</description><Point><coordinates>17.890890,50.669990</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>REJOWSKI Grzegorz Paweł PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.075979,52.279534</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZABŁOCKI Wojciech Jakub PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.042882,52.202336</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BŁASZCZAK Mariusz PiS</name><description>Legionowo PiS Warszawa</description><Point><coordinates>20.941145,52.399635</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZERWIŃSKA Anita PiS</name><description>Leszno PiS Warszawa</description><Point><coordinates>20.594714,52.278236</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SMIRNOW Andrzej PiS</name><description>Lesznowola PiS Warszawa</description><Point><coordinates>20.926354,52.074584</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYSZKO Jan Feliks PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.084107,52.245766</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIPIERA Zdzisław Tadeusz PiS</name><description>Pruszków PiS Warszawa</description><Point><coordinates>20.800073,52.170857</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>UŚCIŃSKI Piotr Michał PiS</name><description>Ząbki PiS Warszawa</description><Point><coordinates>21.108228,52.293021</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BITTEL Andrzej PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.078100,52.279629</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OLSZEWSKI Dariusz SolidarnaPolska</name><description>Karczew PiS Warszawa</description><Point><coordinates>21.282817,52.036067</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KLINOWSKI Marcel Józef PorozumienieJarosławaGowina</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.097701,52.263847</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PRÓSZYŃSKI Michał Feliks PiS</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.042060,52.232892</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KWIEK Monika Joanna PiS</name><description>Otwock PiS Warszawa</description><Point><coordinates>21.286896,52.111752</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYDLIK Robert PiS</name><description>Tłuszcz PiS Warszawa</description><Point><coordinates>21.469825,52.412499</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TRACZYK Stefan PiS</name><description>Celestynów PiS Warszawa</description><Point><coordinates>21.398226,52.045272</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LASKUS Tomasz Bogumił PiS</name><description>Karczew PiS Warszawa</description><Point><coordinates>21.280691,52.035188</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOJEMSKA Dorota Małgorzata BEZP</name><description>Mst Warszawa (a) PiS Warszawa</description><Point><coordinates>21.052136,52.219248</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MADZIAR Jolanta Monika BEZP</name><description>Wołomin PiS Warszawa</description><Point><coordinates>21.273537,52.347099</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PRUSZCZYK Grzegorz PiS</name><description>Prażmów PiS Warszawa</description><Point><coordinates>21.013477,51.961068</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NIEZABITOWSKI Zbigniew PiS</name><description>Czosnów PiS Warszawa</description><Point><coordinates>20.713477,52.368090</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZALEWSKA Aurelia PiS</name><description>Michałowice PiS Warszawa</description><Point><coordinates>20.838630,52.155956</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIROSŁAW Renata PiS</name><description>Piaseczno PiS Warszawa</description><Point><coordinates>20.995709,52.044546</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHOROŚ Piotr PiS</name><description>Jabłonna PiS Warszawa</description><Point><coordinates>20.870838,52.393302</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYMAŃSKA-SUCHECKA Małgorzata PiS</name><description>Żabia Wola PiS Warszawa</description><Point><coordinates>20.682531,51.997812</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RUDZKA Anna Krystyna PiS</name><description>Łomianki PiS Warszawa</description><Point><coordinates>20.859754,52.349539</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHOROSIŃSKA Dominika Małgorzata BEZP</name><description>Konstancin-Jeziorna PiS Warszawa</description><Point><coordinates>21.131848,52.085786</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POROWSKA Violetta Teresa PiS</name><description>Opole PiS Opole</description><Point><coordinates>17.907904,50.670399</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZOCHARA Katarzyna Beata PiS</name><description>Prudnik PiS Opole</description><Point><coordinates>17.525623,50.341737</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALSKI Janusz Marcin BEZP</name><description>Mst Warszawa (a) PiS Opole</description><Point><coordinates>21.097927,52.269267</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BORTNICZUK Kamil PorozumienieJarosławaGowina</name><description>Głuchołazy PiS Opole</description><Point><coordinates>17.367425,50.327380</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DUDA Antoni Eugeniusz PiS</name><description>Opole PiS Opole</description><Point><coordinates>17.909766,50.666973</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KŁOSOWSKI Sławomir PiS</name><description>Opole PiS Opole</description><Point><coordinates>17.919998,50.674641</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NASZKIEWICZ Jerzy Kazimierz PiS</name><description>Głubczyce PiS Opole</description><Point><coordinates>17.761009,50.210239</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHRZANOWSKI Andrzej PiS</name><description>Kędzierzyn-Koźle PiS Opole</description><Point><coordinates>18.246264,50.348752</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARAŃSKA Teresa PiS</name><description>Prudnik PiS Opole</description><Point><coordinates>17.523417,50.347287</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUŁA Damian Jakub PiS</name><description>Byczyna PiS Opole</description><Point><coordinates>18.210170,51.103531</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOMARZYŃSKI Wojciech Stanisław PiS</name><description>Brzeg PiS Opole</description><Point><coordinates>17.461306,50.863963</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KITAJGRODZKI Zbigniew PiS</name><description>Praszka PiS Opole</description><Point><coordinates>18.489353,51.070755</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARKOWSKI Marko Piotr PiS</name><description>Krapkowice PiS Opole</description><Point><coordinates>17.959252,50.464127</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OGNISTY Tomasz Szczepan PiS</name><description>Kietrz PiS Opole</description><Point><coordinates>17.946288,50.065250</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOLBEK Dariusz Stanisław PiS</name><description>Głogówek PiS Opole</description><Point><coordinates>17.877745,50.349310</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRATOSIEWICZ Zbigniew Józef BEZP</name><description>Namysłów PiS Opole</description><Point><coordinates>17.694041,51.086986</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHABRASZEWSKA Anna PiS</name><description>Strzelce Opolskie PiS Opole</description><Point><coordinates>18.288774,50.546962</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAJERSKA Izabela Barbara PiS</name><description>Dąbrowa PiS Opole</description><Point><coordinates>17.766734,50.702857</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STASIOROWSKA Anna Katarzyna PiS</name><description>Brzeg PiS Opole</description><Point><coordinates>17.470430,50.858650</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DEPTUŁA Adam PiS</name><description>Ozimek PiS Opole</description><Point><coordinates>18.223431,50.692667</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOLEMBA-GASCHKA Martyna Maria BEZP</name><description>Zdzieszowice PiS Opole</description><Point><coordinates>18.094713,50.431390</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRZEBIŃSKA Anna PiS</name><description>Dobrodzień PiS Opole</description><Point><coordinates>18.450732,50.708897</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻUKOWSKA-JACYKOWSKA Maria Magdalena PiS</name><description>Nysa PiS Opole</description><Point><coordinates>17.349377,50.454545</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OCIEPA Marcin Michał PorozumienieJarosławaGowina</name><description>Opole PiS Opole</description><Point><coordinates>17.894031,50.672509</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUCHCIŃSKI Marek Tadeusz PiS</name><description>Przemyśl (c) PiS Krosno</description><Point><coordinates>22.780739,49.781523</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SCHMIDT-RODZIEWICZ Anna Katarzyna PiS</name><description>Jarosław PiS Krosno</description><Point><coordinates>22.668687,50.033105</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>URUSKI Piotr Marcin SolidarnaPolska</name><description>Sanok PiS Krosno</description><Point><coordinates>22.212370,49.548881</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BABINETZ Piotr Mieczysław PiS</name><description>Krosno PiS Krosno</description><Point><coordinates>21.746935,49.684493</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIOTROWICZ Stanisław PiS</name><description>Wojaszówka PiS Krosno</description><Point><coordinates>21.705525,49.781264</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚNIEŻEK Adam Walenty PiS</name><description>Rzeszów (a) PiS Krosno</description><Point><coordinates>21.980603,49.995136</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PILCH Piotr PiS</name><description>Przemyśl (c) PiS Krosno</description><Point><coordinates>22.774636,49.790368</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAMUŁA Teresa PiS</name><description>Lubaczów PiS Krosno</description><Point><coordinates>23.120446,50.159784</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAWLUŚ Adam PiS</name><description>Jasło PiS Krosno</description><Point><coordinates>21.473687,49.750759</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHRZAN Tadeusz PiS</name><description>Jarosław PiS Krosno</description><Point><coordinates>22.669481,50.041502</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PODHALICZ Lucyna PiS</name><description>Przemyśl (c) PiS Krosno</description><Point><coordinates>22.782690,49.777987</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁUKASZYK Dorota PorozumienieJarosławaGowina</name><description>Ustrzyki Dolne PiS Krosno</description><Point><coordinates>22.572631,49.502775</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DROZD Adam Tomasz członek partii politycznej: Partia Republikańska</name><description>Sanok PiS Krosno</description><Point><coordinates>22.208882,49.554207</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JĘDRUCH Ryszard PiS</name><description>Tryńcza PiS Krosno</description><Point><coordinates>22.516228,50.141527</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PERS Grzegorz Stanisław PiS</name><description>Skołyszyn PiS Krosno</description><Point><coordinates>21.325286,49.749300</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIESZCZOCH Robert PiS</name><description>Bukowsko PiS Krosno</description><Point><coordinates>22.044935,49.471145</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRIL Joanna Katarzyna PiS</name><description>Jedlicze PiS Krosno</description><Point><coordinates>21.644567,49.716845</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POCAŁUŃ Alicja Anna PiS</name><description>Dydnia PiS Krosno</description><Point><coordinates>22.201057,49.685426</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BURBEŁO Joanna Maria PiS</name><description>Radymno PiS Krosno</description><Point><coordinates>22.830526,49.954894</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GUZIK Andrzej PiS</name><description>Miejsce Piastowe PiS Krosno</description><Point><coordinates>21.782146,49.634571</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUROWSKA Maria Stanisława SolidarnaPolska</name><description>Brzyska PiS Krosno</description><Point><coordinates>21.361435,49.820784</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAWIEC Daniel Stanisław PiS</name><description>Przeworsk PiS Krosno</description><Point><coordinates>22.492469,50.059672</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOBOLEWSKI Krzysztof PiS</name><description>Rzeszów (a) PiS Rzeszów</description><Point><coordinates>21.963603,50.003667</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LENIART Ewa Maria PiS</name><description>Hyżne PiS Rzeszów</description><Point><coordinates>22.192097,49.905270</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HRYNKIEWICZ Józefa BEZP</name><description>Mst Warszawa (a) PiS Rzeszów</description><Point><coordinates>21.067129,52.261261</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZLACHTA Andrzej PiS</name><description>Rzeszów (a) PiS Rzeszów</description><Point><coordinates>21.981569,50.009965</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WRÓBLEWSKA Krystyna Małgorzata PiS</name><description>Rzeszów (a) PiS Rzeszów</description><Point><coordinates>21.991898,50.002351</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MOSKAL Kazimierz Marian PiS</name><description>Ropczyce PiS Rzeszów</description><Point><coordinates>21.569571,50.024382</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUCZAK Wojciech PiS</name><description>Rzeszów (a) PiS Rzeszów</description><Point><coordinates>21.974724,50.016763</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOŁOJUCH Kazimierz Edward PiS</name><description>Czarna PiS Rzeszów</description><Point><coordinates>22.170878,50.112506</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHMIELOWIEC Zbigniew Michał PiS</name><description>Kolbuszowa PiS Rzeszów</description><Point><coordinates>21.808101,50.211921</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WEBER Rafał PiS</name><description>Stalowa Wola PiS Rzeszów</description><Point><coordinates>22.026483,50.564883</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WARZECHA Jan Marek PiS</name><description>Dębica PiS Rzeszów</description><Point><coordinates>21.413937,50.048738</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAUL Jerzy Stanisław PiS</name><description>Nowa Sarzyna PiS Rzeszów</description><Point><coordinates>22.294825,50.319354</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIAZGA Mieczysław PiS</name><description>Sokołów Małopolski PiS Rzeszów</description><Point><coordinates>22.129312,50.236874</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYDEŁKO Halina Maria PiS</name><description>Rzeszów (a) PiS Rzeszów</description><Point><coordinates>21.974909,50.001400</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRUCZEK Stanisław PorozumienieJarosławaGowina</name><description>Błażowa PiS Rzeszów</description><Point><coordinates>22.078555,49.881973</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAPINOS Fryderyk Sylwester PiS</name><description>Mielec (a) PiS Rzeszów</description><Point><coordinates>21.487565,50.287022</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KALINKA Kamil PiS</name><description>Tarnobrzeg PiS Rzeszów</description><Point><coordinates>21.702008,50.577020</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BEDNARZ Robert Jan PiS</name><description>Jeżowe PiS Rzeszów</description><Point><coordinates>22.120880,50.361283</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GODEK Robert Czesław PiS</name><description>Frysztak PiS Rzeszów</description><Point><coordinates>21.566412,49.841777</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FRYSZTAK Bernadeta Dorota PiS</name><description>Sędziszów Małopolski PiS Rzeszów</description><Point><coordinates>21.716899,50.071373</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁĄCZAK Czesław PiS</name><description>Żyraków PiS Rzeszów</description><Point><coordinates>21.391103,50.103837</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FIJOŁEK Marcin Piotr PiS</name><description>Rzeszów (a) PiS Rzeszów</description><Point><coordinates>21.975396,50.010922</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TŁUSTA Helena Grażyna BEZP</name><description>Nowa Dęba PiS Rzeszów</description><Point><coordinates>21.737691,50.465647</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARTKOWICZ Magdalena Barbara PiS</name><description>Mielec (a) PiS Rzeszów</description><Point><coordinates>21.477116,50.278733</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRZEK Agata PiS</name><description>Stalowa Wola PiS Rzeszów</description><Point><coordinates>22.008675,50.568314</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TRAWIŃSKA Anna Franciszka BEZP</name><description>Majdan Królewski PiS Rzeszów</description><Point><coordinates>21.772179,50.409762</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUŚ Ewelina Elżbieta PiS</name><description>Dębica PiS Rzeszów</description><Point><coordinates>21.420810,50.047710</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FOŁTA Ewa PiS</name><description>Nowa Sarzyna PiS Rzeszów</description><Point><coordinates>22.299830,50.322525</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TYMUŁA Zbigniew PiS</name><description>Gawłuszowice PiS Rzeszów</description><Point><coordinates>21.396780,50.401545</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WARCHOŁ Marcin Józef BEZP</name><description>Mst Warszawa (a) PiS Rzeszów</description><Point><coordinates>21.040575,52.208731</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIONTKOWSKI Dariusz PiS</name><description>Białystok PiS Białystok</description><Point><coordinates>23.142653,53.137385</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIELIŃSKI Jarosław PiS</name><description>Suwałki PiS Białystok</description><Point><coordinates>22.931238,54.101811</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PASZKOWSKI Bohdan Józef PiS</name><description>Białystok PiS Białystok</description><Point><coordinates>23.172156,53.130661</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GWIAZDOWSKI Kazimierz PiS</name><description>Radziłów PiS Białystok</description><Point><coordinates>22.456595,53.421214</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻALEK Jacek PorozumienieJarosławaGowina</name><description>Białystok PiS Białystok</description><Point><coordinates>23.157005,53.118917</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BASZKO Mieczysław Kazimierz PorozumienieJarosławaGowina</name><description>Sokółka PiS Białystok</description><Point><coordinates>23.512945,53.368892</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOŁAKOWSKI Lech Antoni PiS</name><description>Łomża PiS Białystok</description><Point><coordinates>22.059173,53.189673</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRYNICKA Bernadeta PiS</name><description>Łomża PiS Białystok</description><Point><coordinates>22.056317,53.192198</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WNOROWSKI Henryk Jan BEZP</name><description>Białystok PiS Białystok</description><Point><coordinates>23.161408,53.107235</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ANDRUSZKIEWICZ Adam BEZP</name><description>Grajewo PiS Białystok</description><Point><coordinates>22.447227,53.642560</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MUZYK Agnieszka Barbara BEZP</name><description>Łomża PiS Białystok</description><Point><coordinates>22.063406,53.178412</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIEKIERKO Łukasz PiS</name><description>Wysokie Mazowieckie PiS Białystok</description><Point><coordinates>22.511312,52.922843</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZEPE Roman PiS</name><description>Łapy PiS Białystok</description><Point><coordinates>22.861859,53.002061</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MODZELEWSKI Piotr PiS</name><description>Łomża PiS Białystok</description><Point><coordinates>22.065246,53.178633</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MADRAS Tomasz Stefan PiS</name><description>Białystok PiS Białystok</description><Point><coordinates>23.152140,53.107859</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JELSKA-JAROŚ Bożena Jolanta BEZP</name><description>Janów PiS Białystok</description><Point><coordinates>23.288125,53.448936</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PUCZYŁOWSKA Elżbieta PiS</name><description>Augustów PiS Białystok</description><Point><coordinates>23.009349,53.844820</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUCHAREWICZ Grzegorz PiS</name><description>Białystok PiS Białystok</description><Point><coordinates>23.151958,53.143732</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SUPIŃSKI Rafał PiS</name><description>Mońki PiS Białystok</description><Point><coordinates>22.770009,53.387341</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIAŁY Alicja PiS</name><description>Białystok PiS Białystok</description><Point><coordinates>23.169210,53.113851</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIODUSZEWSKI Andrzej PiS</name><description>Zambrów PiS Białystok</description><Point><coordinates>22.247291,52.978179</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NIENAŁTOWSKA Bożena PiS</name><description>Juchnowiec Kościelny PiS Białystok</description><Point><coordinates>23.156416,53.003427</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIATKOWSKI Marek BEZP</name><description>Filipów PiS Białystok</description><Point><coordinates>22.644098,54.187292</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁUKASZEWICZ Henryk PiS</name><description>Hajnówka PiS Białystok</description><Point><coordinates>23.578065,52.733650</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUJNO Bożena Teresa BEZP</name><description>Perlejewo PiS Białystok</description><Point><coordinates>22.556740,52.574725</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZDUŃCZYK Agnieszka BEZP</name><description>Miastkowo PiS Białystok</description><Point><coordinates>21.810676,53.137387</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WASILEWSKA Izabela PiS</name><description>Turośl PiS Białystok</description><Point><coordinates>21.712372,53.402050</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZCZUDŁO Aleksandra BEZP</name><description>Ciechanowiec PiS Białystok</description><Point><coordinates>22.564799,52.658662</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SELLIN Jarosław Daniel PiS</name><description>Mst Warszawa (a) PiS Gdańsk</description><Point><coordinates>21.062962,52.265259</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PŁAŻYŃSKI Kacper Maciej PiS</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.701029,54.367438</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻEBROWSKI Arwid Marek PiS</name><description>Sadlinki PiS Gdańsk</description><Point><coordinates>18.843403,53.652229</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KILIAN Jan PiS</name><description>Starogard Gdański PiS Gdańsk</description><Point><coordinates>18.518851,53.968415</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CYMAŃSKI Tadeusz SolidarnaPolska</name><description>Malbork PiS Gdańsk</description><Point><coordinates>19.042805,54.024643</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SMOLIŃSKI Kazimierz PiS</name><description>Tczew PiS Gdańsk</description><Point><coordinates>18.780795,54.090071</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RABENDA Karol Kazimierz PorozumienieJarosławaGowina</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.674514,54.348197</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CELMER Sylwia Agnieszka PiS</name><description>Sztum PiS Gdańsk</description><Point><coordinates>18.999478,53.923759</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KORALEWSKI Kazimierz Marian PiS</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.674700,54.357098</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RAKOWSKI Tomasz Jędrzej PiS</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.677458,54.370680</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PETKOWSKI Paweł Piotr PiS</name><description>Sopot PiS Gdańsk</description><Point><coordinates>18.546323,54.443380</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KEMPA Anna Magdalena PiS</name><description>Trąbki Wielkie PiS Gdańsk</description><Point><coordinates>18.500774,54.159142</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SULEWSKA Katarzyna Joanna PiS</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.698131,54.353284</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIECZOREK Jan Antoni PiS</name><description>Miłoradz PiS Gdańsk</description><Point><coordinates>18.890747,54.012805</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GÓRNIAK Sonia Anna PiS</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.672852,54.364809</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WITTNER Marcin Daniel PiS</name><description>Pruszcz Gdański PiS Gdańsk</description><Point><coordinates>18.667145,54.264718</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STOLC Grażyna Jadwiga PiS</name><description>Skórcz PiS Gdańsk</description><Point><coordinates>18.528856,53.806970</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CABAJ Joanna Dorota BEZP</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.676375,54.362622</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JASIŃSKI Mirosław PiS</name><description>Malbork PiS Gdańsk</description><Point><coordinates>19.046547,54.026651</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WAŃCZYK-KULPIŃSKA Katarzyna Maria PiS</name><description>Pelplin PiS Gdańsk</description><Point><coordinates>18.736924,53.927224</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BROŻEK Anna PiS</name><description>Pruszcz Gdański PiS Gdańsk</description><Point><coordinates>18.649215,54.251974</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>IMIANOWSKA Barbara PiS</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.687053,54.380739</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STANKIEWICZ Filip Andrzej PiS</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.688935,54.381645</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RACZAK Grzegorz BEZP</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.673885,54.357668</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HORAŁA Marcin Michał PiS</name><description>Gdynia (ab) PiS Słupsk</description><Point><coordinates>18.469905,54.489741</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MRÓWCZYŃSKI Aleksander Mikołaj PiS</name><description>Chojnice PiS Słupsk</description><Point><coordinates>17.556691,53.697928</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MÜLLER Piotr Józef PiS</name><description>Słupsk PiS Słupsk</description><Point><coordinates>17.023506,54.456295</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚNIADEK Janusz PiS</name><description>Gdynia (ab) PiS Słupsk</description><Point><coordinates>18.480634,54.516002</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZWIERCAN Małgorzata Grażyna BEZP</name><description>Gdynia (ab) PiS Słupsk</description><Point><coordinates>18.464259,54.507660</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZARUDZKI Ryszard Janusz PiS</name><description>Gdynia (ab) PiS Słupsk</description><Point><coordinates>18.456551,54.502412</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SROKA Magdalena Joanna PorozumienieJarosławaGowina</name><description>Trąbki Wielkie PiS Słupsk</description><Point><coordinates>18.504570,54.156585</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁUCZYK Mariusz Wojciech PiS</name><description>Miastko PiS Słupsk</description><Point><coordinates>17.004219,54.036118</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARCZEWSKI Piotr Mariusz PiS</name><description>Kościerzyna PiS Słupsk</description><Point><coordinates>17.989011,54.121037</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DAMBEK Roman Witold PiS</name><description>Gdynia (ab) PiS Słupsk</description><Point><coordinates>18.452543,54.501381</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TREDER Adam PiS</name><description>Słupsk PiS Słupsk</description><Point><coordinates>17.026181,54.462262</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DREWA Marcin Paweł PiS</name><description>Wejherowo PiS Słupsk</description><Point><coordinates>18.232413,54.607855</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WETTA Krzysztof Adam PiS</name><description>Lębork PiS Słupsk</description><Point><coordinates>17.756369,54.529265</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MACKIEWICZ-SASIAK Violetta Lilianna PiS</name><description>Reda PiS Słupsk</description><Point><coordinates>18.334375,54.615360</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STOLARCZYK Paweł PiS</name><description>Gdynia (ab) PiS Słupsk</description><Point><coordinates>18.471721,54.504091</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEYK Andrzej PiS</name><description>Kartuzy PiS Słupsk</description><Point><coordinates>18.122330,54.344609</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUNIOWSKA Wiesława Barbara PiS</name><description>Jastarnia PiS Słupsk</description><Point><coordinates>18.627548,54.712446</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LIS Anna BEZP</name><description>Ustka PiS Słupsk</description><Point><coordinates>16.913771,54.584673</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIAŁOOKA-KOSTENECKA Danuta Jadwiga PiS</name><description>Gdynia (ab) PiS Słupsk</description><Point><coordinates>18.455574,54.517691</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUŻOWNIK Jan PiS</name><description>Łeba (b) PiS Słupsk</description><Point><coordinates>17.579917,54.762331</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIROSZ Mariusz Krzysztof PiS</name><description>Czarne PiS Słupsk</description><Point><coordinates>17.040192,53.636064</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TOBOLSKA Monika PiS</name><description>Chojnice PiS Słupsk</description><Point><coordinates>17.558395,53.701391</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WAŃTUCHOWICZ Anna Marta PiS</name><description>Ustka (b) PiS Słupsk</description><Point><coordinates>16.857062,54.573745</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BYSTRON Andrzej Grzegorz SolidarnaPolska</name><description>Kartuzy PiS Słupsk</description><Point><coordinates>18.114536,54.341105</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRYGIER-NOWAK Urszula Grażyna PiS</name><description>Łeba (b) PiS Słupsk</description><Point><coordinates>17.581731,54.762676</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KURZELEWSKA Arleta BEZP</name><description>Człuchów PiS Słupsk</description><Point><coordinates>17.372706,53.665442</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALSKI Michał Bartosz PiS</name><description>Władysławowo PiS Słupsk</description><Point><coordinates>18.361595,54.794970</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KLAWITER Kazimierz PiS</name><description>Rumia PiS Słupsk</description><Point><coordinates>18.380747,54.565376</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZWED Stanisław PiS</name><description>Jasienica PiS Bielsko-Biała</description><Point><coordinates>18.925103,49.830029</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PUDA Grzegorz Paweł PiS</name><description>Bielsko-Biała PiS Bielsko-Biała</description><Point><coordinates>19.030813,49.798947</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MATUSZNY Kazimierz Władysław PiS</name><description>Milówka PiS Bielsko-Biała</description><Point><coordinates>19.077217,49.567758</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DRABEK Przemysław Mieczysław PiS</name><description>Bielsko-Biała PiS Bielsko-Biała</description><Point><coordinates>19.042576,49.815241</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WÓJCIK Magdalena Ewa BEZP</name><description>Bielsko-Biała PiS Bielsko-Biała</description><Point><coordinates>19.047971,49.815800</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAŻA Grzegorz Krzysztof PiS</name><description>Pszczyna PiS Bielsko-Biała</description><Point><coordinates>18.899435,49.991005</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MACURA Ryszard Arkadiusz BEZP</name><description>Cieszyn PiS Bielsko-Biała</description><Point><coordinates>18.657532,49.758027</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KANAFEK-LEWANDOWSKA Marcela Joanna PiS</name><description>Pszczyna PiS Bielsko-Biała</description><Point><coordinates>18.894803,49.990058</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ADAMSKA Barbara Lucyna PiS</name><description>Czechowice-Dziedzice PiS Bielsko-Biała</description><Point><coordinates>18.963131,49.908962</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁOŚ Konrad Tomasz PiS</name><description>Bielsko-Biała PiS Bielsko-Biała</description><Point><coordinates>19.049260,49.800383</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIDOR Adrian Kamil PiS</name><description>Żywiec PiS Bielsko-Biała</description><Point><coordinates>19.216113,49.706167</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOWIN Jarosław BEZP</name><description>Żywiec PiS Bielsko-Biała</description><Point><coordinates>19.213747,49.709777</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIEDZIC Janusz Witold PiS</name><description>Chybie PiS Bielsko-Biała</description><Point><coordinates>18.828736,49.883528</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIEGUN Agnieszka Magdalena BEZP</name><description>Radziechowy-Wieprz PiS Bielsko-Biała</description><Point><coordinates>19.139863,49.626125</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WAWRZECZKO Magdalena Elżbieta PiS</name><description>Jasienica PiS Bielsko-Biała</description><Point><coordinates>18.922193,49.828809</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MICHNIK Renata Anna BEZP</name><description>Dębowiec PiS Bielsko-Biała</description><Point><coordinates>18.717993,49.797170</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PASIERBEK Łukasz Grzegorz PiS</name><description>Bestwina PiS Bielsko-Biała</description><Point><coordinates>19.058766,49.913763</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIAŁOWĄS Beata Iwona SolidarnaPolska</name><description>Katowice (a) PiS Bielsko-Biała</description><Point><coordinates>19.009299,50.226728</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GIŻYŃSKI Szymon Stanisław PiS</name><description>Częstochowa PiS Częstochowa</description><Point><coordinates>19.137361,50.823975</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BURZYŃSKA Lidia Ewa PiS</name><description>Kłomnice PiS Częstochowa</description><Point><coordinates>19.389051,50.909066</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TREPKA Mariusz Wiesław PiS</name><description>Niegowa PiS Częstochowa</description><Point><coordinates>19.515589,50.646456</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAWRON Andrzej Janusz PiS</name><description>Kochanowice PiS Częstochowa</description><Point><coordinates>18.730422,50.723107</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FAJER Monika SolidarnaPolska</name><description>Częstochowa PiS Częstochowa</description><Point><coordinates>19.108427,50.803344</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DEREJCZYK Piotr BEZP</name><description>Miedźno PiS Częstochowa</description><Point><coordinates>19.000782,50.984511</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAPTACZ Anna Janina BEZP</name><description>Częstochowa PiS Częstochowa</description><Point><coordinates>19.121488,50.803888</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAJ Tomasz PiS</name><description>Kruszyna PiS Częstochowa</description><Point><coordinates>19.306676,50.994594</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LANGE Łukasz Artur PiS</name><description>Olsztyn PiS Częstochowa</description><Point><coordinates>19.278890,50.737005</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RUKSZA Paweł Jan PorozumienieJarosławaGowina</name><description>Częstochowa PiS Częstochowa</description><Point><coordinates>19.125693,50.788974</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIETRULEWICZ Magdalena Anna BEZP</name><description>Wręczyca Wielka PiS Częstochowa</description><Point><coordinates>18.898439,50.830439</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SŁUŻAŁEK-JAWORSKA Danuta Elżbieta PiS</name><description>Poraj PiS Częstochowa</description><Point><coordinates>19.235903,50.655008</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOWA Andrzej Piotr PiS</name><description>Częstochowa PiS Częstochowa</description><Point><coordinates>19.127887,50.795169</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZALESKA Urszula PiS</name><description>Częstochowa PiS Częstochowa</description><Point><coordinates>19.106554,50.817459</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BORYS-SZOPA Bożena Teresa PiS</name><description>Katowice (a) PiS Katowice</description><Point><coordinates>19.006005,50.217430</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZARAMA Wojciech Piotr PiS</name><description>Bytom PiS Katowice</description><Point><coordinates>18.875699,50.358318</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PYZIK Piotr Mieczysław PiS</name><description>Gliwice PiS Katowice</description><Point><coordinates>18.657833,50.303060</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GONCIARZ Jarosław Włodzimierz PiS</name><description>Gliwice PiS Katowice</description><Point><coordinates>18.658129,50.308763</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OLSZEWSKI Tomasz Jan PorozumienieJarosławaGowina</name><description>Tarnowskie Góry PiS Katowice</description><Point><coordinates>18.834640,50.471863</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUBICA Józef Jan SolidarnaPolska</name><description>Tarnowskie Góry PiS Katowice</description><Point><coordinates>18.838805,50.466620</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIUK Barbara Anna PiS</name><description>Tarnowskie Góry PiS Katowice</description><Point><coordinates>18.848629,50.465679</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PRZEDPEŁSKI Zbigniew Jerzy PiS</name><description>Bytom PiS Katowice</description><Point><coordinates>18.869471,50.358771</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BORÓWKA Anna Joanna PiS</name><description>Zabrze PiS Katowice</description><Point><coordinates>18.801617,50.303825</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALSKI Bartłomiej Leszek PiS</name><description>Gliwice PiS Katowice</description><Point><coordinates>18.646912,50.306171</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻAK Paweł PiS</name><description>Knurów PiS Katowice</description><Point><coordinates>18.665149,50.202256</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIEBIATA-TOMCZYK Dorota Regina BEZP</name><description>Bytom PiS Katowice</description><Point><coordinates>18.878209,50.365096</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ILEWSKI Adam PiS</name><description>Zabrze PiS Katowice</description><Point><coordinates>18.788073,50.318016</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOŁODZIEJ-PTAK Krystyna Stanisława PiS</name><description>Pyskowice PiS Katowice</description><Point><coordinates>18.598698,50.392590</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>REISS Ferdynand Wilhelm PiS</name><description>Zabrze PiS Katowice</description><Point><coordinates>18.792034,50.306701</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CEBULA Ewelina Sylwia BEZP</name><description>Rudziniec PiS Katowice</description><Point><coordinates>18.483316,50.372702</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PATOŃ Piotr Jerzy PiS</name><description>Bytom PiS Katowice</description><Point><coordinates>18.886002,50.369002</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOGOWSKA-PIASECKA Elżbieta Izabela PiS</name><description>Gliwice PiS Katowice</description><Point><coordinates>18.661215,50.291542</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIECHA Bolesław Grzegorz PiS</name><description>Rybnik PiS Bielsko-Biała</description><Point><coordinates>18.551025,50.120647</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOŚ Michał Piotr BEZP</name><description>Racibórz PiS Bielsko-Biała</description><Point><coordinates>18.226353,50.088331</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOBIERAJSKI Czesław Stanisław PiS</name><description>Rybnik PiS Bielsko-Biała</description><Point><coordinates>18.547700,50.098963</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAWĘDA Adam PiS</name><description>Lubomia PiS Bielsko-Biała</description><Point><coordinates>18.302553,50.024566</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MATUSIAK Grzegorz PiS</name><description>Jastrzębie-Zdrój PiS Bielsko-Biała</description><Point><coordinates>18.604199,49.963621</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DUTKIEWICZ Katarzyna Maria PiS</name><description>Racibórz PiS Bielsko-Biała</description><Point><coordinates>18.218145,50.090226</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GLENC Teresa PiS</name><description>Gorzyce PiS Bielsko-Biała</description><Point><coordinates>18.381672,49.967102</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RAJCA Cezary Dominik PiS</name><description>Czerwionka-Leszczyny PiS Bielsko-Biała</description><Point><coordinates>18.651948,50.132730</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZUTKA Mirela Elżbieta PiS</name><description>Rybnik PiS Bielsko-Biała</description><Point><coordinates>18.552601,50.118562</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZCZĘSNY Jarosław Zbigniew PorozumienieJarosławaGowina</name><description>Wodzisław Śląski PiS Bielsko-Biała</description><Point><coordinates>18.443487,49.994730</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RATKA-BOSSARD Aleksandra Katarzyna BEZP</name><description>Orzesze PiS Bielsko-Biała</description><Point><coordinates>18.792101,50.109507</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYMURA Karol Bogusław PiS</name><description>Rybnik PiS Bielsko-Biała</description><Point><coordinates>18.557199,50.107062</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYMICZEK Alojzy Jan PiS</name><description>Wodzisław Śląski PiS Bielsko-Biała</description><Point><coordinates>18.436848,50.005114</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GARUS-KOPERTOWSKA Angelika Krystyna PiS</name><description>Jastrzębie-Zdrój PiS Bielsko-Biała</description><Point><coordinates>18.604846,49.954522</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KASPAREK Urszula Zofia BEZP</name><description>Świerklany PiS Bielsko-Biała</description><Point><coordinates>18.570535,50.025293</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KODURA Maria BEZP</name><description>Świerklany PiS Bielsko-Biała</description><Point><coordinates>18.565289,50.027185</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LAZAR Jerzy Bolesław PiS</name><description>Rybnik PiS Bielsko-Biała</description><Point><coordinates>18.541478,50.109102</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WAWRZYCZEK Daniel Emilian PiS</name><description>Żory PiS Bielsko-Biała</description><Point><coordinates>18.681154,50.035468</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MORAWIECKI Mateusz Jakub PiS</name><description>Mst Warszawa (a) PiS Katowice</description><Point><coordinates>21.095764,52.205650</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WÓJCIK Michał Marek SolidarnaPolska</name><description>Czeladź PiS Katowice</description><Point><coordinates>19.085861,50.314865</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POLACZEK Jerzy Jan PiS</name><description>Piekary Śląskie PiS Katowice</description><Point><coordinates>18.975846,50.372829</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOŚNIERZ Andrzej Stanisław PorozumienieJarosławaGowina</name><description>Kobiór PiS Katowice</description><Point><coordinates>18.949245,50.071250</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWAK Maria Teresa PiS</name><description>Chorzów PiS Katowice</description><Point><coordinates>18.970274,50.281955</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIECHOTA Leszek Marian PiS</name><description>Katowice (a) PiS Katowice</description><Point><coordinates>19.023452,50.217787</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WESOŁY Marek Jacek PiS</name><description>Ruda Śląska PiS Katowice</description><Point><coordinates>18.878627,50.266906</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKAPCZYK Anita Maria BEZP</name><description>Tychy PiS Katowice</description><Point><coordinates>19.002565,50.123067</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKIBA Mariusz Piotr PiS</name><description>Katowice (a) PiS Katowice</description><Point><coordinates>19.011920,50.226693</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JABŁOŃSKI Paweł BEZP</name><description>Racibórz PiS Katowice</description><Point><coordinates>18.219126,50.090442</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FREITAG Janusz Paweł PiS</name><description>Lędziny PiS Katowice</description><Point><coordinates>19.122591,50.129816</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>AUGUSTYN Zbigniew PiS</name><description>Mysłowice PiS Katowice</description><Point><coordinates>19.153060,50.214401</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOPER-STASZOWSKA Wioletta Maria PiS</name><description>Ruda Śląska PiS Katowice</description><Point><coordinates>18.880112,50.273686</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BISKUP Bernadeta Cecylia PiS</name><description>Chorzów PiS Katowice</description><Point><coordinates>18.968221,50.294351</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PANEK Krystyna Zofia PiS</name><description>Katowice (a) PiS Katowice</description><Point><coordinates>19.018540,50.202013</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GROBEL Beata BEZP</name><description>Tychy PiS Katowice</description><Point><coordinates>19.016433,50.125191</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROSICKI Łukasz Krzysztof PiS</name><description>Siemianowice Śląskie PiS Katowice</description><Point><coordinates>19.026046,50.304356</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DURSKA Maria Stefania PiS</name><description>Katowice (a) PiS Katowice</description><Point><coordinates>19.001626,50.231515</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIĘBA Janina Maria PiS</name><description>Świętochłowice PiS Katowice</description><Point><coordinates>18.908509,50.295422</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>URBAŃCZYK Marek Jan PiS</name><description>Siemianowice Śląskie PiS Katowice</description><Point><coordinates>19.026518,50.307725</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STĘPIEŃ Agnieszka PiS</name><description>Chorzów PiS Katowice</description><Point><coordinates>18.955869,50.287023</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKOTAREK Agnieszka Katarzyna BEZP</name><description>Piekary Śląskie PiS Katowice</description><Point><coordinates>18.983642,50.379910</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KICZMAL Mirosław Stanisław PiS</name><description>Bojszowy PiS Katowice</description><Point><coordinates>19.097239,50.051935</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>AHNERT Wojciech Tadeusz PiS</name><description>Chorzów PiS Katowice</description><Point><coordinates>18.974230,50.291672</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MALIK Ewa Danuta PiS</name><description>Sosnowiec PiS Katowice</description><Point><coordinates>19.194742,50.267722</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ANDZEL Waldemar Franciszek PiS</name><description>Bobrowniki PiS Katowice</description><Point><coordinates>19.030962,50.412539</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WARWAS Robert Piotr PiS</name><description>Dąbrowa Górnicza PiS Katowice</description><Point><coordinates>19.315231,50.376101</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWICKA Danuta Czesława PiS</name><description>Zawiercie PiS Katowice</description><Point><coordinates>19.464209,50.502139</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MATERLA Maria PiS</name><description>Jaworzno PiS Katowice</description><Point><coordinates>19.300560,50.180300</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOZIK Marcin Henryk SolidarnaPolska</name><description>Jaworzno PiS Katowice</description><Point><coordinates>19.292505,50.192068</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZARYCHTA-SURÓWKA Małgorzata Wioletta PiS</name><description>Sosnowiec PiS Katowice</description><Point><coordinates>19.196360,50.274075</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIĄTEK Zbigniew Józef PiS</name><description>Dąbrowa Górnicza PiS Katowice</description><Point><coordinates>19.311866,50.365065</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYDLIK Bożena Grażyna PiS</name><description>Włodowice PiS Katowice</description><Point><coordinates>19.462805,50.571434</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WILK Kazimierz Czesław BEZP</name><description>Sosnowiec PiS Katowice</description><Point><coordinates>19.204936,50.270420</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WARDENGA Lena Marzena BEZP</name><description>Czeladź PiS Katowice</description><Point><coordinates>19.078120,50.324365</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DERELA Maciej Daniel PiS</name><description>Żarnowiec PiS Katowice</description><Point><coordinates>19.857696,50.493698</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CIEŚLIK Beata Elżbieta PiS</name><description>Dąbrowa Górnicza PiS Katowice</description><Point><coordinates>19.318596,50.375980</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZOPA Paweł Ludwik BEZP</name><description>Sosnowiec PiS Katowice</description><Point><coordinates>19.184411,50.274852</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TRAWCZYŃSKA Ewa Irena BEZP</name><description>Sławków PiS Katowice</description><Point><coordinates>19.343265,50.294920</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GŁĄB Zenon Zygmunt PiS</name><description>Łazy PiS Katowice</description><Point><coordinates>19.382603,50.419737</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CURYŁO Łukasz PiS</name><description>Jaworzno PiS Katowice</description><Point><coordinates>19.297922,50.184382</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIOBRO Zbigniew Tadeusz SolidarnaPolska</name><description>Mst Warszawa (a) PiS Kielce</description><Point><coordinates>21.044495,52.267760</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRUPKA Anna Maria PiS</name><description>Parysów PiS Kielce</description><Point><coordinates>21.658707,51.981399</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LIPIEC Krzysztof Bogdan PiS</name><description>Starachowice PiS Kielce</description><Point><coordinates>21.075218,51.033959</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CIEŚLAK Michał PorozumienieJarosławaGowina</name><description>Pacanów PiS Kielce</description><Point><coordinates>21.042426,50.375288</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KWITEK Marek PiS</name><description>Sandomierz PiS Kielce</description><Point><coordinates>21.743321,50.679388</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WAWRZYK Piotr Sylwester BEZP</name><description>Kielce (a) PiS Kielce</description><Point><coordinates>20.600964,50.849211</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJTYSZEK Agata Katarzyna PiS</name><description>Starachowice PiS Kielce</description><Point><coordinates>21.064351,51.040778</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZUBA Maria PiS</name><description>Suchedniów PiS Kielce</description><Point><coordinates>20.832819,51.043072</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LATOSIŃSKI Bogdan Jan BEZP</name><description>Pierzchnica PiS Kielce</description><Point><coordinates>20.786363,50.686525</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRYJ Andrzej Michał PiS</name><description>Ostrowiec Świętokrzyski PiS Kielce</description><Point><coordinates>21.402755,50.959593</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOSEK Mariusz Marek SolidarnaPolska</name><description>Kielce (a) PiS Kielce</description><Point><coordinates>20.634422,50.854379</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIELECKI Krzysztof BEZP</name><description>Mst Warszawa (a) PiS Kielce</description><Point><coordinates>21.094286,52.224648</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KONARSKI Artur Marian BEZP</name><description>Moskorzew PiS Kielce</description><Point><coordinates>19.927883,50.655287</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PUCHROWICZ Tomasz Andrzej PiS</name><description>Jędrzejów PiS Kielce</description><Point><coordinates>20.323307,50.647875</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TARCZYŃSKI Dominik PiS</name><description>Kielce (a) PiS Kielce</description><Point><coordinates>20.604080,50.872634</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KONIUSZ Zbigniew Adam BEZP</name><description>Pińczów PiS Kielce</description><Point><coordinates>20.539544,50.477634</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STĘPIEŃ-ZAJĄC Dorota Ewa PiS</name><description>Ostrowiec Świętokrzyski PiS Kielce</description><Point><coordinates>21.402891,50.944083</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIEC Grzegorz PiS</name><description>Smyków PiS Kielce</description><Point><coordinates>20.409899,51.067112</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SŁONIEWSKA Monika BEZP</name><description>Kielce (a) PiS Kielce</description><Point><coordinates>20.615104,50.834233</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ORZEŁ Bartłomiej Piotr BEZP</name><description>Nowy Sącz PiS Kielce</description><Point><coordinates>20.710586,49.598715</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BURAS Agnieszka Dorota PiS</name><description>Suchedniów PiS Kielce</description><Point><coordinates>20.839300,51.040026</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STRZAŁA Marek PiS</name><description>Staszów PiS Kielce</description><Point><coordinates>21.223897,50.574839</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JALOWSKA Małgorzata Barbara PiS</name><description>Lipnik PiS Kielce</description><Point><coordinates>21.482790,50.736006</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PRZYBYSZEWSKI Hubert Wacław PiS</name><description>Kazimierza Wielka PiS Kielce</description><Point><coordinates>20.472943,50.248827</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚLUSARCZYK Maksymilian Krzysztof BEZP</name><description>Kielce (a) PiS Kielce</description><Point><coordinates>20.629539,50.850855</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>IWAŃSKA-BĘBEN Patrycja Anna PiS</name><description>Kielce (a) PiS Kielce</description><Point><coordinates>20.620079,50.861868</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PRZYGODZKA Urszula PiS</name><description>Radoszyce PiS Kielce</description><Point><coordinates>20.271480,51.063646</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHRUSZCZ Sylwester Arkadiusz BEZP</name><description>Szczecin (ab) PiS Kielce</description><Point><coordinates>14.607172,53.427350</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRĘPA Danuta Barbara PiS</name><description>Starachowice PiS Kielce</description><Point><coordinates>21.070240,51.036853</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIELEŃ Magdalena Anna PiS</name><description>Ostrowiec Świętokrzyski PiS Kielce</description><Point><coordinates>21.405497,50.959127</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUŚ Agnieszka PiS</name><description>Starachowice PiS Kielce</description><Point><coordinates>21.072057,51.046924</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DORYWALSKI Bartłomiej PiS</name><description>Włoszczowa PiS Kielce</description><Point><coordinates>19.935585,50.827318</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRASULSKI Leonard Seweryn PiS</name><description>Elbląg (b) PiS Elbląg</description><Point><coordinates>19.427874,54.208150</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WILK Jerzy Zbigniew PiS</name><description>Elbląg (b) PiS Elbląg</description><Point><coordinates>19.425573,54.204012</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BABALSKI Zbigniew PiS</name><description>Ostróda PiS Elbląg</description><Point><coordinates>19.951769,53.705653</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAZIMIERCZUK Marcin PiS</name><description>Bartoszyce PiS Elbląg</description><Point><coordinates>20.808616,54.256042</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MODZELEWSKA-KOZIOŁ Monika Anna PiS</name><description>Braniewo PiS Elbląg</description><Point><coordinates>19.819117,54.382557</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GODZIŃSKI Damian Jan PiS</name><description>Nowe Miasto Lubawskie PiS Elbląg</description><Point><coordinates>19.584452,53.423597</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWSZYŃSKI Paweł Andrzej PiS</name><description>Elbląg (b) PiS Elbląg</description><Point><coordinates>19.438426,54.192184</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OŁDAKOWSKI Adam PiS</name><description>Bartoszyce (c) PiS Elbląg</description><Point><coordinates>20.801682,54.244440</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WĘGŁOWSKA Anna PiS</name><description>Iława PiS Elbląg</description><Point><coordinates>19.580530,53.636629</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOIK Karolina Ewa BEZP</name><description>Susz PiS Elbląg</description><Point><coordinates>19.372698,53.725082</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIĄTEK Anna BEZP</name><description>Brodnica PiS Elbląg</description><Point><coordinates>19.409540,53.255419</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAMIŃSKA Grażyna BEZP</name><description>Rybno PiS Elbląg</description><Point><coordinates>19.950475,53.369514</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ANDRUSZKIEWICZ Jolanta Wiesława PiS</name><description>Bartoszyce PiS Elbląg</description><Point><coordinates>20.812827,54.256297</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GONTARZ Robert PiS</name><description>Rybno PiS Elbląg</description><Point><coordinates>19.952375,53.366505</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KIEROZALSKI Grzegorz PiS</name><description>Ostróda PiS Elbląg</description><Point><coordinates>19.952962,53.705113</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAWLIK Jacek Roman PiS</name><description>Kiwity PiS Elbląg</description><Point><coordinates>20.720585,54.111610</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAKSYMOWICZ Wojciech Stefan BEZP</name><description>Olsztyn PiS Olsztyn</description><Point><coordinates>20.472173,53.780165</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ARENT Iwona Ewa PiS</name><description>Olsztyn PiS Olsztyn</description><Point><coordinates>20.478312,53.775273</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHOJECKI Artur Henryk PiS</name><description>Olsztyn PiS Olsztyn</description><Point><coordinates>20.458147,53.780808</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOSSAKOWSKI Wojciech PiS</name><description>Ełk PiS Olsztyn</description><Point><coordinates>22.360017,53.827976</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAŁECKI Jerzy Wojciech PiS</name><description>Pisz PiS Olsztyn</description><Point><coordinates>21.710960,53.629893</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOSIEWSKI Jerzy Antoni PiS</name><description>Mrągowo PiS Olsztyn</description><Point><coordinates>21.295211,53.867614</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOZŁOWSKI Patryk PiS</name><description>Nidzica PiS Olsztyn</description><Point><coordinates>20.493903,53.410324</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWACKI Robert Krzysztof SolidarnaPolska</name><description>Pozezdrze PiS Olsztyn</description><Point><coordinates>21.860982,54.155685</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻUCHOWSKI Henryk PiS</name><description>Szczytno PiS Olsztyn</description><Point><coordinates>21.000220,53.563211</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RUDNIK Dariusz Stanisław PiS</name><description>Olsztyn PiS Olsztyn</description><Point><coordinates>20.472483,53.779000</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUKOWSKA Beata Anna PiS</name><description>Olsztynek PiS Olsztyn</description><Point><coordinates>20.352998,53.568270</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZOSTAK Izabela Kamila PiS</name><description>Kruklanki PiS Olsztyn</description><Point><coordinates>22.053086,54.091245</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARCHEL Karol Robert PiS</name><description>Ełk PiS Olsztyn</description><Point><coordinates>22.356976,53.816703</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TOŁWIŃSKA Zdzisława Barbara PiS</name><description>Olsztyn PiS Olsztyn</description><Point><coordinates>20.478568,53.768999</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JUCHNIEWICZ Andrzej PiS</name><description>Gołdap PiS Olsztyn</description><Point><coordinates>22.330270,54.253042</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MICHALSKA Jolanta Anna BEZP</name><description>Jeziorany PiS Olsztyn</description><Point><coordinates>20.725051,53.989442</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SUCHOCKA Agnieszka Jolanta BEZP</name><description>Olecko PiS Olsztyn</description><Point><coordinates>22.476717,54.022991</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZOSTKOWSKI Tomasz PiS</name><description>Giżycko PiS Olsztyn</description><Point><coordinates>21.770622,54.034644</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIESZKOWSKA Ewa BEZP</name><description>Reszel PiS Olsztyn</description><Point><coordinates>21.189137,54.020801</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WYPIJ Michał Piotr członek partii politycznej: Porozumienie Gowina</name><description>Olsztyn PiS Olsztyn</description><Point><coordinates>20.475847,53.776110</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIEDZICZAK Jan Michał PiS</name><description>Mst Warszawa (a) PiS Kalisz</description><Point><coordinates>21.081793,52.199343</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁAWNICZAK Tomasz PiS</name><description>Nowe Skalmierzyce PiS Kalisz</description><Point><coordinates>18.003539,51.722759</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MOSIŃSKI Jan PiS</name><description>Kalisz PiS Kalisz</description><Point><coordinates>18.063746,51.749454</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MALĄG Marlena Magdalena PiS</name><description>Ostrów Wielkopolski PiS Kalisz</description><Point><coordinates>17.800408,51.647795</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KALETA Piotr Marek PiS</name><description>Godziesze Wielkie PiS Kalisz</description><Point><coordinates>18.163158,51.657212</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZECHAK Lidia PiS</name><description>Jarocin PiS Kalisz</description><Point><coordinates>17.505570,51.960110</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIERŁA Leszek Józef PiS</name><description>Pleszew PiS Kalisz</description><Point><coordinates>17.804188,51.876215</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOWA Marek Jan PiS</name><description>Leszno PiS Kalisz</description><Point><coordinates>16.575635,51.835269</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MICHNIEWICZ Romuald Michał PorozumienieJarosławaGowina</name><description>Kalisz PiS Kalisz</description><Point><coordinates>18.069026,51.748479</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SÓJKA Katarzyna PiS</name><description>Mikstat PiS Kalisz</description><Point><coordinates>17.988378,51.527596</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUBIAK Agnieszka Beata SolidarnaPolska</name><description>Konin PiS Kalisz</description><Point><coordinates>18.261145,52.257405</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOZŁOWSKI Jerzy BEZP</name><description>Kalisz PiS Kalisz</description><Point><coordinates>18.073893,51.757962</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JANUSZKIEWICZ Piotr Józef PiS</name><description>Krotoszyn PiS Kalisz</description><Point><coordinates>17.512451,51.714605</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIEDZIC Krzysztof Józef BEZP</name><description>Opatówek PiS Kalisz</description><Point><coordinates>18.226674,51.748183</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYMONIAK Czesław Jan PiS</name><description>Gołuchów PiS Kalisz</description><Point><coordinates>17.935365,51.831424</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚNIEGOCKA Alicja Maria PiS</name><description>Kępno PiS Kalisz</description><Point><coordinates>18.002495,51.331674</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KALAK Sławomira Maria PiS</name><description>Krotoszyn PiS Kalisz</description><Point><coordinates>17.522962,51.713616</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SŁOWIŃSKA Dorota PiS</name><description>Krzywiń PiS Kalisz</description><Point><coordinates>16.861716,51.989922</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAGODZIŃSKI Maciej Antoni BEZP</name><description>Bojanowo PiS Kalisz</description><Point><coordinates>16.763415,51.696647</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ANDRZEJEWSKA Teresa Małgorzata BEZP</name><description>Krobia PiS Kalisz</description><Point><coordinates>16.980404,51.762862</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NAWROT Joanna BEZP</name><description>Włoszakowice PiS Kalisz</description><Point><coordinates>16.385823,51.923894</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZCZERBAŃ Jan Franiciszek PiS</name><description>Jaraczewo PiS Kalisz</description><Point><coordinates>17.316594,51.949809</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BĄKOWSKI Marek PiS</name><description>Krzywiń PiS Kalisz</description><Point><coordinates>16.865342,51.990252</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PLICHTA Andrzej PiS</name><description>Kalisz PiS Kalisz</description><Point><coordinates>18.072823,51.756946</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HOFFMANN Zbigniew Grzegorz PiS</name><description>Poznań (a) PiS Konin</description><Point><coordinates>16.924201,52.394856</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZARNECKI Witold Wojciech PiS</name><description>Zielona Góra (a) PiS Konin</description><Point><coordinates>15.522137,51.923470</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DOLATA Zbigniew PiS</name><description>Gniezno PiS Konin</description><Point><coordinates>17.599471,52.525919</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARTOSIK Ryszard PiS</name><description>Kawęczyn PiS Konin</description><Point><coordinates>18.507431,51.899550</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GALEMBA Leszek Ryszard PiS</name><description>Koło PiS Konin</description><Point><coordinates>18.622592,52.228492</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OSTROWSKI Krzysztof Jan PiS</name><description>Gniezno PiS Konin</description><Point><coordinates>17.631245,52.569165</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WASZKOWIAK Marek Henryk PorozumienieJarosławaGowina</name><description>Konin PiS Konin</description><Point><coordinates>18.268081,52.258251</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POPKOWSKI Robert Adam SolidarnaPolska</name><description>Konin PiS Konin</description><Point><coordinates>18.263253,52.251868</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOŹNIAK Anna PiS</name><description>Kleczew PiS Konin</description><Point><coordinates>18.135616,52.409081</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJNA Paweł PiS</name><description>Śrem PiS Konin</description><Point><coordinates>17.005695,52.091679</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYKOWNA Anita Aldona PiS</name><description>Strzałkowo PiS Konin</description><Point><coordinates>17.793929,52.316306</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIŚNIEWSKA-ZABŁOCKA Małgorzata PiS</name><description>Środa Wielkopolska PiS Konin</description><Point><coordinates>17.296260,52.235708</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DERUCKA-KOŁATA Emilia PiS</name><description>Turek PiS Konin</description><Point><coordinates>18.515212,52.017276</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRABOWSKI Łukasz PiS</name><description>Witkowo PiS Konin</description><Point><coordinates>17.796807,52.444966</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CICHACKA Małgorzata Marta PiS</name><description>Września PiS Konin</description><Point><coordinates>17.603227,52.323926</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARTKOWIAK Jacek Dariusz PiS</name><description>Słupca PiS Konin</description><Point><coordinates>17.872219,52.289832</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MUSIAŁEK Halina BEZP</name><description>Koło PiS Konin</description><Point><coordinates>18.636969,52.199258</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ITMAN Zofia Mariola PiS</name><description>Konin PiS Konin</description><Point><coordinates>18.265766,52.254327</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZARNECKI Krzysztof Władysław PiS</name><description>Trzcianka PiS Piła</description><Point><coordinates>16.481227,53.036743</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUBIAK Marta Ryszarda PiS</name><description>Piła PiS Piła</description><Point><coordinates>16.757061,53.138654</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIECHOWIAK Grzegorz PorozumienieJarosławaGowina</name><description>Piła PiS Piła</description><Point><coordinates>16.767826,53.139529</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PORZUCEK Marcin Bartosz PiS</name><description>Piła PiS Piła</description><Point><coordinates>16.756442,53.137388</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIELIŃSKI Michał Witold PiS</name><description>Oborniki PiS Piła</description><Point><coordinates>16.780002,52.645424</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BANAŚ Dorota PiS</name><description>Krajenka PiS Piła</description><Point><coordinates>16.934492,53.252337</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FLEMING Bogdan Włodzimierz PiS</name><description>Mieścisko PiS Piła</description><Point><coordinates>17.327352,52.736204</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NIJAKA Danuta Maria PiS</name><description>Grodzisk Wielkopolski PiS Piła</description><Point><coordinates>16.334865,52.233918</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JANKOWSKA Maja Małgorzata SolidarnaPolska</name><description>Mst Warszawa (a) PiS Piła</description><Point><coordinates>21.050173,52.248254</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FELCYN Józef PiS</name><description>Wysoka PiS Piła</description><Point><coordinates>17.070673,53.192630</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MILER Maria Lidia PiS</name><description>Piła PiS Piła</description><Point><coordinates>16.758681,53.130636</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KASPRZAK Robert Piotr PiS</name><description>Szamotuły PiS Piła</description><Point><coordinates>16.553408,52.595929</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OKPISZ Andrzej Janusz PiS</name><description>Oborniki PiS Piła</description><Point><coordinates>16.775930,52.640807</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PRĘTKOWSKI Rafał PiS</name><description>Kwilcz PiS Piła</description><Point><coordinates>16.108402,52.537708</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIETRUCZUK Wiesław PiS</name><description>Chodzież PiS Piła</description><Point><coordinates>16.919221,52.993208</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MUZYKA Emilia PiS</name><description>Międzychód PiS Piła</description><Point><coordinates>15.903857,52.588968</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARDASZ Maria Joanna PiS</name><description>Rakoniewice PiS Piła</description><Point><coordinates>16.230836,52.155847</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BŁASZCZYK Krzysztof Jakub PiS</name><description>Wolsztyn PiS Piła</description><Point><coordinates>16.120226,52.076704</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>EMILEWICZ Jadwiga Katarzyna PorozumienieJarosławaGowina</name><description>Mogilany PiS Poznań</description><Point><coordinates>19.888548,49.937835</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIUBA Tadeusz Antoni PiS</name><description>Poznań (a) PiS Poznań</description><Point><coordinates>16.875667,52.399146</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYNKOWSKI VEL SĘK Szymon Andrzej PiS</name><description>Poznań (a) PiS Poznań</description><Point><coordinates>16.892828,52.381664</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STRYJSKA Małgorzata Irena BEZP</name><description>Poznań (a) PiS Poznań</description><Point><coordinates>16.909741,52.416757</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZYSK Tadeusz BEZP</name><description>Poznań (a) PiS Poznań</description><Point><coordinates>16.910204,52.387854</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WRÓBLEWSKI Bartłomiej Piotr PiS</name><description>Poznań (a) PiS Poznań</description><Point><coordinates>16.893014,52.418320</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOMMERFELD Jacek PiS</name><description>Czerwonak PiS Poznań</description><Point><coordinates>17.044847,52.504601</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZERWIŃSKI Zbigniew PiS</name><description>Poznań (a) PiS Poznań</description><Point><coordinates>16.893734,52.425667</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RACZKOWSKI Mateusz Kacper SolidarnaPolska</name><description>Konin PiS Poznań</description><Point><coordinates>18.268022,52.264383</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻELAZNY Filip PiS</name><description>Kórnik PiS Poznań</description><Point><coordinates>17.061295,52.245499</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STACHOWIAK-GAUDEN Anna PiS</name><description>Stęszew PiS Poznań</description><Point><coordinates>16.672469,52.264553</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRZOZOWSKA Iwona Anna PiS</name><description>Poznań (a) PiS Poznań</description><Point><coordinates>16.895824,52.387533</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRZYŻANOWSKA-WALASZCZYK Ewa Urszula BEZP</name><description>Poznań (a) PiS Poznań</description><Point><coordinates>16.901037,52.402517</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZELĄGOWSKI Piotr Adam PiS</name><description>Poznań (a) PiS Poznań</description><Point><coordinates>16.927624,52.402428</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRATKOWSKI Wojciech BEZP</name><description>Poznań (a) PiS Poznań</description><Point><coordinates>16.907754,52.399407</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KULECZKA-DRZEWIECKA Ewa PiS</name><description>Suchy Las PiS Poznań</description><Point><coordinates>16.874669,52.531004</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARKIEWICZ Marian Jan PiS</name><description>Kostrzyn PiS Poznań</description><Point><coordinates>17.251085,52.378421</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DALESZYŃSKA Marta Ewa BEZP</name><description>Ujście PiS Poznań</description><Point><coordinates>16.708136,53.031289</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WŁODARCZAK Katarzyna Barbara PiS</name><description>Dopiewo PiS Poznań</description><Point><coordinates>16.714679,52.357775</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DEMBIŃSKI Krzysztof Henryk PiS</name><description>Buk PiS Poznań</description><Point><coordinates>16.541871,52.343929</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HOC Czesław PiS</name><description>Kołobrzeg (b) PiS Koszalin</description><Point><coordinates>15.603149,54.178884</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZEFERNAKER Paweł Maciej PiS</name><description>Szczecin (ab) PiS Koszalin</description><Point><coordinates>14.645360,53.430571</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOLIŃSKA Małgorzata Joanna PiS</name><description>Szczecinek PiS Koszalin</description><Point><coordinates>16.691924,53.698489</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STRZAŁKOWSKI Stefan Zdzisław PiS</name><description>Białogard PiS Koszalin</description><Point><coordinates>15.973863,54.012878</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SUBOCZ Marek Andrzej PiS</name><description>Wałcz PiS Koszalin</description><Point><coordinates>16.448020,53.271196</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIŚNIEWSKI Artur PiS</name><description>Koszalin PiS Koszalin</description><Point><coordinates>16.214532,54.206881</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OWSIAK Jan Andrzej BEZP</name><description>Świdwin PiS Koszalin</description><Point><coordinates>15.793821,53.770382</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOZAŃSKA-MAJCHRZAK Izabella Marzena BEZP</name><description>Sławno PiS Koszalin</description><Point><coordinates>16.660958,54.363970</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PYŻANOWSKI Jakub Mikołaj PorozumienieJarosławaGowina</name><description>Sianów PiS Koszalin</description><Point><coordinates>16.375405,54.231388</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHRUŚCIEL Ryszard Ambroży PiS</name><description>Choszczno PiS Koszalin</description><Point><coordinates>15.466754,53.175017</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NAGÓRSKA Barbara PiS</name><description>Drawsko Pomorskie PiS Koszalin</description><Point><coordinates>15.807211,53.532866</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BŁASZCZYK Grzegorz PiS</name><description>Barwice PiS Koszalin</description><Point><coordinates>16.348265,53.743416</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KĘDZIOR Barbara BEZP</name><description>Połczyn-Zdrój PiS Koszalin</description><Point><coordinates>16.087308,53.774844</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZTREJA Halina Zofia PiS</name><description>Mielno PiS Koszalin</description><Point><coordinates>16.048771,54.278869</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZADZEWICZ Jacek Piotr PiS</name><description>Złocieniec PiS Koszalin</description><Point><coordinates>15.995946,53.538838</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NIEMYT Emilia Kazimiera PiS</name><description>Wierzchowo PiS Koszalin</description><Point><coordinates>16.180755,53.439329</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRÓBARCZYK Marek Józef PiS</name><description>Mst Warszawa (a) PiS Szczecin</description><Point><coordinates>21.024013,52.197904</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DOBRZYŃSKI Leszek PiS</name><description>Szczecin (ab) PiS Szczecin</description><Point><coordinates>14.617236,53.433839</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZAŁABAWKA Artur Lesław PiS</name><description>Szczecin (ab) PiS Szczecin</description><Point><coordinates>14.616976,53.424126</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JACH Michał PiS</name><description>Stargard PiS Szczecin</description><Point><coordinates>15.003520,53.308631</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIERNAT Stefania Elżbieta PiS</name><description>Szczecin (ab) PiS Szczecin</description><Point><coordinates>14.622405,53.418467</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAREMBA Krzysztof Piotr PiS</name><description>Szczecin (ab) PiS Szczecin</description><Point><coordinates>14.611787,53.434409</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MUCHA Rafał Marek PiS</name><description>Gryfino PiS Szczecin</description><Point><coordinates>14.569648,53.254948</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DRZAZGA Kazimierz PiS</name><description>Police PiS Szczecin</description><Point><coordinates>14.465778,53.599721</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LITWIŃSKI Arkadiusz BEZP</name><description>Szczecin (ab) PiS Szczecin</description><Point><coordinates>14.603024,53.425725</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POSOBKIEWICZ Marek BEZP</name><description>Świnoujście (b) PiS Szczecin</description><Point><coordinates>14.315774,53.851109</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZELĄŻEK Andrzej BEZP</name><description>Chojna PiS Szczecin</description><Point><coordinates>14.415992,52.951068</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUŹMIŃSKA Monika BEZP</name><description>Węgorzyno PiS Szczecin</description><Point><coordinates>15.539276,53.546021</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁYJAK Justyna PiS</name><description>Pyrzyce PiS Szczecin</description><Point><coordinates>14.907143,53.152623</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZARĘBSKA-KULESZA Magdalena PiS</name><description>Nowogard PiS Szczecin</description><Point><coordinates>15.128925,53.686345</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MATECKI Dariusz Piotr SolidarnaPolska</name><description>Szczecin (ab) PiS Szczecin</description><Point><coordinates>14.607549,53.423793</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOGUCKI Zbigniew PiS</name><description>Szczecin (ab) PiS Szczecin</description><Point><coordinates>14.613773,53.412622</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRZOZOWSKA Maria Romualda PiS</name><description>Myślibórz PiS Szczecin</description><Point><coordinates>14.868886,52.960687</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAWLAK Anna PiS</name><description>Dolice PiS Szczecin</description><Point><coordinates>15.200658,53.185012</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TOBOŁA Jolanta Barbara PiS</name><description>Police PiS Szczecin</description><Point><coordinates>14.464766,53.604310</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAMIŃSKI Michał PiS</name><description>Kamień Pomorski PiS Szczecin</description><Point><coordinates>14.824940,53.946290</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DYCZYŃSKA Katarzyna Karolina PiS</name><description>Gryfice PiS Szczecin</description><Point><coordinates>15.161390,53.911198</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STÓJ Agnieszka Janina PiS</name><description>Świnoujście (b) PiS Szczecin</description><Point><coordinates>14.309528,53.845209</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KURZAWA Agnieszka PiS</name><description>Szczecin (ab) PiS Szczecin</description><Point><coordinates>14.640081,53.443002</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOPEĆ Maciej Stanisław PiS</name><description>Szczecin (ab) PiS Szczecin</description><Point><coordinates>14.609317,53.425020</coordinates></Point></Placemark>
+</Document></kml>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2' xmlns:gx='http://www.google.com/kml/ext/2.2'>
+<Document>
+<name>kml</name>
+<description>tomasz przechlewski, http://pinkaccordions.homelinux.org. Some rights reserved (CC BY 2.0)</description>
+<Style id='PinX'><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon60.png</href></Icon></IconStyle></Style>
+<Style id='XLine'><LineStyle><color>ffb18ff4</color><width>4</width></LineStyle></Style>
+<Placemark><styleUrl>#PinX</styleUrl><name>PŁAŻYŃSKI Kacper Maciej PiS</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.701029,54.367438</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻEBROWSKI Arwid Marek PiS</name><description>Sadlinki PiS Gdańsk</description><Point><coordinates>18.843403,53.652229</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KILIAN Jan PiS</name><description>Starogard Gdański PiS Gdańsk</description><Point><coordinates>18.518851,53.968415</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CYMAŃSKI Tadeusz SolidarnaPolska</name><description>Malbork PiS Gdańsk</description><Point><coordinates>19.042805,54.024643</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SMOLIŃSKI Kazimierz PiS</name><description>Tczew PiS Gdańsk</description><Point><coordinates>18.780795,54.090071</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RABENDA Karol Kazimierz PorozumienieJarosławaGowina</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.674514,54.348197</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CELMER Sylwia Agnieszka PiS</name><description>Sztum PiS Gdańsk</description><Point><coordinates>18.999478,53.923759</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KORALEWSKI Kazimierz Marian PiS</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.674700,54.357098</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RAKOWSKI Tomasz Jędrzej PiS</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.677458,54.370680</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PETKOWSKI Paweł Piotr PiS</name><description>Sopot PiS Gdańsk</description><Point><coordinates>18.546323,54.443380</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KEMPA Anna Magdalena PiS</name><description>Trąbki Wielkie PiS Gdańsk</description><Point><coordinates>18.500774,54.159142</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SULEWSKA Katarzyna Joanna PiS</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.698131,54.353284</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIECZOREK Jan Antoni PiS</name><description>Miłoradz PiS Gdańsk</description><Point><coordinates>18.890747,54.012805</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GÓRNIAK Sonia Anna PiS</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.672852,54.364809</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WITTNER Marcin Daniel PiS</name><description>Pruszcz Gdański PiS Gdańsk</description><Point><coordinates>18.667145,54.264718</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STOLC Grażyna Jadwiga PiS</name><description>Skórcz PiS Gdańsk</description><Point><coordinates>18.528856,53.806970</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CABAJ Joanna Dorota BEZP</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.676375,54.362622</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JASIŃSKI Mirosław PiS</name><description>Malbork PiS Gdańsk</description><Point><coordinates>19.046547,54.026651</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WAŃCZYK-KULPIŃSKA Katarzyna Maria PiS</name><description>Pelplin PiS Gdańsk</description><Point><coordinates>18.736924,53.927224</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BROŻEK Anna PiS</name><description>Pruszcz Gdański PiS Gdańsk</description><Point><coordinates>18.649215,54.251974</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>IMIANOWSKA Barbara PiS</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.687053,54.380739</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STANKIEWICZ Filip Andrzej PiS</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.688935,54.381645</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RACZAK Grzegorz BEZP</name><description>Gdańsk (ab) PiS Gdańsk</description><Point><coordinates>18.673885,54.357668</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>URBANIAK Michał Piotr RuchNarodowy</name><description>Kosakowo KONFEDERACJA Gdańsk</description><Point><coordinates>18.474463,54.592792</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PRUŚ Sylwester Zbigniew Korwin</name><description>Gdańsk (ab) KONFEDERACJA Gdańsk</description><Point><coordinates>18.684556,54.370025</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MOJZESOWICZ Wojciech BEZP</name><description>Koronowo KONFEDERACJA Gdańsk</description><Point><coordinates>17.879992,53.319540</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZABOROWSKI Arkadiusz RuchNarodowy</name><description>Skarszewy KONFEDERACJA Gdańsk</description><Point><coordinates>18.432050,54.065957</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WELKA Michał BEZP</name><description>Gdynia (ab) KONFEDERACJA Gdańsk</description><Point><coordinates>18.471134,54.518208</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OCHAŁ Andrzej RuchNarodowy</name><description>Prabuty KONFEDERACJA Gdańsk</description><Point><coordinates>19.200493,53.735679</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WYSOKIŃSKA Monika Agnieszka BEZP</name><description>Ustka (b) KONFEDERACJA Gdańsk</description><Point><coordinates>16.860374,54.574556</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RABĘDA Krzysztof Korwin</name><description>Gdańsk (ab) KONFEDERACJA Gdańsk</description><Point><coordinates>18.685081,54.344939</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZARNECKA Anna BEZP</name><description>Pruszcz Gdański KONFEDERACJA Gdańsk</description><Point><coordinates>18.663265,54.269445</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAWEŁCZAK Barnaba Bogusz BEZP</name><description>Sopot KONFEDERACJA Gdańsk</description><Point><coordinates>18.551609,54.434844</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAPROCKA Małgorzata Maria BEZP</name><description>Gdynia (ab) KONFEDERACJA Gdańsk</description><Point><coordinates>18.467998,54.517753</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIASECKA Dorota Magdalena BEZP</name><description>Sopot KONFEDERACJA Gdańsk</description><Point><coordinates>18.543292,54.437161</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PASZKO Dagmara BEZP</name><description>Gdańsk (ab) KONFEDERACJA Gdańsk</description><Point><coordinates>18.683550,54.351246</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LABUDA Katarzyna BEZP</name><description>Sulęczyno KONFEDERACJA Gdańsk</description><Point><coordinates>17.793905,54.243695</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SEREDYŃSKI Konrad Bartłomiej RuchNarodowy</name><description>Trąbki Wielkie KONFEDERACJA Gdańsk</description><Point><coordinates>18.503251,54.155534</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRODNICKA Kamila Kinga Korwin</name><description>Gdańsk (ab) KONFEDERACJA Gdańsk</description><Point><coordinates>18.678635,54.345916</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FALIŃSKA Urszula BEZP</name><description>Gdynia (ab) KONFEDERACJA Gdańsk</description><Point><coordinates>18.468948,54.482516</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LANDOWSKA Agnieszka Monika RuchNarodowy</name><description>Rumia KONFEDERACJA Gdańsk</description><Point><coordinates>18.382969,54.572212</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZABLEWSKA Joanna Maria RuchNarodowy</name><description>Tarnowo Podgórne KONFEDERACJA Gdańsk</description><Point><coordinates>16.682752,52.450898</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WILK Piotr Jerzy RuchNarodowy</name><description>Starogard Gdański KONFEDERACJA Gdańsk</description><Point><coordinates>18.528292,53.970562</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ADAMOWICZ Emilia Regina BEZP</name><description>Bydgoszcz (a) KONFEDERACJA Gdańsk</description><Point><coordinates>18.023610,53.144424</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHOJNACKA Izabela Anna RuchNarodowy</name><description>Gdańsk (ab) KONFEDERACJA Gdańsk</description><Point><coordinates>18.679867,54.367287</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STĘPKOWSKI Adrian Korwin</name><description>Gdańsk (ab) KONFEDERACJA Gdańsk</description><Point><coordinates>18.688020,54.347824</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRZYWKOWSKI Marcin Piotr Korwin</name><description>Tczew KONFEDERACJA Gdańsk</description><Point><coordinates>18.781615,54.088817</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MACIEJEWSKA Beata Monika Wiosna</name><description>Gdańsk (ab) SLD Gdańsk</description><Point><coordinates>18.675663,54.359289</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BANACH Jolanta Maria BEZP</name><description>Gdańsk (ab) SLD Gdańsk</description><Point><coordinates>18.688683,54.358807</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALCZUK Łukasz LRazem</name><description>Gdynia (ab) SLD Gdańsk</description><Point><coordinates>18.466157,54.505496</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚNIEG Andrzej Stanisław SLD</name><description>Kwidzyn SLD Gdańsk</description><Point><coordinates>18.976470,53.769202</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIĘKOŚ Michał Rafał Wiosna</name><description>Sopot SLD Gdańsk</description><Point><coordinates>18.547785,54.445757</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OCHOCKA Iwona Wiosna</name><description>Tczew SLD Gdańsk</description><Point><coordinates>18.689004,54.082077</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STROJNY Olga LRazem</name><description>Gdańsk (ab) SLD Gdańsk</description><Point><coordinates>18.672758,54.363154</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GWOŹDŹ Edward Rajmund BEZP</name><description>Gdańsk (ab) SLD Gdańsk</description><Point><coordinates>18.699178,54.363623</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HRYNIEWSKI Wojciech LRazem</name><description>Gdańsk (ab) SLD Gdańsk</description><Point><coordinates>18.680882,54.371379</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWAK Karolina Wiosna</name><description>Gardeja SLD Gdańsk</description><Point><coordinates>19.040279,53.647164</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRÓL Judyta Anna członek partii politycznej: Polska Partia Socjalistyczna</name><description>Pruszcz Gdański SLD Gdańsk</description><Point><coordinates>18.641019,54.252573</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PACEK Igor Wiosna</name><description>Luzino SLD Gdańsk</description><Point><coordinates>18.092643,54.563968</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HODERNY Adam Ryszard SLD</name><description>Malbork SLD Gdańsk</description><Point><coordinates>19.041402,54.026232</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GREKULAK Ksenia BEZP</name><description>Sztum SLD Gdańsk</description><Point><coordinates>18.995256,53.925411</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KŁOS Wojciech Jakub LRazem</name><description>Gdańsk (ab) SLD Gdańsk</description><Point><coordinates>18.688623,54.368271</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CYGAN Mirosław Wojciech SLD</name><description>Gdynia (ab) SLD Gdańsk</description><Point><coordinates>18.459792,54.500645</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STAŻEWSKA Anna Ewa LRazem</name><description>Gdańsk (ab) SLD Gdańsk</description><Point><coordinates>18.700655,54.349638</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WADLEWSKA Lucyna Beata Wiosna</name><description>Pruszcz Gdański SLD Gdańsk</description><Point><coordinates>18.638222,54.254943</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BYLICA Bartosz Wiosna</name><description>Pruszcz Gdański SLD Gdańsk</description><Point><coordinates>18.672873,54.268988</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARKIEWICZ Dorota Maria SLD</name><description>Pruszcz Gdański SLD Gdańsk</description><Point><coordinates>18.643104,54.257280</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WICHERT Marcin Krystian BEZP</name><description>Starogard Gdański SLD Gdańsk</description><Point><coordinates>18.530050,53.959253</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻOCHOWSKA Anna Kazimiera Wiosna</name><description>Gdańsk (ab) SLD Gdańsk</description><Point><coordinates>18.689157,54.339924</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZKUDLAREK Joanna Dorota LRazem</name><description>Gdynia (ab) SLD Gdańsk</description><Point><coordinates>18.477065,54.494598</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOPERSKI Romuald Wincenty SLD</name><description>Gdańsk (ab) SLD Gdańsk</description><Point><coordinates>18.700897,54.375366</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOBYLARZ Andrzej Sławomir BEZP</name><description>Trąbki Wielkie PSL Gdańsk</description><Point><coordinates>18.497921,54.155028</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TRAWICKI Krzysztof Gabriel PSL</name><description>Zblewo PSL Gdańsk</description><Point><coordinates>18.335629,53.942122</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAWŁOWSKA Maria Urszula PSL</name><description>Stegna PSL Gdańsk</description><Point><coordinates>19.075965,54.294401</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUCHAREK Adam Antoni BEZP</name><description>Tczew PSL Gdańsk</description><Point><coordinates>18.777823,54.094979</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACZYŃSKI Leszek Józef BEZP</name><description>Trąbki Wielkie PSL Gdańsk</description><Point><coordinates>18.498663,54.163384</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SARNOWSKI Wojciech Ireneusz BEZP</name><description>Zblewo PSL Gdańsk</description><Point><coordinates>18.339777,53.947720</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIERNACKI Paweł Piotr BEZP</name><description>Miastko PSL Gdańsk</description><Point><coordinates>16.999921,54.031706</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CYMERYS Wojciech PSL</name><description>Sztum PSL Gdańsk</description><Point><coordinates>19.001039,53.925053</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TUSK Lucyna Maria BEZP</name><description>Pruszcz Gdański PSL Gdańsk</description><Point><coordinates>18.673227,54.273146</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWAK Bartosz Kazimierz PSL</name><description>Malbork PSL Gdańsk</description><Point><coordinates>19.040828,54.048595</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DASZKIEWICZ Maria Jolanta PSL</name><description>Starogard Gdański PSL Gdańsk</description><Point><coordinates>18.522559,53.965288</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KŁOS Małgorzata Maria PSL</name><description>Sopot PSL Gdańsk</description><Point><coordinates>18.546798,54.440788</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WERONIECKI Bartosz Szymon PSL</name><description>Pelplin PSL Gdańsk</description><Point><coordinates>18.738225,53.922311</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRAHN Marianna PSL</name><description>Sopot PSL Gdańsk</description><Point><coordinates>18.545137,54.449752</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MICHALAK Leszek PSL</name><description>Pruszcz Gdański PSL Gdańsk</description><Point><coordinates>18.650879,54.261711</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAMIŃSKI Paweł PSL</name><description>Gdańsk (ab) PSL Gdańsk</description><Point><coordinates>18.671052,54.369581</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DOMBROWSKA-GRUBBA Beata Agnieszka BEZP</name><description>Gdańsk (ab) PSL Gdańsk</description><Point><coordinates>18.675249,54.349879</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HOŁUBOWSKI Bartosz Rafał BEZP</name><description>Gdańsk (ab) PSL Gdańsk</description><Point><coordinates>18.677415,54.347066</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RYBAKOWSKA Małgorzata BEZP</name><description>Gdańsk (ab) PSL Gdańsk</description><Point><coordinates>18.684677,54.381149</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MŁOT Andrzej PSL</name><description>Gdańsk (ab) PSL Gdańsk</description><Point><coordinates>18.686247,54.352581</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PASZEK Krystyna BEZP</name><description>Bobowo PSL Gdańsk</description><Point><coordinates>18.537871,53.872187</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DĄBEK-STOBIERSKA Janina Maria BEZP</name><description>Cedry Wielkie PSL Gdańsk</description><Point><coordinates>18.843457,54.254873</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRAJOSZEK Zbigniew Mariusz PSL</name><description>Cedry Wielkie PSL Gdańsk</description><Point><coordinates>18.843615,54.255765</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DORNIAK Tomasz PSL</name><description>Żukowo PSL Gdańsk</description><Point><coordinates>18.374682,54.373204</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NEUMANN Sławomir Arkadiusz PORP</name><description>Starogard Gdański KOBW Gdańsk</description><Point><coordinates>18.536348,53.993351</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WAŁĘSA Jarosław Leszek PORP</name><description>Gdańsk (ab) KOBW Gdańsk</description><Point><coordinates>18.689056,54.377758</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POMASKA Agnieszka Dominika PORP</name><description>Gdańsk (ab) KOBW Gdańsk</description><Point><coordinates>18.677500,54.356221</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ADAMOWICZ Piotr BEZP</name><description>Gdańsk (ab) KOBW Gdańsk</description><Point><coordinates>18.674768,54.346238</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHMIEL Małgorzata PORP</name><description>Gdańsk (ab) KOBW Gdańsk</description><Point><coordinates>18.680789,54.356841</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SARNOWSKI Józef Leon PSL</name><description>Sztum KOBW Gdańsk</description><Point><coordinates>19.001707,53.929318</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOROWCZAK Jerzy Stanisław PORP</name><description>Gdańsk (ab) KOBW Gdańsk</description><Point><coordinates>18.681292,54.355766</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIDZ Piotr PORP</name><description>Kwidzyn KOBW Gdańsk</description><Point><coordinates>18.944749,53.718921</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BAUĆ Piotr Paweł członek partii politycznej: Twój Ruch</name><description>Gdańsk (ab) KOBW Gdańsk</description><Point><coordinates>18.676896,54.368203</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BAGIŃSKI Piotr Wojciech PORP</name><description>Sopot KOBW Gdańsk</description><Point><coordinates>18.554694,54.446164</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WÓJCIK Małgorzata Joanna Zieloni</name><description>Gdynia (ab) KOBW Gdańsk</description><Point><coordinates>18.464912,54.523536</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GANCAREWICZ Monika Katarzyna BEZP</name><description>Starogard Gdański KOBW Gdańsk</description><Point><coordinates>18.520324,53.968567</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LISEK Krzysztof PORP</name><description>Trąbki Wielkie KOBW Gdańsk</description><Point><coordinates>18.495738,54.165596</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKONIECZNY Stefan Leon PORP</name><description>Pruszcz Gdański KOBW Gdańsk</description><Point><coordinates>18.647632,54.263115</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MICHALSKI Jacek Wojciech PORP</name><description>Nowy Dwór Gdański KOBW Gdańsk</description><Point><coordinates>19.136634,54.194849</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACPROWICZ Beata Maria BEZP</name><description>Malbork KOBW Gdańsk</description><Point><coordinates>19.046160,54.026861</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KULAS Jan Edward PORP</name><description>Tczew KOBW Gdańsk</description><Point><coordinates>18.782990,54.089583</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HANDKE-OWSIAK Alicja BEZP</name><description>Tczew KOBW Gdańsk</description><Point><coordinates>18.778035,54.086855</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZYŻEWSKA Agata Anna BEZP</name><description>Gdańsk (ab) KOBW Gdańsk</description><Point><coordinates>18.688147,54.351401</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POBŁOCKA Natalia Zuzanna Nowoczesna</name><description>Sopot KOBW Gdańsk</description><Point><coordinates>18.545330,54.448788</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚLEDŹ Mariusz BEZP</name><description>Pelplin KOBW Gdańsk</description><Point><coordinates>18.737170,53.924026</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAJ Lucyna BEZP</name><description>Prabuty KOBW Gdańsk</description><Point><coordinates>19.201170,53.741458</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>REZMEROWSKI Roman Kazimierz BEZP</name><description>Tczew KOBW Gdańsk</description><Point><coordinates>18.692767,54.084571</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LIEDER Ewa Nowoczesna</name><description>Gdańsk (ab) KOBW Gdańsk</description><Point><coordinates>18.674542,54.350036</coordinates></Point></Placemark>
+</Document></kml>
