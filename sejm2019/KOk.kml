@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2' xmlns:gx='http://www.google.com/kml/ext/2.2'>
+<Document>
+<name>kml</name>
+<description>tomasz przechlewski, http://pinkaccordions.homelinux.org. Some rights reserved (CC BY 2.0)</description>
+<Style id='PinX'><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon24.png</href></Icon></IconStyle></Style>
+<Style id='XLine'><LineStyle><color>ffb18ff4</color><width>4</width></LineStyle></Style>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZERNOW Zofia PORP</name><description>Jelenia Góra (a) KOBW Legnica</description><Point><coordinates>15.730401,50.839389</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAWCZYK Iwona Małgorzata PORP</name><description>Kamienna Góra KOBW Legnica</description><Point><coordinates>16.019313,50.751733</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DROZD Ewa PORP</name><description>Głogów KOBW Legnica</description><Point><coordinates>16.053807,51.670985</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARANOWSKA Dorota PORP</name><description>Zgorzelec KOBW Legnica</description><Point><coordinates>15.020457,51.150745</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PICHAŁA Anna Eugenia BEZP</name><description>Chocianów KOBW Legnica</description><Point><coordinates>15.957941,51.419562</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DOWHAŃ-DOMAŃSKA Ksenia Anna PORP</name><description>Lubin (a) KOBW Legnica</description><Point><coordinates>16.198948,51.399561</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROLSKA Beata Edyta BEZP</name><description>Chocianów KOBW Legnica</description><Point><coordinates>15.965173,51.423257</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARCIK Krystyna Henryka PORP</name><description>Legnica KOBW Legnica</description><Point><coordinates>16.153965,51.214123</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAGRYŚ Urszula PORP</name><description>Bolesławiec KOBW Legnica</description><Point><coordinates>15.558292,51.262287</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKÓRZEWSKA Barbara Anna BEZP</name><description>Lubin KOBW Legnica</description><Point><coordinates>16.176439,51.369400</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STRĄCZEK Joanna Dorota BEZP</name><description>Miłkowice KOBW Legnica</description><Point><coordinates>16.102571,51.249955</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SURWIŁO Małgorzata Joanna Nowoczesna</name><description>Leśna KOBW Legnica</description><Point><coordinates>15.282040,50.997250</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BROK Anna PORP</name><description>Głogów KOBW Legnica</description><Point><coordinates>16.048691,51.675371</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MRZYGŁOCKA Izabela Katarzyna PORP</name><description>Wałbrzych KOBW Wałbrzych</description><Point><coordinates>16.298491,50.774852</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIELICHOWSKA Monika PORP</name><description>Nowa Ruda KOBW Wałbrzych</description><Point><coordinates>16.516740,50.578033</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚWIŁO Teresa PORP</name><description>Świdnica KOBW Wałbrzych</description><Point><coordinates>16.489646,50.848355</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BEŚLERZEWSKA Małgorzata Urszula Zieloni</name><description>Wałbrzych KOBW Wałbrzych</description><Point><coordinates>16.287876,50.787500</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BEN AMARA Joanna Maria PORP</name><description>Kamieniec Ząbkowicki KOBW Wałbrzych</description><Point><coordinates>16.907521,50.519829</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TUMIDALSKA Marta Magdalena PORP</name><description>Wałbrzych KOBW Wałbrzych</description><Point><coordinates>16.290191,50.778204</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TRACZ Małgorzata Elżbieta Zieloni</name><description>Wrocław (a) KOBW Wrocław</description><Point><coordinates>16.984179,51.120018</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MŁYŃCZAK Aldona Janina PORP</name><description>Wrocław (a) KOBW Wrocław</description><Point><coordinates>16.963085,51.127808</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>AUGUSTYNOWSKA Joanna Wiktoria PORP</name><description>Wrocław (a) KOBW Wrocław</description><Point><coordinates>17.009232,51.126563</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HORODYSKA Anna Maria BEZP</name><description>Strzelin KOBW Wrocław</description><Point><coordinates>17.075259,50.766276</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WÓJCIK Krystyna BEZP</name><description>Kobierzyce KOBW Wrocław</description><Point><coordinates>16.940064,50.961961</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LESZCZYŃSKA Anna Maria PORP</name><description>Oława KOBW Wrocław</description><Point><coordinates>17.292193,50.959073</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOBOLAK Anna Helena BEZP</name><description>Czernica KOBW Wrocław</description><Point><coordinates>17.259232,51.069767</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIWKO Katarzyna Anna PORP</name><description>Wrocław (a) KOBW Wrocław</description><Point><coordinates>16.996498,51.110151</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STANIÓW Katarzyna PORP</name><description>Wrocław (a) KOBW Wrocław</description><Point><coordinates>16.972334,51.121370</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GILAR Daria PORP</name><description>Wrocław (a) KOBW Wrocław</description><Point><coordinates>16.987746,51.149789</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOZŁOWSKA Iwona Maria BEZP</name><description>Więcbork KOBW Bydgoszcz</description><Point><coordinates>17.438402,53.349268</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁOŚKO Magdalena PORP</name><description>Inowrocław KOBW Bydgoszcz</description><Point><coordinates>18.255158,52.788316</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRZEZIŃSKA Olga BEZP</name><description>Janikowo KOBW Bydgoszcz</description><Point><coordinates>18.103092,52.726549</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIETRYGA Nicole Weronika BEZP</name><description>Bydgoszcz (a) KOBW Bydgoszcz</description><Point><coordinates>18.041396,53.136352</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIELIŃSKA Monika Julia BEZP</name><description>Bydgoszcz (a) KOBW Bydgoszcz</description><Point><coordinates>18.049676,53.138964</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POPA Paulina Barbara PORP</name><description>Bydgoszcz (a) KOBW Bydgoszcz</description><Point><coordinates>18.032811,53.123399</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOŹNIAK Danuta Maria BEZP</name><description>Bydgoszcz (a) KOBW Bydgoszcz</description><Point><coordinates>18.042166,53.150308</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STASZAK-KOWALSKA Radosława Maria BEZP</name><description>Białe Błota KOBW Bydgoszcz</description><Point><coordinates>17.905000,53.083884</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GALIŃSKA Martyna Magdalena BEZP</name><description>Lubiewo KOBW Bydgoszcz</description><Point><coordinates>17.994270,53.461046</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HARTWICH Iwona BEZP</name><description>Toruń KOBW Toruń</description><Point><coordinates>18.597988,53.003798</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LUBAŃSKA Katarzyna Anna BEZP</name><description>Chełmno KOBW Toruń</description><Point><coordinates>18.422230,53.355395</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZWIERZCHOWSKA Lidia Urszula PORP</name><description>Aleksandrów Kujawski KOBW Toruń</description><Point><coordinates>18.700308,52.873065</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STAŃCO-WAWRZYŃSKA Alicja Józefa BEZP</name><description>Toruń KOBW Toruń</description><Point><coordinates>18.618822,53.012446</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JASKÓLSKA Emilia BEZP</name><description>Skrwilno KOBW Toruń</description><Point><coordinates>19.594709,53.037027</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZALEWSKA Barbara Agata BEZP</name><description>Łubianka KOBW Toruń</description><Point><coordinates>18.483461,53.141153</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIÓŁKOWSKA Grażyna Joanna Zieloni</name><description>Golub-Dobrzyń KOBW Toruń</description><Point><coordinates>19.100919,53.130318</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJTKOWSKA Aneta Agnieszka BEZP</name><description>Osięciny KOBW Toruń</description><Point><coordinates>18.729574,52.649597</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALKOWSKA Halina BEZP</name><description>Gruta KOBW Toruń</description><Point><coordinates>18.948368,53.449566</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RAK Danuta Maria PORP</name><description>Zławieś Wielka KOBW Toruń</description><Point><coordinates>18.334745,53.099154</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIOTROWSKA Dominika Marta BEZP</name><description>Golub-Dobrzyń KOBW Toruń</description><Point><coordinates>19.053987,53.113719</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MUCHA Joanna PORP</name><description>Lublin KOBW Lublin</description><Point><coordinates>22.546807,51.233861</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WCISŁO Marta Anna PORP</name><description>Lublin KOBW Lublin</description><Point><coordinates>22.570766,51.197531</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LISOWSKA Bożena Grażyna PORP</name><description>Lublin KOBW Lublin</description><Point><coordinates>22.561532,51.209730</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WASILEWSKA Bożenna BEZP</name><description>Lublin KOBW Lublin</description><Point><coordinates>22.577322,51.238291</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GUZ Sylwia Stanisława BEZP</name><description>Lubartów KOBW Lublin</description><Point><coordinates>22.607313,51.455548</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZABAŁA Magdalena Anna BEZP</name><description>Świdnik (a) KOBW Lublin</description><Point><coordinates>22.693251,51.214320</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DUNECKA Małgorzata Teresa BEZP</name><description>Lublin KOBW Lublin</description><Point><coordinates>22.557620,51.233620</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HOŁDA Joanna Sława BEZP</name><description>Lublin KOBW Lublin</description><Point><coordinates>22.568837,51.222242</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FATYGA Katarzyna BEZP</name><description>Głusk KOBW Lublin</description><Point><coordinates>22.583905,51.170304</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJCIECHOWSKA-JĘDRZEJCZYK Magdalena Mariola Zieloni</name><description>Kazimierz Dolny KOBW Lublin</description><Point><coordinates>21.988687,51.325991</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PADO Anna Barbara Nowoczesna</name><description>Lublin KOBW Lublin</description><Point><coordinates>22.569850,51.234958</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIĘCEK Katarzyna Dorota BEZP</name><description>Lublin KOBW Lublin</description><Point><coordinates>22.555132,51.242042</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WRÓBLEWSKA Kornelia Konstancja BEZP</name><description>Międzyrzec Podlaski KOBW Chełm</description><Point><coordinates>22.774546,52.016171</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GROMADZKA Małgorzata PORP</name><description>Księżpol KOBW Chełm</description><Point><coordinates>22.776261,50.416750</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAJĄC Magdalena PORP</name><description>Żółkiewka KOBW Chełm</description><Point><coordinates>22.843492,50.898415</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LAMCZYK Grażyna Bogumiła BEZP</name><description>Parczew KOBW Chełm</description><Point><coordinates>22.911489,51.597068</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KIELISZEK-WASIOŁEK Bożena Stanisława PORP</name><description>Krynice KOBW Chełm</description><Point><coordinates>23.409466,50.577301</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIETRASZKIEWICZ Katarzyna Ewa BEZP</name><description>Biała Podlaska KOBW Chełm</description><Point><coordinates>23.148771,52.028135</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻBIKOWSKA Barbara Stefania PORP</name><description>Chełm KOBW Chełm</description><Point><coordinates>23.495785,51.140354</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HUKIEWICZ Karolina Anna BEZP</name><description>Krasnystaw KOBW Chełm</description><Point><coordinates>23.170076,50.997062</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ĆWIKLIŃSKA Kamila PORP</name><description>Zamość KOBW Chełm</description><Point><coordinates>23.250469,50.723395</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PELC Katarzyna Weronika PORP</name><description>Komarów-Osada KOBW Chełm</description><Point><coordinates>23.498115,50.634107</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOLASIŃSKA Anna Maria BEZP</name><description>Piszczac KOBW Chełm</description><Point><coordinates>23.381492,51.963277</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZARĘBSKA Wioleta BEZP</name><description>Łomazy KOBW Chełm</description><Point><coordinates>23.165808,51.897408</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIBIŃSKA Krystyna Mieczysława PORP</name><description>Kłodawa KOBW Zielona Góra</description><Point><coordinates>15.251091,52.834864</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OSOS Katarzyna PORP</name><description>Łagów KOBW Zielona Góra</description><Point><coordinates>15.246043,52.288707</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRODZIŃSKA Cecylia PORP</name><description>Szprotawa KOBW Zielona Góra</description><Point><coordinates>15.595610,51.565911</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAGDZIAREK Krystyna Maria Nowoczesna</name><description>Zielona Góra (a) KOBW Zielona Góra</description><Point><coordinates>15.520340,51.936117</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WDOWIAK Agata Małgorzata BEZP</name><description>Torzym KOBW Zielona Góra</description><Point><coordinates>15.054969,52.308464</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JĄGOWSKA Alina Wanda PORP</name><description>Babimost KOBW Zielona Góra</description><Point><coordinates>15.800733,52.152118</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MALINOWSKA Danuta Teresa PORP</name><description>Sulęcin KOBW Zielona Góra</description><Point><coordinates>15.211967,52.433343</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOZAK Elżbieta BEZP</name><description>Świebodzin KOBW Zielona Góra</description><Point><coordinates>15.530761,52.242181</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KANIEWSKA Jolanta Teresa PORP</name><description>Kożuchów KOBW Zielona Góra</description><Point><coordinates>15.584318,51.766604</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚLEDZIŃSKA-KATARASIŃSKA Iwona Elżbieta PORP</name><description>Łódź (a) KOBW Łódź</description><Point><coordinates>19.483491,51.804305</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NIEMCZYK Małgorzata Barbara PORP</name><description>Łódź (a) KOBW Łódź</description><Point><coordinates>19.486407,51.775619</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOBYLIŃSKA Agata BEZP</name><description>Łódź (a) KOBW Łódź</description><Point><coordinates>19.481651,51.789024</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAŁKIEWICZ Magdalena Anna Zieloni</name><description>Łódź (a) KOBW Łódź</description><Point><coordinates>19.460732,51.766964</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHOJNACKA-DURAJ Justyna Maria PORP</name><description>Łódź (a) KOBW Łódź</description><Point><coordinates>19.455734,51.771427</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAMULSKA Monika Joanna BEZP</name><description>Łódź (a) KOBW Łódź</description><Point><coordinates>19.455230,51.783195</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAJCHRZAK Antonina PORP</name><description>Łódź (a) KOBW Łódź</description><Point><coordinates>19.500270,51.773507</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CABAN-PIASKOWSKA Katarzyna Paulina Nowoczesna</name><description>Łódź (a) KOBW Łódź</description><Point><coordinates>19.493764,51.751835</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWAK Renata Anna PORP</name><description>Rogów KOBW Łódź</description><Point><coordinates>19.867638,51.834477</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RAHNEMA-BAJ Niloufar PORP</name><description>Łódź (a) KOBW Łódź</description><Point><coordinates>19.486281,51.769502</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAWCZYK Maria Teresa PORP</name><description>Tuszyn KOBW Łódź</description><Point><coordinates>19.535510,51.575901</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SPÓLNICKA Magdalena Sylwia PORP</name><description>Radomsko KOBW Piotrków Trybunalski</description><Point><coordinates>19.439141,51.065418</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RUTKOWSKA Dorota PORP</name><description>Skierniewice KOBW Piotrków Trybunalski</description><Point><coordinates>20.165915,51.958494</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KLATKA Barbara Ewa PORP</name><description>Tomaszów Mazowiecki KOBW Piotrków Trybunalski</description><Point><coordinates>20.028295,51.514122</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUBA Elżbieta Ewa BEZP</name><description>Rawa Mazowiecka KOBW Piotrków Trybunalski</description><Point><coordinates>20.233629,51.774059</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LISTWOŃ Anna Renata Nowoczesna</name><description>Rozprza KOBW Piotrków Trybunalski</description><Point><coordinates>19.685513,51.303744</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOLIŃSKA Sylwia BEZP</name><description>Kowiesy KOBW Piotrków Trybunalski</description><Point><coordinates>20.418842,51.898179</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PONIATOWSKA Ewa Justyna BEZP</name><description>Będków KOBW Piotrków Trybunalski</description><Point><coordinates>19.773542,51.583173</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WĘŻYK-GŁOWACKA Marlena Irena PORP</name><description>Piotrków Trybunalski KOBW Piotrków Trybunalski</description><Point><coordinates>19.725616,51.415906</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HANAJCZYK Agnieszka Małgorzata PORP</name><description>Aleksandrów Łódzki KOBW Sieradz</description><Point><coordinates>19.248324,51.833158</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEWANDOWSKA Iwona Elżbieta Nowoczesna</name><description>Łódź (a) KOBW Sieradz</description><Point><coordinates>19.489047,51.798609</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WRÓBEL Katarzyna Renata PORP</name><description>Łask KOBW Sieradz</description><Point><coordinates>19.143201,51.620350</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STRUMIAN Edyta Grażyna PORP</name><description>Głowno KOBW Sieradz</description><Point><coordinates>19.715440,51.960230</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LIPIŃSKA Anna Zieloni</name><description>Łódź (a) KOBW Sieradz</description><Point><coordinates>19.460965,51.793209</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MATUSIAK Karolina Daria BEZP</name><description>Kutno KOBW Sieradz</description><Point><coordinates>19.379788,52.217704</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIELIŃSKA Beata Maria BEZP</name><description>Lutomiersk KOBW Sieradz</description><Point><coordinates>19.153366,51.769812</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JESIONOWSKA Barbara Maria PORP</name><description>Poddębice KOBW Sieradz</description><Point><coordinates>18.906274,51.889456</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOLNA Katarzyna Kinga BEZP</name><description>Zduńska Wola KOBW Sieradz</description><Point><coordinates>18.959432,51.597762</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OKOŃ-WYDER Nina Barbara BEZP</name><description>Galewice KOBW Sieradz</description><Point><coordinates>18.276606,51.384968</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRABARCZYK Małgorzata Iwona PORP</name><description>Aleksandrów Łódzki KOBW Sieradz</description><Point><coordinates>19.248640,51.832772</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NIEDZIELA Dorota PORP</name><description>Kęty KOBW Kraków</description><Point><coordinates>19.233707,49.914549</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WĄTROBA Ewa Beata BEZP</name><description>Andrychów KOBW Kraków</description><Point><coordinates>19.365470,49.821540</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WINCENCIAK-WALAS Ewa Magdalena Nowoczesna</name><description>Myślenice KOBW Kraków</description><Point><coordinates>19.950661,49.853428</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKOWROŃSKA Kinga Agnieszka Nowoczesna</name><description>Chełmek KOBW Kraków</description><Point><coordinates>19.253433,50.086793</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BLIŹNIAK Katarzyna Elżbieta Nowoczesna</name><description>Brzeszcze KOBW Kraków</description><Point><coordinates>19.148865,49.980169</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIRANOWICZ Maria Wiesława BEZP</name><description>Babice KOBW Kraków</description><Point><coordinates>19.449550,50.062862</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GĄDEK Lidia Stanisława PORP</name><description>Wolbrom KOBW Kraków</description><Point><coordinates>19.745907,50.386669</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAREK Dorota PORP</name><description>Krzeszowice KOBW Kraków</description><Point><coordinates>19.618986,50.133229</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WODYŃSKA Marta Agnieszka PORP</name><description>Kraków (a) KOBW Kraków</description><Point><coordinates>19.994139,50.076032</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZCZEPAŃSKA Alicja Anna BEZP</name><description>Kraków (a) KOBW Kraków</description><Point><coordinates>20.034564,50.055396</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWAK Edyta Liliana PORP</name><description>Kraków (a) KOBW Kraków</description><Point><coordinates>20.005793,50.026410</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAJCHER-LEGAWIEC Urszula Elżbieta BEZP</name><description>Kraków (a) KOBW Kraków</description><Point><coordinates>20.009820,50.082176</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WĘGRZYN Ewelina Teresa Nowoczesna</name><description>Kraków (a) KOBW Kraków</description><Point><coordinates>20.027847,50.054268</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PILCH-KOCJAN Marzena Dorota PORP</name><description>Klucze KOBW Kraków</description><Point><coordinates>19.566122,50.364969</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>IWANICKA Maria BEZP</name><description>Nowy Sącz KOBW Kraków</description><Point><coordinates>20.700168,49.616846</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STRZELECKA Maria Małgorzata PORP</name><description>Kraków (a) KOBW Kraków</description><Point><coordinates>20.029119,50.068310</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARCZUŁAJTIS-WALCZAK Jagna Kinga PORP</name><description>Poronin KOBW Nowy Sącz</description><Point><coordinates>20.008384,49.295846</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FOGLER Marta Halina PORP</name><description>Poronin KOBW Nowy Sącz</description><Point><coordinates>20.007151,49.296156</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RUCHAŁA Elżbieta Joanna Nowoczesna</name><description>Nowy Sącz KOBW Nowy Sącz</description><Point><coordinates>20.712171,49.618220</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEHNER Sylwia Beata BEZP</name><description>Nowy Targ KOBW Nowy Sącz</description><Point><coordinates>20.048154,49.491720</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SPRAWKA-BAZYDŁO Maria Anna PORP</name><description>Zakopane KOBW Nowy Sącz</description><Point><coordinates>19.980611,49.275267</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WĄSOWSKA-SCHIRMER Halina Maria PORP</name><description>Moszczenica KOBW Nowy Sącz</description><Point><coordinates>21.070705,49.730662</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CICHAŃSKA Barbara Grażyna BEZP</name><description>Niedźwiedź KOBW Nowy Sącz</description><Point><coordinates>20.107258,49.599351</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BALCERZYK Danuta Anna PORP</name><description>Zakopane KOBW Nowy Sącz</description><Point><coordinates>19.971316,49.284216</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>AUGUSTYN Urszula Danuta PORP</name><description>Tarnów KOBW Tarnów</description><Point><coordinates>20.989575,50.030891</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRUPA Barbara Maria BEZP</name><description>Dąbrowa Tarnowska KOBW Tarnów</description><Point><coordinates>21.023679,50.181035</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAMARCZYK Jolanta Agata BEZP</name><description>Ryglice KOBW Tarnów</description><Point><coordinates>21.181827,49.896588</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POLAŃSKA Anna Beata PORP</name><description>Wieliczka KOBW Tarnów</description><Point><coordinates>20.047274,49.973822</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁACNA Magdalena Joanna BEZP</name><description>Rzezawa KOBW Tarnów</description><Point><coordinates>20.544239,50.015190</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BŁESZYŃSKA Oliwia Julia BEZP</name><description>Kraków (a) KOBW Tarnów</description><Point><coordinates>19.983404,50.059607</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GONDEK-PODOSEK Dominika Kinga Nowoczesna</name><description>Tarnów KOBW Tarnów</description><Point><coordinates>20.968487,50.020651</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAPIŃSKA Elżbieta Teresa PORP</name><description>Płock KOBW Płock</description><Point><coordinates>19.727354,52.532235</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RUSINOWSKA Beata Małgorzata PORP</name><description>Żyrardów KOBW Płock</description><Point><coordinates>20.439672,52.057587</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KORAJCZYK-SZYPERSKA Agnieszka BEZP</name><description>Gostynin KOBW Płock</description><Point><coordinates>19.462291,52.423150</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RZEPLIŃSKA Małgorzata Zofia BEZP</name><description>Ciechanów KOBW Płock</description><Point><coordinates>20.543987,52.868595</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEGIĘĆ-DOROBA Kinga BEZP</name><description>Mszczonów KOBW Płock</description><Point><coordinates>20.544288,51.934803</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KWARCIŃSKA-KULIS Katarzyna Joanna Nowoczesna</name><description>Płock KOBW Płock</description><Point><coordinates>19.723801,52.537668</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAWLAK Urszula Henryka PORP</name><description>Brochów KOBW Płock</description><Point><coordinates>20.320936,52.330409</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ADAMIAK Paulina Ada BEZP</name><description>Raciąż KOBW Płock</description><Point><coordinates>20.119071,52.784119</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KLUZIK-ROSTKOWSKA Joanna Grażyna PORP</name><description>Mst Warszawa (a) KOBW Radom</description><Point><coordinates>21.100915,52.211770</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIAŁKOWSKA Anna Maria PORP</name><description>Zakrzew KOBW Radom</description><Point><coordinates>21.022015,51.443726</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOŹNIAK Małgorzata Anna PORP</name><description>Chynów KOBW Radom</description><Point><coordinates>21.078396,51.887659</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWACKA Magdalena Beata BEZP</name><description>Szydłowiec KOBW Radom</description><Point><coordinates>20.832191,51.249365</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁUKASIEWICZ Iwona Małgorzata Zieloni</name><description>Radom (a) KOBW Radom</description><Point><coordinates>21.167969,51.404394</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KWIATKOWSKA Barbara BEZP</name><description>Radom (a) KOBW Radom</description><Point><coordinates>21.148808,51.417272</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DENKIEWICZ Agnieszka Violeta BEZP</name><description>Zwoleń KOBW Radom</description><Point><coordinates>21.573153,51.343927</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYMCZYK Mariola Izabela PORP</name><description>Lipsko KOBW Radom</description><Point><coordinates>21.619822,51.150042</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZCZEPANIAK Elżbieta Teresa BEZP</name><description>Policzna KOBW Radom</description><Point><coordinates>21.667312,51.439312</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GASIUK-PIHOWICZ Kamila PORP</name><description>Pruszków KOBW Siedlce</description><Point><coordinates>20.801004,52.170841</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CICHOŃ Alicja Emilia PORP</name><description>Mińsk Mazowiecki KOBW Siedlce</description><Point><coordinates>21.552927,52.184337</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAWICKA Bożena PORP</name><description>Siedlce KOBW Siedlce</description><Point><coordinates>22.277303,52.149991</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PRUSACZYK Klaudia BEZP</name><description>Ostrołęka KOBW Siedlce</description><Point><coordinates>21.585608,53.082724</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WNOROWSKA Agnieszka Joanna PORP</name><description>Pułtusk KOBW Siedlce</description><Point><coordinates>21.089231,52.728339</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JASTRZĘBSKA Dorota Nowoczesna</name><description>Sokołów Podlaski KOBW Siedlce</description><Point><coordinates>22.229667,52.414570</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FALKOWSKA Katarzyna BEZP</name><description>Ostrołęka KOBW Siedlce</description><Point><coordinates>21.597456,53.079715</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOZIOŁ Emilia PORP</name><description>Węgrów KOBW Siedlce</description><Point><coordinates>22.028240,52.400005</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAWKA Marta BEZP</name><description>Zielonka KOBW Siedlce</description><Point><coordinates>21.291637,52.288521</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DANILUK Sybilla Stanisława BEZP</name><description>Łosice KOBW Siedlce</description><Point><coordinates>22.739312,52.221517</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KIDAWA-BŁOŃSKA Małgorzata Maria PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.103289,52.216955</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LUBNAUER Katarzyna Anna Nowoczesna</name><description>Łódź (a) KOBW Warszawa</description><Point><coordinates>19.481291,51.743161</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FABISIAK Joanna PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.063045,52.230589</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIEKARSKA Katarzyna Maria BEZP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.111095,52.211138</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIELIŃSKA Urszula Sara Zieloni</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.020570,52.229727</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DĄBROWSKA Alicja PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.063796,52.224219</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JACHIRA Klaudia Krystyna BEZP</name><description>Wrocław (a) KOBW Warszawa</description><Point><coordinates>16.972641,51.139255</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁOBODA Dorota Ewa BEZP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.036219,52.207244</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MANARCZYK Bożena Maria PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.094006,52.228421</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAJEWSKA Sylwia PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.093622,52.245207</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIŚKIEWICZ Jolanta PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.085407,52.187255</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TURSKA Marta Katarzyna PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.026147,52.202008</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WYRWAŁ Agnieszka Monika PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.106896,52.249177</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RUDZIAK Anna PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.082100,52.276103</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAMCZYK Anna Elżbieta PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.059706,52.286313</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LACH Lilianna Irena BEZP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.025042,52.248833</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁĄCKA Ilona Joanna PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.031279,52.233411</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEŚNIAK Edyta Róża PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.068961,52.216469</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHMIEL Patrycja Maria BEZP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.066647,52.286576</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STELMASZYK Anna Małgorzata PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.026838,52.208748</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KERYK Myroslava BEZP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.044293,52.256661</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAJEWSKA Aleksandra Małgorzata PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.061245,52.197314</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAJEWSKA Kinga Magdalena PORP</name><description>Błonie KOBW Warszawa</description><Point><coordinates>20.574562,52.206200</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZOSTAK Katarzyna Albina członek partii politycznej: Inicjatywa Polska</name><description>Michałowice KOBW Warszawa</description><Point><coordinates>20.833816,52.152208</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOCZOROWSKA Jolanta Maria PORP</name><description>Wiązowna KOBW Warszawa</description><Point><coordinates>21.359077,52.166625</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAWCZYK-DĘBIEC Ewa Małgorzata BEZP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.023671,52.229980</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BONECKA Halina Justyna PORP</name><description>Radzymin KOBW Warszawa</description><Point><coordinates>21.173296,52.431506</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ORZECHOWSKA - MIKULSKA Grażyna PORP</name><description>Mst Warszawa (a) KOBW Warszawa</description><Point><coordinates>21.021924,52.260356</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIERZEJEWSKA-WAŚ Magdalena Jadwiga PORP</name><description>Leszno KOBW Warszawa</description><Point><coordinates>20.597140,52.282815</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIERZBICKA Olga PORP</name><description>Serock KOBW Warszawa</description><Point><coordinates>21.019881,52.514282</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WINIARSKA-CZAJKOWSKA Maja Magdalena BEZP</name><description>Grodzisk Mazowiecki KOBW Warszawa</description><Point><coordinates>20.621229,52.094861</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIEŃ Elżbieta Maria PORP</name><description>Opole KOBW Opole</description><Point><coordinates>17.904179,50.684077</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JUREK Monika Małgorzata PORP</name><description>Brzeg KOBW Opole</description><Point><coordinates>17.467419,50.857705</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NIEDŹWIEDŹ Joanna Krystyna BEZP</name><description>Kluczbork KOBW Opole</description><Point><coordinates>18.225792,50.977979</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OŻÓG Monika BEZP</name><description>Opole KOBW Opole</description><Point><coordinates>17.890825,50.672768</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BESZ-JANICKA Małgorzata Ewa BEZP</name><description>Opole KOBW Opole</description><Point><coordinates>17.897184,50.682370</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUBALAŃCA Leokadia Albina BEZP</name><description>Opole KOBW Opole</description><Point><coordinates>17.894631,50.669546</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRABOWSKA-ŚWIĘS Grażyna Nowoczesna</name><description>Opole KOBW Opole</description><Point><coordinates>17.893642,50.672614</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MUC-KLIMEK Ewa Helena BEZP</name><description>Izbicko KOBW Opole</description><Point><coordinates>18.157268,50.569393</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAMIŃSKA Barbara Ewa PORP</name><description>Opole KOBW Opole</description><Point><coordinates>17.895267,50.666209</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FRYDRYCH Joanna Zofia PORP</name><description>Miejsce Piastowe KOBW Krosno</description><Point><coordinates>21.785931,49.630352</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAWICKA Ewa Stefania PORP</name><description>Przemyśl (c) KOBW Krosno</description><Point><coordinates>22.775057,49.781186</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BALON Barbara Maria Nowoczesna</name><description>Krosno KOBW Krosno</description><Point><coordinates>21.747189,49.688542</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HOLCMAN Iwona Janina BEZP</name><description>Ustrzyki Dolne KOBW Krosno</description><Point><coordinates>22.567900,49.495508</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SŁOWIK Maria Anna BEZP</name><description>Skołyszyn KOBW Krosno</description><Point><coordinates>21.321174,49.754342</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOSTKA Grażyna Dorota BEZP</name><description>Przeworsk KOBW Krosno</description><Point><coordinates>22.497219,50.057272</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KNAP Marzena Karolina BEZP</name><description>Kołaczyce KOBW Krosno</description><Point><coordinates>21.487204,49.808312</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAWOJSKA Izabela Krystyna BEZP</name><description>Haczów KOBW Krosno</description><Point><coordinates>21.939323,49.665934</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKOWROŃSKA Krystyna PORP</name><description>Mielec (a) KOBW Rzeszów</description><Point><coordinates>21.481661,50.278922</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUTRYN Renata Celina PORP</name><description>Stalowa Wola KOBW Rzeszów</description><Point><coordinates>22.015500,50.572726</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUBAS-HUL Teresa Krystyna PORP</name><description>Głogów Małopolski KOBW Rzeszów</description><Point><coordinates>21.958666,50.153766</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZYCH Barbara BEZP</name><description>Tarnobrzeg KOBW Rzeszów</description><Point><coordinates>21.694434,50.580062</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STĘPIEŃ Danuta Waleria PORP</name><description>Rzeszów (a) KOBW Rzeszów</description><Point><coordinates>21.975309,50.009611</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAJEWSKA Aneta Anna PORP</name><description>Ropczyce KOBW Rzeszów</description><Point><coordinates>21.572487,50.022349</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OMIETOŃSKA Jolanta Teresa Zieloni</name><description>Rzeszów (a) KOBW Rzeszów</description><Point><coordinates>21.969705,50.000043</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOLANO Jolanta Stanisława BEZP</name><description>Nisko KOBW Rzeszów</description><Point><coordinates>22.163306,50.479628</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAWIC Ewa Maria PORP</name><description>Dębica KOBW Rzeszów</description><Point><coordinates>21.415287,50.043120</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KANISZEWSKA Augustyna Maria BEZP</name><description>Gorzyce KOBW Rzeszów</description><Point><coordinates>21.831557,50.669546</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OWSIANY Urszula Małgorzata BEZP</name><description>Łańcut KOBW Rzeszów</description><Point><coordinates>22.224438,50.066594</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PALUCH Katarzyna członek partii politycznej: Inicjatywa Polska</name><description>Tarnobrzeg KOBW Rzeszów</description><Point><coordinates>21.697391,50.587628</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROGOWSKA Anna Jolanta Nowoczesna</name><description>Rzeszów (a) KOBW Rzeszów</description><Point><coordinates>21.979382,49.998290</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAMIŃSKA Bożena PORP</name><description>Suwałki KOBW Białystok</description><Point><coordinates>22.932736,54.100319</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DEN Jolanta PORP</name><description>Czarna Białostocka KOBW Białystok</description><Point><coordinates>23.242770,53.316234</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁAWROWSKA Joanna Dorota BEZP</name><description>Białystok KOBW Białystok</description><Point><coordinates>23.159336,53.144446</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZWOLIŃSKA Bożena Teresa BEZP</name><description>Bielsk Podlaski KOBW Białystok</description><Point><coordinates>23.190088,52.760914</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROSZKOWSKA Halina BEZP</name><description>Wysokie Mazowieckie KOBW Białystok</description><Point><coordinates>22.514009,52.927388</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SASINOWSKA Dorota PORP</name><description>Zambrów KOBW Białystok</description><Point><coordinates>22.194460,52.989541</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARASZEWSKA Katarzyna Nowoczesna</name><description>Suwałki KOBW Białystok</description><Point><coordinates>22.931268,54.111266</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PYRKO Paulina BEZP</name><description>Supraśl KOBW Białystok</description><Point><coordinates>23.362368,53.188740</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZCZYGIEŁ-ROGOWSKA Jolanta PORP</name><description>Białystok KOBW Białystok</description><Point><coordinates>23.143349,53.113075</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁEPKOWSKA-GOŁAŚ Alicja PORP</name><description>Łomża KOBW Białystok</description><Point><coordinates>22.050031,53.180577</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARCZEWSKA Wioletta Maria PORP</name><description>Białystok KOBW Białystok</description><Point><coordinates>23.162589,53.137499</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MALINOWSKA Beata Nowoczesna</name><description>Dobrzyniewo Duże KOBW Białystok</description><Point><coordinates>23.005613,53.233997</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POMASKA Agnieszka Dominika PORP</name><description>Gdańsk (ab) KOBW Gdańsk</description><Point><coordinates>18.677500,54.356221</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHMIEL Małgorzata PORP</name><description>Gdańsk (ab) KOBW Gdańsk</description><Point><coordinates>18.680789,54.356841</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WÓJCIK Małgorzata Joanna Zieloni</name><description>Gdynia (ab) KOBW Gdańsk</description><Point><coordinates>18.464912,54.523536</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GANCAREWICZ Monika Katarzyna BEZP</name><description>Starogard Gdański KOBW Gdańsk</description><Point><coordinates>18.520324,53.968567</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACPROWICZ Beata Maria BEZP</name><description>Malbork KOBW Gdańsk</description><Point><coordinates>19.046160,54.026861</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HANDKE-OWSIAK Alicja BEZP</name><description>Tczew KOBW Gdańsk</description><Point><coordinates>18.778035,54.086855</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZYŻEWSKA Agata Anna BEZP</name><description>Gdańsk (ab) KOBW Gdańsk</description><Point><coordinates>18.688147,54.351401</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POBŁOCKA Natalia Zuzanna Nowoczesna</name><description>Sopot KOBW Gdańsk</description><Point><coordinates>18.545330,54.448788</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAJ Lucyna BEZP</name><description>Prabuty KOBW Gdańsk</description><Point><coordinates>19.201170,53.741458</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LIEDER Ewa Nowoczesna</name><description>Gdańsk (ab) KOBW Gdańsk</description><Point><coordinates>18.674542,54.350036</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWACKA Barbara Anna członek partii politycznej: Inicjatywa Polska</name><description>Mst Warszawa (a) KOBW Słupsk</description><Point><coordinates>21.060000,52.254163</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRZYWONOS-STRYCHARSKA Henryka Krystyna BEZP</name><description>Gdańsk (ab) KOBW Słupsk</description><Point><coordinates>18.677765,54.367830</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KWIECIEŃ Janina BEZP</name><description>Sierakowice KOBW Słupsk</description><Point><coordinates>17.861387,54.346697</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WAWROWSKA Danuta Krystyna Nowoczesna</name><description>Ustka KOBW Słupsk</description><Point><coordinates>16.912294,54.582665</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁUCZYCKA Krystyna BEZP</name><description>Człuchów KOBW Słupsk</description><Point><coordinates>17.372434,53.668664</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DOMOZYCH Marika BEZP</name><description>Gdynia (ab) KOBW Słupsk</description><Point><coordinates>18.470645,54.498760</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZCZYGIEŁ Karolina Justyna PORP</name><description>Łęczyce KOBW Słupsk</description><Point><coordinates>17.931139,54.587404</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIELEWCZYK Iwona Teresa PORP</name><description>Cewice KOBW Słupsk</description><Point><coordinates>17.744207,54.436823</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KALINOWSKA Jolanta Maria członek partii politycznej: Socjaldemokracja Polska</name><description>Szemud KOBW Słupsk</description><Point><coordinates>18.256703,54.470644</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJTUNIK Anna Monika PORP</name><description>Kosakowo KOBW Słupsk</description><Point><coordinates>18.475027,54.597653</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SINGER Elżbieta BEZP</name><description>Brusy KOBW Słupsk</description><Point><coordinates>17.685464,53.908530</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RYCKIEWICZ Iwona Maria BEZP</name><description>Miastko KOBW Słupsk</description><Point><coordinates>17.001372,54.038537</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NYKIEL Mirosława PORP</name><description>Bielsko-Biała KOBW Bielsko-Biała</description><Point><coordinates>19.036964,49.800714</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PĘPEK Małgorzata Anna PORP</name><description>Żywiec KOBW Bielsko-Biała</description><Point><coordinates>19.217272,49.705164</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GŁOMBEK Edyta Teresa BEZP</name><description>Pszczyna KOBW Bielsko-Biała</description><Point><coordinates>18.905019,49.998778</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LAZAREK Gabriela Maria Zieloni</name><description>Cieszyn KOBW Bielsko-Biała</description><Point><coordinates>18.649939,49.758050</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KASZOK Ewa BEZP</name><description>Czernichów KOBW Bielsko-Biała</description><Point><coordinates>19.197381,49.779777</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRZYŻAK Karolina Józefa BEZP</name><description>Porąbka KOBW Bielsko-Biała</description><Point><coordinates>19.244983,49.819667</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁUKOWICZ Beata Anna BEZP</name><description>Bestwina KOBW Bielsko-Biała</description><Point><coordinates>19.066995,49.911787</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIEGZIK-IZYDORCZYK Dorota Maria PORP</name><description>Bielsko-Biała KOBW Bielsko-Biała</description><Point><coordinates>19.025411,49.802922</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LESZCZYNA Izabela Dorota PORP</name><description>Częstochowa KOBW Częstochowa</description><Point><coordinates>19.109578,50.807923</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SALWIERAK Marta Maria PORP</name><description>Częstochowa KOBW Częstochowa</description><Point><coordinates>19.129299,50.828136</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROZPONDEK Halina Leokadia PORP</name><description>Częstochowa KOBW Częstochowa</description><Point><coordinates>19.123142,50.819485</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>URBAŃSKA Jolanta Małgorzata PORP</name><description>Częstochowa KOBW Częstochowa</description><Point><coordinates>19.115784,50.801931</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MANISZEWSKA Marzena Monika PORP</name><description>Janów KOBW Częstochowa</description><Point><coordinates>19.468619,50.731366</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STASIAK-BETLEJEWSKA Renata Maria członek partii politycznej: Inicjatywa Polska</name><description>Częstochowa KOBW Częstochowa</description><Point><coordinates>19.126879,50.812377</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CIURA Edyta Wiesława BEZP</name><description>Blachownia KOBW Częstochowa</description><Point><coordinates>18.938728,50.799787</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOLBIK Marta Joanna PORP</name><description>Gliwice KOBW Katowice</description><Point><coordinates>18.632744,50.297391</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZUMILAS Krystyna Maria PORP</name><description>Knurów KOBW Katowice</description><Point><coordinates>18.658627,50.211720</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JUSZCZAK Natalia Roksana BEZP</name><description>Miasteczko Śląskie KOBW Katowice</description><Point><coordinates>18.946304,50.492940</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NIERYCHŁO Ewa Anna BEZP</name><description>Ożarowice KOBW Katowice</description><Point><coordinates>19.058118,50.475045</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRONSTEDT Justyna Anna PORP</name><description>Zabrze KOBW Katowice</description><Point><coordinates>18.797974,50.328264</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIĘCKOWSKA Urszula Maria PORP</name><description>Gliwice KOBW Katowice</description><Point><coordinates>18.634240,50.307952</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIUK Jolanta Zdzisława PORP</name><description>Bytom KOBW Katowice</description><Point><coordinates>18.885721,50.374957</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LENARTOWICZ Gabriela Teresa PORP</name><description>Krzanowice KOBW Bielsko-Biała</description><Point><coordinates>18.129375,50.029041</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GASZKA Anna Małgorzata BEZP</name><description>Żory KOBW Bielsko-Biała</description><Point><coordinates>18.697263,50.036653</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KANTOR Halina Maria Zieloni</name><description>Mikołów KOBW Bielsko-Biała</description><Point><coordinates>18.862319,50.197547</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKOWRON Joanna Ewa BEZP</name><description>Rydułtowy KOBW Bielsko-Biała</description><Point><coordinates>18.423527,50.068718</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RZACZEK Beata Katarzyna BEZP</name><description>Rydułtowy KOBW Bielsko-Biała</description><Point><coordinates>18.420883,50.058272</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POLOK Olga Maria BEZP</name><description>Świerklany KOBW Bielsko-Biała</description><Point><coordinates>18.567781,50.031445</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIEKOSZOWSKA Weronika Małgorzata BEZP</name><description>Rybnik KOBW Bielsko-Biała</description><Point><coordinates>18.559046,50.101017</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WŁASIEWICZ Gabriela Agnieszka BEZP</name><description>Rudnik KOBW Bielsko-Biała</description><Point><coordinates>18.159075,50.155771</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOŁODZIEJ Ewa Edyta PORP</name><description>Katowice (a) KOBW Katowice</description><Point><coordinates>19.012539,50.213123</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROSA Monika Anna Nowoczesna</name><description>Katowice (a) KOBW Katowice</description><Point><coordinates>19.020813,50.228383</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOSZUTSKA Urszula Magdalena PORP</name><description>Ruda Śląska KOBW Katowice</description><Point><coordinates>18.865457,50.271738</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BAINKA Marta Magdalena członek partii politycznej: Śląska Partia Regionalna</name><description>Bieruń KOBW Katowice</description><Point><coordinates>19.144732,50.081543</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIERZCHAŁA Elżbieta Apolonia PORP</name><description>Tychy KOBW Katowice</description><Point><coordinates>19.009513,50.125959</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZASADA-CHORAB Anna PORP</name><description>Siemianowice Śląskie KOBW Katowice</description><Point><coordinates>19.024927,50.305190</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BEDNARZ Alina Irena Nowoczesna</name><description>Tychy KOBW Katowice</description><Point><coordinates>19.007896,50.129825</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIWIEC-MAGIELNICKA Karina Bernardyna PORP</name><description>Siemianowice Śląskie KOBW Katowice</description><Point><coordinates>19.029634,50.307606</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KONTNY Danuta Maria BEZP</name><description>Świętochłowice KOBW Katowice</description><Point><coordinates>18.904892,50.297989</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOŚCINIAK Małgorzata Ewa PORP</name><description>Siemianowice Śląskie KOBW Katowice</description><Point><coordinates>19.022808,50.311466</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KULIK Grażyna Danuta Zieloni</name><description>Piekary Śląskie KOBW Katowice</description><Point><coordinates>18.972035,50.380026</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BŁASZCZYK-DOMAŃSKA Katarzyna Barbara BEZP</name><description>Chorzów KOBW Katowice</description><Point><coordinates>18.951664,50.290409</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWOCIŃSKA Lesława Anna BEZP</name><description>Mikołów KOBW Katowice</description><Point><coordinates>18.857969,50.196838</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DOLNIAK Barbara Nowoczesna</name><description>Będzin KOBW Katowice</description><Point><coordinates>19.121870,50.330976</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NEMŚ Anna Ewa PORP</name><description>Zawiercie KOBW Katowice</description><Point><coordinates>19.472267,50.508221</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁAPAJ Bożena Irena BEZP</name><description>Będzin KOBW Katowice</description><Point><coordinates>19.122936,50.343130</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOSMALA-GĄSIOR Teresa Mieczysława BEZP</name><description>Psary KOBW Katowice</description><Point><coordinates>19.120123,50.389042</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOLIPIWKO Renata Janina BEZP</name><description>Dąbrowa Górnicza KOBW Katowice</description><Point><coordinates>19.326289,50.359187</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKOTALCZYK Ewa Barbara Zieloni</name><description>Dąbrowa Górnicza KOBW Katowice</description><Point><coordinates>19.318505,50.378749</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OCHĘDUSZKO-LUDWIK Małgorzata Agata BEZP</name><description>Będzin KOBW Katowice</description><Point><coordinates>19.116161,50.330891</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LIEGMANN Elżbieta Joanna BEZP</name><description>Sosnowiec KOBW Katowice</description><Point><coordinates>19.186670,50.274528</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MOĆKO Jolanta Izabela PORP</name><description>Czeladź KOBW Katowice</description><Point><coordinates>19.084003,50.323710</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OKŁA-DREWNOWICZ Marzena PORP</name><description>Skarżysko-Kamienna KOBW Kielce</description><Point><coordinates>20.882015,51.122576</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJDA Agata Ewa PORP</name><description>Kielce (a) KOBW Kielce</description><Point><coordinates>20.628857,50.845912</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HANDZE Edyta Anna Nowoczesna</name><description>Ostrowiec Świętokrzyski KOBW Kielce</description><Point><coordinates>21.411595,50.956163</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIOJA Anna Czesława BEZP</name><description>Kije KOBW Kielce</description><Point><coordinates>20.587332,50.615415</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PUSTUŁ Gabriela Karolina BEZP</name><description>Moskorzew KOBW Kielce</description><Point><coordinates>19.931470,50.656373</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRUSZKA Dorota Joanna BEZP</name><description>Kazimierza Wielka KOBW Kielce</description><Point><coordinates>20.475018,50.250077</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GERMAN-SZCZUKIEWICZ Katarzyna Monika PORP</name><description>Kielce (a) KOBW Kielce</description><Point><coordinates>20.636557,50.849714</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIOPA Teresa PORP</name><description>Daleszyce KOBW Kielce</description><Point><coordinates>20.816559,50.780758</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIEWANOWSKA Anna Maria BEZP</name><description>Strawczyn KOBW Kielce</description><Point><coordinates>20.415989,50.941630</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁUKAWSKA Dorota Marzena BEZP</name><description>Ostrowiec Świętokrzyski KOBW Kielce</description><Point><coordinates>21.403809,50.947834</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAROSZEK Zofia Teresa Nowoczesna</name><description>Nowy Korczyn KOBW Kielce</description><Point><coordinates>20.828664,50.334204</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUSZEWICZ Izabela Krystyna BEZP</name><description>Strawczyn KOBW Kielce</description><Point><coordinates>20.423193,50.942893</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HORDEJUK Bernadeta Justyna PORP</name><description>Iława KOBW Elbląg</description><Point><coordinates>19.557631,53.594312</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GELERT Elżbieta Kazimiera PORP</name><description>Elbląg (b) KOBW Elbląg</description><Point><coordinates>19.426376,54.192574</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DEMBEK Ewa Barbara PORP</name><description>Biskupiec KOBW Elbląg</description><Point><coordinates>19.342453,53.473441</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRÓLAK Katarzyna Nowoczesna</name><description>Morąg KOBW Elbląg</description><Point><coordinates>19.951689,53.916612</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZABŁOCKA Elżbieta PORP</name><description>Bartoszyce KOBW Elbląg</description><Point><coordinates>20.805130,54.258537</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JANCZEWSKA Krystyna PORP</name><description>Pasłęk KOBW Elbląg</description><Point><coordinates>19.687227,54.042069</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DOMAŃSKA Angelika Jolanta Zieloni</name><description>Pasłęk KOBW Elbląg</description><Point><coordinates>19.692183,54.038324</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WASILEWSKA Anna PORP</name><description>Olsztyn KOBW Olsztyn</description><Point><coordinates>20.468355,53.776311</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJCIECHOWSKA Anna BEZP</name><description>Ełk KOBW Olsztyn</description><Point><coordinates>22.354484,53.826050</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZOPIŃSKA Małgorzata BEZP</name><description>Giżycko KOBW Olsztyn</description><Point><coordinates>21.768774,54.036141</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GÓRALSKA Elżbieta Maria PORP</name><description>Nidzica KOBW Olsztyn</description><Point><coordinates>20.495091,53.409344</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OFIERSKA Małgorzata Dorota BEZP</name><description>Dobre Miasto KOBW Olsztyn</description><Point><coordinates>20.431254,53.994390</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAKSYMOWICZ Ewa Katarzyna BEZP</name><description>Kętrzyn KOBW Olsztyn</description><Point><coordinates>21.372353,54.083569</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEWKOWICZ Magdalena BEZP</name><description>Mrągowo KOBW Olsztyn</description><Point><coordinates>21.302847,53.874237</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WAŚ Beata Katarzyna BEZP</name><description>Olsztyn KOBW Olsztyn</description><Point><coordinates>20.456389,53.784569</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HENCZYCA Bożena Katarzyna PORP</name><description>Trzcinica KOBW Kalisz</description><Point><coordinates>18.003553,51.173791</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUDNIK Marzena Katarzyna BEZP</name><description>Krotoszyn KOBW Kalisz</description><Point><coordinates>17.522710,51.718365</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALSKA Milena Magdalena PORP</name><description>Ostrów Wielkopolski KOBW Kalisz</description><Point><coordinates>17.799289,51.645340</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WODZIŃSKA Marzena Renata PORP</name><description>Kalisz KOBW Kalisz</description><Point><coordinates>18.068079,51.753046</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WALCZAK Magdalena Izabela PORP</name><description>Kalisz KOBW Kalisz</description><Point><coordinates>18.081594,51.742039</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIUBKA Ewa BEZP</name><description>Odolanów KOBW Kalisz</description><Point><coordinates>17.669636,51.576736</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BALCER Urszula Maria BEZP</name><description>Baranów KOBW Kalisz</description><Point><coordinates>18.002592,51.234118</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MACHOWIAK Adriana Irena BEZP</name><description>Leszno KOBW Kalisz</description><Point><coordinates>16.567209,51.845406</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MOCEK Zuzanna BEZP</name><description>Kościan KOBW Kalisz</description><Point><coordinates>16.692435,52.077838</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁUCZAK Alicja PORP</name><description>Żelazków KOBW Kalisz</description><Point><coordinates>18.154626,51.833551</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STĘPIEŃ Miłosława Dorota Zieloni</name><description>Konin KOBW Konin</description><Point><coordinates>18.259283,52.254718</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HENNIG-KLOSKA Paulina Nowoczesna</name><description>Gniezno KOBW Konin</description><Point><coordinates>17.606841,52.528162</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUBIAK Barbara BEZP</name><description>Środa Wielkopolska KOBW Konin</description><Point><coordinates>17.296360,52.234319</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WINIARSKA Danuta PORP</name><description>Niechanowo KOBW Konin</description><Point><coordinates>17.666386,52.452732</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NISZCZAK Inez Magdalena BEZP</name><description>Września KOBW Konin</description><Point><coordinates>17.612898,52.328205</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAREK Alicja Teresa BEZP</name><description>Słupca KOBW Konin</description><Point><coordinates>17.869347,52.292094</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MATLEWSKA Żanetta Magdalena PORP</name><description>Golina KOBW Konin</description><Point><coordinates>18.107879,52.241329</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUDZIŃSKA Mariola PORP</name><description>Rzgów KOBW Konin</description><Point><coordinates>18.079732,52.147008</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JANYSKA Maria Małgorzata PORP</name><description>Czarnków KOBW Piła</description><Point><coordinates>16.554370,52.902956</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAMIŃSKA-LECH Iwona Maria Nowoczesna</name><description>Piła KOBW Piła</description><Point><coordinates>16.766395,53.137244</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TUŁODZIECKA-ADAMS Dorota Ewa Nowoczesna</name><description>Duszniki KOBW Piła</description><Point><coordinates>16.449523,52.447839</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>URYZAJ Karolina BEZP</name><description>Nowy Tomyśl KOBW Piła</description><Point><coordinates>16.157760,52.314439</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWAKOWSKA Lidia PORP</name><description>Międzychód KOBW Piła</description><Point><coordinates>15.900855,52.586944</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SROKA Magdalena BEZP</name><description>Krzyż Wielkopolski KOBW Piła</description><Point><coordinates>16.038401,52.945545</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALSKA Agnieszka Małgorzata BEZP</name><description>Chodzież KOBW Piła</description><Point><coordinates>16.914468,52.997532</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JEWSZEL-CHABERSKA Maria Małgorzata Nowoczesna</name><description>Wysoka KOBW Piła</description><Point><coordinates>17.068791,53.194096</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAŚKOWIAK Joanna BEZP</name><description>Poznań (a) KOBW Poznań</description><Point><coordinates>16.891669,52.378294</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GUTORSKA Agata Hanna PORP</name><description>Poznań (a) KOBW Poznań</description><Point><coordinates>16.918426,52.393756</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JANICKA Izabela Anna Zieloni</name><description>Poznań (a) KOBW Poznań</description><Point><coordinates>16.885693,52.381128</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAZUREK Marta PORP</name><description>Poznań (a) KOBW Poznań</description><Point><coordinates>16.907011,52.382144</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FABIŚ-SZULC Karolina Urszula PORP</name><description>Poznań (a) KOBW Poznań</description><Point><coordinates>16.905687,52.408888</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOSAKOWSKA Magdalena Anna Nowoczesna</name><description>Kórnik KOBW Poznań</description><Point><coordinates>17.062867,52.242048</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIECZOREK Nina Magdalena PORP</name><description>Poznań (a) KOBW Poznań</description><Point><coordinates>16.889111,52.377633</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARCZEWSKA-KRZEMIŃSKA Beata PORP</name><description>Poznań (a) KOBW Poznań</description><Point><coordinates>16.910039,52.416578</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CYBULSKA Wioletta PORP</name><description>Poznań (a) KOBW Poznań</description><Point><coordinates>16.926290,52.391737</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SADYŚ Izabela PORP</name><description>Kostrzyn KOBW Poznań</description><Point><coordinates>17.245166,52.383027</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRYGORCEWICZ Barbara Anna PORP</name><description>Koszalin KOBW Koszalin</description><Point><coordinates>16.228838,54.207194</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARLIŃSKA Elżbieta Wiesława BEZP</name><description>Darłowo (b) KOBW Koszalin</description><Point><coordinates>16.409708,54.427066</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KASZAK Wioletta PORP</name><description>Choszczno KOBW Koszalin</description><Point><coordinates>15.460694,53.173594</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUTRYM Danuta Zofia BEZP</name><description>Karlino KOBW Koszalin</description><Point><coordinates>15.838677,54.047609</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEŚNIEWSKA Małgorzata BEZP</name><description>Koszalin KOBW Koszalin</description><Point><coordinates>16.213273,54.206609</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BAŃKOWSKA Anna PORP</name><description>Kołobrzeg (b) KOBW Koszalin</description><Point><coordinates>15.603182,54.176578</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FILIKS Magdalena BEZP</name><description>Szczecin (ab) KOBW Szczecin</description><Point><coordinates>14.630437,53.421842</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JABŁOŃSKA Elżbieta PORP</name><description>Świnoujście (b) KOBW Szczecin</description><Point><coordinates>14.311408,53.849004</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KALINA Teresa PORP</name><description>Szczecin (ab) KOBW Szczecin</description><Point><coordinates>14.615392,53.434606</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LALAK - SZAWIEL Lidia BEZP</name><description>Łobez KOBW Szczecin</description><Point><coordinates>15.642397,53.653823</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NAPIWODZKA Joanna PORP</name><description>Dobra (Szczecińska) KOBW Szczecin</description><Point><coordinates>14.389164,53.495759</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DRZEWIŃSKA Wioletta PORP</name><description>Dębno KOBW Szczecin</description><Point><coordinates>14.752812,52.760457</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SCHRAMMEK Dorota BEZP</name><description>Rewal KOBW Szczecin</description><Point><coordinates>15.042090,54.078093</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIELINKIEWICZ Elżbieta Barbara BEZP</name><description>Chojna KOBW Szczecin</description><Point><coordinates>14.416106,52.958489</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SCHNEIDER Maria Renata PORP</name><description>Szczecin (ab) KOBW Szczecin</description><Point><coordinates>14.636294,53.439282</coordinates></Point></Placemark>
+</Document></kml>
