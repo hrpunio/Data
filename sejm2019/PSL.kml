@@ -1,0 +1,927 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2' xmlns:gx='http://www.google.com/kml/ext/2.2'>
+<Document>
+<name>kml</name>
+<description>tomasz przechlewski, http://pinkaccordions.homelinux.org. Some rights reserved (CC BY 2.0)</description>
+<Style id='PinX'><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon60.png</href></Icon></IconStyle></Style>
+<Style id='XLine'><LineStyle><color>ffb18ff4</color><width>4</width></LineStyle></Style>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻUK Stanisław Adam BEZP</name><description>Zawidów PSL Legnica</description><Point><coordinates>15.045250,51.020350</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAMBORSKI Tadeusz PSL</name><description>Prochowice PSL Legnica</description><Point><coordinates>16.389995,51.267367</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZCZĘSNA Mariola PSL</name><description>Lwówek Śląski PSL Legnica</description><Point><coordinates>15.599704,51.122500</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROJEK Andrzej BEZP</name><description>Zgorzelec PSL Legnica</description><Point><coordinates>15.015568,51.155569</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LASKOWSKI Stanisław PSL</name><description>Jawor PSL Legnica</description><Point><coordinates>16.187016,51.071627</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JURKOWSKI Artur Andrzej PSL</name><description>Głogów PSL Legnica</description><Point><coordinates>16.130674,51.666366</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RAK Zofia PSL</name><description>Gryfów Śląski PSL Legnica</description><Point><coordinates>15.439132,51.043236</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIOTROWSKI Wiktor Marian BEZP</name><description>Jawor PSL Legnica</description><Point><coordinates>16.179564,51.065969</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRZOZOWSKA Bożena Maria BEZP</name><description>Jeżów Sudecki PSL Legnica</description><Point><coordinates>15.734962,50.960672</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BURDYNA Olga BEZP</name><description>Bolesławiec PSL Legnica</description><Point><coordinates>15.552901,51.318493</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WRONA Maria PSL</name><description>Prochowice PSL Legnica</description><Point><coordinates>16.389007,51.272867</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STANKIEWICZ Cecylia Ewa BEZP</name><description>Lubin PSL Legnica</description><Point><coordinates>16.185204,51.372074</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SADOWSKI Roman Edward PSL</name><description>Bolków PSL Legnica</description><Point><coordinates>16.067979,50.921973</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRZYB Stanisław PSL</name><description>Pielgrzymka PSL Legnica</description><Point><coordinates>15.791496,51.106158</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MATYS Waldemar Andrzej StronnictwoDemokratyczne</name><description>Lubawka PSL Legnica</description><Point><coordinates>15.970432,50.677906</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SALATA Romuald Piotr BEZP</name><description>Bogatynia PSL Legnica</description><Point><coordinates>14.916698,50.946670</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRASOWSKI Marcin Karol PSL</name><description>Lubin (a) PSL Legnica</description><Point><coordinates>16.192164,51.392453</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TUCHOWSKA Kazimiera Zofia PSL</name><description>Złotoryja PSL Legnica</description><Point><coordinates>15.949647,51.147743</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>IMIELSKI Mariusz Janusz StronnictwoDemokratyczne</name><description>Bogatynia PSL Legnica</description><Point><coordinates>14.920192,50.954682</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁASICA Bartosz PSL</name><description>Lubań PSL Legnica</description><Point><coordinates>15.311121,51.133301</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OTROCIUK Barbara PSL</name><description>Bogatynia PSL Legnica</description><Point><coordinates>14.913520,50.950467</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUKAT Eugenia BEZP</name><description>Jelenia Góra (a) PSL Legnica</description><Point><coordinates>15.716636,50.854912</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GNAT Stanisław BEZP</name><description>Polkowice PSL Legnica</description><Point><coordinates>16.084901,51.502091</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SUPIERZ Leszek Józef PSL</name><description>Kowary PSL Legnica</description><Point><coordinates>15.843413,50.781783</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GANCARZ Paweł Jarosław PSL</name><description>Stoszowice PSL Wałbrzych</description><Point><coordinates>16.676884,50.597071</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOŁT Józef PiS</name><description>Bystrzyca Kłodzka PSL Wałbrzych</description><Point><coordinates>16.641128,50.289170</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KWIATKOWSKA Ewa Daniela BEZP</name><description>Wałbrzych PSL Wałbrzych</description><Point><coordinates>16.292656,50.784957</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUCZEK Magdalena Dorota BEZP</name><description>Kłodzko PSL Wałbrzych</description><Point><coordinates>16.645490,50.430474</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RUDNICKI Jarosław Jerzy BEZP</name><description>Dzierżoniów PSL Wałbrzych</description><Point><coordinates>16.648257,50.726152</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BONIECKA Joanna Bogna PSL</name><description>Lądek-Zdrój PSL Wałbrzych</description><Point><coordinates>16.846284,50.346784</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOKOŁOWSKA Maria PSL</name><description>Głuszyca PSL Wałbrzych</description><Point><coordinates>16.364660,50.675785</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIENDZIEL Wacław Alojzy PSL</name><description>Piława Górna PSL Wałbrzych</description><Point><coordinates>16.753233,50.682967</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAZUR Paweł Mariusz PSL</name><description>Walim PSL Wałbrzych</description><Point><coordinates>16.409036,50.728174</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>UBIK Jarosław Marian PSL</name><description>Nowa Ruda PSL Wałbrzych</description><Point><coordinates>16.516232,50.572619</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIERZBICKA-BARA Danuta Maria BEZP</name><description>Ziębice PSL Wałbrzych</description><Point><coordinates>17.038780,50.581137</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALSKA Sylwia Edyta BEZP</name><description>Jedlina-Zdrój PSL Wałbrzych</description><Point><coordinates>16.337057,50.723432</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARCH Izabela Maria PSL</name><description>Kudowa-Zdrój PSL Wałbrzych</description><Point><coordinates>16.268351,50.444414</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SULIKOWSKA Natalia Weronika BEZP</name><description>Dzierżoniów PSL Wałbrzych</description><Point><coordinates>16.660536,50.726579</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KYCIA Radosław PSL</name><description>Wałbrzych PSL Wałbrzych</description><Point><coordinates>16.290287,50.781554</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LONGAWA Stanisław Tadeusz PSL</name><description>Kłodzko PSL Wałbrzych</description><Point><coordinates>16.667630,50.448609</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PROTASIEWICZ Jacek członek partii politycznej: Unia Europejskich Demokratów</name><description>Siechnice PSL Wrocław</description><Point><coordinates>17.153147,51.032958</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZEGAN Maciej Adam BEZP</name><description>Wrocław (a) PSL Wrocław</description><Point><coordinates>16.976849,51.110761</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRONOWICKA Joanna Barbara PSL</name><description>Wrocław (a) PSL Wrocław</description><Point><coordinates>16.996515,51.154312</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DUDA Grzegorz Tomasz PSL</name><description>Milicz PSL Wrocław</description><Point><coordinates>17.279190,51.504341</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOCHA Jan PSL</name><description>Wrocław (a) PSL Wrocław</description><Point><coordinates>16.995149,51.132983</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MALEC Tomasz Stanisław BEZP</name><description>Wrocław (a) PSL Wrocław</description><Point><coordinates>17.006981,51.146006</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LECH Ryszard BEZP</name><description>Milicz PSL Wrocław</description><Point><coordinates>17.287155,51.504714</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYDEŁKO Witold BEZP</name><description>Twardogóra PSL Wrocław</description><Point><coordinates>17.452909,51.378146</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LITWIN Ewa Grażyna BEZP</name><description>Długołęka PSL Wrocław</description><Point><coordinates>17.207283,51.189160</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KURYŚ Hieronim Stanisław PSL</name><description>Kąty Wrocławskie PSL Wrocław</description><Point><coordinates>16.816490,51.032659</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WARCHOLIŃSKI Marek PSL</name><description>Strzelin PSL Wrocław</description><Point><coordinates>17.072544,50.773858</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KWIATKOWSKA-KORCZAK Janina członek partii politycznej: Unia Europejskich Demokratów</name><description>Wrocław (a) PSL Wrocław</description><Point><coordinates>17.004661,51.116186</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUCHARSKA Aleksandra Anna członek partii politycznej: Unia Europejskich Demokratów</name><description>Wrocław (a) PSL Wrocław</description><Point><coordinates>16.964182,51.138250</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUŹMICZ Łukasz Maciej PSL</name><description>Syców PSL Wrocław</description><Point><coordinates>17.653102,51.299760</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GROCHOLSKI Bartosz Krystian PSL</name><description>Wołów PSL Wrocław</description><Point><coordinates>16.607114,51.331378</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MACAŁA Łukasz Michał BEZP</name><description>Wrocław (a) PSL Wrocław</description><Point><coordinates>16.978190,51.148168</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZULC Joanna Alicja PSL</name><description>Jelenia Góra (a) PSL Wrocław</description><Point><coordinates>15.724313,50.853985</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FURDYNA Jolanta Stanisława członek partii politycznej: Unia Europejskich Demokratów</name><description>Wrocław (a) PSL Wrocław</description><Point><coordinates>16.999130,51.107809</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZALEWSKI Karol Henryk BEZP</name><description>Oława PSL Wrocław</description><Point><coordinates>17.293600,50.960864</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUBNICKA Barbara Maria członek partii politycznej: Unia Europejskich Demokratów</name><description>Wrocław (a) PSL Wrocław</description><Point><coordinates>17.011341,51.126426</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALSKI Arkadiusz Rafał BEZP</name><description>Świnoujście (b) PSL Wrocław</description><Point><coordinates>14.316441,53.847573</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAJOCHA Elżbieta Marta członek partii politycznej: Unia Europejskich Demokratów</name><description>Wrocław (a) PSL Wrocław</description><Point><coordinates>16.968739,51.126058</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOŁTYS Jacek Jan BEZP</name><description>Siechnice PSL Wrocław</description><Point><coordinates>17.139575,51.033902</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ADAMCZYK-POGORZELEC Bożena Maria BEZP</name><description>Lubań PSL Wrocław</description><Point><coordinates>15.275282,51.110196</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARTOSZEWICZ Urszula Agnieszka PSL</name><description>Wrocław (a) PSL Wrocław</description><Point><coordinates>17.018971,51.129238</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAWNUK Emilia Maria BEZP</name><description>Strzelin PSL Wrocław</description><Point><coordinates>17.075771,50.766952</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MRÓZ-MOŻDŻONEK Joanna Róża PSL</name><description>Wrocław (a) PSL Wrocław</description><Point><coordinates>17.004658,51.118404</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁOPATKA Mirosław Mieczysław BEZP</name><description>Wrocław (a) PSL Wrocław</description><Point><coordinates>17.017227,51.116132</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KURZAWA Dariusz PSL</name><description>Jeziora Wielkie PSL Bydgoszcz</description><Point><coordinates>18.222600,52.536707</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIKORA Krzysztof Gustaw BEZP</name><description>Bydgoszcz (a) PSL Bydgoszcz</description><Point><coordinates>18.044971,53.130194</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚMIGIELSKA Klaudia BEZP</name><description>Bydgoszcz (a) PSL Bydgoszcz</description><Point><coordinates>18.038838,53.126309</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOZŁOWSKA Zofia Władysława PSL</name><description>Żnin PSL Bydgoszcz</description><Point><coordinates>17.717728,52.857311</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NAWROT Jadwiga Władysława BEZP</name><description>Inowrocław PSL Bydgoszcz</description><Point><coordinates>18.241085,52.778959</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIERNACKI Jan Kazimierz BEZP</name><description>Złotniki Kujawskie PSL Bydgoszcz</description><Point><coordinates>18.094649,52.899860</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOSZOWSKI Franciszek PSL</name><description>Pruszcz PSL Bydgoszcz</description><Point><coordinates>18.182733,53.315957</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ANKIEWICZ-JASIŃSKA Ewa Teresa BEZP</name><description>Bydgoszcz (a) PSL Bydgoszcz</description><Point><coordinates>18.022079,53.134397</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAPUSTA Zbigniew Piotr PSL</name><description>Nowe PSL Bydgoszcz</description><Point><coordinates>18.675196,53.631048</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIŁOWSKI Tomasz Edmund PSL</name><description>Nakło nad Notecią PSL Bydgoszcz</description><Point><coordinates>17.648519,53.144153</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOBIECHOWSKA Hanna Jadwiga PSL</name><description>Sępólno Krajeńskie PSL Bydgoszcz</description><Point><coordinates>17.516472,53.446604</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAZDERSKA Aleksandra Beata BEZP</name><description>Nakło nad Notecią PSL Bydgoszcz</description><Point><coordinates>17.647741,53.136331</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RÓŻAŃSKI Krzysztof Janusz BEZP</name><description>Koronowo PSL Bydgoszcz</description><Point><coordinates>17.884439,53.321862</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BAGNEROWSKI Tomasz PSL</name><description>Kcynia PSL Bydgoszcz</description><Point><coordinates>17.457181,53.004066</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SANKOWSKI Paweł Maksymilian PSL</name><description>Bydgoszcz (a) PSL Bydgoszcz</description><Point><coordinates>18.051500,53.117746</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STANEK Aleksandra Maria BEZP</name><description>Mogilno PSL Bydgoszcz</description><Point><coordinates>17.951491,52.629212</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>URBAŃSKI Łukasz Cyprian PSL</name><description>Świecie PSL Bydgoszcz</description><Point><coordinates>18.451750,53.395246</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PROCHOWNIK Wiesława Stanisława PSL</name><description>Gniewkowo PSL Bydgoszcz</description><Point><coordinates>18.428772,52.881653</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROWIŃSKI Grzegorz Czesław BEZP</name><description>Osielsko PSL Bydgoszcz</description><Point><coordinates>18.059690,53.213558</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAWLINA Henryk PSL</name><description>Więcbork PSL Bydgoszcz</description><Point><coordinates>17.431428,53.349097</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SŁOMA Jarosław Jan BEZP</name><description>Tuchola PSL Bydgoszcz</description><Point><coordinates>17.890663,53.650242</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁĄCZNA Kamila Tatiana BEZP</name><description>Białe Błota PSL Bydgoszcz</description><Point><coordinates>17.904235,53.091451</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SUPERCZYŃSKI Jacek PSL</name><description>Gąsawa PSL Bydgoszcz</description><Point><coordinates>17.801182,52.764112</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MES Ewa Monika PSL</name><description>Dobrcz PSL Bydgoszcz</description><Point><coordinates>18.161485,53.272139</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZRAMKA Paweł BEZP</name><description>Brodnica PSL Toruń</description><Point><coordinates>19.411005,53.254004</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOSNOWSKI Zbigniew PSL</name><description>Świedziebnia PSL Toruń</description><Point><coordinates>19.576293,53.128225</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIĘCIOŁ Janusz Andrzej BEZP</name><description>Grudziądz PSL Toruń</description><Point><coordinates>18.743153,53.488748</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAKRZEWSKA Edyta Lidia PSL</name><description>Zławieś Wielka PSL Toruń</description><Point><coordinates>18.335376,53.098594</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KIERZKOWSKA Ewa Sławomira PSL</name><description>Włocławek PSL Toruń</description><Point><coordinates>19.063100,52.656255</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACZAN Damian Rafał BEZP</name><description>Toruń PSL Toruń</description><Point><coordinates>18.608951,53.022566</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OKRUCIŃSKI Marcin BEZP</name><description>Ciechocin PSL Toruń</description><Point><coordinates>18.919422,53.043169</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KICIAK-KUCHARSKA Magdalena PSL</name><description>Aleksandrów Kujawski PSL Toruń</description><Point><coordinates>18.662710,52.867961</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GROSS Andrzej Ignacy PSL</name><description>Obrowo PSL Toruń</description><Point><coordinates>18.836881,52.974706</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NAJBERG Jarosław Przemysław BEZP</name><description>Brześć Kujawski PSL Toruń</description><Point><coordinates>18.894795,52.627323</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STANISZEWSKI Sławomir Franciszek PSL</name><description>Osięciny PSL Toruń</description><Point><coordinates>18.727649,52.648573</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUBCZAK-KOSICKA Anna Maria PSL</name><description>Toruń PSL Toruń</description><Point><coordinates>18.610333,53.013033</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUBACKI Bartosz Damian PSL</name><description>Chełmno PSL Toruń</description><Point><coordinates>18.487439,53.348410</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RACHUBIŃSKA Marzena Ewa BEZP</name><description>Kowalewo Pomorskie PSL Toruń</description><Point><coordinates>18.872027,53.146505</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SŁOWIK Sławomir BEZP</name><description>Lubicz PSL Toruń</description><Point><coordinates>18.772773,53.043173</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARYŁO Angelika Monika BEZP</name><description>Chełmno PSL Toruń</description><Point><coordinates>18.422354,53.355579</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OWCZARZ Andrzej PSL</name><description>Grudziądz PSL Toruń</description><Point><coordinates>18.782483,53.476784</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WARSZAWSKA Danuta Ewa PSL</name><description>Chodecz PSL Toruń</description><Point><coordinates>19.026206,52.393025</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAMROT Przemysław BEZP</name><description>Brzuze PSL Toruń</description><Point><coordinates>19.261080,53.054983</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MATUSZEWSKA Marika Katarzyna BEZP</name><description>Wąbrzeźno PSL Toruń</description><Point><coordinates>18.954885,53.277800</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁUCZAK Tomasz PSL</name><description>Toruń PSL Toruń</description><Point><coordinates>18.604693,53.017657</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PASTUSZKA Anna PSL</name><description>Grudziądz PSL Toruń</description><Point><coordinates>18.781280,53.475403</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KWAPIŃSKI Witold PSL</name><description>Włocławek PSL Toruń</description><Point><coordinates>19.051487,52.666815</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUDZIŃSKA Joanna BEZP</name><description>Kikół PSL Toruń</description><Point><coordinates>19.111765,52.926708</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZARNECKI Krzysztof PSL</name><description>Wielka Nieszawka PSL Toruń</description><Point><coordinates>18.543196,52.946699</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARANOWSKI Krzysztof PSL</name><description>Kikół PSL Toruń</description><Point><coordinates>19.114449,52.919526</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁOPATA Jan Zbigniew PSL</name><description>Konopnica PSL Lublin</description><Point><coordinates>22.426329,51.216048</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOS Marek PSL</name><description>Kraśnik PSL Lublin</description><Point><coordinates>22.217592,50.944912</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SMOLARZ Henryk Józef PSL</name><description>Niemce PSL Lublin</description><Point><coordinates>22.560771,51.346552</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAPUSTA Grzegorz Krzysztof PSL</name><description>Ryki PSL Lublin</description><Point><coordinates>21.962756,51.617627</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRZĘCIO Dariusz Maksymilian BEZP</name><description>Trzebieszów PSL Lublin</description><Point><coordinates>22.534183,52.000909</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RZETELSKI Piotr Sławomir PSL</name><description>Baranów PSL Lublin</description><Point><coordinates>22.166654,51.538957</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RODZIK Zenon Jerzy BEZP</name><description>Karczmiska PSL Lublin</description><Point><coordinates>21.999859,51.244313</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYSZKO Grzegorz Stanisław BEZP</name><description>Lubartów PSL Lublin</description><Point><coordinates>22.602873,51.463073</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOPEĆ Marek PSL</name><description>Stanin PSL Lublin</description><Point><coordinates>22.190701,51.890104</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOŁODZIEJCZYK Dariusz Stanisław BEZP</name><description>Piaski PSL Lublin</description><Point><coordinates>22.806797,51.132773</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NIEZGODA Marceli Mateusz PSL</name><description>Lublin PSL Lublin</description><Point><coordinates>22.579136,51.211701</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUCHARCZYK Karolina BEZP</name><description>Kłoczew PSL Lublin</description><Point><coordinates>21.963379,51.736634</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DUDZIŃSKA Edyta Agnieszka BEZP</name><description>Gościeradów PSL Lublin</description><Point><coordinates>22.007056,50.864301</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BEDNARSKI Jerzy Włodzimierz PSL</name><description>Lublin PSL Lublin</description><Point><coordinates>22.575800,51.217989</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRZYWACZEWSKA Anna PSL</name><description>Głusk PSL Lublin</description><Point><coordinates>22.585226,51.170790</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZMIDT Anna PSL</name><description>Janów Lubelski PSL Lublin</description><Point><coordinates>22.388409,50.658180</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FRANCZAK Eliza Agata PSL</name><description>Lubartów PSL Lublin</description><Point><coordinates>22.604494,51.452012</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHOCHOWSKI Krzysztof Kamil PSL</name><description>Wąwolnica PSL Lublin</description><Point><coordinates>22.117570,51.303381</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STANIBUŁA Daniel BEZP</name><description>Lublin PSL Lublin</description><Point><coordinates>22.574216,51.224654</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIĄTEK Marlena BEZP</name><description>Józefów nad Wisłą PSL Lublin</description><Point><coordinates>21.914863,51.021562</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MISIASZEK Magdalena PSL</name><description>Urzędów PSL Lublin</description><Point><coordinates>22.139572,51.010946</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KASPRZAK Renata Jolanta BEZP</name><description>Świdnik (a) PSL Lublin</description><Point><coordinates>22.683324,51.208843</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DRĄŻYK-ŚWITAJ Urszula Monika BEZP</name><description>Dęblin PSL Lublin</description><Point><coordinates>21.873953,51.563329</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUJAK Małgorzata PSL</name><description>Łęczna PSL Lublin</description><Point><coordinates>22.864650,51.295099</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WDOWIAK Magdalena Maria PSL</name><description>Lublin PSL Lublin</description><Point><coordinates>22.568252,51.238320</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WILK Jacek Andrzej BEZP</name><description>Nałęczów PSL Lublin</description><Point><coordinates>22.239973,51.310950</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RUDNIK Henryk Jan PSL</name><description>Lublin PSL Lublin</description><Point><coordinates>22.539019,51.229755</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOT Barbara BEZP</name><description>Krzywda PSL Lublin</description><Point><coordinates>22.123018,51.785630</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ODROBIŃSKA Aneta BEZP</name><description>Puławy PSL Lublin</description><Point><coordinates>21.970867,51.429235</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SŁOWIK Daniel PSL</name><description>Łęczna PSL Lublin</description><Point><coordinates>22.867073,51.300713</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SACHAJKO Jarosław BEZP</name><description>Zamość PSL Chełm</description><Point><coordinates>23.250761,50.720279</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRATKOWSKI Arkadiusz Tomasz PSL</name><description>Miączyn PSL Chełm</description><Point><coordinates>23.554739,50.740800</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LITWINIUK Przemysław PSL</name><description>Międzyrzec Podlaski PSL Chełm</description><Point><coordinates>22.770740,51.978134</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RÓŻYŃSKI Wiesław Marian PSL</name><description>Biłgoraj PSL Chełm</description><Point><coordinates>22.674799,50.554163</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SMAL Kazimierz PSL</name><description>Ruda-Huta PSL Chełm</description><Point><coordinates>23.618807,51.220652</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROMAŃCZUK Andrzej PSL</name><description>Włodawa PSL Chełm</description><Point><coordinates>23.536639,51.542760</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYMALA Anna PSL</name><description>Radzyń Podlaski PSL Chełm</description><Point><coordinates>22.624963,51.776707</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALCZYK Jan Franciszek PSL</name><description>Telatyn PSL Chełm</description><Point><coordinates>23.880963,50.533522</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIŚNIEWSKA Anna PSL</name><description>Hrubieszów PSL Chełm</description><Point><coordinates>23.925796,50.813838</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SUSZCZYŃSKI Sławomir Jan BEZP</name><description>Biała Podlaska PSL Chełm</description><Point><coordinates>23.142176,52.033518</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MALESA Marzena Jolanta BEZP</name><description>Biała Podlaska PSL Chełm</description><Point><coordinates>23.141193,52.034973</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZUBA Agnieszka Renata PSL</name><description>Siennica Różana PSL Chełm</description><Point><coordinates>23.335179,51.008360</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIWKO Karolina BEZP</name><description>Zamość PSL Chełm</description><Point><coordinates>23.251448,50.715214</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WYPYCH Teodora BEZP</name><description>Radecznica PSL Chełm</description><Point><coordinates>22.827045,50.693832</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STANIBUŁA Ryszard Zbigniew BEZP</name><description>Zamość PSL Chełm</description><Point><coordinates>23.256675,50.725058</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FORNAL Mirosława Teresa BEZP</name><description>Leśniowice PSL Chełm</description><Point><coordinates>23.498359,50.999523</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAMIŃSKA Irena BEZP</name><description>Hrubieszów (c) PSL Chełm</description><Point><coordinates>23.887802,50.812256</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWAK Teresa PSL</name><description>Józefów PSL Chełm</description><Point><coordinates>23.067330,50.492142</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOCZKODAJ Bartosz BEZP</name><description>Ulan-Majorat PSL Chełm</description><Point><coordinates>22.465700,51.837298</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIUBA Anna Bożena PSL</name><description>Tomaszów Lubelski PSL Chełm</description><Point><coordinates>23.422537,50.448752</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIEMAKOWICZ Grzegorz PSL</name><description>Biała Podlaska PSL Chełm</description><Point><coordinates>23.130509,52.024735</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WILBIK Marek BEZP</name><description>Łomazy PSL Chełm</description><Point><coordinates>23.167670,51.901492</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOSEK Sławomir Paweł PSL</name><description>Żółkiewka PSL Chełm</description><Point><coordinates>22.845771,50.898686</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIELIŃSKI Janusz PSL</name><description>Parczew PSL Chełm</description><Point><coordinates>22.910679,51.603554</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FEDAK Jolanta Beata PSL</name><description>Zielona Góra (a) PSL Zielona Góra</description><Point><coordinates>15.533993,51.927479</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚWIREPO Jan PSL</name><description>Strzelce Krajeńskie PSL Zielona Góra</description><Point><coordinates>15.490209,52.904380</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GROC Artur Dariusz BEZP</name><description>Słubice PSL Zielona Góra</description><Point><coordinates>14.637462,52.358948</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRÓL Roman Stanisław PSL</name><description>Kłodawa PSL Zielona Góra</description><Point><coordinates>15.257199,52.837069</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HARĘŹLAK Wioleta Elżbieta BEZP</name><description>Zielona Góra (a) PSL Zielona Góra</description><Point><coordinates>15.509978,51.921344</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TOMCZYSZYN Stanisław PSL</name><description>Brzeźnica PSL Zielona Góra</description><Point><coordinates>15.402985,51.715041</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PLEWA Zofia Teresa PSL</name><description>Międzyrzecz PSL Zielona Góra</description><Point><coordinates>15.577817,52.439150</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACZMAREK Jarosław Józef PSL</name><description>Trzciel PSL Zielona Góra</description><Point><coordinates>15.760876,52.358170</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOŁODZIEJ Zbigniew Jan PSL</name><description>Świebodzin PSL Zielona Góra</description><Point><coordinates>15.532746,52.243601</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZEREPKO Iwona Agnieszka BEZP</name><description>Gubin PSL Zielona Góra</description><Point><coordinates>14.747967,51.959285</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHINALSKA Anna PSL</name><description>Krosno Odrzańskie PSL Zielona Góra</description><Point><coordinates>15.093634,52.055942</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DĘBICKA Anna Wiesława BEZP</name><description>Gorzów Wielkopolski PSL Zielona Góra</description><Point><coordinates>15.213706,52.721122</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUMOR-PILARCZYK Izabela Ewa PSL</name><description>Żary PSL Zielona Góra</description><Point><coordinates>15.146314,51.628960</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HALASZ Marek PSL</name><description>Strzelce Krajeńskie PSL Zielona Góra</description><Point><coordinates>15.486994,52.902958</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KULCZYŃSKI Sławomir PSL</name><description>Cybinka PSL Zielona Góra</description><Point><coordinates>14.799730,52.190583</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OLEJNICZAK Mirosław Wojciech PSL</name><description>Nowa Sól PSL Zielona Góra</description><Point><coordinates>15.712086,51.801699</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WRÓBLEWSKI Dariusz Jerzy BEZP</name><description>Kargowa PSL Zielona Góra</description><Point><coordinates>15.870147,52.069363</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GEMBARA Andrzej Janusz PSL</name><description>Zielona Góra (a) PSL Zielona Góra</description><Point><coordinates>15.529399,51.928681</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOŁTYS Antoni Józef PSL</name><description>Kostrzyn nad Odrą PSL Zielona Góra</description><Point><coordinates>14.643459,52.612065</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STAROSTA Waldemar Henryk PSL</name><description>Sława PSL Zielona Góra</description><Point><coordinates>16.014528,51.877259</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZUMNA Wanda Elżbieta BEZP</name><description>Gorzów Wielkopolski PSL Zielona Góra</description><Point><coordinates>15.218117,52.743070</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOMAR Anna Sylwia PSL</name><description>Nowa Sól PSL Zielona Góra</description><Point><coordinates>15.785795,51.825140</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRYSZEWSKA Krystyna BEZP</name><description>Krosno Odrzańskie PSL Zielona Góra</description><Point><coordinates>15.094581,52.058726</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MEJZA Łukasz BEZP</name><description>Dąbie PSL Zielona Góra</description><Point><coordinates>15.173297,51.979532</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIŃCZYCKA Elżbieta członek partii politycznej: Unia Europejskich Demokratów</name><description>Kraków (a) PSL Łódź</description><Point><coordinates>20.029665,50.066544</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIEMIŃSKI Henryk Stanisław PSL</name><description>Łódź (a) PSL Łódź</description><Point><coordinates>19.484482,51.791084</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAJEWSKI Eugeniusz Paweł PSL</name><description>Łódź (a) PSL Łódź</description><Point><coordinates>19.469017,51.788250</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GŁADYSZ Ewa Małgorzata PSL</name><description>Brójce PSL Łódź</description><Point><coordinates>19.643467,51.664988</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRALEWSKA-JAGIEŁŁO Irena PSL</name><description>Brzeziny PSL Łódź</description><Point><coordinates>19.745087,51.800306</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZABOROWSKA-GORZKIEWICZ Klaudia Czesława PSL</name><description>Rzgów PSL Łódź</description><Point><coordinates>19.507335,51.659930</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIONTEK Marcin Tomasz BEZP</name><description>Łódź (a) PSL Łódź</description><Point><coordinates>19.504847,51.793095</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KULESZKA Agata BEZP</name><description>Łódź (a) PSL Łódź</description><Point><coordinates>19.501018,51.769332</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BEDNAREK Maksymilian Patryk BEZP</name><description>Łódź (a) PSL Łódź</description><Point><coordinates>19.480573,51.782201</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACPRZYCKI Adam Tomasz PSL</name><description>Łódź (a) PSL Łódź</description><Point><coordinates>19.481809,51.764310</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LIPSKI Bartłomiej BEZP</name><description>Brzeziny PSL Łódź</description><Point><coordinates>19.741443,51.822240</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TOMASIK Sylwia Katarzyna PSL</name><description>Łódź (a) PSL Łódź</description><Point><coordinates>19.465143,51.790627</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JACKIEWICZ Jerzy Andrzej PSL</name><description>Łódź (a) PSL Łódź</description><Point><coordinates>19.453213,51.769212</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OLEKSIEWICZ Monika Dorota PSL</name><description>Tuszyn PSL Łódź</description><Point><coordinates>19.538394,51.574496</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MATYSIAK Michał PSL</name><description>Jeżów PSL Łódź</description><Point><coordinates>19.948550,51.790399</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJCIECHOWSKI Adam Grzegorz PSL</name><description>Łódź (a) PSL Łódź</description><Point><coordinates>19.477180,51.747702</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIELCZAREK Witold Adam PSL</name><description>Łódź (a) PSL Łódź</description><Point><coordinates>19.474743,51.799252</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KASPRZYK-KOSTRZEWA Anna BEZP</name><description>Nowosolna PSL Łódź</description><Point><coordinates>19.613647,51.808837</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIEKIELNY Piotr Witold BEZP</name><description>Łódź (a) PSL Łódź</description><Point><coordinates>19.458798,51.755679</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JĘDRASIK Krzysztof Piotr BEZP</name><description>Łódź (a) PSL Łódź</description><Point><coordinates>19.509639,51.775036</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KLIMCZAK Dariusz PSL</name><description>Rawa Mazowiecka PSL Piotrków Trybunalski</description><Point><coordinates>20.226224,51.775351</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁUCZKOWSKI Tomasz BEZP</name><description>Opoczno PSL Piotrków Trybunalski</description><Point><coordinates>20.303056,51.415455</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JĘDRASZEK Teresa Małgorzata PSL</name><description>Głuchów PSL Piotrków Trybunalski</description><Point><coordinates>20.085689,51.801663</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OŚCIK Elżbieta Teresa PSL</name><description>Wolbórz PSL Piotrków Trybunalski</description><Point><coordinates>19.839613,51.496146</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAJEWSKI Henryk PSL</name><description>Biała Rawska PSL Piotrków Trybunalski</description><Point><coordinates>20.465435,51.818417</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KĄCKI Bogdan PSL</name><description>Rzeczyca PSL Piotrków Trybunalski</description><Point><coordinates>20.312024,51.608414</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZECHOWSKA Krystyna PSL</name><description>Piotrków Trybunalski PSL Piotrków Trybunalski</description><Point><coordinates>19.709898,51.411516</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FIRST Agnieszka Teresa PSL</name><description>Zelów PSL Piotrków Trybunalski</description><Point><coordinates>19.194658,51.471217</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WYSZOGRODZKI Zbigniew Stanisław PSL</name><description>Skierniewice PSL Piotrków Trybunalski</description><Point><coordinates>20.170575,51.957315</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRAŁEK Bożena Maria BEZP</name><description>Tomaszów Mazowiecki PSL Piotrków Trybunalski</description><Point><coordinates>20.025155,51.525154</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GÓRSKA Alicja Bogusława PSL</name><description>Żytno PSL Piotrków Trybunalski</description><Point><coordinates>19.701346,50.918736</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OLSZEWSKA Grażyna Marianna PSL</name><description>Skierniewice PSL Piotrków Trybunalski</description><Point><coordinates>20.168492,51.954431</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WALCZYK Jacek Bogdan PSL</name><description>Drużbice PSL Piotrków Trybunalski</description><Point><coordinates>19.403136,51.467415</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁOŚ Stanisław PSL</name><description>Wielgomłyny PSL Piotrków Trybunalski</description><Point><coordinates>19.776717,51.013603</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROBAK Barbara Danuta PSL</name><description>Tomaszów Mazowiecki PSL Piotrków Trybunalski</description><Point><coordinates>20.011659,51.505718</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAZUREK Damian Piotr PSL</name><description>Mniszków PSL Piotrków Trybunalski</description><Point><coordinates>19.976403,51.388699</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKORUPA Ewelina PSL</name><description>Gorzkowice PSL Piotrków Trybunalski</description><Point><coordinates>19.613756,51.205463</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAZUR Marek Marian PSL</name><description>Piotrków Trybunalski PSL Piotrków Trybunalski</description><Point><coordinates>19.716114,51.422638</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BEJDA Paweł Jan PSL</name><description>Łowicz PSL Sieradz</description><Point><coordinates>19.941431,52.101285</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIĘBA-GZIK Jolanta PSL</name><description>Zduńska Wola PSL Sieradz</description><Point><coordinates>18.958524,51.596454</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWAK Adam Paweł PSL</name><description>Strzelce Wielkie PSL Sieradz</description><Point><coordinates>19.179034,51.133851</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NAWROCKA Elżbieta Renata PSL</name><description>Wieruszów PSL Sieradz</description><Point><coordinates>18.163947,51.324738</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAROTA Bogdan Ryszard PSL</name><description>Głowno PSL Sieradz</description><Point><coordinates>19.683014,51.986694</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOŹNIAK Tomasz PSL</name><description>Wróblew PSL Sieradz</description><Point><coordinates>18.591962,51.600760</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STASIAK Zbigniew Marek PSL</name><description>Pabianice PSL Sieradz</description><Point><coordinates>19.321222,51.661730</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PACHOLSKI Michał Tomasz PSL</name><description>Łęczyca PSL Sieradz</description><Point><coordinates>19.201210,52.054975</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAWCZYK Marek Jan PSL</name><description>Sędziejowice PSL Sieradz</description><Point><coordinates>19.034891,51.511486</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BEDNAREK Ewa PSL</name><description>Zadzim PSL Sieradz</description><Point><coordinates>18.909314,51.785251</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JANKOWSKI Marek PSL</name><description>Bedlno PSL Sieradz</description><Point><coordinates>19.610790,52.176340</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARNISZEWSKI Andrzej PSL</name><description>Żychlin PSL Sieradz</description><Point><coordinates>19.648971,52.233634</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PLEWIŃSKI Paweł Krzysztof PSL</name><description>Poddębice PSL Sieradz</description><Point><coordinates>18.903822,51.882211</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TERKA Michał Waldemar PSL</name><description>Sieradz PSL Sieradz</description><Point><coordinates>18.741532,51.600225</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACZOROWSKA Maria BEZP</name><description>Aleksandrów Łódzki PSL Sieradz</description><Point><coordinates>19.245997,51.826769</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁABĘDZKI Marcin PSL</name><description>Zduńska Wola PSL Sieradz</description><Point><coordinates>18.920601,51.621482</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BŁACH Alina PSL</name><description>Pątnów PSL Sieradz</description><Point><coordinates>18.659442,51.118459</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻÓRAW Andrzej PSL</name><description>Sokolniki PSL Sieradz</description><Point><coordinates>18.340779,51.317536</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAWCZYK Ewa Anna PSL</name><description>Świnice Warckie PSL Sieradz</description><Point><coordinates>18.939094,52.045497</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROMANOW-PRZYBYLAK Justyna Agnieszka PSL</name><description>Zgierz PSL Sieradz</description><Point><coordinates>19.389430,51.850137</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MORGA Agnieszka PSL</name><description>Nowa Brzeźnica PSL Sieradz</description><Point><coordinates>19.136268,51.051065</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZUPRYNIAK Danuta PSL</name><description>Buczek PSL Sieradz</description><Point><coordinates>19.176954,51.522204</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRZEGORY Adam PSL</name><description>Zduny PSL Sieradz</description><Point><coordinates>19.788746,52.168498</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STĘPIEŃ Andrzej Paweł PSL</name><description>Wierzchlas PSL Sieradz</description><Point><coordinates>18.734513,51.161193</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRYNKUS Józef BEZP</name><description>Wadowice PSL Kraków</description><Point><coordinates>19.528583,49.850675</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAŁA Józef PSL</name><description>Polanka Wielka PSL Kraków</description><Point><coordinates>19.306134,49.984248</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HERBUT Dawid Julian BEZP</name><description>Kalwaria Zebrzydowska PSL Kraków</description><Point><coordinates>19.671764,49.887481</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAWADZKI Grzegorz Roman BEZP</name><description>Brzeszcze PSL Kraków</description><Point><coordinates>19.141046,49.975269</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DĘBIŃSKA Maria BEZP</name><description>Maków Podhalański PSL Kraków</description><Point><coordinates>19.685358,49.703288</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOŁĄB Katarzyna BEZP</name><description>Tomice PSL Kraków</description><Point><coordinates>19.517622,49.926556</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOLEK Magdalena BEZP</name><description>Babice PSL Kraków</description><Point><coordinates>19.447044,50.059774</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BEDRA Renata Barbara BEZP</name><description>Brzeszcze PSL Kraków</description><Point><coordinates>19.152553,49.977093</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MICHALEC Sylwia BEZP</name><description>Spytkowice PSL Kraków</description><Point><coordinates>19.526571,49.986852</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIKORA Marek Andrzej BEZP</name><description>Sułkowice PSL Kraków</description><Point><coordinates>19.811485,49.848031</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HYJEK Ewa Maria PSL</name><description>Myślenice PSL Kraków</description><Point><coordinates>19.950839,49.852103</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAJĄK Dorota BEZP</name><description>Wadowice PSL Kraków</description><Point><coordinates>19.535885,49.864522</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAKUBOWSKI Tomasz Marek PSL</name><description>Wadowice PSL Kraków</description><Point><coordinates>19.529550,49.852058</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KIERPIEC Daniel Józef BEZP</name><description>Kęty PSL Kraków</description><Point><coordinates>19.236878,49.905624</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GÓRECKI Andrzej PSL</name><description>Wadowice PSL Kraków</description><Point><coordinates>19.531047,49.868715</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MOTYKA Miłosz Maksymilian PSL</name><description>Tokarnia PSL Kraków</description><Point><coordinates>19.866164,49.735931</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚCIGAJ Agnieszka BEZP</name><description>Klucze PSL Kraków</description><Point><coordinates>19.567666,50.366691</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KEMPF Piotr Marek PSL</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>20.036141,50.058891</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PATENA Marta Elżbieta BEZP</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>20.000992,50.031917</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WANTUCH Łukasz Mariusz BEZP</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>20.012812,50.067582</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PUŁKA Jerzy PSL</name><description>Gołcza PSL Kraków</description><Point><coordinates>19.921664,50.328999</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STACH Beata Katarzyna StronnictwoDemokratyczne</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>19.990489,50.031082</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZCZOCZARZ Bartłomiej Andrzej PSL</name><description>Zabierzów PSL Kraków</description><Point><coordinates>19.764772,50.123050</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIELNIK-PIELKA Joanna Małgorzata BEZP</name><description>Wolbrom PSL Kraków</description><Point><coordinates>19.743272,50.387285</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LĘCZNAROWICZ Elżbieta Janina BEZP</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>20.021827,50.053260</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAJĘCKA Jolanta Anna BEZP</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>20.011202,50.052940</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KLEMPA Przemysław Zbigniew StronnictwoDemokratyczne</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>20.031657,50.058071</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PASZKOT Marzena Iwona PSL</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>19.985197,50.024607</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>APOSTOŁ Marian BEZP</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>20.011044,50.033385</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OKRAJEK Włodzimierz Wiktor PSL</name><description>Kocmyrzów-Luborzyca PSL Kraków</description><Point><coordinates>20.117481,50.155800</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POBĘDZA Czesław Maciej BEZP</name><description>Iwanowice PSL Kraków</description><Point><coordinates>19.975975,50.226942</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MITKA Katarzyna Helena PSL</name><description>Krzeszowice PSL Kraków</description><Point><coordinates>19.619411,50.133304</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FLOREK Marcin Grzegorz StronnictwoDemokratyczne</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>20.034557,50.043880</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KURTYKA Halina Ewa PSL</name><description>Zabierzów PSL Kraków</description><Point><coordinates>19.770593,50.120162</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SŁAWOMIRSKI Radosław Paweł LigaPolskichRodzin</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>20.007639,50.046562</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STRUTYŃSKI Łukasz Andrzej BEZP</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>19.989064,50.073140</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOSENKO Krzysztof Jan PSL</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>20.002903,50.012278</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PASTERNAK Janusz Mariusz PSL</name><description>Sułoszowa PSL Kraków</description><Point><coordinates>19.752925,50.257960</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DRWAL Dawid Marek BEZP</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>19.998848,50.072268</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZWED Barbara Ewa BEZP</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>19.973757,50.055330</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MACHNIK Grzegorz Józef PSL</name><description>Skawina PSL Kraków</description><Point><coordinates>19.758752,49.942332</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WÓJCIK Adam Bernard BEZP</name><description>Skawina PSL Kraków</description><Point><coordinates>19.765585,49.942102</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZIEDZIC Stanisław BEZP</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>19.988956,50.067684</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PROKOP-STASZECKA Anna Barbara PSL</name><description>Kraków (a) PSL Kraków</description><Point><coordinates>19.998086,50.055643</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWOGÓRSKA Urszula Teresa PSL</name><description>Łukowica PSL Nowy Sącz</description><Point><coordinates>20.464654,49.627100</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOLBRECKA Józefa PSL</name><description>Biały Dunajec PSL Nowy Sącz</description><Point><coordinates>20.011445,49.366036</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TUMIDAJEWICZ Iwona Agnieszka PSL</name><description>Biecz PSL Nowy Sącz</description><Point><coordinates>21.210976,49.724309</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRYGOWSKI Anatol BEZP</name><description>Gorlice PSL Nowy Sącz</description><Point><coordinates>21.165444,49.671159</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PÓŁCHŁOPEK Małgorzata Krystyna BEZP</name><description>Krynica-Zdrój PSL Nowy Sącz</description><Point><coordinates>20.990908,49.445495</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KIEŁBASA Katarzyna Maria PSL</name><description>Korzenna PSL Nowy Sącz</description><Point><coordinates>20.836663,49.699667</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARAN Grzegorz PSL</name><description>Podegrodzie PSL Nowy Sącz</description><Point><coordinates>20.569360,49.596107</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PALUCH Przemysław Marcin BEZP</name><description>Nowy Targ PSL Nowy Sącz</description><Point><coordinates>20.053767,49.483060</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIAŁOŃ Maria Barbara PSL</name><description>Ropa PSL Nowy Sącz</description><Point><coordinates>21.061357,49.571411</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARNA Andrzej PSL</name><description>Uście Gorlickie PSL Nowy Sącz</description><Point><coordinates>21.171405,49.487653</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JANUS Mirosław Stanisław PSL</name><description>Nowy Targ PSL Nowy Sącz</description><Point><coordinates>20.043157,49.488967</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BĄK Maria BEZP</name><description>Nowy Targ PSL Nowy Sącz</description><Point><coordinates>20.049452,49.488990</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POPŁAWSKA Irena Barbara PSL</name><description>Mszana Dolna PSL Nowy Sącz</description><Point><coordinates>20.076986,49.681527</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRABSKA Wioletta Dorota BEZP</name><description>Gorlice PSL Nowy Sącz</description><Point><coordinates>21.160576,49.669135</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FILAS Krzysztof BEZP</name><description>Biały Dunajec PSL Nowy Sącz</description><Point><coordinates>20.012090,49.370955</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TYLKA Maria PSL</name><description>Kościelisko PSL Nowy Sącz</description><Point><coordinates>19.849519,49.273780</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RAPCIAK Hubert Jan PSL</name><description>Niedźwiedź PSL Nowy Sącz</description><Point><coordinates>20.110447,49.596352</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WÓJCIAK Małgorzata PSL</name><description>Jabłonka PSL Nowy Sącz</description><Point><coordinates>19.675751,49.504573</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZARNECKI Rafał Marcin BEZP</name><description>Nowy Sącz PSL Nowy Sącz</description><Point><coordinates>20.700131,49.598169</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PASOŃ Stanisław Wojciech PSL</name><description>Stary Sącz PSL Nowy Sącz</description><Point><coordinates>20.632090,49.525816</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOSINIAK-KAMYSZ Władysław Marcin PSL</name><description>Kraków (a) PSL Tarnów</description><Point><coordinates>19.993549,50.017309</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KORDULA Joanna Ewa BEZP</name><description>Wieliczka PSL Tarnów</description><Point><coordinates>20.055835,49.983431</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SORYS Stanisław Andrzej PSL</name><description>Pleśna PSL Tarnów</description><Point><coordinates>20.904965,49.916236</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DROŻDŻAK Ryszard PSL</name><description>Łapanów PSL Tarnów</description><Point><coordinates>20.305859,49.864130</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAWEŁ Marcin Stanisław PSL</name><description>Pałecznica PSL Tarnów</description><Point><coordinates>20.308652,50.274367</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAMIŃSKI Bogusław PSL</name><description>Iwkowa PSL Tarnów</description><Point><coordinates>20.574089,49.798141</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DUDA Grzegorz PSL</name><description>Wietrzychowice PSL Tarnów</description><Point><coordinates>20.746155,50.196783</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKALAK Anna Teresa PSL</name><description>Żabno PSL Tarnów</description><Point><coordinates>20.856349,50.131703</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIEDROŃ Adam Roman PSL</name><description>Żabno PSL Tarnów</description><Point><coordinates>20.852934,50.135681</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁAKOMA Maria Stefania BEZP</name><description>Koniusza PSL Tarnów</description><Point><coordinates>20.212947,50.179454</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZALEWSKI Marian Józef BEZP</name><description>Szczurowa PSL Tarnów</description><Point><coordinates>20.632876,50.118089</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DĄBROŚ Stella Józefa BEZP</name><description>Szczucin PSL Tarnów</description><Point><coordinates>21.105213,50.293907</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻAK Tadeusz Kazimierz BEZP</name><description>Tarnów PSL Tarnów</description><Point><coordinates>20.976187,50.013952</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POWROŹNIK Magdalena Anna BEZP</name><description>Dębno PSL Tarnów</description><Point><coordinates>20.718228,49.946567</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHMIELA Artur Piotr BEZP</name><description>Biskupice PSL Tarnów</description><Point><coordinates>20.143437,49.963120</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MYŚKÓW-SKOCZEK Beata Maria BEZP</name><description>Bochnia PSL Tarnów</description><Point><coordinates>20.418157,49.995202</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TOKARCZYK-KOZIOŁ Małgorzata Anna PSL</name><description>Lisia Góra PSL Tarnów</description><Point><coordinates>21.068195,50.099426</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIKOS Marcin Krzysztof BEZP</name><description>Kraków (a) PSL Tarnów</description><Point><coordinates>20.023710,50.074414</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZGORZELSKI Piotr PSL</name><description>Bielsk PSL Płock</description><Point><coordinates>19.811864,52.663831</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ORLIŃSKI Mirosław Adam PSL</name><description>Sochaczew PSL Płock</description><Point><coordinates>20.243271,52.234409</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOJNAROWSKI Konrad PSL</name><description>Szydłowo PSL Płock</description><Point><coordinates>20.495321,53.088077</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZCZEPANKOWSKI Zenon PSL</name><description>Chorzele PSL Płock</description><Point><coordinates>20.939284,53.274496</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WRÓBLEWSKA Maria Bożena PSL</name><description>Sanniki PSL Płock</description><Point><coordinates>19.867613,52.334936</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RZYMOWSKI Jerzy PSL</name><description>Kuczbork-Osada PSL Płock</description><Point><coordinates>20.031510,53.101257</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIEROCKA Iwona PSL</name><description>Płock PSL Płock</description><Point><coordinates>19.717021,52.542380</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEWANDOWSKI Łukasz PSL</name><description>Ciechanów PSL Płock</description><Point><coordinates>20.620978,52.872534</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RYZIŃSKI Jacek PSL</name><description>Sochocin PSL Płock</description><Point><coordinates>20.491775,52.674430</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOSNOWSKI Michał BEZP</name><description>Płock PSL Płock</description><Point><coordinates>19.720679,52.525856</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZUSTAKIEWICZ Wojciech BEZP</name><description>Mszczonów PSL Płock</description><Point><coordinates>20.543915,51.933474</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DURCZAK KUŹMIŃSKA Katarzyna BEZP</name><description>Teresin PSL Płock</description><Point><coordinates>20.397107,52.186009</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DERLUKIEWICZ Anna PSL</name><description>Płock PSL Płock</description><Point><coordinates>19.724100,52.540919</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOPER Karolina Agnieszka BEZP</name><description>Mała Wieś PSL Płock</description><Point><coordinates>20.088224,52.449064</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RZESZOTARSKI Piotr Łukasz BEZP</name><description>Sierpc PSL Płock</description><Point><coordinates>19.664950,52.858091</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIRGOS-KILANOWSKA Nina PSL</name><description>Wiskitki PSL Płock</description><Point><coordinates>20.351476,52.077852</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOSIŃSKA-OSIECKA Agata Ewa PSL</name><description>Płońsk PSL Płock</description><Point><coordinates>20.359462,52.621925</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>APTEWICZ Elżbieta Urszula BEZP</name><description>Mława PSL Płock</description><Point><coordinates>20.377293,53.133621</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SMOLIŃSKA Anna BEZP</name><description>Ciechanów PSL Płock</description><Point><coordinates>20.614991,52.864163</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOMINEK Tomasz PSL</name><description>Płock PSL Płock</description><Point><coordinates>19.705802,52.528198</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MALISZEWSKI Mirosław Wojciech PSL</name><description>Grójec PSL Radom</description><Point><coordinates>20.885981,51.873835</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRABOWSKI Dariusz Maciej członek partii politycznej: Polska Nas Potrzebuje</name><description>Mst Warszawa (a) PSL Radom</description><Point><coordinates>21.088242,52.201459</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAWORSKA Bogusława Janina PSL</name><description>Zwoleń PSL Radom</description><Point><coordinates>21.574850,51.346974</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DUSZYK Adam Benon PSL</name><description>Radom (a) PSL Radom</description><Point><coordinates>21.149734,51.408517</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FIDOS Robert Sylwester PSL</name><description>Przysucha PSL Radom</description><Point><coordinates>20.630576,51.341592</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DOBOSZ Robert PSL</name><description>Jedlińsk PSL Radom</description><Point><coordinates>21.112912,51.514850</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MALEC Ewa PSL</name><description>Kozienice PSL Radom</description><Point><coordinates>21.530173,51.600956</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NALEWAJKO Irena PSL</name><description>Pionki PSL Radom</description><Point><coordinates>21.443713,51.472638</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAROSZEK-NOWAK Ilona Dorota PSL</name><description>Radom (a) PSL Radom</description><Point><coordinates>21.165953,51.421720</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DUDEK Jadwiga BEZP</name><description>Ciepielów PSL Radom</description><Point><coordinates>21.542163,51.241686</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚLIFIRCZYK Mirosław PSL</name><description>Zakrzew PSL Radom</description><Point><coordinates>21.022206,51.446352</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STOLARCZYK Agnieszka Barbara PSL</name><description>Radom (a) PSL Radom</description><Point><coordinates>21.149181,51.414877</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WĘGRZECKA Maria Agnieszka PSL</name><description>Rzeczniów PSL Radom</description><Point><coordinates>21.393584,51.121398</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GĄSIOROWSKA Barbara Elżbieta BEZP</name><description>Nowe Miasto nad Pilicą PSL Radom</description><Point><coordinates>20.524249,51.630670</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SINIARSKA Karolina Zofia BEZP</name><description>Przytyk PSL Radom</description><Point><coordinates>20.873356,51.461854</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>REJCZAK Krzysztof Leszek PSL</name><description>Chlewiska PSL Radom</description><Point><coordinates>20.731680,51.236475</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GUMOWSKI Ireneusz PSL</name><description>Radzanów PSL Radom</description><Point><coordinates>20.841231,51.563506</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOŁĄBEK Zbigniew PSL</name><description>Radom (a) PSL Radom</description><Point><coordinates>21.154413,51.414195</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAWICKI Marek Wacław PSL</name><description>Repki PSL Siedlce</description><Point><coordinates>22.433121,52.372969</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BORKOWSKI Krzysztof Wawrzyniec PSL</name><description>Wiśniew PSL Siedlce</description><Point><coordinates>22.293448,52.061146</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JÓŹWIAK Beata PSL</name><description>Pułtusk PSL Siedlce</description><Point><coordinates>21.083904,52.730554</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOWALCZYK Rafał Józef PSL</name><description>Wąsewo PSL Siedlce</description><Point><coordinates>21.699394,52.844054</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STOPA Dariusz Zbigniew PSL</name><description>Siedlce PSL Siedlce</description><Point><coordinates>22.287119,52.174787</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NATKOWSKI Paweł Rafał BEZP</name><description>Płock PSL Siedlce</description><Point><coordinates>19.708086,52.533162</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRUPIŃSKI Marian PSL</name><description>Goworowo PSL Siedlce</description><Point><coordinates>21.553491,52.896575</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JASTRZĘBSKI Stanisław PSL</name><description>Wyszków PSL Siedlce</description><Point><coordinates>21.467037,52.587746</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHCIAŁOWSKI Marek PSL</name><description>Garwolin PSL Siedlce</description><Point><coordinates>21.552980,51.890455</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BODIO Bartłomiej Jarosław PSL</name><description>Rząśnik PSL Siedlce</description><Point><coordinates>21.388179,52.709047</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TARKOWSKA Anna PSL</name><description>Łosice PSL Siedlce</description><Point><coordinates>22.735153,52.214599</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZYŻ Dorota BEZP</name><description>Ostrołęka PSL Siedlce</description><Point><coordinates>21.593464,53.071354</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOZERA Mariusz PSL</name><description>Mińsk Mazowiecki PSL Siedlce</description><Point><coordinates>21.582292,52.171544</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZEMBROWSKA Justyna BEZP</name><description>Siedlce PSL Siedlce</description><Point><coordinates>22.267440,52.169922</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOPEL-SEREJA Lidia BEZP</name><description>Łaskarzew PSL Siedlce</description><Point><coordinates>21.607297,51.786327</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NALEWKA Kamil PSL</name><description>Mińsk Mazowiecki PSL Siedlce</description><Point><coordinates>21.551720,52.184525</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAWISTOWSKI Marcin BEZP</name><description>Małkinia Górna PSL Siedlce</description><Point><coordinates>22.021671,52.700246</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZURNICKA Ewa PSL</name><description>Kadzidło PSL Siedlce</description><Point><coordinates>21.472383,53.249279</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACZYŃSKA Beata Marta BEZP</name><description>Kadzidło PSL Siedlce</description><Point><coordinates>21.462575,53.248062</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KANIA Krystian BEZP</name><description>Żelechów PSL Siedlce</description><Point><coordinates>21.860461,51.802170</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAŁATA Magdalena Maria BEZP</name><description>Siedlce PSL Siedlce</description><Point><coordinates>22.270920,52.154859</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOŁODZIEJSKI Cezary PSL</name><description>Maków Mazowiecki PSL Siedlce</description><Point><coordinates>21.095744,52.864651</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KELLEHER Hanna Bożenna BEZP</name><description>Wierzbno PSL Siedlce</description><Point><coordinates>21.851329,52.312257</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POSTEK Michał BEZP</name><description>Łochów PSL Siedlce</description><Point><coordinates>21.710728,52.554418</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARTOSZEWSKI Władysław Teofil BEZP</name><description>Dąbrówka PSL Warszawa</description><Point><coordinates>21.270250,52.489996</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OJER Anna Małgorzata BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.075916,52.224473</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STANISZKIS Joanna Maria BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.031588,52.267166</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STELMAŃSKA Izabela PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.070632,52.209481</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HELWING Stanisław Piotr BEZP</name><description>Konstancin-Jeziorna PSL Warszawa</description><Point><coordinates>21.127420,52.083597</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WĄSOWICZ Michał Janusz BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.074890,52.221525</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RAKIEL-CZARNECKA Walentyna PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.106977,52.212519</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FLIS-KUCZYŃSKA Halina członek partii politycznej: Unia Europejskich Demokratów</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.067344,52.200182</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAWŁOCKI Juliusz Jakub BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.113979,52.240809</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAWICKI Emil Krzysztof PSL</name><description>Raszyn PSL Warszawa</description><Point><coordinates>20.919799,52.132470</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STRĄK Michał Stanisław PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.066263,52.186324</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOGIEL Teresa Maria PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.076467,52.232425</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MASŁOWSKI Wiktor Zbigniew BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.110255,52.251770</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁUKASIEWICZ Adam Krzysztof BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.074549,52.261560</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WASILEWSKA Lucyna Gertruda PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.077990,52.277642</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PŁOWICZ Marcin Tomasz BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.079013,52.201913</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIELSKI Karol Tomasz PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.050940,52.191163</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DYDUCH Janusz PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.043078,52.265328</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GARSTKA Tatiana Joanna BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.086121,52.204933</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁAZARSKI Roman członek partii politycznej: Unia Europejskich Demokratów</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.018047,52.251392</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PANAS Anna Józefa PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.017595,52.242360</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WYSZYŃSKA Teresa Maria PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.038413,52.224050</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRUDOWSKA Agata Zofia PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.088441,52.229601</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RUTKOWSKA Mirosława PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.050006,52.283081</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARECKI Marek Antoni BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.012249,52.219409</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAZUREK Aleksander Paweł BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.084570,52.193671</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OWCZARSKI Piotr Krzysztof BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.021078,52.204664</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOZUBEK Elżbieta Barbara PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.012410,52.213462</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MISIEJKO Karolina PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.056756,52.210890</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PASTEWKA Małgorzata Halina BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.061895,52.209518</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWOSIELSKI Kamil Ernest PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.016814,52.229864</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIECZOREK Katarzyna Agata PSL</name><description>Sanniki PSL Warszawa</description><Point><coordinates>19.863047,52.333933</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOŁOTA Bożenna Jolanta PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.049609,52.252123</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZAPLICKI Zbigniew PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.063777,52.254181</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WRÓBLEWSKI Andrzej Wojciech członek partii politycznej: Unia Europejskich Demokratów</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.048124,52.240888</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAZUREK Jerzy BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.060592,52.216466</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHOIŃSKA Alicja Elżbieta członek partii politycznej: Unia Europejskich Demokratów</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.027211,52.251154</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYMANEK Piotr Ludomir BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.068686,52.225077</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TYSZCZUK Sebastian Adrian BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.054611,52.265312</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MORDAK Robert Dariusz BEZP</name><description>Radom (a) PSL Warszawa</description><Point><coordinates>21.143973,51.429124</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻELAZOWSKA Bożena Jadwiga PSL</name><description>Józefów PSL Warszawa</description><Point><coordinates>21.219433,52.128131</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STEFANIAK Jakub Łukasz PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.058193,52.216811</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PETELICKA Agnieszka Beata BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.058927,52.182692</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚWIERCZ Artur Mateusz BEZP</name><description>Pruszków PSL Warszawa</description><Point><coordinates>20.805374,52.172854</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIERNACKA Magdalena PSL</name><description>Nasielsk PSL Warszawa</description><Point><coordinates>20.765928,52.574419</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OLEKSIAK Emilia PSL</name><description>Tłuszcz PSL Warszawa</description><Point><coordinates>21.465581,52.413811</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRAJDA Dariusz Grzegorz PSL</name><description>Celestynów PSL Warszawa</description><Point><coordinates>21.399125,52.043231</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GALIŃSKI Piotr Stanisław PSL</name><description>Grodzisk Mazowiecki PSL Warszawa</description><Point><coordinates>20.615445,52.099790</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAŁOLEPSZY Karol Andrzej PSL</name><description>Wołomin PSL Warszawa</description><Point><coordinates>21.272479,52.352006</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POZOREK Artur PSL</name><description>Jabłonna PSL Warszawa</description><Point><coordinates>20.872210,52.390930</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUSZTA Krystian Stanisław BEZP</name><description>Leoncin PSL Warszawa</description><Point><coordinates>20.516021,52.355512</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SUDOMIRSKI Marek Szczepan BEZP</name><description>Radzymin PSL Warszawa</description><Point><coordinates>21.172997,52.431270</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYNKIEWICZ Ewa PSL</name><description>Góra Kalwaria PSL Warszawa</description><Point><coordinates>21.178709,51.973879</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LITWIŃCZUK Zdzisław Czesław członek partii politycznej: Unia Europejskich Demokratów</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.073445,52.285241</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NASIADKA Ilona PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.079253,52.201038</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CIEPIELEWSKA Joanna Katarzyna BEZP</name><description>Wołomin PSL Warszawa</description><Point><coordinates>21.269411,52.357881</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DOMINIAK Michał Adam BEZP</name><description>Leszno PSL Warszawa</description><Point><coordinates>20.606674,52.281284</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁUKASIŃSKA Maryla Barbara BEZP</name><description>Izabelin PSL Warszawa</description><Point><coordinates>20.780248,52.316466</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OKUROWSKA Małgorzata BEZP</name><description>Grodzisk Mazowiecki PSL Warszawa</description><Point><coordinates>20.621475,52.093756</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOSIN Daniel Krzysztof BEZP</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.085138,52.234786</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIEKUT Damian Marek PSL</name><description>Legionowo PSL Warszawa</description><Point><coordinates>20.945110,52.405896</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RYŚ-FERENS Erwina Lilia PSL</name><description>Mst Warszawa (a) PSL Warszawa</description><Point><coordinates>21.023529,52.263389</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BORKOWSKI Łukasz Jan BEZP</name><description>Nadarzyn PSL Warszawa</description><Point><coordinates>20.799005,52.066879</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUKIZ Paweł Piotr BEZP</name><description>Lewin Brzeski PSL Opole</description><Point><coordinates>17.640626,50.755420</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RAKOCZY Stanisław PSL</name><description>Kluczbork PSL Opole</description><Point><coordinates>18.224300,50.978616</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRABOWSKI Paweł BEZP</name><description>Brzeg PSL Opole</description><Point><coordinates>17.464247,50.858929</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KONOPKA Antoni Jacek PSL</name><description>Nysa PSL Opole</description><Point><coordinates>17.346669,50.453053</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POŚPIECH Piotr PSL</name><description>Kluczbork PSL Opole</description><Point><coordinates>18.216383,50.981496</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OSZAŃCA Marcin Krzysztof PSL</name><description>Tułowice PSL Opole</description><Point><coordinates>17.690853,50.594457</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAGOLA Agnieszka Izabela PSL</name><description>Opole PSL Opole</description><Point><coordinates>17.912576,50.662077</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAGIEŁŁO Wojciech Jan BEZP</name><description>Opole PSL Opole</description><Point><coordinates>17.905336,50.685298</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GŁOWACKI Kazimierz PSL</name><description>Kietrz PSL Opole</description><Point><coordinates>17.950332,50.058841</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WICIAK Tomasz Paweł PSL</name><description>Namysłów PSL Opole</description><Point><coordinates>17.700057,51.082285</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAJĄC Barbara PSL</name><description>Pokój PSL Opole</description><Point><coordinates>17.873902,50.915766</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRZESIŃSKI Jan PSL</name><description>Niemodlin PSL Opole</description><Point><coordinates>17.592615,50.656149</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MALIK-MENDELSKA Katarzyna Agnieszka BEZP</name><description>Głubczyce PSL Opole</description><Point><coordinates>17.763920,50.212863</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARKIEWICZ Jolanta BEZP</name><description>Lubsza PSL Opole</description><Point><coordinates>17.558859,50.923335</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAŁWAK Leszek PSL</name><description>Praszka PSL Opole</description><Point><coordinates>18.488003,51.073701</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUPNY Danuta Teresa BEZP</name><description>Leśnica PSL Opole</description><Point><coordinates>18.213957,50.430257</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAWIŚLAK Alicja BEZP</name><description>Prudnik PSL Opole</description><Point><coordinates>17.527779,50.348730</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAJDA Ryszard Jan PSL</name><description>Ozimek PSL Opole</description><Point><coordinates>18.223844,50.691205</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEWIŃSKA Bożena Zofia PSL</name><description>Łambinowice PSL Opole</description><Point><coordinates>17.546961,50.536889</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KROK Miłosz Stanisław BEZP</name><description>Grodków PSL Opole</description><Point><coordinates>17.359319,50.687883</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIECZOREK-GRINER Agnieszka Danuta BEZP</name><description>Polska Cerekiew PSL Opole</description><Point><coordinates>18.116722,50.217165</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚMIGIELSKA Maria Ewa BEZP</name><description>Dąbrowa PSL Opole</description><Point><coordinates>17.768119,50.705364</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HANKUS Mirosław PSL</name><description>Zdzieszowice PSL Opole</description><Point><coordinates>18.088389,50.431853</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAWICKI Grzegorz Adam PSL</name><description>Chrząstowice PSL Opole</description><Point><coordinates>18.089120,50.655040</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KASPRZAK Mieczysław PSL</name><description>Radymno (c) PSL Krosno</description><Point><coordinates>22.948910,49.946572</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MERCIK Aleksander BEZP</name><description>Miejsce Piastowe PSL Krosno</description><Point><coordinates>21.787148,49.635766</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZADWORNY Zdzisław PSL</name><description>Cieszanów PSL Krosno</description><Point><coordinates>23.159438,50.266390</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DACHNOWICZ Małgorzata Krystyna BEZP</name><description>Dubiecko PSL Krosno</description><Point><coordinates>22.384044,49.812142</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HOŁYSZKO Janusz Marek PSL</name><description>Orły PSL Krosno</description><Point><coordinates>22.802571,49.879327</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KISZKA Zbigniew Wojciech PSL</name><description>Przeworsk PSL Krosno</description><Point><coordinates>22.485532,50.057594</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOJKO Zbigniew Andrzej PSL</name><description>Przemyśl PSL Krosno</description><Point><coordinates>22.729575,49.768455</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAŁECKA Barbara Danuta BEZP</name><description>Stary Dzików PSL Krosno</description><Point><coordinates>22.916545,50.226224</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KONOPKA Marek Zbigniew BEZP</name><description>Ustrzyki Dolne PSL Krosno</description><Point><coordinates>22.575921,49.500104</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAWIŃSKI Krzysztof Jan PSL</name><description>Lesko PSL Krosno</description><Point><coordinates>22.344954,49.461621</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZALESZCZUK Anna Maria BEZP</name><description>Jedlicze PSL Krosno</description><Point><coordinates>21.644315,49.724149</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FAL Sabina Anna PSL</name><description>Zagórz PSL Krosno</description><Point><coordinates>22.209449,49.423430</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARADZIEJ Iwona Teresa BEZP</name><description>Dębowiec PSL Krosno</description><Point><coordinates>21.426270,49.636229</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HOŁOWACZ Bogumiła Stanisława BEZP</name><description>Jarosław PSL Krosno</description><Point><coordinates>22.669229,50.045777</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARAŃSKI Janusz Jacek PSL</name><description>Jasienica Rosielna PSL Krosno</description><Point><coordinates>21.940995,49.740539</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOBIAŁKA-BANYŚ Emilia Alina BEZP</name><description>Lesko PSL Krosno</description><Point><coordinates>22.348097,49.468727</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZARYCHTA Ryszard BEZP</name><description>Przeworsk PSL Krosno</description><Point><coordinates>22.500542,50.053074</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HORBACZ Małgorzata BEZP</name><description>Wiązownica PSL Krosno</description><Point><coordinates>22.792552,50.115001</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FEDACZYŃSKA Maria Stanisława BEZP</name><description>Przemyśl (c) PSL Krosno</description><Point><coordinates>22.792579,49.788437</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PASTUSZCZAK Marek PSL</name><description>Sanok PSL Krosno</description><Point><coordinates>22.216586,49.556193</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOKÓŁ Marek Zbigniew PSL</name><description>Olszanica PSL Krosno</description><Point><coordinates>22.445424,49.487779</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FRANCZAK Stanisław BEZP</name><description>Jedlicze PSL Krosno</description><Point><coordinates>21.638998,49.719009</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TYSZKA Stanisław BEZP</name><description>Mst Warszawa (a) PSL Rzeszów</description><Point><coordinates>21.040656,52.236773</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TARAPATA Jan Władysław BEZP</name><description>Tuszów Narodowy PSL Rzeszów</description><Point><coordinates>21.519888,50.371216</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LADA Wiesław Andrzej PSL</name><description>Żyraków PSL Rzeszów</description><Point><coordinates>21.390740,50.110612</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MICAŁ Zbigniew PSL</name><description>Rzeszów (a) PSL Rzeszów</description><Point><coordinates>21.968906,49.995453</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARTOSZEK Paweł PSL</name><description>Gorzyce PSL Rzeszów</description><Point><coordinates>21.826712,50.664168</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOLENIA Maria Teresa BEZP</name><description>Ropczyce PSL Rzeszów</description><Point><coordinates>21.571587,50.021106</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOROWIEC Błażej Stefan PSL</name><description>Nisko PSL Rzeszów</description><Point><coordinates>22.162297,50.479070</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GUZEK Sławomir Tomasz PSL</name><description>Trzebownisko PSL Rzeszów</description><Point><coordinates>22.075876,50.122855</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CIEŚLA Paweł BEZP</name><description>Tarnobrzeg PSL Rzeszów</description><Point><coordinates>21.699400,50.575481</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LONCZAK Stanisław Józef PSL</name><description>Radomyśl Wielki PSL Rzeszów</description><Point><coordinates>21.268169,50.195540</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>REGUŁA Andrzej Zygmunt PSL</name><description>Dębica PSL Rzeszów</description><Point><coordinates>21.449639,50.057884</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LEJA Małgorzata BEZP</name><description>Kuryłówka PSL Rzeszów</description><Point><coordinates>22.548017,50.328288</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKOWROŃSKA-ZIOMEK Monika Małgorzata BEZP</name><description>Przecław PSL Rzeszów</description><Point><coordinates>21.484864,50.214321</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAGOŃ Jan PSL</name><description>Łańcut PSL Rzeszów</description><Point><coordinates>22.251244,50.037267</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KASZYCA Tadeusz BEZP</name><description>Łańcut PSL Rzeszów</description><Point><coordinates>22.258301,50.029899</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GUMIŃSKA Celina Anna PSL</name><description>Zaleszany PSL Rzeszów</description><Point><coordinates>21.952798,50.643375</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUDYBA Małgorzata PSL</name><description>Stalowa Wola PSL Rzeszów</description><Point><coordinates>22.014561,50.575206</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOCZUR Dorota Krystyna PSL</name><description>Kolbuszowa PSL Rzeszów</description><Point><coordinates>21.808605,50.214220</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WŁODYKA Janusz PSL</name><description>Strzyżów PSL Rzeszów</description><Point><coordinates>21.781826,49.862765</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOSIŃSKI Krzysztof Jan PSL</name><description>Ropczyce PSL Rzeszów</description><Point><coordinates>21.579131,50.021033</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STOJAŃSKA Joanna Katarzyna BEZP</name><description>Zamość PSL Rzeszów</description><Point><coordinates>23.244092,50.727112</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WICHER Maria PSL</name><description>Dębica PSL Rzeszów</description><Point><coordinates>21.446935,50.057245</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TUTKA Henryk PSL</name><description>Nowa Dęba PSL Rzeszów</description><Point><coordinates>21.739451,50.466151</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BŁOŃSKI Kazimierz Józef PSL</name><description>Kuryłówka PSL Rzeszów</description><Point><coordinates>22.544524,50.330288</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARTMAN Jan PSL</name><description>Łańcut PSL Rzeszów</description><Point><coordinates>22.257314,50.033322</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OPIOŁA Barbara PSL</name><description>Hyżne PSL Rzeszów</description><Point><coordinates>22.188958,49.903560</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOTLIŃSKA Marzena Anna BEZP</name><description>Rzeszów (a) PSL Rzeszów</description><Point><coordinates>21.980869,49.996786</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZARĘBA Marek Jan PSL</name><description>Stalowa Wola PSL Rzeszów</description><Point><coordinates>22.019862,50.568390</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PARYŚ Krystyna Grażyna BEZP</name><description>Wielopole Skrzyńskie PSL Rzeszów</description><Point><coordinates>21.600699,49.944872</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NICPOŃ Henryk BEZP</name><description>Rzeszów (a) PSL Rzeszów</description><Point><coordinates>21.965560,50.009522</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAJEWSKI Stefan PSL</name><description>Zambrów PSL Białystok</description><Point><coordinates>22.192126,52.993815</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LECH Mirosław BEZP</name><description>Korycin PSL Białystok</description><Point><coordinates>23.130015,53.428273</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GROCHOWSKI Wojciech PSL</name><description>Grajewo PSL Białystok</description><Point><coordinates>22.449889,53.640523</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LESZCZYŃSKI Jerzy BEZP</name><description>Ciechanowiec PSL Białystok</description><Point><coordinates>22.559499,52.660989</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CIEŚLUKOWSKI Cezary PSL</name><description>Suwałki PSL Białystok</description><Point><coordinates>22.928408,54.099351</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAWISTOWSKA Agnieszka PSL</name><description>Wysokie Mazowieckie PSL Białystok</description><Point><coordinates>22.518872,52.923825</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KULIKOWSKA Ewa BEZP</name><description>Juchnowiec Kościelny PSL Białystok</description><Point><coordinates>23.156457,52.999893</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PŁOŃSKA Wiesława Bożenna BEZP</name><description>Białystok PSL Białystok</description><Point><coordinates>23.167913,53.118534</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRZYŻANOWSKA Bożena BEZP</name><description>Siemiatycze PSL Białystok</description><Point><coordinates>22.878797,52.419045</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DYJUK Bogdan BEZP</name><description>Augustów PSL Białystok</description><Point><coordinates>23.010396,53.843036</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RAFAŁOWSKI Krzysztof PSL</name><description>Kolno PSL Białystok</description><Point><coordinates>21.931726,53.401017</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOBEL Maciej PSL</name><description>Brańsk PSL Białystok</description><Point><coordinates>22.837483,52.749951</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAGNUSZEWSKI Marian PSL</name><description>Mońki PSL Białystok</description><Point><coordinates>22.764636,53.394718</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KORONKIEWICZ Andrzej Zbigniew PSL</name><description>Augustów PSL Białystok</description><Point><coordinates>23.005315,53.848593</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAKUBIAK Ewa PSL</name><description>Śniadowo PSL Białystok</description><Point><coordinates>21.967427,53.067739</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZCZYGIELSKA Agnieszka PSL</name><description>Sokółka PSL Białystok</description><Point><coordinates>23.521236,53.372777</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWAK Magdalena BEZP</name><description>Białystok PSL Białystok</description><Point><coordinates>23.166215,53.128058</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ALEKSIEJCZUK-SZOTKO Marta PSL</name><description>Zabłudów PSL Białystok</description><Point><coordinates>23.351032,53.009600</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAWICKI Sławomir BEZP</name><description>Sokółka PSL Białystok</description><Point><coordinates>23.517939,53.368094</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHOŁKO Tadeusz PSL</name><description>Suwałki PSL Białystok</description><Point><coordinates>22.960800,54.094796</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAKACKI Tomasz PSL</name><description>Śniadowo PSL Białystok</description><Point><coordinates>21.965705,53.066940</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JĘDZUL Joanna PSL</name><description>Suwałki PSL Białystok</description><Point><coordinates>22.926264,54.110247</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAŹMIERCZAK Małgorzata PSL</name><description>Wasilków PSL Białystok</description><Point><coordinates>23.209747,53.216112</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZARZECKI Michał PSL</name><description>Wąsosz PSL Białystok</description><Point><coordinates>22.353782,53.498546</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARCZEWSKA Małgorzata BEZP</name><description>Bielsk Podlaski PSL Białystok</description><Point><coordinates>23.190756,52.759797</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RYKOWSKI Grzegorz PSL</name><description>Białystok PSL Białystok</description><Point><coordinates>23.155251,53.109591</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PRZYBYLAK Irena Zofia BEZP</name><description>Piątnica PSL Białystok</description><Point><coordinates>22.147577,53.216094</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JANOWSKI Mikołaj PSL</name><description>Hajnówka PSL Białystok</description><Point><coordinates>23.565218,52.726495</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOBYLARZ Andrzej Sławomir BEZP</name><description>Trąbki Wielkie PSL Gdańsk</description><Point><coordinates>18.497921,54.155028</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TRAWICKI Krzysztof Gabriel PSL</name><description>Zblewo PSL Gdańsk</description><Point><coordinates>18.335629,53.942122</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAWŁOWSKA Maria Urszula PSL</name><description>Stegna PSL Gdańsk</description><Point><coordinates>19.075965,54.294401</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUCHAREK Adam Antoni BEZP</name><description>Tczew PSL Gdańsk</description><Point><coordinates>18.777823,54.094979</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACZYŃSKI Leszek Józef BEZP</name><description>Trąbki Wielkie PSL Gdańsk</description><Point><coordinates>18.498663,54.163384</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SARNOWSKI Wojciech Ireneusz BEZP</name><description>Zblewo PSL Gdańsk</description><Point><coordinates>18.339777,53.947720</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIERNACKI Paweł Piotr BEZP</name><description>Miastko PSL Gdańsk</description><Point><coordinates>16.999921,54.031706</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CYMERYS Wojciech PSL</name><description>Sztum PSL Gdańsk</description><Point><coordinates>19.001039,53.925053</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TUSK Lucyna Maria BEZP</name><description>Pruszcz Gdański PSL Gdańsk</description><Point><coordinates>18.673227,54.273146</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWAK Bartosz Kazimierz PSL</name><description>Malbork PSL Gdańsk</description><Point><coordinates>19.040828,54.048595</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DASZKIEWICZ Maria Jolanta PSL</name><description>Starogard Gdański PSL Gdańsk</description><Point><coordinates>18.522559,53.965288</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KŁOS Małgorzata Maria PSL</name><description>Sopot PSL Gdańsk</description><Point><coordinates>18.546798,54.440788</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WERONIECKI Bartosz Szymon PSL</name><description>Pelplin PSL Gdańsk</description><Point><coordinates>18.738225,53.922311</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRAHN Marianna PSL</name><description>Sopot PSL Gdańsk</description><Point><coordinates>18.545137,54.449752</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MICHALAK Leszek PSL</name><description>Pruszcz Gdański PSL Gdańsk</description><Point><coordinates>18.650879,54.261711</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAMIŃSKI Paweł PSL</name><description>Gdańsk (ab) PSL Gdańsk</description><Point><coordinates>18.671052,54.369581</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DOMBROWSKA-GRUBBA Beata Agnieszka BEZP</name><description>Gdańsk (ab) PSL Gdańsk</description><Point><coordinates>18.675249,54.349879</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HOŁUBOWSKI Bartosz Rafał BEZP</name><description>Gdańsk (ab) PSL Gdańsk</description><Point><coordinates>18.677415,54.347066</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RYBAKOWSKA Małgorzata BEZP</name><description>Gdańsk (ab) PSL Gdańsk</description><Point><coordinates>18.684677,54.381149</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MŁOT Andrzej PSL</name><description>Gdańsk (ab) PSL Gdańsk</description><Point><coordinates>18.686247,54.352581</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PASZEK Krystyna BEZP</name><description>Bobowo PSL Gdańsk</description><Point><coordinates>18.537871,53.872187</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DĄBEK-STOBIERSKA Janina Maria BEZP</name><description>Cedry Wielkie PSL Gdańsk</description><Point><coordinates>18.843457,54.254873</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRAJOSZEK Zbigniew Mariusz PSL</name><description>Cedry Wielkie PSL Gdańsk</description><Point><coordinates>18.843615,54.255765</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DORNIAK Tomasz PSL</name><description>Żukowo PSL Gdańsk</description><Point><coordinates>18.374682,54.373204</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIERNACKI Marek BEZP</name><description>Gdynia (ab) PSL Słupsk</description><Point><coordinates>18.469618,54.512940</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TOCZEK Marek Jerzy członek partii politycznej: Polska Nas Potrzebuje</name><description>Piaseczno PSL Słupsk</description><Point><coordinates>20.998085,52.047213</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZATKOWSKI Radosław Jan PSL</name><description>Reda PSL Słupsk</description><Point><coordinates>18.339720,54.626461</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ELZANOWSKI Czesław Andrzej PSL</name><description>Słupsk PSL Słupsk</description><Point><coordinates>17.021457,54.458327</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TKACZYK Jerzy Andrzej PSL</name><description>Puck PSL Słupsk</description><Point><coordinates>18.318487,54.716065</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LESNER Łukasz Jan PSL</name><description>Reda PSL Słupsk</description><Point><coordinates>18.334503,54.622575</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MASZLUCH Mirosław Józef BEZP</name><description>Bytów PSL Słupsk</description><Point><coordinates>17.492666,54.156293</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRUCHAŁA Michał Rajmund BEZP</name><description>Chojnice PSL Słupsk</description><Point><coordinates>17.563893,53.697630</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GNIAZDOWSKA Elżbieta PSL</name><description>Krokowa PSL Słupsk</description><Point><coordinates>18.104508,54.761323</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUJANOWICZ Krzysztof Robert PSL</name><description>Wejherowo PSL Słupsk</description><Point><coordinates>18.238773,54.602841</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PRUSZAK Krzysztof Ludwik PSL</name><description>Nowa Wieś Lęborska PSL Słupsk</description><Point><coordinates>17.694750,54.573263</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZOSTAKIEWICZ Aldona Maria BEZP</name><description>Słupsk PSL Słupsk</description><Point><coordinates>17.006051,54.491484</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAWADZKI Leszek Andrzej PSL</name><description>Chojnice PSL Słupsk</description><Point><coordinates>17.558843,53.692446</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIKOŁAJCZYK Anna PSL</name><description>Gdynia (ab) PSL Słupsk</description><Point><coordinates>18.465740,54.513266</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KELIŃSKI Tadeusz PSL</name><description>Kartuzy PSL Słupsk</description><Point><coordinates>18.116972,54.344161</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARKOWSKA Irena Maria BEZP</name><description>Czersk PSL Słupsk</description><Point><coordinates>17.893636,53.805865</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZARZECKI Krzysztof Józef członek partii politycznej: Unia Europejskich Demokratów</name><description>Reda PSL Słupsk</description><Point><coordinates>18.327580,54.622939</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIELIŃSKA Danuta BEZP</name><description>Czersk PSL Słupsk</description><Point><coordinates>17.899445,53.808059</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LUBCZYŃSKA-KIEŁPIŃSKA Anita Monika BEZP</name><description>Chojnice PSL Słupsk</description><Point><coordinates>17.555959,53.706926</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAMROWSKA Marta Karolina BEZP</name><description>Gdynia (ab) PSL Słupsk</description><Point><coordinates>18.468874,54.507666</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KONCZANIN Bogusława PSL</name><description>Człuchów PSL Słupsk</description><Point><coordinates>17.362272,53.664904</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRZEKOTOWSKI Jarosław Andrzej PSL</name><description>Wicko PSL Słupsk</description><Point><coordinates>17.605527,54.706394</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIANKOWSKA Bożena Barbara BEZP</name><description>Stara Kiszewa PSL Słupsk</description><Point><coordinates>18.168176,53.979169</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACZMAREK Jacek Piotr BEZP</name><description>Gdynia (ab) PSL Słupsk</description><Point><coordinates>18.470357,54.496814</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PRZYBYLSKI Wojciech Wiesław PSL</name><description>Gdynia (ab) PSL Słupsk</description><Point><coordinates>18.458560,54.496781</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DORNIAK Krystyna Stefania BEZP</name><description>Żukowo PSL Słupsk</description><Point><coordinates>18.381366,54.371589</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUPCEWICZ Janusz Bogdan PSL</name><description>Gdynia (ab) PSL Słupsk</description><Point><coordinates>18.475448,54.513599</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MĘCZYKOWSKI Dariusz Franciszek BEZP</name><description>Nowa Karczma PSL Słupsk</description><Point><coordinates>18.210159,54.133609</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZEMLA Mirosław Stanisław PSL</name><description>Bielsko-Biała PSL Bielsko-Biała</description><Point><coordinates>19.045964,49.819250</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ORMANIEC Marian Albin PSL</name><description>Gilowice PSL Bielsko-Biała</description><Point><coordinates>19.298739,49.715577</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KIEREŚ Małgorzata BEZP</name><description>Istebna PSL Bielsko-Biała</description><Point><coordinates>18.907501,49.563543</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OGIEGŁO Alicja BEZP</name><description>Czechowice-Dziedzice PSL Bielsko-Biała</description><Point><coordinates>18.958905,49.898909</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAJOR Przemysław BEZP</name><description>Chybie PSL Bielsko-Biała</description><Point><coordinates>18.829883,49.892719</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZENDERA Waldemar Michał PSL</name><description>Suszec PSL Bielsko-Biała</description><Point><coordinates>18.822908,50.018300</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JARCO Dawid Sylwester BEZP</name><description>Radziechowy-Wieprz PSL Bielsko-Biała</description><Point><coordinates>19.138234,49.622441</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WÓJCIK Ryszard Tadeusz PSL</name><description>Bielsko-Biała PSL Bielsko-Biała</description><Point><coordinates>19.048534,49.798906</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WENGLORZ Halina Stefania PSL</name><description>Zebrzydowice PSL Bielsko-Biała</description><Point><coordinates>18.616599,49.862858</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻYŁA Tadeusz PSL</name><description>Pszczyna PSL Bielsko-Biała</description><Point><coordinates>18.903391,49.996865</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUĆKA Edward Stanisław PSL</name><description>Kozy PSL Bielsko-Biała</description><Point><coordinates>19.141093,49.829261</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZCZEPAŃCZYK-CHROBAK Magdalena Ewa BEZP</name><description>Bielsko-Biała PSL Bielsko-Biała</description><Point><coordinates>19.034007,49.806854</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOSNOWSKA Justyna Barbara członek partii politycznej: Ślonzoki Razem</name><description>Zabrze PSL Bielsko-Biała</description><Point><coordinates>18.796345,50.326313</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRZOSKA-KRAWCZYK Brygida Urszula członek partii politycznej: Ślonzoki Razem</name><description>Zabrze PSL Bielsko-Biała</description><Point><coordinates>18.786002,50.312464</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRZYB Andrzej Bernard PSL</name><description>Bielsko-Biała PSL Bielsko-Biała</description><Point><coordinates>19.040814,49.810211</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAWĘDA Grzegorz Ryszard PSL</name><description>Bestwina PSL Bielsko-Biała</description><Point><coordinates>19.059841,49.911030</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BUTOR Lucyna PSL</name><description>Świnna PSL Bielsko-Biała</description><Point><coordinates>19.286882,49.664191</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOŻUSZNIK Danuta Maria PSL</name><description>Cieszyn PSL Bielsko-Biała</description><Point><coordinates>18.656986,49.755849</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KIEPURA Henryk PSL</name><description>Wręczyca Wielka PSL Częstochowa</description><Point><coordinates>18.895839,50.831701</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SMELA Krzysztof PSL</name><description>Mykanów PSL Częstochowa</description><Point><coordinates>19.178341,50.934103</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GMITRUK Stanisław PSL</name><description>Częstochowa PSL Częstochowa</description><Point><coordinates>19.118570,50.794101</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DOBRZYNIEWICZ Bartłomiej Przemysław BEZP</name><description>Częstochowa PSL Częstochowa</description><Point><coordinates>19.125394,50.822197</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUBAT Andrzej PSL</name><description>Starcza PSL Częstochowa</description><Point><coordinates>19.049845,50.660033</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOCHA-KORENDO Anna Marta PSL</name><description>Poraj PSL Częstochowa</description><Point><coordinates>19.235876,50.650194</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRUS Anna Barbara BEZP</name><description>Lubliniec PSL Częstochowa</description><Point><coordinates>18.708781,50.642416</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUMOR Monika Aleksandra BEZP</name><description>Koziegłowy PSL Częstochowa</description><Point><coordinates>19.185246,50.581714</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MŁYŃSKA Edyta Jolanta BEZP</name><description>Koniecpol PSL Częstochowa</description><Point><coordinates>19.706835,50.790180</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOTYNIA Krystian PSL</name><description>Krzepice PSL Częstochowa</description><Point><coordinates>18.699984,50.967192</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CYRULIK Jerzy Józef BEZP</name><description>Herby PSL Częstochowa</description><Point><coordinates>18.833232,50.736612</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LISEK Iwona Izabela BEZP</name><description>Starcza PSL Częstochowa</description><Point><coordinates>19.052112,50.665907</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWICKA Anna BEZP</name><description>Kłobuck PSL Częstochowa</description><Point><coordinates>18.982921,50.907077</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DZWONNIK Michał Olaf BEZP</name><description>Rędziny PSL Częstochowa</description><Point><coordinates>19.225584,50.879925</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PILOT Andrzej Antoni PSL</name><description>Tarnowskie Góry PSL Katowice</description><Point><coordinates>18.834798,50.464711</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARWOT Anna Zofia BEZP</name><description>Gierałtowice PSL Katowice</description><Point><coordinates>18.746721,50.230935</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOCUJ Wojciech Antoni BEZP</name><description>Tworóg PSL Katowice</description><Point><coordinates>18.729521,50.527954</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚWITAŁA Mirosława Janina BEZP</name><description>Bytom PSL Katowice</description><Point><coordinates>18.874112,50.368043</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WILK Zygmunt PSL</name><description>Bytom PSL Katowice</description><Point><coordinates>18.882682,50.358589</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARAN Andrzej Henryk członek partii politycznej: Unia Europejskich Demokratów</name><description>Łaziska Górne PSL Katowice</description><Point><coordinates>18.850500,50.147009</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JARZYŃSKA Agnieszka Małgorzata BEZP</name><description>Gliwice PSL Katowice</description><Point><coordinates>18.648828,50.302892</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STEFAŃSKA Agnieszka BEZP</name><description>Radzionków PSL Katowice</description><Point><coordinates>18.904180,50.401215</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SITARSKI Łukasz Marek PSL</name><description>Pilchowice PSL Katowice</description><Point><coordinates>18.563286,50.216331</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POCHEĆ Krystyna Bożena członek partii politycznej: Ślonzoki Razem</name><description>Zabrze PSL Katowice</description><Point><coordinates>18.793291,50.312931</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIŁAT-GRUSZKA Agnieszka Maria BEZP</name><description>Bytom PSL Katowice</description><Point><coordinates>18.871479,50.369005</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SALMERI Claudio BEZP</name><description>Zabrze PSL Katowice</description><Point><coordinates>18.791003,50.324505</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MATUSZEK Krzysztof Kazimierz BEZP</name><description>Zabrze PSL Katowice</description><Point><coordinates>18.793442,50.306577</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZAPIÓR Małgorzata BEZP</name><description>Katowice (a) PSL Katowice</description><Point><coordinates>18.998177,50.205977</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRUCZEK Józef członek partii politycznej: Unia Europejskich Demokratów</name><description>Gliwice PSL Katowice</description><Point><coordinates>18.642233,50.286415</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JASIURA Dawid Rafał BEZP</name><description>Zabrze PSL Katowice</description><Point><coordinates>18.795915,50.320767</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JONIEC Krzysztof Marek członek partii politycznej: Ślonzoki Razem</name><description>Zabrze PSL Katowice</description><Point><coordinates>18.804121,50.311730</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRUPA Joanna Grażyna członek partii politycznej: Ślonzoki Razem</name><description>Zabrze PSL Katowice</description><Point><coordinates>18.799421,50.314091</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PILISZEK Grzegorz Kazimierz BEZP</name><description>Żory PSL Bielsko-Biała</description><Point><coordinates>18.693506,50.044725</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HULIM Wiesława Joanna BEZP</name><description>Rybnik PSL Bielsko-Biała</description><Point><coordinates>18.543000,50.121451</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MYŚLIWIEC Bogdan Czesław BEZP</name><description>Gorzyce PSL Bielsko-Biała</description><Point><coordinates>18.381121,49.966535</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MACHNIK Sylwia PSL</name><description>Kuźnia Raciborska PSL Bielsko-Biała</description><Point><coordinates>18.371605,50.204619</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SMYCZEK Adam Sebastian BEZP</name><description>Krzyżanowice PSL Bielsko-Biała</description><Point><coordinates>18.261430,49.984612</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BORTLIK Grażyna Gabriela BEZP</name><description>Orzesze PSL Bielsko-Biała</description><Point><coordinates>18.791049,50.107644</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POSTAWKA Henryk Sławomir BEZP</name><description>Nędza PSL Bielsko-Biała</description><Point><coordinates>18.319263,50.153105</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZYMURA Jacek Arkadiusz BEZP</name><description>Rybnik PSL Bielsko-Biała</description><Point><coordinates>18.557589,50.117599</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RYCHŁY Piotr Sylwester BEZP</name><description>Czerwionka-Leszczyny PSL Bielsko-Biała</description><Point><coordinates>18.648718,50.135574</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ADAMCZYK Kazimierz Stanisław BEZP</name><description>Ornontowice PSL Bielsko-Biała</description><Point><coordinates>18.753334,50.181008</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>OLEKSIŃSKI Artur Rafał BEZP</name><description>Żory PSL Bielsko-Biała</description><Point><coordinates>18.692065,50.033981</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WALISZEWSKA Maria Teresa BEZP</name><description>Rybnik PSL Bielsko-Biała</description><Point><coordinates>18.548559,50.108800</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>POJDA Aleksander Jakub BEZP</name><description>Rybnik PSL Bielsko-Biała</description><Point><coordinates>18.560881,50.108823</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RDUCH Stanisław Alojzy BEZP</name><description>Marklowice PSL Bielsko-Biała</description><Point><coordinates>18.528917,50.016767</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NYCZKA Barbara Aleksandra BEZP</name><description>Mikołów PSL Bielsko-Biała</description><Point><coordinates>18.855275,50.192828</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KULAWIK Elżbieta Maria BEZP</name><description>Wodzisław Śląski PSL Bielsko-Biała</description><Point><coordinates>18.435002,50.002338</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DĄBROWSKA Janina BEZP</name><description>Rybnik PSL Bielsko-Biała</description><Point><coordinates>18.560402,50.113617</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARASEK Bronisław PSL</name><description>Godów PSL Bielsko-Biała</description><Point><coordinates>18.481979,49.936555</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JELONEK Aleksandra Elżbieta członek partii politycznej: Ślonzoki Razem</name><description>Chorzów PSL Katowice</description><Point><coordinates>18.965299,50.295971</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MILAS Jolanta Elżbieta BEZP</name><description>Katowice (a) PSL Katowice</description><Point><coordinates>18.994718,50.214925</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PASTUSZKA Bernard Rudolf BEZP</name><description>Mysłowice PSL Katowice</description><Point><coordinates>19.157742,50.208844</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KROWIAK Andrzej członek partii politycznej: Unia Europejskich Demokratów</name><description>Tychy PSL Katowice</description><Point><coordinates>19.007808,50.118589</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRZYSIŃSKI Kamil Krzysztof członek partii politycznej: Ślonzoki Razem</name><description>Chorzów PSL Katowice</description><Point><coordinates>18.961926,50.280618</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SUCHANEK Piotr Walenty StronnictwoDemokratyczne</name><description>Katowice (a) PSL Katowice</description><Point><coordinates>19.004791,50.197026</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOJKA Andrzej Antoni członek partii politycznej: Ślonzoki Razem</name><description>Katowice (a) PSL Katowice</description><Point><coordinates>19.025857,50.212861</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MERCIK Jerzy Alojzy członek partii politycznej: Ślonzoki Razem</name><description>Ruda Śląska PSL Katowice</description><Point><coordinates>18.869370,50.278297</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NYCZ Henryk Ryszard PSL</name><description>Bojszowy PSL Katowice</description><Point><coordinates>19.097928,50.055207</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAMKA Mateusz Grzegorz BEZP</name><description>Ruda Śląska PSL Katowice</description><Point><coordinates>18.877751,50.259496</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HANDERMANDER-LEWICKA Małgorzata Anna członek partii politycznej: Ślonzoki Razem</name><description>Katowice (a) PSL Katowice</description><Point><coordinates>19.018762,50.230502</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SYNOWIEC Ireneusz Stanisław członek partii politycznej: Ślonzoki Razem</name><description>Katowice (a) PSL Katowice</description><Point><coordinates>18.990556,50.208531</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RYCHTER-BOGACKA Gabriela Alina członek partii politycznej: Ślonzoki Razem</name><description>Chorzów PSL Katowice</description><Point><coordinates>18.973383,50.281684</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOLANKO Dionizy Piotr członek partii politycznej: Ślonzoki Razem</name><description>Gliwice PSL Katowice</description><Point><coordinates>18.653881,50.298443</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STALMACH Jadwiga Sabina BEZP</name><description>Dąbrowa Górnicza PSL Katowice</description><Point><coordinates>19.316151,50.359357</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TRAJGIEL Ewelina Maria BEZP</name><description>Chorzów PSL Katowice</description><Point><coordinates>18.954897,50.293435</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PŁONKA Justyna Julia BEZP</name><description>Świerklaniec PSL Katowice</description><Point><coordinates>18.937020,50.445264</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PALEJ Krystyna Anna PSL</name><description>Siemianowice Śląskie PSL Katowice</description><Point><coordinates>19.015473,50.310533</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>REDEŁKIEWICZ Janusz PSL</name><description>Ruda Śląska PSL Katowice</description><Point><coordinates>18.878430,50.279352</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHODUN Jadwiga Halina BEZP</name><description>Ruda Śląska PSL Katowice</description><Point><coordinates>18.871994,50.278368</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MACIĄG Dariusz Józef PSL</name><description>Ruda Śląska PSL Katowice</description><Point><coordinates>18.873213,50.259918</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁAKOTA Aneta PSL</name><description>Chorzów PSL Katowice</description><Point><coordinates>18.974412,50.291603</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GLEBA Piotr BEZP</name><description>Zabrze PSL Katowice</description><Point><coordinates>18.810406,50.311399</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MATUSIEWICZ Jacek Bogdan członek partii politycznej: Ślonzoki Razem</name><description>Katowice (a) PSL Katowice</description><Point><coordinates>19.003927,50.197933</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHROBAK Barbara Stanisława BEZP</name><description>Sosnowiec PSL Katowice</description><Point><coordinates>19.187645,50.263694</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARKOWSKI Krzysztof BEZP</name><description>Dąbrowa Górnicza PSL Katowice</description><Point><coordinates>19.317666,50.379815</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CIOŁCZYK Janusz Kazimierz PSL</name><description>Jaworzno PSL Katowice</description><Point><coordinates>19.307543,50.182532</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PEROŃ Krzysztof Edward BEZP</name><description>Zawiercie PSL Katowice</description><Point><coordinates>19.467427,50.507399</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BOSAK Jan BEZP</name><description>Sosnowiec PSL Katowice</description><Point><coordinates>19.186227,50.273803</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SPORYSZKIEWICZ Anna Jadwiga członek partii politycznej: Unia Europejskich Demokratów</name><description>Sosnowiec PSL Katowice</description><Point><coordinates>19.187083,50.272136</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DUDA Andrzej Marek BEZP</name><description>Wojkowice PSL Katowice</description><Point><coordinates>19.031735,50.362814</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DRATWA Paweł BEZP</name><description>Zawiercie PSL Katowice</description><Point><coordinates>19.466101,50.504737</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BORÓWKA Stanisław Antoni BEZP</name><description>Poręba PSL Katowice</description><Point><coordinates>19.331234,50.490363</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GÓRALCZYK Marcin Grzegorz BEZP</name><description>Sosnowiec PSL Katowice</description><Point><coordinates>19.186617,50.269345</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAŁUŻA Anna Grażyna PSL</name><description>Jaworzno PSL Katowice</description><Point><coordinates>19.310243,50.192612</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PARADZIŃSKA Ewa Bogusława BEZP</name><description>Dąbrowa Górnicza PSL Katowice</description><Point><coordinates>19.320859,50.374727</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JANIK Ewa Barbara PSL</name><description>Sosnowiec PSL Katowice</description><Point><coordinates>19.189590,50.282191</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DOBROWOLSKI Cezary Adam BEZP</name><description>Czeladź PSL Katowice</description><Point><coordinates>19.083062,50.320125</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BEBEŃCA Agata Elżbieta BEZP</name><description>Wojkowice PSL Katowice</description><Point><coordinates>19.030115,50.362243</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LABOCHA Eliza Maria BEZP</name><description>Włodowice PSL Katowice</description><Point><coordinates>19.465334,50.565650</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KMITA Tomasz Adam BEZP</name><description>Będzin PSL Katowice</description><Point><coordinates>19.118246,50.342153</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DĄBROWA Stanisław PSL</name><description>Pilica PSL Katowice</description><Point><coordinates>19.692719,50.482773</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIEKIERSKI Czesław Adam PSL</name><description>Mst Warszawa (a) PSL Kielce</description><Point><coordinates>21.081501,52.234397</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>APEL Piotr Daniel BEZP</name><description>Mst Warszawa (a) PSL Kielce</description><Point><coordinates>21.021419,52.249821</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOTOWSKI Kazimierz Jerzy PSL</name><description>Opatów PSL Kielce</description><Point><coordinates>21.416118,50.794647</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SWAJDA Andrzej BEZP</name><description>Łoniów PSL Kielce</description><Point><coordinates>21.517713,50.568517</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GAŁUSZKA Grzegorz Andrzej PSL</name><description>Kielce (a) PSL Kielce</description><Point><coordinates>20.608130,50.850343</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TYJAS Jolanta Dorota BEZP</name><description>Włoszczowa PSL Kielce</description><Point><coordinates>19.937477,50.826202</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WAWRZYŁA Leszek Jarosław PSL</name><description>Słupia PSL Kielce</description><Point><coordinates>19.930931,50.588720</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BARAŃSKA Stanisława Danuta BEZP</name><description>Ostrowiec Świętokrzyski PSL Kielce</description><Point><coordinates>21.396614,50.947209</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚWIERCZYŃSKI Łukasz PSL</name><description>Stąporków PSL Kielce</description><Point><coordinates>20.588067,51.145892</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BIEŃ Ewelina Janina PSL</name><description>Iwaniska PSL Kielce</description><Point><coordinates>21.274186,50.723130</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FUCIA Mirosław Stanisław PSL</name><description>Skalbmierz PSL Kielce</description><Point><coordinates>20.386317,50.308568</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BĘTKOWSKA Sylwia Joanna PSL</name><description>Miedziana Góra PSL Kielce</description><Point><coordinates>20.554438,50.952907</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARWICKI Krzysztof Sebastian PSL</name><description>Kielce (a) PSL Kielce</description><Point><coordinates>20.610360,50.836548</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZULC Aleksandra Aniela BEZP</name><description>Kielce (a) PSL Kielce</description><Point><coordinates>20.619535,50.840531</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWACZKIEWICZ Sebastian Stanisław PSL</name><description>Sitkówka-Nowiny PSL Kielce</description><Point><coordinates>20.524955,50.817851</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MICHNOWSKA-MAŁEK Katarzyna Magdalena PSL</name><description>Skarżysko-Kamienna PSL Kielce</description><Point><coordinates>20.877569,51.124642</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GOLIK Anna Zofia PSL</name><description>Pińczów PSL Kielce</description><Point><coordinates>20.540779,50.481400</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GABRYŚ Anna PSL</name><description>Sobków PSL Kielce</description><Point><coordinates>20.440397,50.708395</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KARLIŃSKI Mateusz Mikołaj PSL</name><description>Piekoszów PSL Kielce</description><Point><coordinates>20.423510,50.873480</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻOŁĄDEK Piotr Bogusław PSL</name><description>Morawica PSL Kielce</description><Point><coordinates>20.608574,50.744042</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻYŁA Jerzy Zbigniew PSL</name><description>Sandomierz PSL Kielce</description><Point><coordinates>21.746082,50.683341</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GARBUZIK Paweł PSL</name><description>Kielce (a) PSL Kielce</description><Point><coordinates>20.627521,50.845027</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻEBROWSKI Adam PSL</name><description>Górno PSL Kielce</description><Point><coordinates>20.800936,50.865410</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZDONEK Krystyna Grażyna PSL</name><description>Ćmielów PSL Kielce</description><Point><coordinates>21.535647,50.909569</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SKOTNICKI Michał Tomasz PSL</name><description>Szydłów PSL Kielce</description><Point><coordinates>20.988465,50.606910</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRZESZCZ Joanna Halina PSL</name><description>Działoszyce PSL Kielce</description><Point><coordinates>20.366479,50.400342</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRUK Zofia Teresa BEZP</name><description>Morawica PSL Kielce</description><Point><coordinates>20.609478,50.739574</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BODO Robert PSL</name><description>Skarżysko-Kamienna PSL Kielce</description><Point><coordinates>20.878733,51.127865</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MYSZKA Jan Jerzy PSL</name><description>Mirzec PSL Kielce</description><Point><coordinates>21.053680,51.144358</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAWLIK Danuta Aniela BEZP</name><description>Starachowice PSL Kielce</description><Point><coordinates>21.068453,51.031168</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KLIŚ Karol Paweł PSL</name><description>Nowy Korczyn PSL Kielce</description><Point><coordinates>20.830635,50.336086</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JARUBAS Krystian Stefan PSL</name><description>Nowy Korczyn PSL Kielce</description><Point><coordinates>20.828487,50.335642</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIEJEWSKI Zbigniew PSL</name><description>Biskupiec PSL Elbląg</description><Point><coordinates>19.342385,53.472361</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻUCHOWSKI Piotr PSL</name><description>Iława PSL Elbląg</description><Point><coordinates>19.583842,53.636251</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FREJNIK Dariusz BEZP</name><description>Działdowo PSL Elbląg</description><Point><coordinates>20.149772,53.288349</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIETRULEWICZ Edward Mieczysław BEZP</name><description>Elbląg (b) PSL Elbląg</description><Point><coordinates>19.446716,54.200624</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZAKIEWICZ Paweł PSL</name><description>Braniewo (c) PSL Elbląg</description><Point><coordinates>19.877245,54.373385</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SOWICKA Małgorzata Dorota BEZP</name><description>Elbląg (b) PSL Elbląg</description><Point><coordinates>19.432476,54.206762</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARCHALEWSKA Monika Barbara BEZP</name><description>Morąg PSL Elbląg</description><Point><coordinates>19.956676,53.916062</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HUSZCZA Robert Jan PSL</name><description>Bartoszyce (c) PSL Elbląg</description><Point><coordinates>20.802709,54.243238</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRANACKA Katarzyna PSL</name><description>Lubawa PSL Elbląg</description><Point><coordinates>19.774547,53.523873</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIŚNIEWSKI Andrzej Janusz PSL</name><description>Lidzbark PSL Elbląg</description><Point><coordinates>19.839184,53.245430</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SŁOMCZYŃSKA-KĄDZIOŁKA Anetta Krystyna BEZP</name><description>Pieniężno PSL Elbląg</description><Point><coordinates>20.195547,54.253522</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JASKÓLSKA Wioletta BEZP</name><description>Mst Warszawa (a) PSL Elbląg</description><Point><coordinates>21.007337,52.225898</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻYLIŃSKI Adam Jacek BEZP</name><description>Iława PSL Elbląg</description><Point><coordinates>19.562809,53.598990</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NISIEWICZ Ewa BEZP</name><description>Młynary PSL Elbląg</description><Point><coordinates>19.692645,54.199880</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GROBLEWSKI Krzysztof BEZP</name><description>Płośnica PSL Elbląg</description><Point><coordinates>20.013218,53.239104</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻELICHOWSKI Stanisław PSL</name><description>Iłowo-Osada PSL Elbląg</description><Point><coordinates>20.304350,53.186885</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PASŁAWSKA Urszula Stefania PSL</name><description>Biskupiec PSL Olsztyn</description><Point><coordinates>20.970132,53.861465</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FALKOWSKI Henryk Tadeusz BEZP</name><description>Olsztyn PSL Olsztyn</description><Point><coordinates>20.455779,53.780089</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HEĆMAN Krzysztof Wiesław PSL</name><description>Kętrzyn PSL Olsztyn</description><Point><coordinates>21.374626,54.083260</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRÓL Radosław PSL</name><description>Wydminy PSL Olsztyn</description><Point><coordinates>22.041953,53.968489</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JASKULSKA Sylwia Monika PSL</name><description>Dźwierzuty PSL Olsztyn</description><Point><coordinates>21.006405,53.708306</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIWOWARCZYK Marcin Marian PSL</name><description>Mrągowo PSL Olsztyn</description><Point><coordinates>21.292986,53.872141</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KURZĄTKOWSKI Andrzej PSL</name><description>Biała Piska PSL Olsztyn</description><Point><coordinates>22.103203,53.625240</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LICZNERSKA Grażyna Zyta BEZP</name><description>Stawiguda PSL Olsztyn</description><Point><coordinates>20.431228,53.655662</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STEGIENKO Mirosław Wojciech BEZP</name><description>Olsztynek PSL Olsztyn</description><Point><coordinates>20.350816,53.571741</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>URBANOWICZ Emilia BEZP</name><description>Olecko PSL Olsztyn</description><Point><coordinates>22.476126,54.023122</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>EIDTNER Alicja BEZP</name><description>Kozłowo PSL Olsztyn</description><Point><coordinates>20.308214,53.347159</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZAŁKO Agnieszka BEZP</name><description>Węgorzewo PSL Olsztyn</description><Point><coordinates>21.700319,54.202638</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ANDRZEJEWSKI Jarosław Arkadiusz BEZP</name><description>Ełk PSL Olsztyn</description><Point><coordinates>22.363877,53.823312</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIEROŃSKI Mateusz Andrzej PSL</name><description>Giżycko PSL Olsztyn</description><Point><coordinates>21.757439,54.026794</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KROPIWNICKA Iwona PSL</name><description>Sorkwity PSL Olsztyn</description><Point><coordinates>21.149773,53.838179</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FRANCZUK Jarosław BEZP</name><description>Ełk PSL Olsztyn</description><Point><coordinates>22.359651,53.820126</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAMROGA Józef Maksymilian PSL</name><description>Pisz PSL Olsztyn</description><Point><coordinates>21.709259,53.630575</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HARAŃ Beata Ewa BEZP</name><description>Dobre Miasto PSL Olsztyn</description><Point><coordinates>20.428127,54.001699</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAJEWSKI Jaromir Andrzej BEZP</name><description>Dubeninki PSL Olsztyn</description><Point><coordinates>22.619419,54.298669</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŚLĄSKA-ZYŚK Wioletta PSL</name><description>Olsztyn PSL Olsztyn</description><Point><coordinates>20.462868,53.784386</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRZYB Andrzej Marian PSL</name><description>Ostrzeszów PSL Kalisz</description><Point><coordinates>17.885500,51.421798</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WALKOWSKI Piotr PSL</name><description>Ostrów Wielkopolski PSL Kalisz</description><Point><coordinates>17.739743,51.691203</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOBUS Bartosz Marek BEZP</name><description>Krzywiń PSL Kalisz</description><Point><coordinates>16.865171,51.991120</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GÓRALCZYK Agnieszka Magdalena PSL</name><description>Gołuchów PSL Kalisz</description><Point><coordinates>17.934521,51.835258</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARSZAŁEK Franciszek PSL</name><description>Krotoszyn PSL Kalisz</description><Point><coordinates>17.519665,51.709766</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAŁYCHA Wiesława BEZP</name><description>Święciechowa PSL Kalisz</description><Point><coordinates>16.490007,51.840814</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRZESIEK Jan PSL</name><description>Jarocin PSL Kalisz</description><Point><coordinates>17.502764,51.966548</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MARTYN Grzegorz Piotr PSL</name><description>Bojanowo PSL Kalisz</description><Point><coordinates>16.764355,51.690263</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BANAŚ Małgorzata BEZP</name><description>Godziesze Wielkie PSL Kalisz</description><Point><coordinates>18.164204,51.658063</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIERZCHLEWICZ Piotr BEZP</name><description>Krobia PSL Kalisz</description><Point><coordinates>16.986010,51.767697</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KONOPKA Jacek PSL</name><description>Kalisz PSL Kalisz</description><Point><coordinates>18.083935,51.753382</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PERSKI Janusz Aleksander PSL</name><description>Leszno PSL Kalisz</description><Point><coordinates>16.567292,51.842073</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUCHARSKA Beata BEZP</name><description>Szczytniki PSL Kalisz</description><Point><coordinates>18.328310,51.681051</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIEKARSKA-NOWAK Karolina Justyna PSL</name><description>Kalisz PSL Kalisz</description><Point><coordinates>18.067678,51.752246</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RYBACKA Agnieszka BEZP</name><description>Żerków PSL Kalisz</description><Point><coordinates>17.596739,52.064830</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MOTYLEWSKI Alojzy Ignacy BEZP</name><description>Ostrów Wielkopolski PSL Kalisz</description><Point><coordinates>17.802962,51.649430</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAKOWIAK Małgorzata BEZP</name><description>Osieczna PSL Kalisz</description><Point><coordinates>16.725895,51.899511</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOŻAŃSKA Kinga BEZP</name><description>Ostrów Wielkopolski PSL Kalisz</description><Point><coordinates>17.807137,51.650940</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WYSOTA Bożena Mariola PSL</name><description>Czajków PSL Kalisz</description><Point><coordinates>18.299144,51.482855</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KINAL Dorota Katarzyna PSL</name><description>Kościan PSL Kalisz</description><Point><coordinates>16.650953,52.082490</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WASIELEWSKI Maciej Paweł PSL</name><description>Dobrzyca PSL Kalisz</description><Point><coordinates>17.625205,51.849107</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOBUS-MARCZAK Joanna Jolanta PSL</name><description>Krotoszyn PSL Kalisz</description><Point><coordinates>17.517587,51.718965</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUBIAK Andrzej PSL</name><description>Borek Wielkopolski PSL Kalisz</description><Point><coordinates>17.225972,51.909364</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GRABOWSKI Krzysztof Andrzej PSL</name><description>Ceków-Kolonia PSL Kalisz</description><Point><coordinates>18.308264,51.863994</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TOMCZAK Jacek Jerzy BEZP</name><description>Poznań (a) PSL Konin</description><Point><coordinates>16.884887,52.418343</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAJDA Anna BEZP</name><description>Kawęczyn PSL Konin</description><Point><coordinates>18.504420,51.898975</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KAŹMIERCZAK Mirosława Katarzyna PSL</name><description>Środa Wielkopolska PSL Konin</description><Point><coordinates>17.288804,52.245381</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOCAJ Władysław PSL</name><description>Ślesin PSL Konin</description><Point><coordinates>18.335606,52.362755</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TOMICKI Marek Stanisław PSL</name><description>Babiak PSL Konin</description><Point><coordinates>18.712917,52.345456</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁYKOWSKI Piotr PSL</name><description>Gniezno PSL Konin</description><Point><coordinates>17.628708,52.565163</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STĘPA Teodor PSL</name><description>Książ Wielkopolski PSL Konin</description><Point><coordinates>17.205338,52.043237</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WESOŁOWSKI Marek Kazimierz BEZP</name><description>Kleczew PSL Konin</description><Point><coordinates>18.138086,52.403719</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PYRZYK Michał PSL</name><description>Słupca PSL Konin</description><Point><coordinates>17.865540,52.290581</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GUZIK Paweł Jerzy PSL</name><description>Września PSL Konin</description><Point><coordinates>17.603192,52.326935</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZIELIŃSKA Barbara PSL</name><description>Brudzew PSL Konin</description><Point><coordinates>18.607862,52.088158</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>STAJKOWSKA Izabela BEZP</name><description>Kłecko PSL Konin</description><Point><coordinates>17.421755,52.614383</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>REMISZ Urszula Barbara PSL</name><description>Września PSL Konin</description><Point><coordinates>17.609446,52.335728</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CZAJKOWSKI Krzysztof Grzegorz PSL</name><description>Kazimierz Biskupi PSL Konin</description><Point><coordinates>18.137280,52.306927</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FRANKOWSKA Bożena Alina PSL</name><description>Konin PSL Konin</description><Point><coordinates>18.264945,52.261476</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MACIEJEWSKA Irena Elżbieta BEZP</name><description>Strzałkowo PSL Konin</description><Point><coordinates>17.787442,52.319707</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRZOSKI Bernard Marek PSL</name><description>Chodów PSL Konin</description><Point><coordinates>19.021167,52.254671</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BERLIK Jerzy Andrzej PSL</name><description>Gniezno PSL Konin</description><Point><coordinates>17.633207,52.564849</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PASZYK Krzysztof Michał PSL</name><description>Oborniki PSL Piła</description><Point><coordinates>16.778167,52.648876</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PARDA Błażej Łukasz BEZP</name><description>Piła PSL Piła</description><Point><coordinates>16.760308,53.127927</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TETERUS Tadeusz Krzysztof PSL</name><description>Trzcianka PSL Piła</description><Point><coordinates>16.475802,53.030680</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MACIEJEWSKI Jarosław Zygmunt PSL</name><description>Złotów PSL Piła</description><Point><coordinates>17.064976,53.375959</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRANC Tomasz Bronisław PSL</name><description>Damasławek PSL Piła</description><Point><coordinates>17.435439,52.846051</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PISZCZEK Marcin PSL</name><description>Wyrzysk PSL Piła</description><Point><coordinates>17.279026,53.149026</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LINKIEWICZ-MENDEL Agnieszka BEZP</name><description>Rakoniewice PSL Piła</description><Point><coordinates>16.232729,52.157708</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KWAŚNIEWICZ Józef Kazimierz PSL</name><description>Szamotuły PSL Piła</description><Point><coordinates>16.554472,52.591364</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KORPIK Anna PSL</name><description>Kwilcz PSL Piła</description><Point><coordinates>16.109610,52.539300</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HERMASZCZUK Julian Marian PSL</name><description>Szamocin PSL Piła</description><Point><coordinates>17.150426,53.042400</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LUBIŃSKA Jolanta Jadwiga BEZP</name><description>Piła PSL Piła</description><Point><coordinates>16.769865,53.133210</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BEJMA Małgorzata Anna BEZP</name><description>Mieścisko PSL Piła</description><Point><coordinates>17.328862,52.734710</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NAWROT Lucyna Hanna BEZP</name><description>Wieleń PSL Piła</description><Point><coordinates>16.245340,52.902188</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRÓL Sławomira Jadwiga BEZP</name><description>Białośliwie PSL Piła</description><Point><coordinates>17.140409,53.114729</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SZTYCH Daniel PSL</name><description>Złotów PSL Piła</description><Point><coordinates>17.064402,53.378424</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GALAS Maria Teresa PSL</name><description>Opalenica PSL Piła</description><Point><coordinates>16.394593,52.317601</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŁANOSZKA Radosław Paweł PSL</name><description>Duszniki PSL Piła</description><Point><coordinates>16.450727,52.448166</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GÓRNY Bartłomiej Wojciech BEZP</name><description>Przemęt PSL Piła</description><Point><coordinates>16.286186,52.007476</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JANKOWIAK Wojciech PSL</name><description>Dopiewo PSL Poznań</description><Point><coordinates>16.711701,52.355378</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ZYDORCZAK Włodzimierz Andrzej członek partii politycznej: Jeden-PL</name><description>Kościan PSL Poznań</description><Point><coordinates>16.649021,52.084754</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KRAKOWIAK Julia Maria PSL</name><description>Osieczna PSL Poznań</description><Point><coordinates>16.719297,51.906275</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KALEMBA Marcin Krzysztof PSL</name><description>Stęszew PSL Poznań</description><Point><coordinates>16.676407,52.257197</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BAUMGART Marek Piotr PSL</name><description>Swarzędz PSL Poznań</description><Point><coordinates>17.103800,52.432481</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRZEZIŃSKA Agnieszka Adriana PSL</name><description>Poznań (a) PSL Poznań</description><Point><coordinates>16.894798,52.387024</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BŁOCHOWIAK Arkadiusz Stanisław PSL</name><description>Poznań (a) PSL Poznań</description><Point><coordinates>16.886155,52.418463</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MANIKOWSKA-KRAWIEC Grażyna Maria PSL</name><description>Pobiedziska PSL Poznań</description><Point><coordinates>17.253586,52.481464</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAWAŁOWSKI Sylwester PSL</name><description>Poznań (a) PSL Poznań</description><Point><coordinates>16.910842,52.378049</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WOŚKOWIAK Wojciech Tadeusz BEZP</name><description>Poznań (a) PSL Poznań</description><Point><coordinates>16.912197,52.390617</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WICHER Aneta Iwona BEZP</name><description>Poznań (a) PSL Poznań</description><Point><coordinates>16.896580,52.379768</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>FRĄCKOWIAK Szymon PSL</name><description>Kostrzyn PSL Poznań</description><Point><coordinates>17.244783,52.382462</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KACZMAREK Urszula Teresa PSL</name><description>Komorniki PSL Poznań</description><Point><coordinates>16.821610,52.328377</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAWŁOWSKA Miranda Beata BEZP</name><description>Swarzędz PSL Poznań</description><Point><coordinates>17.108715,52.429972</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KLIMEK Rafał PSL</name><description>Poznań (a) PSL Poznań</description><Point><coordinates>16.892864,52.407531</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TOMCZAK Michał Bartłomiej BEZP</name><description>Poznań (a) PSL Poznań</description><Point><coordinates>16.922372,52.391599</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WŁODARCZYK Martyna Maria BEZP</name><description>Poznań (a) PSL Poznań</description><Point><coordinates>16.883146,52.402531</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOSTANIAK Olga Sara PSL</name><description>Poznań (a) PSL Poznań</description><Point><coordinates>16.902249,52.383984</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BEER Marek Stanisław PSL</name><description>Poznań (a) PSL Poznań</description><Point><coordinates>16.894614,52.393643</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SIEMIŃSKI Paweł Czesław PSL</name><description>Tarnowo Podgórne PSL Poznań</description><Point><coordinates>16.676827,52.446629</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LUBCZYK Radosław BEZP</name><description>Szczecinek PSL Koszalin</description><Point><coordinates>16.688908,53.706765</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ROMECKI Stefan Józef BEZP</name><description>Koszalin PSL Koszalin</description><Point><coordinates>16.211591,54.210772</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GUMIŃSKA-WASIAK Elżbieta Henryka BEZP</name><description>Koszalin PSL Koszalin</description><Point><coordinates>16.213242,54.195213</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BANY Lech PSL</name><description>Rymań PSL Koszalin</description><Point><coordinates>15.531196,53.951986</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HARŁACZ Jerzy BEZP</name><description>Białogard PSL Koszalin</description><Point><coordinates>15.970768,54.011945</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BRODOWSKA Agnieszka Alicja BEZP</name><description>Świdwin PSL Koszalin</description><Point><coordinates>15.795409,53.776811</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUCZYŃSKI Stanisław PSL</name><description>Czaplinek PSL Koszalin</description><Point><coordinates>16.252336,53.557847</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PIASKOWSKA Aldona Teresa BEZP</name><description>Wałcz PSL Koszalin</description><Point><coordinates>16.463403,53.297390</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DRAPAŁA Adam PSL</name><description>Postomino PSL Koszalin</description><Point><coordinates>16.657245,54.491068</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WIŚNIEWSKI Roman BEZP</name><description>Wałcz PSL Koszalin</description><Point><coordinates>16.454006,53.274838</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>HALAMA Sylwia BEZP</name><description>Będzino PSL Koszalin</description><Point><coordinates>15.965044,54.197018</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SŁODKOWSKA Agata Anna PSL</name><description>Drawno PSL Koszalin</description><Point><coordinates>15.824780,53.212554</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>IWAT Piotr PSL</name><description>Koszalin PSL Koszalin</description><Point><coordinates>16.229125,54.211964</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SAMEK Halina BEZP</name><description>Kalisz Pomorski PSL Koszalin</description><Point><coordinates>15.830494,53.319339</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAJCZYNA Marcin PORP</name><description>Świdwin PSL Koszalin</description><Point><coordinates>15.798532,53.778177</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MIĆKO Ryszard Józef PSL</name><description>Pełczyce PSL Koszalin</description><Point><coordinates>15.330580,53.041223</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>RZEPA Jarosław Michał PSL</name><description>Szczecin (ab) PSL Szczecin</description><Point><coordinates>14.611397,53.420460</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>SŁOMSKI Piotr BEZP</name><description>Nowogard PSL Szczecin</description><Point><coordinates>15.134651,53.690796</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUSY-KŁOS Anna Katarzyna BEZP</name><description>Widuchowa PSL Szczecin</description><Point><coordinates>14.466108,53.131727</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KULINICZ Tomasz Teodor PSL</name><description>Nowogard PSL Szczecin</description><Point><coordinates>15.129781,53.690957</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>BODNAR Stanisława PSL</name><description>Stargard PSL Szczecin</description><Point><coordinates>15.008139,53.315882</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>MAREK Paweł PSL</name><description>Łobez PSL Szczecin</description><Point><coordinates>15.648036,53.657900</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>NOWAK Damiana PSL</name><description>Szczecin (ab) PSL Szczecin</description><Point><coordinates>14.642095,53.442333</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>WAWRZYNIAK Waldemar Marek PSL</name><description>Gryfice PSL Szczecin</description><Point><coordinates>15.166348,53.908290</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GIBAS Anna PSL</name><description>Dobrzany PSL Szczecin</description><Point><coordinates>15.463626,53.353198</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JANOWICZ Arkadiusz Zygmunt PSL</name><description>Myślibórz PSL Szczecin</description><Point><coordinates>14.867922,52.954610</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DEMKOWSKA Magdalena Joanna PSL</name><description>Świerzno PSL Szczecin</description><Point><coordinates>14.964791,53.965249</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>ŻUK Jarosław Tomasz PSL</name><description>Łobez PSL Szczecin</description><Point><coordinates>15.648581,53.658320</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHUDZIK Joanna BEZP</name><description>Myślibórz PSL Szczecin</description><Point><coordinates>14.874807,52.953662</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>DURKA Andrzej Zdzisław PSL</name><description>Szczecin (ab) PSL Szczecin</description><Point><coordinates>14.608775,53.425532</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KALINOWSKA Dorota Urszula PSL</name><description>Szczecin (ab) PSL Szczecin</description><Point><coordinates>14.632607,53.411492</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>PAJOR-KUBICKI Remigiusz BEZP</name><description>Pyrzyce PSL Szczecin</description><Point><coordinates>14.912362,53.151674</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>GLIŃSKA Anna Katarzyna BEZP</name><description>Mieszkowice PSL Szczecin</description><Point><coordinates>14.446360,52.769253</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>LIWAK Jacek PSL</name><description>Ińsko PSL Szczecin</description><Point><coordinates>15.573924,53.432521</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JAKUBOWICZ-DZIDUCH Justyna PSL</name><description>Szczecin (ab) PSL Szczecin</description><Point><coordinates>14.611707,53.429384</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>JASIEWICZ Eugeniusz PSL</name><description>Wolin PSL Szczecin</description><Point><coordinates>14.637336,53.883003</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KOREK Renata Teresa BEZP</name><description>Trzebiatów PSL Szczecin</description><Point><coordinates>15.295180,54.068154</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>TOSZEK Bartłomiej Henryk PSL</name><description>Szczecin (ab) PSL Szczecin</description><Point><coordinates>14.637951,53.422530</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>CHRAŁOWICZ Adam Wacław PSL</name><description>Stargard PSL Szczecin</description><Point><coordinates>15.011923,53.316118</coordinates></Point></Placemark>
+<Placemark><styleUrl>#PinX</styleUrl><name>KUSTOSZ Olgierd PSL</name><description>Przelewice PSL Szczecin</description><Point><coordinates>15.106884,53.110322</coordinates></Point></Placemark>
+</Document></kml>
