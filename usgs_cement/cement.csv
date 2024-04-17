@@ -1,3152 +1,3147 @@
-Country;year;value
-Afghanistane;2001;50
-Albaniae;2001;39
-Algeriae;2001;8300
-Angolae;2001;350
-Argentina;2001;5545
-Armenia;2001;300
-Australiae;2001;7500
-Austria;2001;3863
-Azerbaijan;2001;500
-Bahrain;2001;89
-Bangladesh4;2001;5005
-Barbados;2001;250
-Belarus;2001;1803
-Belgium;2001;7500
-Benine;2001;250
-Bhutane;2001;160
-Bolivia;2001;1100
-Bosnia and Herzegovinae;2001;300
-Brazil;2001;38927
-Brunei;2001;227
-Bulgaria;2001;2200
-Burkina Fasoe;2001;50
-Burma;2001;378
-Cambodiae;2001;50
-Cameroon;2001;930
-Canada;2001;12986
-Chile;2001;3500
-China;2001;661040
-Colombiae;2001;9800
-Congo (Brazzaville);2001;--
-Congo (Kinshasa);2001;192
-Costa Ricae;2001;1100
-Côte d'Ivoiree;2001;650
-Croatia;2001;3246
-Cuba;2001;1324
-Cyprus;2001;1369
-Czech Republic;2001;3550
-Denmark;2001;2010
-Dominican Republic;2001;2976
-Ecuador;2001;2850
-Egypt;2001;24500
-El Salvador;2001;1174
-Eritreae;2001;45
-Estonia;2001;405
-Ethiopia;2001;950
-Fijie;2001;95
-Finland;2001;1325
-France;2001;19839
-French Guiana;2001;58
-Gabon;2001;210
-Georgia;2001;300
-Germany;2001;30989
-Ghana;2001;1900
-Greece;2001;15000
-Guadeloupee;2001;230
-Guatemala;2001;1600
-Guinea;2001;300
-Haiti;2001;204
-Honduras;2001;1100
-Hong Kong;2001;1300
-Hungary;2001;3452
-Iceland;2001;125
-Indiae;2001;100000
-Indonesia;2001;31300
-Iran;2001;26650
-Iraqe;2001;2000
-Irelande;2001;2600
-Israel;2001;6900
-Italy;2001;39804
-Jamaica;2001;596
-Japan;2001;76550
-Jordan;2001;3173
-Kazakhstan;2001;2029
-Kenya;2001;1085
-Korea, Northe;2001;5160
-Korea, Republic of;2001;52046
-Kuwait;2001;1600
-Kyrgyzstan;2001;469
-Laose;2001;92
-Latvia;2001;W
-Lebanon;2001;2890
-Liberiae;2001;15
-Libyae;2001;3000
-Lithuania;2001;529
-Luxembourg;2001;750
-Macedonia;2001;450
-Madagascar;2001;52
-Malawi;2001;181
-Malaysia;2001;13820
-Malie;2001;--
-Martiniquee;2001;220
-Mauritaniae;2001;110
-Mexico;2001;29966
-Moldova;2001;200
-Mongolia;2001;68
-Morocco;2001;10000
-Mozambique;2001;265
-Namibiae;2001;--
-Nepale, 4;2001;285
-Netherlandse;2001;3450
-New Caledoniae;2001;93
-New Zealande;2001;950
-Nicaragua;2001;360
-Nigere;2001;40
-Nigeriae;2001;3000
-Norway;2001;1870
-Oman;2001;1370
-Pakistane;2001;9900
-Panama;2001;760
-Paraguay;2001;650
-Peru;2001;3950
-Philippines;2001;8653
-Poland;2001;11918
-Portugale;2001;10300
-Qatar;2001;1050
-Réunion;2001;400
-Romania;2001;5668
-Russia;2001;35300
-Rwanda;2001;83
-Saudi Arabia;2001;20608
-Senegale;2001;1000
-Serbia and Montenegro;2001;2418
-Sierra Leonee;2001;100
-Singapore;2001;600
-Slovakia;2001;3123
-Sloveniae;2001;1300
-South Africa, sales6;2001;8036
-Spain, including Canary Islands;2001;40512
-Sri Lanka;2001;1108
-Sudan;2001;190
-Surinamee;2001;65
-Sweden;2001;2600
-Switzerland;2001;3950
-Syriae;2001;4840
-Taiwan;2001;18128
-Tajikistan;2001;70
-Tanzania;2001;900
-Thailand;2001;27913
-Togoe;2001;800
-Trinidad and Tobago;2001;708
-Tunisia;2001;5721
-Turkmenistane;2001;450
-Turkey;2001;30125
-Uganda;2001;420
-Ukraine;2001;5800
-United Arab Emiratese;2001;6100
-United Kingdom;2001;11854
-United States, including Puerto Rico7;2001;90450
-Uruguay;2001;1015
-Uzbekistane;2001;4000
-Venezuelae;2001;8700
-Vietnam;2001;15374
-Yemene;2001;1400
-Zambiae;2001;350
-Zimbabwee;2001;800
-Total;2001;1730000
-Afghanistane;2002;60
-Albaniae;2002;50
-Algeriae;2002;9000
-Angola;2002;250
-Argentina;2002;3910
-Armenia;2002;400
-Australiae;2002;7550
-Austria;2002;3800
-Azerbaijan;2002;800
-Bahrain;2002;67
-Bangladesh3;2002;5000
-Barbados;2002;298
-Belarus;2002;2171
-Belgium;2002;8000
-Benine;2002;250
-Bhutane;2002;160
-Bolivia;2002;1010
-Bosnia and Herzegovinae;2002;300
-Brazil;2002;38027
-Brunei;2002;241
-Bulgaria;2002;2137
-Burkina Fasoe;2002;30
-Burma;2002;400
-Cambodiae;2002;--
-Cameroon;2002;950
-Canada;2002;13200
-Chile;2002;3522
-China;2002;725000
-Colombiae;2002;6604
-Congo (Brazzaville);2002;--
-Congo (Kinshasa);2002;190
-Costa Ricae;2002;1100
-Cote d'Ivoiree;2002;650
-Croatia;2002;3378
-Cuba;2002;1327
-Cyprus;2002;1600
-Czech Republic;2002;3500
-Denmark;2002;2010
-Dominican Republic;2002;3050
-Ecuador;2002;3000
-Egypt;2002;28000
-El Salvador;2002;1318
-Eritreae;2002;45
-Estonia;2002;466
-Ethiopia;2002;900
-Fijie;2002;95
-Finland;2002;1350
-France;2002;20000
-French Guianae;2002;62
-Gabon;2002;350
-Georgia;2002;347
-Germany;2002;30000
-Ghana;2002;1900
-Greece;2002;15500
-Guadeloupee;2002;230
-Guatemala;2002;1600
-Guinea;2002;360
-Haiti;2002;290
-Honduras;2002;1100
-Hong Kong;2002;1206
-Hungary;2002;3510
-Iceland;2002;130
-Indiae;2002;102000
-Indonesia;2002;34640
-Iran;2002;28600
-Iraqe;2002;6834
-Irelande;2002;2500
-Israele;2002;5150
-Italy;2002;40000
-Jamaica;2002;614
-Japan;2002;71828
-Jordan;2002;3558
-Kazakhstan;2002;2129
-Kenya;2002;1463
-Korea, Northe;2002;5320
-Korea, Republic of;2002;55514
-Kuwait;2002;1600
-Kyrgyzstan;2002;533
-Laose;2002;240
-Latvia;2002;W
-Lebanon;2002;2852
-Liberiae;2002;54
-Libyae;2002;3300
-Lithuania;2002;605
-Luxembourg;2002;750
-Macedonia;2002;450
-Madagascar;2002;33
-Malawi;2002;174
-Malaysia;2002;14336
-Martiniquee;2002;220
-Mauritaniae;2002;110
-Mexico;2002;31069
-Moldova;2002;300
-Mongolia;2002;148
-Morocco;2002;10200
-Mozambique;2002;285
-Namibiae;2002;--
-Nepale, 3;2002;290
-Netherlands;2002;3400
-New Caledonia;2002;100
-New Zealand;2002;1090
-Nicaragua;2002;513
-Nigere;2002;55
-Nigeriae;2002;2100
-Norway;2002;1850
-Oman;2002;1400
-Pakistane;2002;9900
-Panamae;2002;760
-Paraguay;2002;650
-Peru;2002;5654
-Philippines;2002;12614
-Poland;2002;11700
-Portugal;2002;10000
-Qatare;2002;1350
-Réunione;2002;380
-Romania;2002;5680
-Russia;2002;37700
-Rwanda;2002;101
-Saudi Arabia;2002;22000
-Senegale;2002;2150
-Serbia and Montenegro;2002;2396
-Sierra Leone;2002;144
-Singapore;2002;200
-Slovakia;2002;3100
-Sloveniae;2002;1250
-South Africa, sales6;2002;8525
-Spain, including Canary Islands;2002;42500
-Sri Lanka;2002;1018
-Sudan;2002;220
-Surinamee;2002;65
-Sweden;2002;2700
-Switzerland;2002;4000
-Syria;2002;5450
-Taiwan;2002;19363
-Tajikistan;2002;100
-Tanzania;2002;1026
-Thailand;2002;36842
-Togoe;2002;800
-Trinidad and Tobago;2002;744
-Tunisia;2002;6022
-Turkmenistane;2002;450
-Turkey;2002;32577
-Uganda;2002;502
-Ukraine;2002;7142
-United Arab Emiratese;2002;6500
-United Kingdom;2002;12000
-United States, including Puerto Rico7;2002;91266
-Uruguay;2002;1000
-Uzbekistane;2002;4000
-Venezuelae;2002;7000
-Vietnam;2002;19481
-Yemene;2002;1400
-Zambiae;2002;230
-Zimbabwee;2002;600
-Total;2002;1840000
-Afghanistane;2003;70
-Albania;2003;578
-Algeriae;2003;9000
-Angolae;2003;250
-Argentina;2003;5218
-Armenia;2003;384
-Australiae;2003;8000
-Austria;2003;3800
-Azerbaijan;2003;1013
-Bahrain;2003;70
-Bangladesh4;2003;5000
-Barbados;2003;330
-Belarus;2003;2472
-Belgiume;2003;8000
-Benine;2003;250
-Bhutane;2003;160
-Bolivia;2003;1138
-Bosnia and Herzegovina;2003;891
-Brazil;2003;34010
-Brunei;2003;235
-Bulgaria;2003;2100
-Burkina Fasoe;2003;30
-Burma;2003;572
-Cameroone;2003;930
-Canada;2003;13424
-Chile;2003;3622
-China;2003;862080
-Colombiae;2003;7300
-Congo (Brazzaville)e;2003;--
-Congo (Kinshasa);2003;331
-Costa Rica;2003;1320
-Côte d'Ivoiree;2003;650
-Croatia;2003;3654
-Cuba;2003;1700
-Cyprus;2003;1637
-Czech Republic;2003;3465
-Denmark;2003;2020
-Dominican Republic;2003;2907
-Ecuadore;2003;3100
-Egypt;2003;26639
-El Salvador;2003;1390
-Eritreae;2003;45
-Estonia;2003;506
-Ethiopia;2003;1200
-Fijie;2003;100
-Finland;2003;1360
-France;2003;19660
-French Guianae;2003;62
-Gabon;2003;350
-Georgia;2003;300
-Germany;2003;32349
-Ghanae;2003;1900
-Greece;2003;15300
-Guadeloupe;2003;230
-Guatemala;2003;1900
-Guinea;2003;360
-Haiti;2003;300
-Honduras;2003;1400
-Hong Kong;2003;1250
-Hungary;2003;3573
-Iceland;2003;135
-Indiae;2003;123000
-Indonesia;2003;35000
-Iran;2003;30000
-Iraqe;2003;1000
-Irelande;2003;2500
-Israel;2003;4632
-Italy;2003;38000
-Jamaica;2003;608
-Japan;2003;68766
-Jordan;2003;3515
-Kazakhstan;2003;2570
-Kenya;2003;1658
-Korea, Northe;2003;5540
-Korea, Republic of;2003;59194
-Kuwait;2003;1600
-Kyrgyzstan;2003;757
-Laose;2003;250
-Latvia;2003;295
-Lebanon;2003;2900
-Liberia;2003;30
-Libyae;2003;3500
-Lithuania;2003;597
-Luxembourge;2003;750
-Macedonia;2003;768
-Madagascar;2003;70
-Malawi;2003;190
-Malaysia;2003;17243
-Martinique;2003;225
-Mauritaniae;2003;200
-Mexico;2003;33593
-Moldova;2003;300
-Mongolia;2003;162
-Moroccoe;2003;10400
-Mozambique;2003;362
-Nepale, 4;2003;295
-Netherlandse;2003;3400
-New Caledonia;2003;100
-New Zealand;2003;1100
-Nicaragua;2003;590
-Nigere;2003;40
-Nigeriae;2003;2300
-Norway;2003;1860
-Oman;2003;2100
-Pakistane;2003;13000
-Panamae;2003;770
-Paraguay;2003;660
-Peru;2003;4000
-Philippines;2003;10000
-Poland;2003;11653
-Portugale;2003;10000
-Qatare;2003;1400
-Réunione;2003;380
-Romania;2003;5992
-Russia;2003;41000
-Rwanda;2003;105
-Saudi Arabia;2003;23000
-Senegal;2003;2150
-Serbia and Montenegro;2003;2075
-Sierra Leone;2003;170
-Singaporee;2003;150
-Slovakia;2003;3147
-Sloveniae;2003;1300
-South Africa, sales5;2003;8973
-Spain, including Canary Islands;2003;45000
-Sri Lanka;2003;1164
-Sudan;2003;272
-Surinamee;2003;65
-Sweden;2003;2650
-Switzerland;2003;3800
-Syria;2003;5250
-Taiwan;2003;18474
-Tajikistan;2003;120
-Tanzania;2003;1186
-Thailand;2003;32530
-Togoe;2003;800
-Trinidad and Tobago;2003;766
-Tunisia;2003;6038
-Turkmenistane;2003;450
-Turkey;2003;35077
-Uganda;2003;507
-Ukraine;2003;8900
-United Arab Emiratese;2003;8000
-United Kingdom;2003;11215
-United States, including Puerto Rico6;2003;94329
-Uruguaye;2003;1050
-Uzbekistane;2003;4000
-Venezuelae;2003;7700
-Vietnam;2003;23282
-Yemene;2003;1400
-Zambiae;2003;480
-Zimbabwee;2003;400
-Total;2003;2020000
-Afghanistane;2004;70
-Albania;2004;573
-Algeriae;2004;9000
-Angola;2004;754
-Argentina;2004;6254
-Armenia;2004;501
-Australiae;2004;8000
-Austria;2004;3976
-Azerbaijan;2004;1428
-Bahrain;2004;153
-Bangladeshe;2004;5000
-Barbados;2004;322
-Belarus;2004;2731
-Belgium;2004;6715
-Benine;2004;250
-Bhutane;2004;170
-Bolivia;2004;1276
-Bosnia and Herzegovina;2004;1045
-Brazil;2004;34413
-Brunei;2004;242
-Bulgariae;2004;2100
-Burkina Fasoe;2004;30
-Burma5;2004;519
-Cameroon;2004;1032
-Canada;2004;13863
-Chile;2004;3798
-China;2004;970000
-Colombia;2004;7822
-Congo (Kinshasa);2004;403
-Costa Ricae;2004;1900
-Côte d'Ivoiree;2004;650
-Croatia;2004;3811
-Cuba;2004;1366
-Cyprus;2004;1689
-Czech Republic;2004;3829
-Denmark;2004;2150
-Dominican Republic;2004;2636
-Ecuadore;2004;3100
-Egypt;2004;28763
-El Salvador;2004;1256
-Eritreae;2004;45
-Estonia;2004;615
-Ethiopia6;2004;1316
-Fijie;2004;100
-Finland;2004;1691
-France;2004;20962
-French Guianae;2004;60
-Gabone;2004;260
-Georgia;2004;425
-Germany;2004;31854
-Ghanae;2004;1900
-Greece;2004;15039
-Guadeloupe;2004;230
-Guatemalae;2004;1800
-Guineae;2004;360
-Haitie;2004;300
-Hondurase;2004;1800
-Hong Kong;2004;1039
-Hungary;2004;3349
-Iceland;2004;90
-Indiae;2004;130000
-Indonesia;2004;36000
-Iran;2004;32198
-Iraqe;2004;2500
-Ireland;2004;4000
-Israel;2004;4494
-Italy;2004;46045
-Jamaica;2004;808
-Japan;2004;67376
-Jordan;2004;3908
-Kazakhstan;2004;3662
-Kenya;2004;1789
-Korea, Northe;2004;5630
-Korea, Republic of;2004;54330
-Kuwait;2004;2635
-Kyrgyzstan;2004;800
-Laose;2004;250
-Latvia;2004;284
-Lebanon;2004;3100
-Liberia;2004;40
-Libyae;2004;3600
-Lithuania;2004;753
-Luxembourg;2004;797
-Macedonia;2004;820
-Madagascare;2004;130
-Malawi;2004;120
-Malaysia;2004;15690
-Martiniquee;2004;220
-Mauritaniae;2004;300
-Mexico;2004;34992
-Moldova;2004;440
-Mongolia;2004;62
-Moroccoe;2004;11000
-Mozambique;2004;370
-Nepale, 4;2004;285
-Netherlands;2004;2380
-New Caledonia;2004;100
-New Zealande;2004;1110
-Nicaragua;2004;600
-Nigere;2004;55
-Nigeriae;2004;2300
-Norway;2004;1420
-Omane;2004;2500
-Pakistane;2004;16000
-Panamae;2004;820
-Paraguaye;2004;650
-Peru;2004;4590
-Philippines;2004;13050
-Poland;2004;12566
-Portugal;2004;8843
-Qatare;2004;1400
-Réunione;2004;380
-Romania;2004;6239
-Russia;2004;45700
-Rwanda;2004;104
-Saudi Arabiae;2004;25400
-Senegal;2004;1700
-Serbia and Montenegro;2004;2240
-Sierra Leone;2004;180
-Singaporee;2004;--
-Slovakia;2004;3158
-Slovenia;2004;1186
-South Africa, sales7;2004;12348
-Spain, including Canary Islands;2004;46593
-Sri Lanka;2004;1150
-Sudan;2004;307
-Surinamee;2004;65
-Sweden;2004;2588
-Switzerland;2004;3851
-Syria;2004;4757
-Taiwan;2004;19050
-Tajikistan;2004;194
-Tanzania;2004;1281
-Thailand;2004;35626
-Togoe;2004;800
-Trinidad and Tobago;2004;768
-Tunisia;2004;6358
-Turkmenistane;2004;450
-Turkey;2004;38796
-Uganda;2004;559
-Ukraine;2004;10600
-United Arab Emiratese;2004;8000
-United Kingdom;2004;11730
-United States, including Puerto Rico8;2004;99015
-Uruguaye;2004;1050
-Uzbekistane;2004;4800
-Venezuelae;2004;9000
-Vietnam;2004;25320
-Yemen;2004;1546
-Zambiae;2004;480
-Zimbabwee;2004;400
-Total;2004;2190000
-Afghanistane;2005;60
-Albania;2005;575
-Algeriae;2005;11296
-Angola;2005;1315
-Argentina;2005;7595
-Armenia;2005;605
-Australiae;2005;9000
-Austria;2005;4736
-Azerbaijan;2005;1538
-Bahrain;2005;191
-Bangladeshe;2005;5100
-Barbados;2005;320
-Belarus;2005;3131
-Belgium;2005;7594
-Benine;2005;250
-Bhutane;2005;170
-Bolivia;2005;1440
-Bosnia and Herzegovina;2005;1026
-Brazil;2005;36673
-Brunei;2005;266
-Bulgariae;2005;2100
-Burkina Fasoe;2005;30
-Burma4;2005;543
-Cameroon;2005;1000
-Canada;2005;14179
-Chile;2005;3999
-China;2005;1068850
-Colombia;2005;9959
-Congo (Brazzaville);2005;100
-Congo (Kinshasa);2005;511
-Costa Ricae;2005;2000
-Côte d'Ivoiree;2005;650
-Croatia;2005;3481
-Cuba;2005;1567
-Cyprus;2005;1805
-Czech Republic;2005;3978
-Denmark;2005;2120
-Dominican Republic;2005;2779
-Ecuadore;2005;3000
-Egypt;2005;29000
-El Salvador;2005;1131
-Eritreae;2005;45
-Estonia;2005;650
-Ethiopia6;2005;1568
-Fijie;2005;143
-Finland;2005;1357
-France;2005;21277
-French Guianae;2005;60
-Gabone;2005;260
-Georgia;2005;450
-Germany;2005;30629
-Ghanae;2005;1900
-Greece;2005;15166
-Guadeloupe;2005;230
-Guatemalae;2005;2400
-Guineae;2005;360
-Haitie;2005;300
-Honduras;2005;1384
-Hong Kong;2005;1005
-Hungary;2005;3371
-Iceland;2005;95
-Indiae;2005;145000
-Indonesia;2005;33917
-Iran;2005;32650
-Iraqe;2005;3000
-Ireland;2005;5083
-Israel;2005;5093
-Italy;2005;40284
-Jamaica;2005;845
-Japan;2005;69629
-Jordan;2005;4046
-Kazakhstan;2005;3975
-Kenya;2005;2123
-Korea, Northe;2005;5700
-Korea, Republic of;2005;51391
-Kuwait;2005;2145
-Kyrgyzstan;2005;900
-Laose;2005;250
-Latvia;2005;280
-Lebanon;2005;4500
-Liberia;2005;144
-Libyae;2005;3621
-Lithuania;2005;832
-Luxembourg;2005;760
-Macedonia;2005;800
-Madagascare;2005;150
-Malawi;2005;160
-Malaysia;2005;17860
-Martiniquee;2005;220
-Mauritaniae;2005;300
-Mexico;2005;37452
-Moldova;2005;641
-Mongolia;2005;112
-Moroccoe;2005;11000
-Mozambique;2005;560
-Nepale;2005;290
-Netherlands;2005;2496
-New Caledonia;2005;119
-New Zealande;2005;1100
-Nicaragua;2005;530
-Nigere;2005;54
-Nigeriae;2005;2400
-Norway;2005;1613
-Omane;2005;2621
-Pakistane;2005;17000
-Panama;2005;1050
-Paraguaye;2005;550
-Peru;2005;4600
-Philippines;2005;15494
-Poland;2005;12646
-Portugal;2005;8438
-Qatare;2005;1500
-Réunione;2005;380
-Romania;2005;7032
-Russia;2005;48500
-Rwanda;2005;101
-Saudi Arabia;2005;26064
-Senegal;2005;2623
-Serbia and Montenegro7;2005;2276
-Sierra Leone;2005;172
-Singaporee;2005;--
-Slovakia;2005;3499
-Slovenia;2005;1114
-South Africa, sales8;2005;13000
-Spain, including Canary Islands;2005;50347
-Sri Lanka;2005;1500
-Sudan;2005;331
-Surinamee;2005;65
-Sweden;2005;2709
-Switzerland;2005;4022
-Syria;2005;4700
-Taiwan;2005;19891
-Tajikistan;2005;253
-Tanzania;2005;1366
-Thailand;2005;37872
-Togoe;2005;800
-Trinidad and Tobago;2005;686
-Tunisia;2005;6691
-Turkey;2005;42787
-Turkmenistane;2005;650
-Uganda;2005;630
-Ukraine;2005;12183
-United Arab Emiratese;2005;9800
-United Kingdom;2005;11216
-United States, including Puerto Rico9;2005;100903
-Uruguaye;2005;1050
-Uzbekistane;2005;5068
-Venezuelae;2005;10000
-Vietnam;2005;30808
-Yemen;2005;1573
-Zambiae;2005;435
-Zimbabwee;2005;600
-Total;2005;2350000
-Afghanistane;2006;50
-Albania;2006;600
-Algeria;2006;14702
-Angola;2006;1373
-Argentina;2006;8929
-Armenia;2006;625
-Australiae;2006;9000
-Austria;2006;4700
-Azerbaijan;2006;1622
-Bahrain;2006;190
-Bangladeshe;2006;5100
-Barbados;2006;320
-Belarus;2006;3495
-Belgium;2006;8192
-Benine;2006;1489
-Bhutane;2006;180
-Bolivia;2006;1636
-Bosnia and Herzegovina;2006;1226
-Brazil;2006;39540
-Brunei;2006;270
-Bulgariae;2006;2000
-Burkina Fasoe;2006;30
-Burma4;2006;570
-Cambodia;2006;--
-Cameroon;2006;1000
-Canada;2006;14336
-Chile;2006;4112
-China;2006;1236770
-Colombia;2006;10038
-Congo (Brazzaville);2006;100
-Congo (Kinshasa);2006;530
-Costa Ricae;2006;1400
-Côte d’Ivoiree;2006;650
-Croatia;2006;3633
-Cuba;2006;1705
-Cyprus;2006;1786
-Czech Republic;2006;4239
-Denmark;2006;2115
-Dominican Republic;2006;2800
-Ecuadore;2006;3000
-Egypt;2006;36200
-El Salvador;2006;1311
-Eritreae;2006;45
-Estonia;2006;750
-Ethiopia;2006;1700
-Fijie;2006;143
-Finland;2006;1685
-France;2006;22540
-French Guianae;2006;60
-Gabone;2006;260
-Georgiae;2006;450
-Germany;2006;33630
-Ghanae;2006;1900
-Greece;2006;15674
-Guadeloupee;2006;230
-Guatemalae;2006;2500
-Guineae;2006;360
-Haitie;2006;300
-Honduras;2006;1400
-Hong Kong;2006;1010
-Hungary;2006;3349
-Iceland;2006;141
-Indiae;2006;160000
-Indonesia;2006;35000
-Iran;2006;33000
-Iraqe;2006;3500
-Ireland;2006;4981
-Israel;2006;5089
-Italy;2006;47814
-Jamaica;2006;761
-Japan;2006;69942
-Jordan;2006;3967
-Kazakhstan;2006;4880
-Kenya;2006;2174
-Korea, Northe;2006;6160
-Korea, Republic of;2006;53971
-Kuwait;2006;2200
-Kyrgyzstan;2006;1211
-Laose;2006;400
-Latviae;2006;280
-Lebanon;2006;4400
-Liberia;2006;155
-Libyae;2006;3600
-Lithuania;2006;1065
-Luxembourg;2006;800
-Macedonia;2006;800
-Madagascare;2006;150
-Malawi;2006;188
-Malaysia;2006;18000
-Martiniquee;2006;220
-Mauritania;2006;357
-Mexico;2006;40362
-Moldova;2006;837
-Mongolia;2006;141
-Moroccoe;2006;11000
-Mozambique;2006;720
-Nepale, 4;2006;295
-Netherlands;2006;2790
-New Caledonia;2006;133
-New Zealande;2006;1100
-Nicaragua;2006;530
-Nigere;2006;54
-Nigeriae;2006;3000
-Norway;2006;1695
-Oman;2006;3611
-Pakistane;2006;20652
-Panama;2006;1050
-Paraguaye;2006;600
-Perue;2006;5000
-Philippines;2006;12033
-Poland;2006;14688
-Portugal;2006;8340
-Qatare;2006;1568
-Réunione;2006;400
-Romania;2006;8253
-Russia;2006;54700
-Rwanda;2006;103
-Saudi Arabia;2006;27053
-Senegal;2006;2884
-Serbia;2006;2565
-Serbia and Montenegro;2006;XX
-Sierra Leone;2006;234
-Singaporee;2006;--
-Slovakia;2006;3593
-Slovenia;2006;1269
-South Africa, sales7;2006;12658
-Spain, including Canary Islands;2006;54033
-Sri Lankae;2006;1600
-Sudan;2006;202
-Surinamee;2006;65
-Sweden;2006;2952
-Switzerland;2006;4040
-Syriae;2006;4700
-Taiwan;2006;19294
-Tajikistan;2006;282
-Tanzania;2006;1432
-Thailand;2006;39408
-Togoe;2006;800
-Trinidad and Tobago;2006;883
-Tunisia;2006;6932
-Turkey;2006;47499
-Turkmenistane;2006;800
-Ugandae;2006;630
-Ukraine;2006;13732
-United Arab Emiratese;2006;9800
-United Kingdom;2006;12119
-United States, including Puerto Rico8;2006;99712
-Uruguaye;2006;1050
-Uzbekistan;2006;5000
-Venezuelae;2006;11000
-Vietnam;2006;32690
-Yemen;2006;1470
-Zambiae;2006;650
-Zimbabwee;2006;700
-Total;2006;2600000
-Afghanistane;2007;50
-Albania;2007;889
-Algeria;2007;15886
-Angola;2007;1400
-Argentina;2007;9602
-Armenia;2007;722
-Australiae;2007;9000
-Austria;2007;5202
-Azerbaijan;2007;1731
-Bahrain;2007;400
-Bangladeshe;2007;5100
-Barbados;2007;294
-Belarus;2007;3820
-Belgium;2007;8200
-Benine;2007;1550
-Bhutane;2007;180
-Bolivia;2007;1739
-Bosnia and Herzegovina;2007;1283
-Brazil;2007;46406
-Brunei;2007;200
-Bulgaria;2007;4413
-Burkina Fasoe;2007;30
-Burma4;2007;608
-Cambodia;2007;87
-Cameroon;2007;1000
-Canada;2007;15078
-Chile;2007;4440
-China;2007;1361170
-Colombia;2007;11068
-Congo (Brazzaville);2007;100
-Congo (Kinshasa);2007;520
-Costa Ricae;2007;1400
-Côte d’Ivoiree;2007;650
-Croatia;2007;3524
-Cuba;2007;1805
-Cyprus;2007;1873
-Czech Republic;2007;4899
-Denmark;2007;2100
-Dominican Republic;2007;4100
-Ecuadore;2007;4420
-Egypt;2007;38400
-El Salvador;2007;1300
-Eritreae;2007;45
-Estonia;2007;937
-Ethiopia;2007;1800
-Fijie;2007;145
-Finland;2007;1743
-France;2007;22300
-French Guianae;2007;60
-Gabone;2007;229
-Georgiae;2007;450
-Germany;2007;33382
-Ghanae;2007;1900
-Greece;2007;16667
-Guadeloupee;2007;230
-Guatemalae;2007;2500
-Guineae;2007;360
-Haitie;2007;300
-Honduras;2007;1800
-Hong Kong;2007;1000
-Hungary;2007;3552
-Iceland;2007;90
-Indiae;2007;170000
-Indonesia;2007;36000
-Iran;2007;40000
-Iraqe;2007;4500
-Ireland;2007;5000
-Israel;2007;5000
-Italy;2007;47542
-Jamaica;2007;592
-Japan;2007;67685
-Jordan;2007;4051
-Kazakhstan;2007;5699
-Kenya;2007;2546
-Korea, Northe;2007;6130
-Korea, Republic of;2007;57042
-Kosovo6;2007;470
-Kuwait;2007;2200
-Kyrgyzstan;2007;1300
-Laose;2007;400
-Latviae;2007;300
-Lebanon;2007;4900
-Liberia;2007;157
-Libyae;2007;5206
-Lithuania;2007;1105
-Luxembourg;2007;780
-Macedonia;2007;902
-Madagascare;2007;270
-Malawi;2007;185
-Malaysia;2007;19480
-Martiniquee;2007;220
-Mauritania;2007;410
-Mexico;2007;40670
-Moldova;2007;800
-Mongolia;2007;180
-Moroccoe;2007;11000
-Mozambiquee;2007;800
-Nepale, 4;2007;300
-Netherlands;2007;2700
-New Caledonia;2007;134
-New Zealande;2007;1100
-Nicaragua;2007;530
-Nigere;2007;54
-Nigeriae;2007;4700
-Norway;2007;1700
-Oman;2007;3880
-Pakistane;2007;30000
-Panama;2007;1050
-Paraguaye;2007;600
-Peru;2007;6231
-Philippines;2007;13048
-Poland;2007;17120
-Portugal;2007;12631
-Qatar;2007;2500
-Réunione;2007;400
-Romania;2007;10061
-Russia;2007;59900
-Rwanda;2007;103
-Saudi Arabia;2007;30369
-Senegal;2007;3152
-Serbia7;2007;2677
-Serbia and Montenegro;2007;--
-Sierra Leone;2007;236
-Slovakia;2007;3718
-Slovenia;2007;1300
-South Africa, sales9;2007;13651
-Spain, including Canary Islands;2007;54720
-Sri Lankae;2007;1700
-Sudan;2007;326
-Surinamee;2007;65
-Sweden;2007;2950
-Switzerland;2007;4000
-Syria;2007;5104
-Taiwan;2007;18957
-Tajikistan;2007;313
-Tanzania;2007;1513
-Thailand;2007;35668
-Togoe;2007;800
-Trinidad and Tobago;2007;890
-Tunisia;2007;7052
-Turkey;2007;49553
-Turkmenistane;2007;900
-Ugandae;2007;650
-Ukraine;2007;15000
-United Arab Emiratese;2007;14000
-United Kingdom;2007;11900
-United States, including Puerto Rico10;2007;96850
-Uruguaye;2007;620
-Uzbekistan;2007;6500
-Venezuelae;2007;9000
-Vietnam;2007;36400
-Yemen;2007;1728
-Zambiae;2007;650
-Zimbabwee;2007;400
-Total;2007;2810000
-Afghanistane;2008;50
-Albania;2008;737
-Algeria;2008;17398
-Angola;2008;1780
-Argentina;2008;9703
-Armenia;2008;770
-Australiae;2008;9000
-Austria;2008;5309
-Azerbaijan;2008;1595
-Bahrain;2008;438
-Bangladeshe;2008;5000
-Barbados;2008;300
-Belarus;2008;4219
-Belgium;2008;8200
-Benine;2008;1500
-Bhutane;2008;180
-Bolivia;2008;1985
-Bosnia and Herzegovina;2008;1406
-Brazil;2008;51970
-Bruneie;2008;240
-Bulgaria;2008;4903
-Burkina Fasoe;2008;30
-Burma4;2008;676
-Cambodia;2008;772
-Cameroone;2008;1000
-Canada;2008;13672
-Chile;2008;4622
-China;2008;1400000
-Colombia;2008;10456
-Congo (Brazzaville)e;2008;100
-Congo (Kinshasa);2008;411
-Costa Rica;2008;2500
-Côte d’Ivoiree;2008;650
-Croatia;2008;3637
-Cuba;2008;1707
-Cyprus;2008;1870
-Czech Republic;2008;4710
-Denmark;2008;2100
-Dominican Republic;2008;4000
-Ecuador;2008;5493
-Egypt;2008;40000
-El Salvador;2008;1300
-Eritreae;2008;45
-Estonia;2008;808
-Ethiopia;2008;1834
-Fijie;2008;143
-Finland;2008;1745
-France;2008;21700
-French Guianae;2008;62
-Gabone;2008;230
-Georgiae;2008;450
-Germany;2008;33581
-Ghanae;2008;1800
-Greece;2008;16500
-Guadeloupee;2008;230
-Guatemalae;2008;2500
-Guineae;2008;--
-Haitie;2008;300
-Hondurase;2008;1800
-Hong Konge;2008;1000
-Hungary;2008;3544
-Iceland;2008;100
-Indiae;2008;185000
-Indonesiae;2008;36000
-Irane;2008;44400
-Iraqe;2008;6453
-Ireland;2008;5000
-Israel;2008;4818
-Italy;2008;43030
-Jamaica;2008;725
-Japan;2008;62810
-Jordan;2008;4375
-Kazakhstan;2008;5223
-Kenya;2008;2829
-Korea, Northe;2008;6415
-Korea, Republic of;2008;51653
-Kosovo6;2008;590
-Kuwaite;2008;2200
-Kyrgyzstan;2008;1218
-Laose;2008;400
-Latviae;2008;310
-Lebanon;2008;5000
-Liberia;2008;94
-Libya;2008;5509
-Lithuania;2008;1100
-Luxembourge;2008;780
-Macedonia;2008;916
-Madagascare;2008;270
-Malawi;2008;240
-Malaysia;2008;19000
-Martiniquee;2008;220
-Mauritania;2008;446
-Mexico;2008;47609
-Moldova;2008;750
-Mongolia;2008;269
-Moroccoe;2008;11000
-Mozambiquee;2008;730
-Nepale, 4;2008;295
-Netherlands;2008;2700
-New Caledonia;2008;134
-New Zealande;2008;1100
-Nicaraguae;2008;530
-Nigere;2008;42
-Nigeriae;2008;5000
-Norway;2008;1700
-Oman;2008;3991
-Pakistane;2008;31000
-Panamae;2008;1050
-Paraguaye;2008;600
-Peru;2008;6922
-Philippines;2008;13369
-Poland;2008;17207
-Portugal;2008;12650
-Qatar;2008;3500
-Réunione;2008;400
-Romania;2008;11000
-Russia;2008;53600
-Rwanda;2008;103
-Saudi Arabia;2008;31823
-Senegal;2008;3084
-Serbia7;2008;2843
-Sierra Leone;2008;254
-Slovakia;2008;4157
-Slovenia;2008;1300
-South Africa, sales9;2008;13341
-Spain, including Canary Islands;2008;42088
-Sri Lankae;2008;1800
-Sudan;2008;370
-Surinamee;2008;65
-Sweden;2008;2900
-Switzerland;2008;4000
-Syria;2008;5336
-Taiwan;2008;17330
-Tajikistan;2008;190
-Tanzania;2008;1756
-Thailand;2008;31651
-Togoe;2008;800
-Trinidad and Tobago;2008;958
-Tunisia;2008;7559
-Turkey;2008;54027
-Turkmenistane;2008;900
-Ugandae;2008;650
-Ukraine;2008;14918
-United Arab Emiratese;2008;13200
-United Kingdom;2008;10071
-United States, including Puerto Rico10;2008;87610
-Uruguaye;2008;620
-Uzbekistan;2008;6600
-Venezuelae;2008;9000
-Vietnam;2008;40009
-Yemen;2008;3000
-Zambiae;2008;700
-Zimbabwee;2008;400
-Total;2008;2850000
-Afghanistan;2009;32
-Albania;2009;1108
-Algeria;2009;191
-Angolae;2009;18
-Argentina;2009;10
-Armenia;2009;467
-Australiae;2009;92
-Austria;2009;4646
-Azerbaijan;2009;1286
-Bahrain;2009;700
-Bangladeshe;2009;5
-Barbados;2009;301
-Belarus;2009;435
-Belgium;2009;9403
-Benine;2009;15
-Bhutane;2009;180
-Bolivia;2009;2292
-Bosnia and Herzegovina;2009;1074
-Brazil;2009;51748
-Bruneie;2009;220
-Bulgaria;2009;2662
-Burkina Fasoe;2009;30
-Burma4;2009;670
-Cambodia;2009;774
-Cameroone;2009;1
-Canada;2009;10985
-Chile;2009;3876
-China;2009;1644000
-Colombia5;2009;9232
-Congo (Brazzaville)e;2009;110
-Congo (Kinshasa);2009;444
-Costa Rica;2009;1498
-Côte d’Ivoire;2009;283
-Croatia;2009;2838
-Cuba;2009;1626
-Cyprus;2009;1481
-Czech Republic;2009;3637
-Denmark;2009;1578
-Dominican Republice;2009;3
-Ecuador;2009;5
-Egypt;2009;465
-El Salvador;2009;1212
-Eritreae;2009;45
-Estonia;2009;326
-Ethiopia;2009;23
-Fijie;2009;110
-Finland;2009;1052
-France;2009;183
-French Guianae;2009;62
-Gabone;2009;230
-Georgiae;2009;870
-Germany;2009;30441
-Ghanae;2009;18
-Greece;2009;16
-Guadeloupee;2009;230
-Guatemalae;2009;15
-Haitie;2009;290
-Honduras;2009;18
-Hong Konge;2009;1
-Hungary;2009;32
-Icelande;2009;138
-Indiae;2009;205
-Indonesiae;2009;22195
-Irane;2009;50
-Iraqe;2009;85
-Irelande;2009;26
-Israel;2009;4759
-Italy;2009;36317
-Jamaica;2009;736
-Japan;2009;548
-Jordan;2009;3799
-Kazakhstan;2009;5694
-Kenya;2009;332
-Korea, Northe;2009;64
-Korea, Republic of;2009;50127
-Kosovo6;2009;600
-Kuwaite;2009;2
-Kyrgyzstan;2009;579
-Laose;2009;400
-Latviae;2009;650
-Lebanon;2009;49
-Liberia;2009;71
-Libya;2009;65
-Lithuania;2009;583
-Luxembourg;2009;1
-Macedonia;2009;909
-Madagascare;2009;240
-Malawi;2009;240
-Malaysia;2009;19457
-Martiniquee;2009;220
-Mauritania;2009;340
-Mexico;2009;3516
-Moldovae;2009;700
-Mongolia;2009;235
-Morocco;2009;14519
-Mozambique7;2009;777
-Nepale, 4;2009;295
-Netherlandse;2009;27
-New Caledonia;2009;138
-New Zealande;2009;11
-Nicaraguae;2009;530
-Nigere;2009;40
-Nigeria;2009;5
-Norwaye;2009;165
-Oman;2009;4
-Pakistan;2009;28
-Panama;2009;1679
-Paraguaye;2009;600
-Peru;2009;6862
-Philippines8;2009;14865
-Poland;2009;15537
-Portugal;2009;127
-Qatar;2009;4095
-Réunione;2009;375
-Romania;2009;7902
-Russia;2009;44266
-Rwanda;2009;92
-Saudi Arabia;2009;365
-Senegal;2009;3327
-Serbia9;2009;2232
-Sierra Leone;2009;236
-Slovakia;2009;3011
-Sloveniae;2009;1
-South Africa, sales;2009;11784
-Spain, including Canary Islands;2009;29505
-Sri Lankae;2009;19
-Sudan;2009;622
-Surinamee;2009;65
-Sweden;2009;295
-Switzerlande;2009;4
-Syria;2009;5605
-Taiwan;2009;15918
-Tajikistan;2009;195
-Tanzania;2009;1941
-Thailand;2009;33562
-Togoe;2009;800
-Trinidad and Tobago;2009;870
-Tunisia;2009;7511
-Turkey;2009;53973
-Turkmenistan;2009;11
-Ugandae;2009;650
-Ukraine;2009;9496
-United Arab Emirates;2009;18997
-United Kingdom;2009;7623
-United States, including Puerto Rico10;2009;64843
-Uruguaye;2009;620
-Uzbekistane;2009;685
-Venezuelae;2009;11
-Vietnam;2009;479
-Yemen;2009;2118
-Zambiae;2009;880
-Zimbabwee;2009;700
-Totale;2009;3030000
-Afghanistan;2010;36
-Albania;2010;1300
-Algeria;2010;19100
-Angolae;2010;1500
-Argentina;2010;10423
-Armenia;2010;488
-Australiae;2010;9000
-Austria;2010;4254
-Azerbaijan;2010;1279
-Bahraine;2010;700
-Bangladeshe;2010;5000
-Barbados;2010;300
-Belarus;2010;4531
-Belgium;2010;8722
-Benine;2010;1430
-Bhutane;2010;200
-Bolivia;2010;2414
-Bosnia and Herzegovina;2010;949
-Brazil;2010;59118
-Bruneie;2010;220
-Bulgaria;2010;1966
-Burkina Fasoe;2010;30
-Burma4;2010;534
-Cambodia;2010;789
-Cameroone;2010;1000
-Canada;2010;12431
-Chile;2010;3871
-China;2010;1820000
-Colombia5;2010;9488
-Congo (Brazzaville)e;2010;80
-Congo (Kinshasa);2010;490
-Costa Rica;2010;1276
-Côte d’Ivoire;2010;280
-Croatia;2010;2664
-Cuba;2010;1600
-Cyprus;2010;1329
-Czech Republic;2010;3345
-Denmark;2010;2000
-Dominican Republice;2010;3000
-Ecuador;2010;5500
-Egypt;2010;47800
-El Salvadore;2010;1200
-Eritreae;2010;45
-Estonia;2010;375
-Ethiopiae;2010;2900
-Fijie;2010;120
-Finland;2010;1050
-France;2010;17998
-French Guianae;2010;62
-Gabone;2010;200
-Georgiae;2010;857
-Germany;2010;29915
-Ghanae;2010;2400
-Greecee;2010;15000
-Guadeloupee;2010;230
-Guatemalae;2010;2000
-Haitie;2010;290
-Hondurase;2010;1800
-Hong Konge;2010;1000
-Hungarye;2010;3200
-Icelande;2010;138
-Indiae;2010;220000
-Indonesiae;2010;28000
-Irane;2010;55000
-Iraqe;2010;6500
-Irelande;2010;2600
-Israel;2010;5139
-Italy;2010;34408
-Jamaica;2010;723
-Japan;2010;51526
-Jordan;2010;3929
-Kazakhstan;2010;6686
-Kenya;2010;3710
-Korea, Northe;2010;6400
-Korea, Republic of;2010;47420
-Kosovoe, 6;2010;600
-Kuwaite;2010;2000
-Kyrgyzstan;2010;600
-Laose;2010;400
-Latviae;2010;1100
-Lebanon;2010;5227
-Liberia;2010;72
-Libya;2010;6000
-Lithuania;2010;834
-Luxembourg;2010;1078
-Macedonia;2010;820
-Madagascare;2010;420
-Malawi;2010;188
-Malaysia;2010;19762
-Martiniquee;2010;220
-Mauritania;2010;350
-Mexico;2010;34503
-Moldovae;2010;900
-Mongolia;2010;322
-Morocco;2010;14000
-Mozambique7;2010;884
-Namibia;2010;5
-Nepale, 4;2010;295
-Netherlandse;2010;2700
-New Caledonia;2010;160
-New Zealande;2010;1200
-Nicaraguae;2010;600
-Nigere;2010;40
-Nigeria;2010;6000
-Norwaye;2010;1650
-Oman;2010;4500
-Pakistane;2010;32800
-Panamae;2010;900
-Paraguaye;2010;600
-Peru;2010;8396
-Philippines;2010;15900
-Poland;2010;15812
-Portugal;2010;7200
-Qatare;2010;3780
-Réunione;2010;375
-Romania;2010;7008
-Russia;2010;50400
-Rwanda;2010;95
-Saudi Arabia;2010;42300
-Senegal;2010;4066
-Serbia8;2010;2130
-Sierra Leone;2010;301
-Slovakia;2010;2888
-Sloveniae;2010;1000
-South Africa, sales;2010;10870
-Spain, including Canary Islands;2010;26162
-Sri Lankae;2010;2000
-Sudan;2010;2113
-Surinamee;2010;65
-Swedene;2010;2900
-Switzerlande;2010;4000
-Syria;2010;6000
-Taiwan;2010;16301
-Tajikistan;2010;288
-Tanzania;2010;2312
-Thailand;2010;36496
-Togoe, 9;2010;1150
-Trinidad and Tobago;2010;800
-Tunisia;2010;8070
-Turkey;2010;62737
-Turkmenistan;2010;1100
-Ugandae;2010;650
-Ukraine;2010;9456
-United Arab Emiratese;2010;18000
-United Kingdom;2010;7882
-United States, including Puerto Rico10;2010;67202
-Uruguaye;2010;1000
-Uzbekistane;2010;6872
-Venezuelae;2010;8000
-Vietnam;2010;55789
-Yemen;2010;3500
-Zambiae;2010;1127
-Zimbabwee;2010;800
-Totale;2010;3270000
-Afghanistan;2011;38
-Albania;2011;1800
-Algeria;2011;19000
-Angolae;2011;1500
-Argentina;2011;11592
-Armenia;2011;422
-Australiae;2011;8600
-Austria;2011;4427
-Azerbaijan;2011;1425
-Bahraine;2011;1200
-Bangladesh4;2011;14690
-Barbados;2011;223
-Belarus;2011;4604
-Belgium;2011;6954
-Benin;2011;1460
-Bhutane;2011;544
-Bolivia;2011;2658
-Bosnia and Herzegovina;2011;893
-Brazil;2011;64093
-Bruneie;2011;290
-Bulgaria;2011;1866
-Burkina Faso;2011;590
-Burma5;2011;538
-Burundi;2011;35
-Cambodia;2011;907
-Cameroone;2011;730
-Canada;2011;12001
-Chile;2011;4406
-China;2011;2099000
-Colombia6;2011;10777
-Congo (Brazzaville)e;2011;70
-Congo (Kinshasa);2011;458
-Costa Ricae;2011;1600
-Côte d’Ivoire;2011;99
-Croatia;2011;2467
-Cuba;2011;1736
-Cyprus;2011;1207
-Czech Republic;2011;3831
-Denmark;2011;1811
-Dominican Republic;2011;3997
-Ecuador;2011;5706
-Egypt;2011;43384
-El Salvadore;2011;1320
-Eritreae;2011;230
-Estonia;2011;449
-Ethiopiae;2011;3300
-Fijie;2011;120
-Finland;2011;1514
-France;2011;19270
-French Guianae;2011;62
-Gabone;2011;200
-Georgiae;2011;860
-Germany;2011;32779
-Ghanae;2011;2550
-Greece;2011;7418
-Guadeloupee, 7;2011;300
-Guatemalae;2011;2820
-Guinea;2011;365
-Haitie;2011;300
-Hondurase;2011;1710
-Hong Kong;2011;1560
-Hungary;2011;1694
-Icelande;2011;140
-Indiae;2011;250000
-Indonesia;2011;45240
-Irane;2011;66000
-Iraqe;2011;10000
-Ireland;2011;2103
-Israel;2011;5480
-Italy;2011;33120
-Jamaica;2011;766
-Japan;2011;51291
-Jordan;2011;4000
-Kazakhstan;2011;7642
-Kenya;2011;4478
-Korea, Northe;2011;6400
-Korea, Republic of;2011;48249
-Kosovoe, 8;2011;370
-Kuwaite;2011;2250
-Kyrgyzstan;2011;1015
-Laose;2011;400
-Latviae;2011;1100
-Lebanon;2011;5500
-Liberia;2011;81
-Libyae;2011;3500
-Lithuania;2011;996
-Luxembourg;2011;1319
-Macedonia;2011;981
-Madagascare;2011;150
-Malawi;2011;203
-Malaysia;2011;21198
-Martiniquee, 7;2011;150
-Mauritania;2011;565
-Mexico;2011;35400
-Moldovae;2011;1070
-Mongolia;2011;426
-Morocco;2011;16300
-Mozambique9;2011;976
-Namibia;2011;390
-Nepale, 6;2011;300
-Netherlands;2011;2318
-New Caledonia;2011;145
-New Zealande;2011;1200
-Nicaragua;2011;700
-Niger;2011;73
-Nigeriae;2011;12800
-Norway;2011;1387
-Omane;2011;5000
-Pakistane;2011;32000
-Panama;2011;897
-Paraguaye;2011;820
-Peru;2011;8500
-Philippines;2011;16063
-Poland;2011;18993
-Portugal;2011;5069
-Qatar;2011;5000
-Reunione;2011;250
-Romania;2011;7846
-Russia;2011;56200
-Rwanda;2011;94
-Saudi Arabia;2011;48358
-Senegal;2011;4677
-Serbia10;2011;2095
-Sierra Leone;2011;311
-Slovakia;2011;3219
-Slovenia;2011;620
-South Africa, sales;2011;11234
-Spain, including Canary Islands;2011;22178
-Sri Lankae;2011;2200
-Sudan;2011;3002
-Suriname;2011;74
-Sweden;2011;2064
-Switzerland;2011;4577
-Syria;2011;4000
-Taiwan;2011;16852
-Tajikistan;2011;299
-Tanzania;2011;2409
-Thailand;2011;36602
-Togo11;2011;1160
-Trinidad and Tobago;2011;827
-Tunisia;2011;7055
-Turkey;2011;63405
-Turkmenistan;2011;1500
-Uganda;2011;1666
-Ukraine;2011;10515
-United Arab Emiratese;2011;18000
-United Kingdom;2011;8529
-United States, including Puerto Rico12;2011;68639
-Uruguaye;2011;620
-Uzbekistane;2011;6698
-Venezuela;2011;7760
-Vietnam;2011;58271
-Yemen;2011;951
-Zambiae;2011;1200
-Zimbabwee;2011;1000
-Totale;2011;3650000
-Afghanistane;2012;37
-Albaniae;2012;1800
-Algeriae;2012;19000
-Angolae;2012;1600
-Argentina;2012;10716
-Armenia;2012;438
-Australiae;2012;8600
-Austria;2012;4455
-Azerbaijan;2012;1966
-Bahraine;2012;1300
-Bangladeshe, 4;2012;15000
-Barbados;2012;176
-Belarus;2012;4906
-Belgium;2012;6280
-Benin;2012;1390
-Bhutane;2012;521
-Bolivia;2012;2714
-Bosnia and Herzegovina;2012;846
-Botswanae;2012;260
-Brazil;2012;69323
-Bruneie;2012;300
-Bulgaria;2012;1803
-Burkina Faso;2012;659
-Burma5;2012;600
-Burundi;2012;71
-Cambodia;2012;980
-Cameroone;2012;1275
-Canada;2012;12465
-Chile;2012;4722
-China;2012;2210000
-Colombia;2012;10925
-Congo (Brazzaville)e;2012;150
-Congo (Kinshasa);2012;413
-Costa Ricae;2012;1400
-Côte dʼIvoire;2012;78
-Croatia;2012;2255
-Cuba;2012;1825
-Cyprus;2012;1026
-Czech Republic;2012;3434
-Denmark;2012;1798
-Djibouti;2012;--
-Dominican Republic;2012;4130
-Ecuador;2012;6025
-Egypt;2012;55200
-El Salvadore;2012;1380
-Eritreae;2012;260
-Estonia;2012;482
-Ethiopia6;2012;3500
-Fijie;2012;120
-Finland;2012;1293
-France;2012;17810
-French Guianae;2012;100
-Gabone;2012;220
-Georgiae;2012;870
-Germany;2012;31956
-Ghanae;2012;3000
-Greece;2012;4849
-Guadeloupee;2012;300
-Guatemala;2012;2880
-Guinea;2012;317
-Haitie;2012;300
-Hondurase;2012;1730
-Hong Kong;2012;1675
-Hungary;2012;1870
-Icelande;2012;140
-Indiae;2012;270000
-Indonesia;2012;51000
-Irane;2012;70000
-Iraqe;2012;10000
-Ireland;2012;1198
-Israel;2012;5892
-Italy;2012;26200
-Jamaica;2012;760
-Japan;2012;54737
-Jordan;2012;4900
-Kazakhstan;2012;6412
-Kenya;2012;4640
-Korea, Northe;2012;6600
-Korea, Republic of;2012;47087
-Kosovoe;2012;535
-Kuwaite;2012;2250
-Kyrgyzstan;2012;1239
-Laose;2012;1500
-Latvia;2012;901
-Lebanon;2012;5309
-Liberia;2012;122
-Libyae;2012;2000
-Lithuania;2012;1015
-Luxembourg;2012;1177
-Macedonia;2012;683
-Madagascare;2012;150
-Malawi;2012;172
-Malaysia;2012;21726
-Martiniquee;2012;150
-Mauritania;2012;644
-Mexico;2012;36184
-Moldovae;2012;1200
-Mongolia;2012;349
-Morocco;2012;15800
-Mozambique7;2012;1184
-Namibia;2012;501
-Nepale;2012;2700
-Netherlands;2012;2056
-New Caledonia;2012;124
-New Zealande;2012;1200
-Nicaragua;2012;730
-Niger;2012;73
-Nigeriae;2012;16400
-Norway;2012;1659
-Omane;2012;5200
-Pakistane;2012;30300
-Panama;2012;2252
-Paraguaye;2012;650
-Peru;2012;9000
-Philippines;2012;18907
-Poland;2012;15919
-Portugal;2012;4090
-Qatar;2012;5500
-Reunione;2012;350
-Romania;2012;8223
-Russia;2012;61700
-Rwanda;2012;100
-Saudi Arabia;2012;56200
-Senegal;2012;4689
-Serbia;2012;1831
-Sierra Leone;2012;335
-Slovakia;2012;2915
-Slovenia;2012;953
-South Africa, sales;2012;11560
-Spain, including Canary Islands;2012;15939
-Sri Lankae;2012;2400
-Sudan;2012;3511
-Suriname;2012;114
-Sweden;2012;2141
-Switzerland;2012;4467
-Syriae;2012;6000
-Taiwan;2012;15806
-Tajikistan;2012;251
-Tanzania;2012;2581
-Thailand;2012;41047
-Togo8;2012;1173
-Trinidad and Tobago;2012;654
-Tunisia, grey and white;2012;7241
-Turkey;2012;63879
-Turkmenistan;2012;2370
-Uganda;2012;1780
-Ukraine;2012;9801
-United Arab Emiratese;2012;17000
-United Kingdom;2012;7952
-United States, including Puerto Rico9;2012;74934
-Uruguay;2012;872
-Uzbekistan;2012;6800
-Venezuelae;2012;7700
-Vietnam;2012;55531
-Yemen;2012;2000
-Zambiae;2012;1200
-Zimbabwee;2012;1100
-Totale;2012;3820000
-Afghanistan;2013;52
-Albaniae;2013;2300
-Algeriae;2013;18500
-Angolae;2013;2000
-Argentina;2013;11892
-Armenia;2013;431
-Australiae;2013;8400
-Austria;2013;4385
-Azerbaijan;2013;2296
-Bahraine;2013;1350
-Bangladesh4;2013;16780
-Barbados;2013;160
-Belarus;2013;5057
-Belgium;2013;6119
-Benin;2013;1422
-Bhutane;2013;570
-Bolivia;2013;3100
-Bosnia and Herzegovina;2013;882
-Botswanae;2013;370
-Brazil;2013;69975
-Bruneie;2013;340
-Bulgaria;2013;1812
-Burkina Faso;2013;580
-Burma5;2013;1121
-Burundi;2013;100
-Cambodiae;2013;1060
-Cameroone;2013;1400
-Canada;2013;11611
-Chad;2013;180
-Chile;2013;4880
-China;2013;2411000
-Colombia;2013;11252
-Congo (Brazzaville)e;2013;250
-Congo (Kinshasa);2013;447
-Costa Ricae;2013;1460
-Côte d’Ivoiree;2013;2300
-Croatia;2013;2333
-Cuba;2013;1659
-Cyprus;2013;855
-Czech Republic;2013;3211
-Denmark, grey and white;2013;1830
-Djibouti;2013;150
-Dominican Republic;2013;4246
-Ecuador;2013;6670
-Egypte;2013;50000
-El Salvador;2013;1200
-Eritreae;2013;260
-Estonia;2013;457
-Ethiopiae, 6;2013;5000
-Fiji;2013;181
-Finland;2013;1300
-France;2013;18018
-French Guianae;2013;92
-Gabone;2013;170
-Georgia;2013;1619
-Germany;2013;31308
-Ghana, from imported clinkere;2013;3000
-Greece;2013;5990
-Guadeloupee;2013;300
-Guatemala;2013;2970
-Guinea;2013;377
-Guyana;2013;--
-Haitie;2013;300
-Hondurase;2013;1700
-Hong Kong;2013;1768
-Hungary;2013;2022
-Iceland;2013;--
-Indiae;2013;280000
-Indonesia;2013;56690
-Irane;2013;68700
-Iraqe;2013;12000
-Irelande;2013;2000
-Israel;2013;6398
-Italy;2013;23100
-Jamaica;2013;825
-Japan;2013;57962
-Jordan;2013;4200
-Kazakhstan;2013;7072
-Kenya;2013;5059
-Korea, Northe;2013;7100
-Korea, Republic of;2013;47291
-Kosovoe, 7;2013;560
-Kuwaite;2013;3000
-Kyrgyzstan;2013;1675
-Laose;2013;1500
-Latviae;2013;1000
-Lebanon;2013;5831
-Liberia;2013;194
-Libyae;2013;2000
-Lithuania;2013;1070
-Luxembourg;2013;980
-Macedonia;2013;762
-Madagascare;2013;230
-Malawi;2013;320
-Malaysia;2013;21457
-Martiniquee;2013;150
-Mauritania;2013;690
-Mexico;2013;34612
-Moldovae;2013;1150
-Mongolia;2013;259
-Moroccoe;2013;16870
-Mozambique8;2013;1299
-Namibia;2013;662
-Nepale;2013;2990
-Netherlandse;2013;2000
-New Caledonia9;2013;119
-New Zealande;2013;1160
-Nicaragua;2013;650
-Niger;2013;29
-Nigeriae;2013;20000
-Norwaye;2013;1700
-Omane;2013;4472
-Pakistane;2013;31000
-Panama;2013;2366
-Papua New Guineae;2013;200
-Paraguaye;2013;960
-Peru;2013;10527
-Philippines;2013;20150
-Poland;2013;14538
-Portugale;2013;5000
-Qatare;2013;5335
-Reunione;2013;400
-Romania;2013;7451
-Russia;2013;66503
-Rwandae;2013;110
-Saudi Arabia;2013;56238
-Senegal;2013;5191
-Serbia10;2013;1592
-Sierra Leone;2013;313
-Slovakia;2013;3121
-Slovenia;2013;1139
-South Africa, sales;2013;12170
-Spain, including Canary Islands;2013;13736
-Sri Lanka;2013;1929
-Sudan;2013;3538
-Suriname;2013;131
-Sweden;2013;2560
-Switzerland;2013;4540
-Syriae;2013;4000
-Taiwan;2013;16554
-Tajikistan;2013;384
-Tanzania;2013;2346
-Thailand;2013;35854
-Togo11;2013;1795
-Trinidad and Tobago;2013;802
-Tunisia, grey and white;2013;7504
-Turkey;2013;71337
-Turkmenistan;2013;2650
-Uganda;2013;2023
-Ukraine;2013;9857
-United Arab Emiratese;2013;15700
-United Kingdom;2013;8203
-United States, including Puerto Rico12;2013;77415
-Uruguay;2013;850
-Uzbekistan;2013;6990
-Venezuelae;2013;8460
-Vietnam;2013;57516
-Yemene;2013;3300
-Zambiae;2013;1810
-Zimbabwee;2013;1190
-Totale;2013;4070000
-Afghanistan;2014;87
-Albaniae;2014;2200
-Algeriae;2014;21000
-Angolae;2014;5100
-Argentina;2014;11408
-Armenia;2014;422
-Australiae;2014;9000
-Austria;2014;4400
-Azerbaijan;2014;2941
-Bahraine;2014;1300
-Bangladesh3;2014;17000
-Barbados;2014;160
-Belarus;2014;5617
-Belgium;2014;6364
-Benin;2014;1396
-Bhutan;2014;690
-Bolivia;2014;3337
-Bosnia and Herzegovina;2014;840
-Botswanae;2014;15
-Brazil;2014;71254
-Brunei;2014;240
-Bulgaria;2014;1793
-Burkina Faso;2014;403
-Burma4;2014;1317
-Burundie;2014;70
-Cambodia;2014;1400
-Cameroon;2014;1300
-Canada;2014;11879
-Chade;2014;200
-Chile;2014;5000
-China;2014;2492000
-Colombia;2014;12384
-Congo (Brazzaville)e;2014;460
-Congo (Kinshasa);2014;330
-Costa Ricae;2014;1500
-Côte d’Ivoiree;2014;2690
-Croatia;2014;2471
-Cuba;2014;1580
-Cyprus;2014;735
-Czech Republic;2014;3511
-Denmark;2014;1876
-Djiboutie;2014;170
-Dominican Republic;2014;5018
-Ecuador;2014;6600
-Egypt;2014;52080
-El Salvadore;2014;1000
-Eritreae;2014;290
-Estonia;2014;447
-Ethiopia6;2014;5424
-Fiji;2014;188
-Finlande;2014;1250
-France;2014;16400
-French Guianae;2014;87
-Gabone;2014;170
-Georgia;2014;1626
-Germany;2014;32099
-Ghanae;2014;4500
-Greece;2014;5128
-Guadaloupee, 7;2014;300
-Guatemala;2014;3500
-Guinea;2014;435
-Guyana;2014;2
-Haitie;2014;200
-Hondurase;2014;1700
-Hong Kong;2014;1900
-Hungary;2014;2100
-Iceland;2014;--
-Indiae;2014;280000
-Indonesia;2014;56760
-Iran;2014;66700
-Iraqe;2014;9000
-Irelande;2014;2000
-Israel;2014;6603
-Italy;2014;21400
-Jamaica;2014;830
-Japan;2014;57913
-Jordan;2014;4400
-Kazakhstan;2014;8140
-Kenya;2014;5883
-Korea, North;2014;6675
-Korea, Republic of;2014;47048
-Kosovoe;2014;630
-Kuwaite;2014;3800
-Kyrgyzstan;2014;1730
-Laose;2014;1900
-Latviae;2014;1100
-Lebanon;2014;5517
-Liberia;2014;295
-Libyae;2014;3300
-Lithuania;2014;903
-Luxembourg;2014;1100
-Macau;2014;590
-Macedonia;2014;660
-Madagascare;2014;240
-Malawie;2014;270
-Malaysia;2014;21700
-Mali;2014;660
-Martiniquee;2014;150
-Mauritania;2014;870
-Mexico;2014;36597
-Moldovae;2014;1300
-Mongolia;2014;411
-Morocco;2014;15710
-Mozambique8;2014;1512
-Namibia;2014;731
-Nepale;2014;3100
-Netherlandse;2014;2000
-New Caledoniae, 9;2014;106
-New Zealande;2014;1100
-Nicaraguae;2014;700
-Niger;2014;21
-Nigeriae;2014;20000
-Norwaye;2014;1700
-Omane;2014;5100
-Pakistan;2014;31960
-Panama;2014;2188
-Papua New Guineae;2014;200
-Paraguaye;2014;1000
-Peru;2014;10676
-Philippines;2014;21305
-Poland;2014;15358
-Portugale;2014;6000
-Qatare;2014;6500
-Reunione;2014;400
-Romania;2014;7621
-Russia;2014;69139
-Rwandae;2014;140
-Saudi Arabia;2014;57223
-Senegal;2014;4899
-Serbia;2014;1605
-Sierra Leone;2014;336
-Slovakia;2014;3319
-Slovenia;2014;706
-South Africa, finished products, sales;2014;12068
-Spain;2014;14587
-Sri Lanka;2014;1885
-Sudan;2014;3478
-Suriname;2014;130
-Sweden;2014;2500
-Switzerland;2014;4280
-Syriae;2014;3800
-Taiwan;2014;14592
-Tajikistan;2014;1150
-Tanzania;2014;2809
-Thailand;2014;34980
-Togoe, 10;2014;1700
-Trinidad and Tobago;2014;837
-Tunisia;2014;9127
-Turkey;2014;71329
-Turkmenistan;2014;2900
-Uganda;2014;2141
-Ukraine;2014;8636
-United Arab Emiratese;2014;20000
-United Kingdom;2014;8958
-United States, including Puerto Rico11;2014;83124
-Uruguay;2014;820
-Uzbekistan;2014;7350
-Venezuela;2014;7940
-Vietnam;2014;60982
-Yemene;2014;3100
-Zambiae;2014;2200
-Zimbabwee;2014;1300
-Totale;2014;4190000
-Afghanistan;2015;70
-Albania;2015;1980
-Algeriae;2015;23000
-Angolae;2015;5200
-Argentina;2015;11000
-Armenia;2015;417
-Australiae;2015;9100
-Austria;2015;4700
-Azerbaijan;2015;2683
-Bahraine;2015;1300
-Bangladesh3;2015;18000
-Barbados;2015;160
-Belarus;2015;4638
-Belgium;2015;6400
-Benin;2015;1800
-Bhutan;2015;791
-Bolivia;2015;3468
-Bosnia and Herzegovina;2015;808
-Botswanae;2015;15
-Brazil;2015;65283
-Brunei;2015;230
-Bulgaria;2015;2114
-Burkina Faso;2015;263
-Burma4;2015;903
-Burundie;2015;100
-Cambodia;2015;1500
-Cameroon;2015;1600
-Canada;2015;12167
-Chade;2015;200
-Chile;2015;4800
-China;2015;2359000
-Colombia;2015;13153
-Congo (Brazzaville);2015;700
-Congo (Kinshasa);2015;399
-Costa Ricae;2015;1600
-Côte d’Ivoiree;2015;3100
-Croatia;2015;2449
-Cuba;2015;1518
-Cyprus;2015;788
-Czechia;2015;3781
-Denmark;2015;1900
-Djibouti;2015;180
-Dominican Republic;2015;5181
-Ecuador;2015;5900
-Egypt;2015;53940
-El Salvadore;2015;1000
-Eritreae;2015;200
-Estonia;2015;390
-Ethiopia5;2015;7500
-Fiji;2015;204
-Finlande;2015;1300
-France;2015;15600
-French Guiana;2015;76
-Gabone;2015;150
-Georgia;2015;1759
-Germany;2015;31160
-Ghana;2015;3830
-Greece;2015;5290
-Guadaloupee;2015;300
-Guatemala;2015;3500
-Guinea;2015;500
-Guyana;2015;100
-Haitie;2015;200
-Honduras;2015;1700
-Hong Kong;2015;1900
-Hungary;2015;1750
-Iceland;2015;--
-Indiae;2015;300000
-Indonesia;2015;59850
-Iran;2015;58600
-Iraqe;2015;10000
-Ireland;2015;2500
-Israel;2015;6904
-Italy;2015;22000
-Jamaica;2015;808
-Japan;2015;54827
-Jordan;2015;4550
-Kazakhstan;2015;8729
-Kenya;2015;6353
-Korea, North;2015;6697
-Korea, Republic of;2015;52044
-Kosovoe;2015;590
-Kuwaite;2015;4200
-Kyrgyzstan;2015;1496
-Laose;2015;2000
-Latvia;2015;1100
-Lebanon;2015;5580
-Liberia;2015;298
-Libyae;2015;5000
-Lithuania;2015;980
-Luxembourg;2015;1080
-Macau;2015;600
-Macedonia;2015;672
-Madagascare;2015;240
-Malawie;2015;280
-Malaysia;2015;22000
-Mali;2015;630
-Martiniquee;2015;150
-Mauritania;2015;860
-Mexico;2015;39613
-Moldovae;2015;1200
-Mongolia;2015;410
-Morocco;2015;16000
-Mozambique6;2015;1585
-Namibia;2015;796
-Nepale;2015;2000
-Netherlands;2015;2260
-New Caledoniae, 7;2015;112
-New Zealand;2015;1200
-Nicaraguae;2015;700
-Niger;2015;51
-Nigeriae;2015;21000
-Norway;2015;1800
-Oman;2015;5300
-Pakistan;2015;33300
-Panama;2015;2200
-Papua New Guineae;2015;200
-Paraguaye;2015;1200
-Peru;2015;10410
-Philippines;2015;24050
-Poland;2015;15206
-Portugal;2015;5600
-Qatar;2015;6500
-Reunione;2015;250
-Romania;2015;8356
-Russia;2015;62104
-Rwanda;2015;200
-Saudi Arabia;2015;61900
-Senegal;2015;4615
-Serbia;2015;1654
-Sierra Leone;2015;324
-Slovakia;2015;3466
-Slovenia;2015;600
-South Africa, sales;2015;13000
-Spain, including Canary Islands;2015;15000
-Sri Lanka;2015;2287
-Sudan;2015;3708
-Suriname;2015;150
-Sweden;2015;2800
-Switzerland;2015;4390
-Syriae;2015;4000
-Taiwan;2015;13445
-Tajikistan;2015;1418
-Tanzania;2015;3135
-Thailand;2015;36216
-Togo7;2015;1500
-Trinidad and Tobago;2015;840
-Tunisia;2015;9516
-Turkey;2015;71419
-Turkmenistan;2015;3300
-Uganda;2015;2340
-Ukraine;2015;8511
-United Arab Emiratese;2015;20000
-United Kingdom;2015;9600
-United States, including Puerto Rico8;2015;84940
-Uruguay;2015;730
-Uzbekistan;2015;7900
-Venezuela;2015;8210
-Vietnam;2015;67427
-Yemen;2015;3100
-Zambia;2015;2100
-Zimbabwe;2015;1300
-Totale;2015;4100000
-Afghanistan;2016;101
-Albania;2016;2000
-Algeria;2016;23000
-Angolae;2016;5000
-Argentina;2016;11000
-Armenia;2016;267
-Australiae;2016;9600
-Austria;2016;4600
-Azerbaijan;2016;2310
-Bahraine;2016;1400
-Bangladesh3;2016;32000
-Barbados;2016;160
-Belarus;2016;4503
-Belgium;2016;6255
-Benin;2016;1356
-Bhutan;2016;940
-Bolivia;2016;3601
-Bosnia and Herzegovina;2016;841
-Botswana;2016;15
-Brazil;2016;57476
-Bruneie;2016;230
-Bulgaria;2016;1994
-Burkina Faso;2016;300
-Burma4;2016;2520
-Burundie;2016;100
-Cambodia;2016;2100
-Cameroon;2016;2600
-Canada;2016;11870
-Chade;2016;200
-Chilee;2016;4200
-China;2016;2410000
-Colombia;2016;12495
-Congo (Brazzaville);2016;950
-Congo (Kinshasa);2016;253
-Costa Rica;2016;1600
-Côte d’Ivoiree;2016;3600
-Croatia;2016;2267
-Cuba;2016;1493
-Cyprus;2016;1019
-Czechia;2016;3937
-Denmark;2016;2260
-Djiboutie;2016;180
-Dominican Republic;2016;5171
-Ecuadore;2016;5600
-Egypt;2016;55000
-El Salvadore;2016;1000
-Eritrea;2016;200
-Estonia;2016;399
-Ethiopia5;2016;8300
-Fiji;2016;219
-Finlande;2016;1300
-France;2016;15900
-French Guiana;2016;91
-Gabon;2016;--
-Georgia;2016;1809
-Germany;2016;32737
-Ghana;2016;4000
-Greece;2016;6540
-Guadeloupee;2016;300
-Guatemala;2016;3600
-Guinea;2016;500
-Guyana;2016;400
-Haitie;2016;200
-Hondurase;2016;1700
-Hong Kong;2016;1900
-Hungary;2016;1280
-India;2016;280000
-Indonesia;2016;62000
-Iran;2016;55000
-Iraqe;2016;10000
-Irelande;2016;2500
-Israel;2016;7150
-Italy;2016;19300
-Jamaica;2016;911
-Japan;2016;53255
-Jordan;2016;4800
-Kazakhstan;2016;9204
-Kenya;2016;6715
-Korea, North;2016;7080
-Korea, Republic of;2016;56747
-Kosovoe;2016;710
-Kuwaite;2016;4200
-Kyrgyzstan;2016;1302
-Laos;2016;3398
-Latvia;2016;1000
-Lebanon;2016;5247
-Liberia;2016;241
-Libya;2016;4300
-Lithuania;2016;1010
-Luxembourg;2016;1100
-Macau;2016;--
-Macedonia;2016;855
-Madagascar;2016;240
-Malawi;2016;420
-Malaysia;2016;22330
-Mali;2016;630
-Martiniquee;2016;150
-Mauritania;2016;880
-Mexico;2016;40577
-Moldova;2016;975
-Mongolia;2016;432
-Morocco;2016;15800
-Mozambique;2016;2446
-Namibia;2016;778
-Nepale;2016;4500
-Netherlands;2016;2260
-New Caledonia;2016;112
-New Zealande;2016;900
-Nicaraguae;2016;700
-Niger;2016;51
-Nigeriae;2016;22000
-Norway;2016;1850
-Oman;2016;5500
-Pakistan;2016;37020
-Panamae;2016;2200
-Papua New Guineae;2016;200
-Paraguaye;2016;1300
-Peru;2016;10094
-Philippines;2016;25000
-Poland;2016;15782
-Portugal;2016;4200
-Qatar;2016;6500
-Reunione;2016;250
-Romania;2016;8038
-Russia;2016;54935
-Rwandae;2016;350
-Saudi Arabia;2016;55943
-Senegal;2016;5149
-Serbia;2016;1801
-Sierra Leone;2016;320
-Slovakia;2016;3518
-Slovenia;2016;700
-South Africa;2016;13000
-Spain;2016;15000
-Sri Lanka;2016;2695
-Sudan;2016;4013
-Surinamee;2016;150
-Swedene;2016;2800
-Switzerland;2016;4710
-Syria;2016;2000
-Taiwan;2016;12126
-Tajikistan;2016;1361
-Tanzania;2016;4071
-Thailand;2016;39940
-Togo7;2016;1500
-Trinidad and Tobago;2016;721
-Tunisia, portland:;2016;
-Grey;2016;8495
-White;2016;532
-Total;2016;9028
-Turkey;2016;75403
-Turkmenistan;2016;3500
-Uganda;2016;2494
-Ukraine;2016;9023
-United Arab Emiratese;2016;22000
-United Kingdom;2016;9400
-United States7;2016;85153
-Uruguay;2016;740
-Uzbekistan;2016;8300
-Venezuela;2016;7300
-Vietnam;2016;74457
-Yemen;2016;2400
-Zambiae;2016;2000
-Zimbabwe;2016;1500
-Grand total;2016;4150000
-Afghanistan;2017;180
-Albania;2017;2000
-Algeria;2017;26900
-Angola;2017;460
-Argentina;2017;11960
-Armenia;2017;356
-Australiae;2017;9700
-Austria;2017;4900
-Azerbaijan;2017;2955
-Bahraine;2017;1500
-Bangladesh2;2017;32000
-Barbadose;2017;160
-Belarus;2017;4490
-Belgium;2017;6513
-Benin;2017;1360
-Bhutan;2017;894
-Bolivia;2017;3611
-Bosnia and Herzegovina;2017;910
-Botswana;2017;15
-Brazil;2017;54004
-Bruneie;2017;270
-Bulgaria;2017;2117
-Burkina Faso;2017;300
-Burma3;2017;5480
-Burundie;2017;45
-Cambodia;2017;3400
-Cameroon;2017;2800
-Canada;2017;12710
-Chade;2017;300
-Chilee;2017;4200
-China;2017;2331000
-Colombia;2017;12299
-Congo (Brazzaville)e;2017;1050
-Congo (Kinshasa);2017;900
-Costa Ricae;2017;1800
-Côte d’Ivoire;2017;3500
-Croatia;2017;2515
-Cuba;2017;1431
-Cyprus;2017;1319
-Czechia;2017;4043
-Denmark;2017;3554
-Djiboutie;2017;190
-Dominican Republic;2017;5254
-Ecuadore;2017;5700
-Egypt;2017;68500
-El Salvadore;2017;1000
-Eritreae;2017;210
-Estonia;2017;503
-Ethiopia4;2017;9000
-Fiji;2017;141
-Finlande;2017;1300
-France;2017;16900
-French Guiana;2017;80
-Gabon;2017;340
-Georgia;2017;2058
-Germany;2017;33991
-Ghana;2017;3800
-Greece;2017;6246
-Guadeloupee;2017;300
-Guatemalae;2017;3700
-Guinea;2017;500
-Guyana;2017;400
-Haitie;2017;200
-Hondurase;2017;1700
-Hong Konge;2017;1900
-Hungarye;2017;1660
-India;2017;281000
-Indonesia;2017;69279
-Iran;2017;55000
-Iraqe;2017;10000
-Ireland;2017;3200
-Israel;2017;6361
-Italy;2017;19300
-Jamaica;2017;910
-Japan;2017;55195
-Jordan;2017;5060
-Kazakhstan;2017;9398
-Kenya;2017;6163
-Korea, North;2017;6840
-Korea, Republic of;2017;57400
-Kosovoe;2017;840
-Kuwait;2017;4400
-Kyrgyzstan;2017;1505
-Laos;2017;3938
-Latvia;2017;989
-Lebanon;2017;5500
-Liberia;2017;285
-Libya;2017;6560
-Lithuania;2017;1023
-Luxembourg;2017;1100
-Macau;2017;--
-Macedonia;2017;901
-Madagascar;2017;180
-Malawi;2017;211
-Malaysia;2017;18800
-Mali;2017;630
-Martiniquee;2017;150
-Mauritania;2017;640
-Mexico;2017;41601
-Moldova;2017;1116
-Mongolia;2017;675
-Morocco;2017;15000
-Mozambique;2017;2350
-Namibia;2017;780
-Nepal;2017;6000
-Netherlands;2017;2300
-New Caledonia;2017;104
-New Zealande;2017;360
-Nicaraguae;2017;900
-Niger;2017;51
-Nigeriae;2017;19000
-Norwaye;2017;1900
-Omane;2017;5700
-Pakistan;2017;38900
-Panamae;2017;1900
-Papua New Guineae;2017;200
-Paraguaye;2017;1400
-Peru;2017;9980
-Philippines;2017;26000
-Poland;2017;17254
-Portugal;2017;4700
-Qatar;2017;7200
-Reunion;2017;180
-Romania;2017;8442
-Russia;2017;54721
-Rwandae;2017;390
-Saudi Arabia;2017;47134
-Senegal;2017;5197
-Serbia;2017;1908
-Sierra Leone;2017;324
-Slovakia;2017;3782
-Slovenia;2017;660
-South Africa;2017;14000
-Spain;2017;14500
-Sri Lanka;2017;2819
-Sudan;2017;4326
-Suriname;2017;30
-Swedene;2017;2800
-Switzerland;2017;4500
-Syria;2017;1600
-Taiwan;2017;10876
-Tajikistan;2017;3117
-Tanzania;2017;4200
-Thailand;2017;33587
-Togo;2017;1500
-Trinidad and Tobago;2017;670
-Tunisia;2017;8053
-Turkey;2017;80552
-Turkmenistane;2017;3600
-Uganda;2017;2498
-Ukraine;2017;9003
-United Arab Emirates;2017;23000
-United Kingdom;2017;9359
-United States6;2017;86799
-Uruguay;2017;817
-Uzbekistan;2017;8497
-Venezuela;2017;8030
-Vietnam;2017;78843
-Yemen;2017;1950
-Zambia;2017;2210
-Zimbabwe;2017;1750
- Grand totale;2017;4110000
-Afghanistan;2018;110
-Albania;2018;1940
-Algeria;2018;31100
-Angola;2018;2700
-Argentina;2018;11842
-Armenia;2018;546
-Australiae;2018;10200
-Austria;2018;5200
-Azerbaijan;2018;3445
-Bahrain;2018;1600
-Bangladeshe, 2;2018;30100
-Barbadose;2018;160
-Belarus;2018;4519
-Belgium;2018;6737
-Benin;2018;2530
-Bhutan;2018;941
-Bolivia;2018;3650
-Bosnia and Herzegovina;2018;995
-Botswana;2018;1
-Brazil;2018;53553
-Bruneie;2018;290
-Bulgaria;2018;2331
-Burkina Faso;2018;1980
-Burma3;2018;6500
-Burundie;2018;100
-Cambodia;2018;4900
-Cameroone;2018;2800
-Canada;2018;13554
-Chad;2018;400
-Chile;2018;3990
-China;2018;2208000
-Colombia;2018;12452
-Congo, Brazzavillee;2018;700
-Congo, Kinshasa;2018;1048
-Costa Ricae;2018;1900
-Cote d'Ivoire;2018;4000
-Croatia;2018;2490
-Cuba;2018;1590
-Cyprus;2018;1358
-Czechia;2018;4428
-Denmark;2018;3343
-Djibouti;2018;180
-Dominican Republic;2018;5430
-Ecuadore;2018;5760
-Egypt;2018;81200
-El Salvador;2018;1090
-Eritreae;2018;280
-Estonia;2018;527
-Ethiopiae, 4;2018;9300
-Fiji;2018;143
-Finlande;2018;1300
-France;2018;16500
-French Guiana;2018;93
-Gabon;2018;490
-Georgia;2018;1981
-Germany;2018;33633
-Ghana;2018;4990
-Greece;2018;6580
-Guadeloupee;2018;310
-Guatemala;2018;3520
-Guinea;2018;1380
-Guyanae;2018;410
-Haitie;2018;200
-Honduras;2018;1960
-Hong Kong;2018;1640
-Hungarye;2018;1670
-India;2018;298000
-Indonesia;2018;75213
-Iran;2018;58000
-Iraqe;2018;14000
-Irelande;2018;3290
-Israel;2018;5858
-Italy;2018;19300
-Jamaica;2018;787
-Japan;2018;55307
-Jordan;2018;4680
-Kazakhstan;2018;9913
-Kenya;2018;6070
-Korea, North;2018;5830
-Korea, Republic of;2018;57500
-Kosovoe;2018;850
-Kuwaite;2018;3300
-Kyrgyzstan;2018;1931
-Laos;2018;4800
-Latviae;2018;1000
-Lebanon;2018;4800
-Liberia;2018;314
-Libya;2018;4500
-Lithuania;2018;1151
-Luxembourg;2018;1100
-Macedonia;2018;921
-Madagascar;2018;210
-Malawi;2018;232
-Malaysia;2018;20000
-Mali;2018;690
-Martiniquee;2018;150
-Mauritania;2018;920
-Mexico;2018;48328
-Moldova;2018;1233
-Mongolia;2018;934
-Morocco;2018;15300
-Mozambique;2018;2400
-Namibia;2018;930
-Nepal;2018;9000
-Netherlands;2018;2390
-New Caledonia;2018;86
-New Zealande;2018;450
-Nicaragua;2018;680
-Niger;2018;52
-Nigeriae;2018;21000
-Norway;2018;1770
-Omane;2018;5300
-Pakistan;2018;40800
-Panama;2018;1670
-Papua New Guineae;2018;200
-Paraguaye;2018;1500
-Peru;2018;10049
-Philippines;2018;28500
-Poland;2018;18957
-Portugal;2018;3960
-Qatar;2018;4800
-Reunion;2018;200
-Romania;2018;8951
-Russia;2018;53678
-Rwandae;2018;400
-Saudi Arabia;2018;42181
-Senegal;2018;5412
-Serbia;2018;2093
-Sierra Leone;2018;325
-Slovakia;2018;3913
-Sloveniae;2018;680
-South Africa;2018;12500
-Spain;2018;14600
-Sri Lanka;2018;2841
-Sudan;2018;4053
-Suriname;2018;30
-Sweden;2018;3200
-Switzerland;2018;4290
-Syria;2018;2150
-Taiwan;2018;10939
-Tajikistan;2018;3844
-Tanzania;2018;4509
-Thailand;2018;32660
-Togo5;2018;1410
-Trinidad and Tobago;2018;663
-Tunisia;2018;7850
-Turkey;2018;72544
-Turkmenistane;2018;3800
-Uganda;2018;2200
-Ukraine;2018;9241
-United Arab Emiratese;2018;16300
-United Kingdom;2018;9197
-United States6;2018;88021
-Uruguay;2018;812
-Uzbekistan;2018;9200
-Venezuela;2018;5100
-Vietnam;2018;89121
-Yemen;2018;1880
-Zambia;2018;2751
-Zimbabwe;2018;1440
-Totale;2018;4050000
-Afghanistane;2019;80
-Albania;2019;1770
-Algeria;2019;25370
-Angola;2019;2470
-Argentina;2019;11082
-Armenia;2019;591
-Australiae;2019;9900
-Austria;2019;5200
-Azerbaijan;2019;3488
-Bahrain;2019;670
-Bangladesh3;2019;33800
-Barbadose;2019;160
-Belarus;2019;4728
-Belgium;2019;7857
-Benin;2019;2500
-Bhutan;2019;1190
-Bolivia;2019;3900
-Bosnia and Herzegovina;2019;955
-Botswana;2019;--
-Brazil;2019;56611
-Bruneie;2019;290
-Bulgaria;2019;2456
-Burkina Faso;2019;2745
-Burma4;2019;7700
-Burundie;2019;75
-Cambodia;2019;7870
-Cameroon;2019;2780
-Canada;2019;13120
-Chad;2019;410
-Chile;2019;5030
-China;2019;2350000
-Colombia;2019;13013
-Congo (Brazzaville)e;2019;730
-Congo (Kinshasa);2019;1382
-Costa Rica;2019;1220
-Côte d'Ivoire;2019;4900
-Croatia;2019;2968
-Cuba;2019;1407
-Cyprus;2019;1537
-Czechia;2019;4569
-Denmark;2019;2250
-Djibouti;2019;250
-Dominican Republic;2019;5644
-Ecuadore;2019;5550
-Egypt;2019;43800
-El Salvador;2019;1280
-Eritreae;2019;280
-Estonia;2019;411
-Ethiopiae, 5;2019;9600
-Fiji;2019;128
-Finlande;2019;1430
-France;2019;16500
-French Guiana;2019;95
-Gabon;2019;540
-Georgia;2019;2681
-Germany;2019;34200
-Ghana;2019;4990
-Greece;2019;5540
-Guadeloupee;2019;310
-Guatemala;2019;2890
-Guinea;2019;1500
-Guyanae;2019;410
-Haitie;2019;200
-Honduras;2019;1800
-Hong Kong;2019;1600
-Hungarye;2019;2500
-Indiae;2019;334000
-Indonesia;2019;71900
-Irane;2019;60400
-Iraqe;2019;27000
-Irelande;2019;3700
-Israel;2019;5000
-Italy;2019;19200
-Jamaica;2019;759
-Japan;2019;53462
-Jordan;2019;3200
-Kazakhstan;2019;10268
-Kenya;2019;6163
-Korea, North;2019;5600
-Korea, Republic of;2019;50000
-Kosovoe;2019;816
-Kuwaite;2019;3900
-Kyrgyzstan;2019;1947
-Laos;2019;5208
-Latviae;2019;1100
-Lebanon;2019;3250
-Liberia;2019;343
-Libya;2019;3600
-Lithuania;2019;1223
-Luxembourg;2019;1150
-Macedonia;2019;896
-Madagascar;2019;120
-Malawi;2019;243
-Malaysia;2019;20000
-Mali;2019;1000
-Martiniquee;2019;150
-Mauritania;2019;1000
-Mexico;2019;39800
-Moldova;2019;1329
-Mongolia;2019;1098
-Morocco;2019;13690
-Mozambique;2019;2700
-Namibia;2019;1000
-Nepal;2019;9860
-Netherlands;2019;3440
-New Caledonia;2019;77
-New Zealande;2019;1000
-Nicaragua;2019;580
-Niger;2019;350
-Nigeriae;2019;23000
-Norway;2019;1480
-Omane;2019;5520
-Pakistan;2019;40500
-Panama;2019;1370
-Papua New Guineae;2019;140
-Paraguaye;2019;1100
-Peru;2019;10574
-Philippines;2019;27700
-Poland;2019;18653
-Portugal;2019;4140
-Qatar;2019;4500
-Reunion;2019;250
-Romania;2019;9937
-Russia;2019;57679
-Rwandae;2019;450
-Saudi Arabia;2019;44341
-Senegal;2019;6775
-Serbia;2019;2151
-Sierra Leonee;2019;350
-Slovakia;2019;4031
-Sloveniae;2019;1035
-South Africa;2019;12726
-Spain;2019;16998
-Sri Lanka;2019;2438
-Sudan;2019;2594
-Suriname;2019;50
-Sweden;2019;2720
-Switzerland;2019;4210
-Syria;2019;3000
-Taiwan;2019;11271
-Tajikistan;2019;4202
-Tanzania;2019;6514
-Thailand;2019;34510
-Togo6;2019;1650
-Trinidad and Tobago;2019;678
-Tunisia;2019;8096
-Turkey;2019;56966
-Turkmenistane;2019;2400
-Uganda;2019;3072
-Ukraine;2019;9201
-United Arab Emiratese;2019;16100
-United Kingdom;2019;9079
-United States7;2019;87710
-Uruguay;2019;737
-Uzbekistan;2019;10990
-Venezuela;2019;1150
-Vietnam;2019;96919
-Yemen;2019;1900
-Zambia;2019;2480
-Zimbabwe;2019;1220
-Totale;2019;4190000
-Afghanistane;2020;80
-Albania;2020;2522
-Algeria;2020;22500
-Angola;2020;2720
-Argentina;2020;9871
-Armenia;2020;715
-Australiae;2020;9600
-Austria;2020;5404
-Azerbaijan;2020;3237
-Bahrain;2020;610
-Bangladesh3;2020;31400
-Barbadose;2020;180
-Belarus;2020;4736
-Belgium;2020;6820
-Benin;2020;2380
-Bhutan;2020;810
-Bolivia;2020;3210
-Bosnia and Herzegovina;2020;1126
-Botswana;2020;--
-Brazil;2020;61052
-Bruneie;2020;250
-Bulgaria;2020;2000
-Burkina Faso;2020;2190
-Burma4;2020;6000
-Burundie;2020;210
-Cambodia;2020;7900
-Cameroon;2020;3440
-Canada;2020;13000
-Chad;2020;390
-Chile;2020;4280
-China;2020;2377000
-Colombia;2020;11849
-Congo (Brazzaville)e;2020;600
-Congo (Kinshasa);2020;1285
-Costa Rica;2020;972
-Côte d'Ivoire;2020;5000
-Croatia;2020;2976
-Cuba;2020;1015
-Cyprus;2020;1496
-Czechia;2020;4513
-Denmark;2020;2490
-Djibouti;2020;240
-Dominican Republic;2020;5200
-Ecuadore;2020;5000
-Egypt;2020;44900
-El Salvador;2020;1000
-Eritreae;2020;160
-Estonia;2020;254
-Ethiopiae, 5;2020;9700
-Fiji;2020;97
-Finlande;2020;1470
-France;2020;16700
-French Guiana;2020;90
-Gabon;2020;510
-Georgia;2020;2446
-Germany;2020;35485
-Ghana;2020;5120
-Greece;2020;5450
-Guadeloupee;2020;310
-Guatemala;2020;3230
-Guinea;2020;1540
-Guyanae;2020;400
-Haitie;2020;300
-Honduras;2020;1490
-Hong Kong;2020;1500
-Hungarye;2020;2300
-Indiae;2020;290000
-Indonesia;2020;62700
-Irane;2020;68300
-Iraqe;2020;28000
-Irelande;2020;3400
-Israel;2020;5250
-Italy;2020;20400
-Jamaica;2020;940
-Japan;2020;50905
-Jordan;2020;3320
-Kazakhstan;2020;10962
-Kenya;2020;7474
-Korea, North;2020;5690
-Korea, Republic of;2020;47518
-Kosovoe;2020;815
-Kuwaite;2020;3400
-Kyrgyzstan;2020;1874
-Laos;2020;6162
-Latviae;2020;1100
-Lebanon;2020;1958
-Liberia;2020;416
-Libya;2020;3100
-Lithuania;2020;1221
-Luxembourg;2020;1140
-Madagascar;2020;150
-Malawi;2020;520
-Malaysia;2020;19936
-Mali;2020;1700
-Martiniquee;2020;150
-Mauritania;2020;970
-Mexico;2020;47833
-Moldova;2020;1235
-Mongolia;2020;1182
-Morocco;2020;12300
-Mozambique;2020;2800
-Namibiae;2020;901
-Nepal;2020;8250
-Netherlands;2020;2980
-New Caledonia;2020;73
-New Zealande;2020;2980
-Nicaragua;2020;510
-Niger;2020;350
-Nigeriae;2020;26000
-North Macedonia;2020;928
-Norway;2020;1440
-Omane;2020;6230
-Pakistan;2020;43400
-Panama;2020;754
-Papua New Guineae;2020;130
-Paraguaye;2020;1000
-Peru;2020;9140
-Philippines;2020;23000
-Poland;2020;18900
-Portugal;2020;4290
-Qatar;2020;3900
-Reunion;2020;218
-Romania;2020;10539
-Russia;2020;56165
-Rwandae;2020;490
-Saudi Arabia;2020;53418
-Senegal;2020;7038
-Serbia;2020;2364
-Sierra Leone;2020;345
-Slovakia;2020;4072
-Sloveniae;2020;920
-South Africa;2020;12000
-Spain;2020;15600
-Sri Lanka;2020;2650
-Sudan;2020;2387
-Suriname;2020;50
-Sweden;2020;2800
-Switzerland;2020;4150
-Syria;2020;2400
-Taiwan;2020;11786
-Tajikistan;2020;4243
-Tanzania;2020;6496
-Thailand;2020;38616
-Togo;2020;1550
-Trinidad and Tobago;2020;632
-Tunisia;2020;7161
-Turkey;2020;72299
-Turkmenistane;2020;1900
-Uganda;2020;3738
-Ukraine;2020;9568
-United Arab Emiratese;2020;14900
-United Kingdom;2020;8046
-United States6;2020;89800
-Uruguay;2020;825
-Uzbekistan;2020;12540
-Venezuela;2020;1470
-Vietnam;2020;112283
-Yemen;2020;1700
-Zambia;2020;2797
-Zimbabwe;2020;1280
-Total;2020;4210000
+;Country;year;value
+AFG;Afghanistan;2001;50
+ALB;Albania;2001;39
+DZA;Algeria;2001;8300
+AGO;Angola;2001;350
+ARG;Argentina;2001;5545
+ARM;Armenia;2001;300
+AUS;Australia;2001;7500
+AUT;Austria;2001;3863
+AZE;Azerbaijan;2001;500
+BHR;Bahrain;2001;89
+BGD;Bangladesh;2001;5005
+BRB;Barbados;2001;250
+BLR;Belarus;2001;1803
+BEL;Belgium;2001;7500
+BEN;Benin;2001;250
+BTN;Bhutan;2001;160
+BOL;Bolivia;2001;1100
+BIH;Bosnia and Herzegovina;2001;300
+BRA;Brazil;2001;38927
+BRN;Brunei;2001;227
+BGR;Bulgaria;2001;2200
+BFA;Burkina Faso;2001;50
+MMR;Burma;2001;378
+KHM;Cambodia;2001;50
+CMR;Cameroon;2001;930
+CAN;Canada;2001;12986
+CHL;Chile;2001;3500
+CHN;China;2001;661040
+COL;Colombia;2001;9800
+COG;Congo (Brazzaville);2001;NA
+COD;Congo (Kinshasa);2001;192
+CRI;Costa Rica;2001;1100
+CIV;Cote d'Ivoire;2001;650
+HRV;Croatia;2001;3246
+CUB;Cuba;2001;1324
+CYP;Cyprus;2001;1369
+CZE;Czechia;2001;3550
+DNK;Denmark;2001;2010
+DOM;Dominican Republic;2001;2976
+ECU;Ecuador;2001;2850
+EGY;Egypt;2001;24500
+SLV;El Salvador;2001;1174
+ERI;Eritrea;2001;45
+EST;Estonia;2001;405
+ETH;Ethiopia;2001;950
+FJI;Fiji;2001;95
+FIN;Finland;2001;1325
+FRA;France;2001;19839
+GUF;French Guiana;2001;58
+GAB;Gabon;2001;210
+GEO;Georgia;2001;300
+DEU;Germany;2001;30989
+GHA;Ghana;2001;1900
+GRC;Greece;2001;15000
+GLP;Guadeloupe;2001;230
+GTM;Guatemala;2001;1600
+GIN;Guinea;2001;300
+HTI;Haiti;2001;204
+HND;Honduras;2001;1100
+HKG;Hong Kong;2001;1300
+HUN;Hungary;2001;3452
+ISL;Iceland;2001;125
+IND;India;2001;100000
+IDN;Indonesia;2001;31300
+IRN;Iran;2001;26650
+IRQ;Iraq;2001;2000
+IRL;Ireland;2001;2600
+ISR;Israel;2001;6900
+ITA;Italy;2001;39804
+JAM;Jamaica;2001;596
+JPN;Japan;2001;76550
+JOR;Jordan;2001;3173
+KAZ;Kazakhstan;2001;2029
+KEN;Kenya;2001;1085
+PRK;Korea, North;2001;5160
+KOR;Korea, Republic of;2001;52046
+KWT;Kuwait;2001;1600
+KGZ;Kyrgyzstan;2001;469
+LAO;Laos;2001;92
+LVA;Latvia;2001;W
+LBN;Lebanon;2001;2890
+LBR;Liberia;2001;15
+LBY;Libya;2001;3000
+LTU;Lithuania;2001;529
+LUX;Luxembourg;2001;750
+MDK;Macedonia;2001;450
+MDG;Madagascar;2001;52
+MWI;Malawi;2001;181
+MYS;Malaysia;2001;13820
+MLI;Mali;2001;NA
+MTQ;Martinique;2001;220
+MRT;Mauritania;2001;110
+MEX;Mexico;2001;29966
+MDA;Moldova;2001;200
+MNG;Mongolia;2001;68
+MAR;Morocco;2001;10000
+MOZ;Mozambique;2001;265
+NAM;Namibia;2001;NA
+NPL;Nepal;2001;285
+NLD;Netherlands;2001;3450
+NCL;New Caledonia;2001;93
+NZL;New Zealand;2001;950
+NIC;Nicaragua;2001;360
+NER;Niger;2001;40
+NGA;Nigeria;2001;3000
+NOR;Norway;2001;1870
+OMN;Oman;2001;1370
+PAK;Pakistan;2001;9900
+PAN;Panama;2001;760
+PRY;Paraguay;2001;650
+PER;Peru;2001;3950
+PHL;Philippines;2001;8653
+POL;Poland;2001;11918
+PRT;Portugal;2001;10300
+QAT;Qatar;2001;1050
+REU;Reunion;2001;400
+ROU;Romania;2001;5668
+RUS;Russia;2001;35300
+RWA;Rwanda;2001;83
+SAU;Saudi Arabia;2001;20608
+SEN;Senegal;2001;1000
+SRB;Serbia;2001;2418
+SLE;Sierra Leone;2001;100
+SGP;Singapore;2001;600
+SVK;Slovakia;2001;3123
+SVN;Slovenia;2001;1300
+ZAF;South Africa;2001;8036
+ESP;Spain;2001;40512
+LKA;Sri Lanka;2001;1108
+SDN;Sudan;2001;190
+SUR;Surinam;2001;65
+SWE;Sweden;2001;2600
+CHE;Switzerland;2001;3950
+SYR;Syria;2001;4840
+TWN;Taiwan;2001;18128
+TJK;Tajikistan;2001;70
+TZA;Tanzania;2001;900
+THA;Thailand;2001;27913
+TGO;Togo;2001;800
+TTO;Trinidad and Tobago;2001;708
+TUN;Tunisia;2001;5721
+TKM;Turkmenistan;2001;450
+TUR;Turkey;2001;30125
+UGA;Uganda;2001;420
+UKR;Ukraine;2001;5800
+ARE;United Arab Emirates;2001;6100
+GBR;United Kingdom;2001;11854
+USA;United States;2001;90450
+URY;Uruguay;2001;1015
+UZB;Uzbekistan;2001;4000
+VEN;Venezuela;2001;8700
+VNM;Vietnam;2001;15374
+YEM;Yemen;2001;1400
+ZMB;Zambia;2001;350
+ZWE;Zimbabwe;2001;800
+WLD;Total;2001;1730000
+AFG;Afghanistan;2002;60
+ALB;Albania;2002;50
+DZA;Algeria;2002;9000
+AGO;Angola;2002;250
+ARG;Argentina;2002;3910
+ARM;Armenia;2002;400
+AUS;Australia;2002;7550
+AUT;Austria;2002;3800
+AZE;Azerbaijan;2002;800
+BHR;Bahrain;2002;67
+BGD;Bangladesh;2002;5000
+BRB;Barbados;2002;298
+BLR;Belarus;2002;2171
+BEL;Belgium;2002;8000
+BEN;Benin;2002;250
+BTN;Bhutan;2002;160
+BOL;Bolivia;2002;1010
+BIH;Bosnia and Herzegovina;2002;300
+BRA;Brazil;2002;38027
+BRN;Brunei;2002;241
+BGR;Bulgaria;2002;2137
+BFA;Burkina Faso;2002;30
+MMR;Burma;2002;400
+KHM;Cambodia;2002;NA
+CMR;Cameroon;2002;950
+CAN;Canada;2002;13200
+CHL;Chile;2002;3522
+CHN;China;2002;725000
+COL;Colombia;2002;6604
+COG;Congo (Brazzaville);2002;NA
+COD;Congo (Kinshasa);2002;190
+CRI;Costa Rica;2002;1100
+CIV;Cote d'Ivoire;2002;650
+HRV;Croatia;2002;3378
+CUB;Cuba;2002;1327
+CYP;Cyprus;2002;1600
+CZE;Czechia;2002;3500
+DNK;Denmark;2002;2010
+DOM;Dominican Republic;2002;3050
+ECU;Ecuador;2002;3000
+EGY;Egypt;2002;28000
+SLV;El Salvador;2002;1318
+ERI;Eritrea;2002;45
+EST;Estonia;2002;466
+ETH;Ethiopia;2002;900
+FJI;Fiji;2002;95
+FIN;Finland;2002;1350
+FRA;France;2002;20000
+GUF;French Guiana;2002;62
+GAB;Gabon;2002;350
+GEO;Georgia;2002;347
+DEU;Germany;2002;30000
+GHA;Ghana;2002;1900
+GRC;Greece;2002;15500
+GLP;Guadeloupe;2002;230
+GTM;Guatemala;2002;1600
+GIN;Guinea;2002;360
+HTI;Haiti;2002;290
+HND;Honduras;2002;1100
+HKG;Hong Kong;2002;1206
+HUN;Hungary;2002;3510
+ISL;Iceland;2002;130
+IND;India;2002;102000
+IDN;Indonesia;2002;34640
+IRN;Iran;2002;28600
+IRQ;Iraq;2002;6834
+IRL;Ireland;2002;2500
+ISR;Israel;2002;5150
+ITA;Italy;2002;40000
+JAM;Jamaica;2002;614
+JPN;Japan;2002;71828
+JOR;Jordan;2002;3558
+KAZ;Kazakhstan;2002;2129
+KEN;Kenya;2002;1463
+PRK;Korea, North;2002;5320
+KOR;Korea, Republic of;2002;55514
+KWT;Kuwait;2002;1600
+KGZ;Kyrgyzstan;2002;533
+LAO;Laos;2002;240
+LVA;Latvia;2002;W
+LBN;Lebanon;2002;2852
+LBR;Liberia;2002;54
+LBY;Libya;2002;3300
+LTU;Lithuania;2002;605
+LUX;Luxembourg;2002;750
+MDK;Macedonia;2002;450
+MDG;Madagascar;2002;33
+MWI;Malawi;2002;174
+MYS;Malaysia;2002;14336
+MTQ;Martinique;2002;220
+MRT;Mauritania;2002;110
+MEX;Mexico;2002;31069
+MDA;Moldova;2002;300
+MNG;Mongolia;2002;148
+MAR;Morocco;2002;10200
+MOZ;Mozambique;2002;285
+NAM;Namibia;2002;NA
+NPL;Nepal;2002;290
+NLD;Netherlands;2002;3400
+NCL;New Caledonia;2002;100
+NZL;New Zealand;2002;1090
+NIC;Nicaragua;2002;513
+NER;Niger;2002;55
+NGA;Nigeria;2002;2100
+NOR;Norway;2002;1850
+OMN;Oman;2002;1400
+PAK;Pakistan;2002;9900
+PAN;Panama;2002;760
+PRY;Paraguay;2002;650
+PER;Peru;2002;5654
+PHL;Philippines;2002;12614
+POL;Poland;2002;11700
+PRT;Portugal;2002;10000
+QAT;Qatar;2002;1350
+REU;Reunion;2002;380
+ROU;Romania;2002;5680
+RUS;Russia;2002;37700
+RWA;Rwanda;2002;101
+SAU;Saudi Arabia;2002;22000
+SEN;Senegal;2002;2150
+SRB;Serbia;2002;2396
+SLE;Sierra Leone;2002;144
+SGP;Singapore;2002;200
+SVK;Slovakia;2002;3100
+SVN;Slovenia;2002;1250
+ZAF;South Africa;2002;8525
+ESP;Spain;2002;42500
+LKA;Sri Lanka;2002;1018
+SDN;Sudan;2002;220
+SUR;Surinam;2002;65
+SWE;Sweden;2002;2700
+CHE;Switzerland;2002;4000
+SYR;Syria;2002;5450
+TWN;Taiwan;2002;19363
+TJK;Tajikistan;2002;100
+TZA;Tanzania;2002;1026
+THA;Thailand;2002;36842
+TGO;Togo;2002;800
+TTO;Trinidad and Tobago;2002;744
+TUN;Tunisia;2002;6022
+TKM;Turkmenistan;2002;450
+TUR;Turkey;2002;32577
+UGA;Uganda;2002;502
+UKR;Ukraine;2002;7142
+ARE;United Arab Emirates;2002;6500
+GBR;United Kingdom;2002;12000
+USA;United States;2002;91266
+URY;Uruguay;2002;1000
+UZB;Uzbekistan;2002;4000
+VEN;Venezuela;2002;7000
+VNM;Vietnam;2002;19481
+YEM;Yemen;2002;1400
+ZMB;Zambia;2002;230
+ZWE;Zimbabwe;2002;600
+WLD;Total;2002;1840000
+AFG;Afghanistan;2003;70
+ALB;Albania;2003;578
+DZA;Algeria;2003;9000
+AGO;Angola;2003;250
+ARG;Argentina;2003;5218
+ARM;Armenia;2003;384
+AUS;Australia;2003;8000
+AUT;Austria;2003;3800
+AZE;Azerbaijan;2003;1013
+BHR;Bahrain;2003;70
+BGD;Bangladesh;2003;5000
+BRB;Barbados;2003;330
+BLR;Belarus;2003;2472
+BEL;Belgium;2003;8000
+BEN;Benin;2003;250
+BTN;Bhutan;2003;160
+BOL;Bolivia;2003;1138
+BIH;Bosnia and Herzegovina;2003;891
+BRA;Brazil;2003;34010
+BRN;Brunei;2003;235
+BGR;Bulgaria;2003;2100
+BFA;Burkina Faso;2003;30
+MMR;Burma;2003;572
+CMR;Cameroon;2003;930
+CAN;Canada;2003;13424
+CHL;Chile;2003;3622
+CHN;China;2003;862080
+COL;Colombia;2003;7300
+COG;Congo (Brazzaville);2003;NA
+COD;Congo (Kinshasa);2003;331
+CRI;Costa Rica;2003;1320
+CIV;Cote d'Ivoire;2003;650
+HRV;Croatia;2003;3654
+CUB;Cuba;2003;1700
+CYP;Cyprus;2003;1637
+CZE;Czechia;2003;3465
+DNK;Denmark;2003;2020
+DOM;Dominican Republic;2003;2907
+ECU;Ecuador;2003;3100
+EGY;Egypt;2003;26639
+SLV;El Salvador;2003;1390
+ERI;Eritrea;2003;45
+EST;Estonia;2003;506
+ETH;Ethiopia;2003;1200
+FJI;Fiji;2003;100
+FIN;Finland;2003;1360
+FRA;France;2003;19660
+GUF;French Guiana;2003;62
+GAB;Gabon;2003;350
+GEO;Georgia;2003;300
+DEU;Germany;2003;32349
+GHA;Ghana;2003;1900
+GRC;Greece;2003;15300
+GLP;Guadeloupe;2003;230
+GTM;Guatemala;2003;1900
+GIN;Guinea;2003;360
+HTI;Haiti;2003;300
+HND;Honduras;2003;1400
+HKG;Hong Kong;2003;1250
+HUN;Hungary;2003;3573
+ISL;Iceland;2003;135
+IND;India;2003;123000
+IDN;Indonesia;2003;35000
+IRN;Iran;2003;30000
+IRQ;Iraq;2003;1000
+IRL;Ireland;2003;2500
+ISR;Israel;2003;4632
+ITA;Italy;2003;38000
+JAM;Jamaica;2003;608
+JPN;Japan;2003;68766
+JOR;Jordan;2003;3515
+KAZ;Kazakhstan;2003;2570
+KEN;Kenya;2003;1658
+PRK;Korea, North;2003;5540
+KOR;Korea, Republic of;2003;59194
+KWT;Kuwait;2003;1600
+KGZ;Kyrgyzstan;2003;757
+LAO;Laos;2003;250
+LVA;Latvia;2003;295
+LBN;Lebanon;2003;2900
+LBR;Liberia;2003;30
+LBY;Libya;2003;3500
+LTU;Lithuania;2003;597
+LUX;Luxembourg;2003;750
+MDK;Macedonia;2003;768
+MDG;Madagascar;2003;70
+MWI;Malawi;2003;190
+MYS;Malaysia;2003;17243
+MTQ;Martinique;2003;225
+MRT;Mauritania;2003;200
+MEX;Mexico;2003;33593
+MDA;Moldova;2003;300
+MNG;Mongolia;2003;162
+MAR;Morocco;2003;10400
+MOZ;Mozambique;2003;362
+NPL;Nepal;2003;295
+NLD;Netherlands;2003;3400
+NCL;New Caledonia;2003;100
+NZL;New Zealand;2003;1100
+NIC;Nicaragua;2003;590
+NER;Niger;2003;40
+NGA;Nigeria;2003;2300
+NOR;Norway;2003;1860
+OMN;Oman;2003;2100
+PAK;Pakistan;2003;13000
+PAN;Panama;2003;770
+PRY;Paraguay;2003;660
+PER;Peru;2003;4000
+PHL;Philippines;2003;10000
+POL;Poland;2003;11653
+PRT;Portugal;2003;10000
+QAT;Qatar;2003;1400
+REU;Reunion;2003;380
+ROU;Romania;2003;5992
+RUS;Russia;2003;41000
+RWA;Rwanda;2003;105
+SAU;Saudi Arabia;2003;23000
+SEN;Senegal;2003;2150
+SRB;Serbia;2003;2075
+SLE;Sierra Leone;2003;170
+SGP;Singapore;2003;150
+SVK;Slovakia;2003;3147
+SVN;Slovenia;2003;1300
+ZAF;South Africa;2003;8973
+ESP;Spain;2003;45000
+LKA;Sri Lanka;2003;1164
+SDN;Sudan;2003;272
+SUR;Surinam;2003;65
+SWE;Sweden;2003;2650
+CHE;Switzerland;2003;3800
+SYR;Syria;2003;5250
+TWN;Taiwan;2003;18474
+TJK;Tajikistan;2003;120
+TZA;Tanzania;2003;1186
+THA;Thailand;2003;32530
+TGO;Togo;2003;800
+TTO;Trinidad and Tobago;2003;766
+TUN;Tunisia;2003;6038
+TKM;Turkmenistan;2003;450
+TUR;Turkey;2003;35077
+UGA;Uganda;2003;507
+UKR;Ukraine;2003;8900
+ARE;United Arab Emirates;2003;8000
+GBR;United Kingdom;2003;11215
+USA;United States;2003;94329
+URY;Uruguay;2003;1050
+UZB;Uzbekistan;2003;4000
+VEN;Venezuela;2003;7700
+VNM;Vietnam;2003;23282
+YEM;Yemen;2003;1400
+ZMB;Zambia;2003;480
+ZWE;Zimbabwe;2003;400
+WLD;Total;2003;2020000
+AFG;Afghanistan;2004;70
+ALB;Albania;2004;573
+DZA;Algeria;2004;9000
+AGO;Angola;2004;754
+ARG;Argentina;2004;6254
+ARM;Armenia;2004;501
+AUS;Australia;2004;8000
+AUT;Austria;2004;3976
+AZE;Azerbaijan;2004;1428
+BHR;Bahrain;2004;153
+BGD;Bangladesh;2004;5000
+BRB;Barbados;2004;322
+BLR;Belarus;2004;2731
+BEL;Belgium;2004;6715
+BEN;Benin;2004;250
+BTN;Bhutan;2004;170
+BOL;Bolivia;2004;1276
+BIH;Bosnia and Herzegovina;2004;1045
+BRA;Brazil;2004;34413
+BRN;Brunei;2004;242
+BGR;Bulgaria;2004;2100
+BFA;Burkina Faso;2004;30
+MMR;Burma;2004;519
+CMR;Cameroon;2004;1032
+CAN;Canada;2004;13863
+CHL;Chile;2004;3798
+CHN;China;2004;970000
+COL;Colombia;2004;7822
+COD;Congo (Kinshasa);2004;403
+CRI;Costa Rica;2004;1900
+CIV;Cote d'Ivoire;2004;650
+HRV;Croatia;2004;3811
+CUB;Cuba;2004;1366
+CYP;Cyprus;2004;1689
+CZE;Czechia;2004;3829
+DNK;Denmark;2004;2150
+DOM;Dominican Republic;2004;2636
+ECU;Ecuador;2004;3100
+EGY;Egypt;2004;28763
+SLV;El Salvador;2004;1256
+ERI;Eritrea;2004;45
+EST;Estonia;2004;615
+ETH;Ethiopia;2004;1316
+FJI;Fiji;2004;100
+FIN;Finland;2004;1691
+FRA;France;2004;20962
+GUF;French Guiana;2004;60
+GAB;Gabon;2004;260
+GEO;Georgia;2004;425
+DEU;Germany;2004;31854
+GHA;Ghana;2004;1900
+GRC;Greece;2004;15039
+GLP;Guadeloupe;2004;230
+GTM;Guatemala;2004;1800
+GIN;Guinea;2004;360
+HTI;Haiti;2004;300
+HND;Honduras;2004;1800
+HKG;Hong Kong;2004;1039
+HUN;Hungary;2004;3349
+ISL;Iceland;2004;90
+IND;India;2004;130000
+IDN;Indonesia;2004;36000
+IRN;Iran;2004;32198
+IRQ;Iraq;2004;2500
+IRL;Ireland;2004;4000
+ISR;Israel;2004;4494
+ITA;Italy;2004;46045
+JAM;Jamaica;2004;808
+JPN;Japan;2004;67376
+JOR;Jordan;2004;3908
+KAZ;Kazakhstan;2004;3662
+KEN;Kenya;2004;1789
+PRK;Korea, North;2004;5630
+KOR;Korea, Republic of;2004;54330
+KWT;Kuwait;2004;2635
+KGZ;Kyrgyzstan;2004;800
+LAO;Laos;2004;250
+LVA;Latvia;2004;284
+LBN;Lebanon;2004;3100
+LBR;Liberia;2004;40
+LBY;Libya;2004;3600
+LTU;Lithuania;2004;753
+LUX;Luxembourg;2004;797
+MDK;Macedonia;2004;820
+MDG;Madagascar;2004;130
+MWI;Malawi;2004;120
+MYS;Malaysia;2004;15690
+MTQ;Martinique;2004;220
+MRT;Mauritania;2004;300
+MEX;Mexico;2004;34992
+MDA;Moldova;2004;440
+MNG;Mongolia;2004;62
+MAR;Morocco;2004;11000
+MOZ;Mozambique;2004;370
+NPL;Nepal;2004;285
+NLD;Netherlands;2004;2380
+NCL;New Caledonia;2004;100
+NZL;New Zealand;2004;1110
+NIC;Nicaragua;2004;600
+NER;Niger;2004;55
+NGA;Nigeria;2004;2300
+NOR;Norway;2004;1420
+OMN;Oman;2004;2500
+PAK;Pakistan;2004;16000
+PAN;Panama;2004;820
+PRY;Paraguay;2004;650
+PER;Peru;2004;4590
+PHL;Philippines;2004;13050
+POL;Poland;2004;12566
+PRT;Portugal;2004;8843
+QAT;Qatar;2004;1400
+REU;Reunion;2004;380
+ROU;Romania;2004;6239
+RUS;Russia;2004;45700
+RWA;Rwanda;2004;104
+SAU;Saudi Arabia;2004;25400
+SEN;Senegal;2004;1700
+SRB;Serbia;2004;2240
+SLE;Sierra Leone;2004;180
+SGP;Singapore;2004;NA
+SVK;Slovakia;2004;3158
+SVN;Slovenia;2004;1186
+ZAF;South Africa;2004;12348
+ESP;Spain;2004;46593
+LKA;Sri Lanka;2004;1150
+SDN;Sudan;2004;307
+SUR;Surinam;2004;65
+SWE;Sweden;2004;2588
+CHE;Switzerland;2004;3851
+SYR;Syria;2004;4757
+TWN;Taiwan;2004;19050
+TJK;Tajikistan;2004;194
+TZA;Tanzania;2004;1281
+THA;Thailand;2004;35626
+TGO;Togo;2004;800
+TTO;Trinidad and Tobago;2004;768
+TUN;Tunisia;2004;6358
+TKM;Turkmenistan;2004;450
+TUR;Turkey;2004;38796
+UGA;Uganda;2004;559
+UKR;Ukraine;2004;10600
+ARE;United Arab Emirates;2004;8000
+GBR;United Kingdom;2004;11730
+USA;United States;2004;99015
+URY;Uruguay;2004;1050
+UZB;Uzbekistan;2004;4800
+VEN;Venezuela;2004;9000
+VNM;Vietnam;2004;25320
+YEM;Yemen;2004;1546
+ZMB;Zambia;2004;480
+ZWE;Zimbabwe;2004;400
+WLD;Total;2004;2190000
+AFG;Afghanistan;2005;60
+ALB;Albania;2005;575
+DZA;Algeria;2005;11296
+AGO;Angola;2005;1315
+ARG;Argentina;2005;7595
+ARM;Armenia;2005;605
+AUS;Australia;2005;9000
+AUT;Austria;2005;4736
+AZE;Azerbaijan;2005;1538
+BHR;Bahrain;2005;191
+BGD;Bangladesh;2005;5100
+BRB;Barbados;2005;320
+BLR;Belarus;2005;3131
+BEL;Belgium;2005;7594
+BEN;Benin;2005;250
+BTN;Bhutan;2005;170
+BOL;Bolivia;2005;1440
+BIH;Bosnia and Herzegovina;2005;1026
+BRA;Brazil;2005;36673
+BRN;Brunei;2005;266
+BGR;Bulgaria;2005;2100
+BFA;Burkina Faso;2005;30
+MMR;Burma;2005;543
+CMR;Cameroon;2005;1000
+CAN;Canada;2005;14179
+CHL;Chile;2005;3999
+CHN;China;2005;1068850
+COL;Colombia;2005;9959
+COG;Congo (Brazzaville);2005;100
+COD;Congo (Kinshasa);2005;511
+CRI;Costa Rica;2005;2000
+CIV;Cote d'Ivoire;2005;650
+HRV;Croatia;2005;3481
+CUB;Cuba;2005;1567
+CYP;Cyprus;2005;1805
+CZE;Czechia;2005;3978
+DNK;Denmark;2005;2120
+DOM;Dominican Republic;2005;2779
+ECU;Ecuador;2005;3000
+EGY;Egypt;2005;29000
+SLV;El Salvador;2005;1131
+ERI;Eritrea;2005;45
+EST;Estonia;2005;650
+ETH;Ethiopia;2005;1568
+FJI;Fiji;2005;143
+FIN;Finland;2005;1357
+FRA;France;2005;21277
+GUF;French Guiana;2005;60
+GAB;Gabon;2005;260
+GEO;Georgia;2005;450
+DEU;Germany;2005;30629
+GHA;Ghana;2005;1900
+GRC;Greece;2005;15166
+GLP;Guadeloupe;2005;230
+GTM;Guatemala;2005;2400
+GIN;Guinea;2005;360
+HTI;Haiti;2005;300
+HND;Honduras;2005;1384
+HKG;Hong Kong;2005;1005
+HUN;Hungary;2005;3371
+ISL;Iceland;2005;95
+IND;India;2005;145000
+IDN;Indonesia;2005;33917
+IRN;Iran;2005;32650
+IRQ;Iraq;2005;3000
+IRL;Ireland;2005;5083
+ISR;Israel;2005;5093
+ITA;Italy;2005;40284
+JAM;Jamaica;2005;845
+JPN;Japan;2005;69629
+JOR;Jordan;2005;4046
+KAZ;Kazakhstan;2005;3975
+KEN;Kenya;2005;2123
+PRK;Korea, North;2005;5700
+KOR;Korea, Republic of;2005;51391
+KWT;Kuwait;2005;2145
+KGZ;Kyrgyzstan;2005;900
+LAO;Laos;2005;250
+LVA;Latvia;2005;280
+LBN;Lebanon;2005;4500
+LBR;Liberia;2005;144
+LBY;Libya;2005;3621
+LTU;Lithuania;2005;832
+LUX;Luxembourg;2005;760
+MDK;Macedonia;2005;800
+MDG;Madagascar;2005;150
+MWI;Malawi;2005;160
+MYS;Malaysia;2005;17860
+MTQ;Martinique;2005;220
+MRT;Mauritania;2005;300
+MEX;Mexico;2005;37452
+MDA;Moldova;2005;641
+MNG;Mongolia;2005;112
+MAR;Morocco;2005;11000
+MOZ;Mozambique;2005;560
+NPL;Nepal;2005;290
+NLD;Netherlands;2005;2496
+NCL;New Caledonia;2005;119
+NZL;New Zealand;2005;1100
+NIC;Nicaragua;2005;530
+NER;Niger;2005;54
+NGA;Nigeria;2005;2400
+NOR;Norway;2005;1613
+OMN;Oman;2005;2621
+PAK;Pakistan;2005;17000
+PAN;Panama;2005;1050
+PRY;Paraguay;2005;550
+PER;Peru;2005;4600
+PHL;Philippines;2005;15494
+POL;Poland;2005;12646
+PRT;Portugal;2005;8438
+QAT;Qatar;2005;1500
+REU;Reunion;2005;380
+ROU;Romania;2005;7032
+RUS;Russia;2005;48500
+RWA;Rwanda;2005;101
+SAU;Saudi Arabia;2005;26064
+SEN;Senegal;2005;2623
+SRB;Serbia;2005;2276
+SLE;Sierra Leone;2005;172
+SGP;Singapore;2005;NA
+SVK;Slovakia;2005;3499
+SVN;Slovenia;2005;1114
+ZAF;South Africa;2005;13000
+ESP;Spain;2005;50347
+LKA;Sri Lanka;2005;1500
+SDN;Sudan;2005;331
+SUR;Surinam;2005;65
+SWE;Sweden;2005;2709
+CHE;Switzerland;2005;4022
+SYR;Syria;2005;4700
+TWN;Taiwan;2005;19891
+TJK;Tajikistan;2005;253
+TZA;Tanzania;2005;1366
+THA;Thailand;2005;37872
+TGO;Togo;2005;800
+TTO;Trinidad and Tobago;2005;686
+TUN;Tunisia;2005;6691
+TUR;Turkey;2005;42787
+TKM;Turkmenistan;2005;650
+UGA;Uganda;2005;630
+UKR;Ukraine;2005;12183
+ARE;United Arab Emirates;2005;9800
+GBR;United Kingdom;2005;11216
+USA;United States;2005;100903
+URY;Uruguay;2005;1050
+UZB;Uzbekistan;2005;5068
+VEN;Venezuela;2005;10000
+VNM;Vietnam;2005;30808
+YEM;Yemen;2005;1573
+ZMB;Zambia;2005;435
+ZWE;Zimbabwe;2005;600
+WLD;Total;2005;2350000
+AFG;Afghanistan;2006;50
+ALB;Albania;2006;600
+DZA;Algeria;2006;14702
+AGO;Angola;2006;1373
+ARG;Argentina;2006;8929
+ARM;Armenia;2006;625
+AUS;Australia;2006;9000
+AUT;Austria;2006;4700
+AZE;Azerbaijan;2006;1622
+BHR;Bahrain;2006;190
+BGD;Bangladesh;2006;5100
+BRB;Barbados;2006;320
+BLR;Belarus;2006;3495
+BEL;Belgium;2006;8192
+BEN;Benin;2006;1489
+BTN;Bhutan;2006;180
+BOL;Bolivia;2006;1636
+BIH;Bosnia and Herzegovina;2006;1226
+BRA;Brazil;2006;39540
+BRN;Brunei;2006;270
+BGR;Bulgaria;2006;2000
+BFA;Burkina Faso;2006;30
+MMR;Burma;2006;570
+KHM;Cambodia;2006;NA
+CMR;Cameroon;2006;1000
+CAN;Canada;2006;14336
+CHL;Chile;2006;4112
+CHN;China;2006;1236770
+COL;Colombia;2006;10038
+COG;Congo (Brazzaville);2006;100
+COD;Congo (Kinshasa);2006;530
+CRI;Costa Rica;2006;1400
+CIV;Cote d'Ivoire;2006;650
+HRV;Croatia;2006;3633
+CUB;Cuba;2006;1705
+CYP;Cyprus;2006;1786
+CZE;Czechia;2006;4239
+DNK;Denmark;2006;2115
+DOM;Dominican Republic;2006;2800
+ECU;Ecuador;2006;3000
+EGY;Egypt;2006;36200
+SLV;El Salvador;2006;1311
+ERI;Eritrea;2006;45
+EST;Estonia;2006;750
+ETH;Ethiopia;2006;1700
+FJI;Fiji;2006;143
+FIN;Finland;2006;1685
+FRA;France;2006;22540
+GUF;French Guiana;2006;60
+GAB;Gabon;2006;260
+GEO;Georgia;2006;450
+DEU;Germany;2006;33630
+GHA;Ghana;2006;1900
+GRC;Greece;2006;15674
+GLP;Guadeloupe;2006;230
+GTM;Guatemala;2006;2500
+GIN;Guinea;2006;360
+HTI;Haiti;2006;300
+HND;Honduras;2006;1400
+HKG;Hong Kong;2006;1010
+HUN;Hungary;2006;3349
+ISL;Iceland;2006;141
+IND;India;2006;160000
+IDN;Indonesia;2006;35000
+IRN;Iran;2006;33000
+IRQ;Iraq;2006;3500
+IRL;Ireland;2006;4981
+ISR;Israel;2006;5089
+ITA;Italy;2006;47814
+JAM;Jamaica;2006;761
+JPN;Japan;2006;69942
+JOR;Jordan;2006;3967
+KAZ;Kazakhstan;2006;4880
+KEN;Kenya;2006;2174
+PRK;Korea, North;2006;6160
+KOR;Korea, Republic of;2006;53971
+KWT;Kuwait;2006;2200
+KGZ;Kyrgyzstan;2006;1211
+LAO;Laos;2006;400
+LVA;Latvia;2006;280
+LBN;Lebanon;2006;4400
+LBR;Liberia;2006;155
+LBY;Libya;2006;3600
+LTU;Lithuania;2006;1065
+LUX;Luxembourg;2006;800
+MDK;Macedonia;2006;800
+MDG;Madagascar;2006;150
+MWI;Malawi;2006;188
+MYS;Malaysia;2006;18000
+MTQ;Martinique;2006;220
+MRT;Mauritania;2006;357
+MEX;Mexico;2006;40362
+MDA;Moldova;2006;837
+MNG;Mongolia;2006;141
+MAR;Morocco;2006;11000
+MOZ;Mozambique;2006;720
+NPL;Nepal;2006;295
+NLD;Netherlands;2006;2790
+NCL;New Caledonia;2006;133
+NZL;New Zealand;2006;1100
+NIC;Nicaragua;2006;530
+NER;Niger;2006;54
+NGA;Nigeria;2006;3000
+NOR;Norway;2006;1695
+OMN;Oman;2006;3611
+PAK;Pakistan;2006;20652
+PAN;Panama;2006;1050
+PRY;Paraguay;2006;600
+PER;Peru;2006;5000
+PHL;Philippines;2006;12033
+POL;Poland;2006;14688
+PRT;Portugal;2006;8340
+QAT;Qatar;2006;1568
+REU;Reunion;2006;400
+ROU;Romania;2006;8253
+RUS;Russia;2006;54700
+RWA;Rwanda;2006;103
+SAU;Saudi Arabia;2006;27053
+SEN;Senegal;2006;2884
+SRB;Serbia;2006;2565
+SLE;Sierra Leone;2006;234
+SGP;Singapore;2006;NA
+SVK;Slovakia;2006;3593
+SVN;Slovenia;2006;1269
+ZAF;South Africa;2006;12658
+ESP;Spain;2006;54033
+LKA;Sri Lanka;2006;1600
+SDN;Sudan;2006;202
+SUR;Surinam;2006;65
+SWE;Sweden;2006;2952
+CHE;Switzerland;2006;4040
+SYR;Syria;2006;4700
+TWN;Taiwan;2006;19294
+TJK;Tajikistan;2006;282
+TZA;Tanzania;2006;1432
+THA;Thailand;2006;39408
+TGO;Togo;2006;800
+TTO;Trinidad and Tobago;2006;883
+TUN;Tunisia;2006;6932
+TUR;Turkey;2006;47499
+TKM;Turkmenistan;2006;800
+UGA;Uganda;2006;630
+UKR;Ukraine;2006;13732
+ARE;United Arab Emirates;2006;9800
+GBR;United Kingdom;2006;12119
+USA;United States;2006;99712
+URY;Uruguay;2006;1050
+UZB;Uzbekistan;2006;5000
+VEN;Venezuela;2006;11000
+VNM;Vietnam;2006;32690
+YEM;Yemen;2006;1470
+ZMB;Zambia;2006;650
+ZWE;Zimbabwe;2006;700
+WLD;Total;2006;2600000
+AFG;Afghanistan;2007;50
+ALB;Albania;2007;889
+DZA;Algeria;2007;15886
+AGO;Angola;2007;1400
+ARG;Argentina;2007;9602
+ARM;Armenia;2007;722
+AUS;Australia;2007;9000
+AUT;Austria;2007;5202
+AZE;Azerbaijan;2007;1731
+BHR;Bahrain;2007;400
+BGD;Bangladesh;2007;5100
+BRB;Barbados;2007;294
+BLR;Belarus;2007;3820
+BEL;Belgium;2007;8200
+BEN;Benin;2007;1550
+BTN;Bhutan;2007;180
+BOL;Bolivia;2007;1739
+BIH;Bosnia and Herzegovina;2007;1283
+BRA;Brazil;2007;46406
+BRN;Brunei;2007;200
+BGR;Bulgaria;2007;4413
+BFA;Burkina Faso;2007;30
+MMR;Burma;2007;608
+KHM;Cambodia;2007;87
+CMR;Cameroon;2007;1000
+CAN;Canada;2007;15078
+CHL;Chile;2007;4440
+CHN;China;2007;1361170
+COL;Colombia;2007;11068
+COG;Congo (Brazzaville);2007;100
+COD;Congo (Kinshasa);2007;520
+CRI;Costa Rica;2007;1400
+CIV;Cote d'Ivoire;2007;650
+HRV;Croatia;2007;3524
+CUB;Cuba;2007;1805
+CYP;Cyprus;2007;1873
+CZE;Czechia;2007;4899
+DNK;Denmark;2007;2100
+DOM;Dominican Republic;2007;4100
+ECU;Ecuador;2007;4420
+EGY;Egypt;2007;38400
+SLV;El Salvador;2007;1300
+ERI;Eritrea;2007;45
+EST;Estonia;2007;937
+ETH;Ethiopia;2007;1800
+FJI;Fiji;2007;145
+FIN;Finland;2007;1743
+FRA;France;2007;22300
+GUF;French Guiana;2007;60
+GAB;Gabon;2007;229
+GEO;Georgia;2007;450
+DEU;Germany;2007;33382
+GHA;Ghana;2007;1900
+GRC;Greece;2007;16667
+GLP;Guadeloupe;2007;230
+GTM;Guatemala;2007;2500
+GIN;Guinea;2007;360
+HTI;Haiti;2007;300
+HND;Honduras;2007;1800
+HKG;Hong Kong;2007;1000
+HUN;Hungary;2007;3552
+ISL;Iceland;2007;90
+IND;India;2007;170000
+IDN;Indonesia;2007;36000
+IRN;Iran;2007;40000
+IRQ;Iraq;2007;4500
+IRL;Ireland;2007;5000
+ISR;Israel;2007;5000
+ITA;Italy;2007;47542
+JAM;Jamaica;2007;592
+JPN;Japan;2007;67685
+JOR;Jordan;2007;4051
+KAZ;Kazakhstan;2007;5699
+KEN;Kenya;2007;2546
+PRK;Korea, North;2007;6130
+KOR;Korea, Republic of;2007;57042
+XKK;Kosovo;2007;470
+KWT;Kuwait;2007;2200
+KGZ;Kyrgyzstan;2007;1300
+LAO;Laos;2007;400
+LVA;Latvia;2007;300
+LBN;Lebanon;2007;4900
+LBR;Liberia;2007;157
+LBY;Libya;2007;5206
+LTU;Lithuania;2007;1105
+LUX;Luxembourg;2007;780
+MDK;Macedonia;2007;902
+MDG;Madagascar;2007;270
+MWI;Malawi;2007;185
+MYS;Malaysia;2007;19480
+MTQ;Martinique;2007;220
+MRT;Mauritania;2007;410
+MEX;Mexico;2007;40670
+MDA;Moldova;2007;800
+MNG;Mongolia;2007;180
+MAR;Morocco;2007;11000
+MOZ;Mozambique;2007;800
+NPL;Nepal;2007;300
+NLD;Netherlands;2007;2700
+NCL;New Caledonia;2007;134
+NZL;New Zealand;2007;1100
+NIC;Nicaragua;2007;530
+NER;Niger;2007;54
+NGA;Nigeria;2007;4700
+NOR;Norway;2007;1700
+OMN;Oman;2007;3880
+PAK;Pakistan;2007;30000
+PAN;Panama;2007;1050
+PRY;Paraguay;2007;600
+PER;Peru;2007;6231
+PHL;Philippines;2007;13048
+POL;Poland;2007;17120
+PRT;Portugal;2007;12631
+QAT;Qatar;2007;2500
+REU;Reunion;2007;400
+ROU;Romania;2007;10061
+RUS;Russia;2007;59900
+RWA;Rwanda;2007;103
+SAU;Saudi Arabia;2007;30369
+SEN;Senegal;2007;3152
+SRB;Serbia;2007;2677
+SLE;Sierra Leone;2007;236
+SVK;Slovakia;2007;3718
+SVN;Slovenia;2007;1300
+ZAF;South Africa;2007;13651
+ESP;Spain;2007;54720
+LKA;Sri Lanka;2007;1700
+SDN;Sudan;2007;326
+SUR;Surinam;2007;65
+SWE;Sweden;2007;2950
+CHE;Switzerland;2007;4000
+SYR;Syria;2007;5104
+TWN;Taiwan;2007;18957
+TJK;Tajikistan;2007;313
+TZA;Tanzania;2007;1513
+THA;Thailand;2007;35668
+TGO;Togo;2007;800
+TTO;Trinidad and Tobago;2007;890
+TUN;Tunisia;2007;7052
+TUR;Turkey;2007;49553
+TKM;Turkmenistan;2007;900
+UGA;Uganda;2007;650
+UKR;Ukraine;2007;15000
+ARE;United Arab Emirates;2007;14000
+GBR;United Kingdom;2007;11900
+USA;United States;2007;96850
+URY;Uruguay;2007;620
+UZB;Uzbekistan;2007;6500
+VEN;Venezuela;2007;9000
+VNM;Vietnam;2007;36400
+YEM;Yemen;2007;1728
+ZMB;Zambia;2007;650
+ZWE;Zimbabwe;2007;400
+WLD;Total;2007;2810000
+AFG;Afghanistan;2008;50
+ALB;Albania;2008;737
+DZA;Algeria;2008;17398
+AGO;Angola;2008;1780
+ARG;Argentina;2008;9703
+ARM;Armenia;2008;770
+AUS;Australia;2008;9000
+AUT;Austria;2008;5309
+AZE;Azerbaijan;2008;1595
+BHR;Bahrain;2008;438
+BGD;Bangladesh;2008;5000
+BRB;Barbados;2008;300
+BLR;Belarus;2008;4219
+BEL;Belgium;2008;8200
+BEN;Benin;2008;1500
+BTN;Bhutan;2008;180
+BOL;Bolivia;2008;1985
+BIH;Bosnia and Herzegovina;2008;1406
+BRA;Brazil;2008;51970
+BRN;Brunei;2008;240
+BGR;Bulgaria;2008;4903
+BFA;Burkina Faso;2008;30
+MMR;Burma;2008;676
+KHM;Cambodia;2008;772
+CMR;Cameroon;2008;1000
+CAN;Canada;2008;13672
+CHL;Chile;2008;4622
+CHN;China;2008;1400000
+COL;Colombia;2008;10456
+COG;Congo (Brazzaville);2008;100
+COD;Congo (Kinshasa);2008;411
+CRI;Costa Rica;2008;2500
+CIV;Cote d'Ivoire;2008;650
+HRV;Croatia;2008;3637
+CUB;Cuba;2008;1707
+CYP;Cyprus;2008;1870
+CZE;Czechia;2008;4710
+DNK;Denmark;2008;2100
+DOM;Dominican Republic;2008;4000
+ECU;Ecuador;2008;5493
+EGY;Egypt;2008;40000
+SLV;El Salvador;2008;1300
+ERI;Eritrea;2008;45
+EST;Estonia;2008;808
+ETH;Ethiopia;2008;1834
+FJI;Fiji;2008;143
+FIN;Finland;2008;1745
+FRA;France;2008;21700
+GUF;French Guiana;2008;62
+GAB;Gabon;2008;230
+GEO;Georgia;2008;450
+DEU;Germany;2008;33581
+GHA;Ghana;2008;1800
+GRC;Greece;2008;16500
+GLP;Guadeloupe;2008;230
+GTM;Guatemala;2008;2500
+GIN;Guinea;2008;NA
+HTI;Haiti;2008;300
+HND;Honduras;2008;1800
+HKG;Hong Kong;2008;1000
+HUN;Hungary;2008;3544
+ISL;Iceland;2008;100
+IND;India;2008;185000
+IDN;Indonesia;2008;36000
+IRN;Iran;2008;44400
+IRQ;Iraq;2008;6453
+IRL;Ireland;2008;5000
+ISR;Israel;2008;4818
+ITA;Italy;2008;43030
+JAM;Jamaica;2008;725
+JPN;Japan;2008;62810
+JOR;Jordan;2008;4375
+KAZ;Kazakhstan;2008;5223
+KEN;Kenya;2008;2829
+PRK;Korea, North;2008;6415
+KOR;Korea, Republic of;2008;51653
+XKK;Kosovo;2008;590
+KWT;Kuwait;2008;2200
+KGZ;Kyrgyzstan;2008;1218
+LAO;Laos;2008;400
+LVA;Latvia;2008;310
+LBN;Lebanon;2008;5000
+LBR;Liberia;2008;94
+LBY;Libya;2008;5509
+LTU;Lithuania;2008;1100
+LUX;Luxembourg;2008;780
+MDK;Macedonia;2008;916
+MDG;Madagascar;2008;270
+MWI;Malawi;2008;240
+MYS;Malaysia;2008;19000
+MTQ;Martinique;2008;220
+MRT;Mauritania;2008;446
+MEX;Mexico;2008;47609
+MDA;Moldova;2008;750
+MNG;Mongolia;2008;269
+MAR;Morocco;2008;11000
+MOZ;Mozambique;2008;730
+NPL;Nepal;2008;295
+NLD;Netherlands;2008;2700
+NCL;New Caledonia;2008;134
+NZL;New Zealand;2008;1100
+NIC;Nicaragua;2008;530
+NER;Niger;2008;42
+NGA;Nigeria;2008;5000
+NOR;Norway;2008;1700
+OMN;Oman;2008;3991
+PAK;Pakistan;2008;31000
+PAN;Panama;2008;1050
+PRY;Paraguay;2008;600
+PER;Peru;2008;6922
+PHL;Philippines;2008;13369
+POL;Poland;2008;17207
+PRT;Portugal;2008;12650
+QAT;Qatar;2008;3500
+REU;Reunion;2008;400
+ROU;Romania;2008;11000
+RUS;Russia;2008;53600
+RWA;Rwanda;2008;103
+SAU;Saudi Arabia;2008;31823
+SEN;Senegal;2008;3084
+SRB;Serbia;2008;2843
+SLE;Sierra Leone;2008;254
+SVK;Slovakia;2008;4157
+SVN;Slovenia;2008;1300
+ZAF;South Africa;2008;13341
+ESP;Spain;2008;42088
+LKA;Sri Lanka;2008;1800
+SDN;Sudan;2008;370
+SUR;Surinam;2008;65
+SWE;Sweden;2008;2900
+CHE;Switzerland;2008;4000
+SYR;Syria;2008;5336
+TWN;Taiwan;2008;17330
+TJK;Tajikistan;2008;190
+TZA;Tanzania;2008;1756
+THA;Thailand;2008;31651
+TGO;Togo;2008;800
+TTO;Trinidad and Tobago;2008;958
+TUN;Tunisia;2008;7559
+TUR;Turkey;2008;54027
+TKM;Turkmenistan;2008;900
+UGA;Uganda;2008;650
+UKR;Ukraine;2008;14918
+ARE;United Arab Emirates;2008;13200
+GBR;United Kingdom;2008;10071
+USA;United States;2008;87610
+URY;Uruguay;2008;620
+UZB;Uzbekistan;2008;6600
+VEN;Venezuela;2008;9000
+VNM;Vietnam;2008;40009
+YEM;Yemen;2008;3000
+ZMB;Zambia;2008;700
+ZWE;Zimbabwe;2008;400
+WLD;Total;2008;2850000
+AFG;Afghanistan;2009;32
+ALB;Albania;2009;1108
+DZA;Algeria;2009;19100
+AGO;Angola;2009;1800
+ARG;Argentina;2009;10000
+ARM;Armenia;2009;467
+AUS;Australia;2009;9200
+AUT;Austria;2009;4646
+AZE;Azerbaijan;2009;1286
+BHR;Bahrain;2009;700
+BGD;Bangladesh;2009;5000
+BRB;Barbados;2009;301
+BLR;Belarus;2009;4350
+BEL;Belgium;2009;9403
+BEN;Benin;2009;1500
+BTN;Bhutan;2009;180
+BOL;Bolivia;2009;2292
+BIH;Bosnia and Herzegovina;2009;1074
+BRA;Brazil;2009;51748
+BRN;Brunei;2009;220
+BGR;Bulgaria;2009;2662
+BFA;Burkina Faso;2009;30
+MMR;Burma;2009;670
+KHM;Cambodia;2009;774
+CMR;Cameroon;2009;1000
+CAN;Canada;2009;10985
+CHL;Chile;2009;3876
+CHN;China;2009;1644000
+COL;Colombia;2009;9232
+COG;Congo (Brazzaville);2009;110
+COD;Congo (Kinshasa);2009;444
+CRI;Costa Rica;2009;1498
+CIV;Cote d'Ivoire;2009;283
+HRV;Croatia;2009;2838
+CUB;Cuba;2009;1626
+CYP;Cyprus;2009;1481
+CZE;Czechia;2009;3637
+DNK;Denmark;2009;1578
+DOM;Dominican Republic;2009;3000
+ECU;Ecuador;2009;5000
+EGY;Egypt;2009;46500
+SLV;El Salvador;2009;1212
+ERI;Eritrea;2009;45
+EST;Estonia;2009;326
+ETH;Ethiopia;2009;2300
+FJI;Fiji;2009;110
+FIN;Finland;2009;1052
+FRA;France;2009;18300
+GUF;French Guiana;2009;62
+GAB;Gabon;2009;230
+GEO;Georgia;2009;870
+DEU;Germany;2009;30441
+GHA;Ghana;2009;1800
+GRC;Greece;2009;16000
+GLP;Guadeloupe;2009;230
+GTM;Guatemala;2009;1500
+HTI;Haiti;2009;290
+HND;Honduras;2009;1800
+HKG;Hong Kong;2009;1000
+HUN;Hungary;2009;3200
+ISL;Iceland;2009;138
+IND;India;2009;205000
+IDN;Indonesia;2009;22195
+IRN;Iran;2009;50000
+IRQ;Iraq;2009;8500
+IRL;Ireland;2009;2600
+ISR;Israel;2009;4759
+ITA;Italy;2009;36317
+JAM;Jamaica;2009;736
+JPN;Japan;2009;54800
+JOR;Jordan;2009;3799
+KAZ;Kazakhstan;2009;5694
+KEN;Kenya;2009;3320
+PRK;Korea, North;2009;6400
+KOR;Korea, Republic of;2009;50127
+XKK;Kosovo;2009;600
+KWT;Kuwait;2009;2000
+KGZ;Kyrgyzstan;2009;579
+LAO;Laos;2009;400
+LVA;Latvia;2009;650
+LBN;Lebanon;2009;4900
+LBR;Liberia;2009;71
+LBY;Libya;2009;6500
+LTU;Lithuania;2009;583
+LUX;Luxembourg;2009;1000
+MDK;Macedonia;2009;909
+MDG;Madagascar;2009;240
+MWI;Malawi;2009;240
+MYS;Malaysia;2009;19457
+MTQ;Martinique;2009;220
+MRT;Mauritania;2009;340
+MEX;Mexico;2009;35160
+MDA;Moldova;2009;700
+MNG;Mongolia;2009;235
+MAR;Morocco;2009;14519
+MOZ;Mozambique;2009;777
+NPL;Nepal;2009;295
+NLD;Netherlands;2009;2700
+NCL;New Caledonia;2009;138
+NZL;New Zealand;2009;1100
+NIC;Nicaragua;2009;530
+NER;Niger;2009;40
+NGA;Nigeria;2009;5000
+NOR;Norway;2009;1650
+OMN;Oman;2009;4000
+PAK;Pakistan;2009;28000
+PAN;Panama;2009;1679
+PRY;Paraguay;2009;600
+PER;Peru;2009;6862
+PHL;Philippines;2009;14865
+POL;Poland;2009;15537
+PRT;Portugal;2009;12700
+QAT;Qatar;2009;4095
+REU;Reunion;2009;375
+ROU;Romania;2009;7902
+RUS;Russia;2009;44266
+RWA;Rwanda;2009;92
+SAU;Saudi Arabia;2009;36500
+SEN;Senegal;2009;3327
+SRB;Serbia;2009;2232
+SLE;Sierra Leone;2009;236
+SVK;Slovakia;2009;3011
+SVN;Slovenia;2009;1000
+ZAF;South Africa;2009;11784
+ESP;Spain;2009;29505
+LKA;Sri Lanka;2009;1900
+SDN;Sudan;2009;622
+SUR;Surinam;2009;65
+SWE;Sweden;2009;2950
+CHE;Switzerland;2009;4000
+SYR;Syria;2009;5605
+TWN;Taiwan;2009;15918
+TJK;Tajikistan;2009;195
+TZA;Tanzania;2009;1941
+THA;Thailand;2009;33562
+TGO;Togo;2009;800
+TTO;Trinidad and Tobago;2009;870
+TUN;Tunisia;2009;7511
+TUR;Turkey;2009;53973
+TKM;Turkmenistan;2009;1100
+UGA;Uganda;2009;650
+UKR;Ukraine;2009;9496
+ARE;United Arab Emirates;2009;18997
+GBR;United Kingdom;2009;7623
+USA;United States;2009;64843
+URY;Uruguay;2009;620
+UZB;Uzbekistan;2009;6850
+VEN;Venezuela;2009;11000
+VNM;Vietnam;2009;47900
+YEM;Yemen;2009;2118
+ZMB;Zambia;2009;880
+ZWE;Zimbabwe;2009;700
+WLD;Total;2009;3030000
+AFG;Afghanistan;2010;36
+ALB;Albania;2010;1300
+DZA;Algeria;2010;19100
+AGO;Angola;2010;1500
+ARG;Argentina;2010;10423
+ARM;Armenia;2010;488
+AUS;Australia;2010;9000
+AUT;Austria;2010;4254
+AZE;Azerbaijan;2010;1279
+BHR;Bahrain;2010;700
+BGD;Bangladesh;2010;5000
+BRB;Barbados;2010;300
+BLR;Belarus;2010;4531
+BEL;Belgium;2010;8722
+BEN;Benin;2010;1430
+BTN;Bhutan;2010;200
+BOL;Bolivia;2010;2414
+BIH;Bosnia and Herzegovina;2010;949
+BRA;Brazil;2010;59118
+BRN;Brunei;2010;220
+BGR;Bulgaria;2010;1966
+BFA;Burkina Faso;2010;30
+MMR;Burma;2010;534
+KHM;Cambodia;2010;789
+CMR;Cameroon;2010;1000
+CAN;Canada;2010;12431
+CHL;Chile;2010;3871
+CHN;China;2010;1820000
+COL;Colombia;2010;9488
+COG;Congo (Brazzaville);2010;80
+COD;Congo (Kinshasa);2010;490
+CRI;Costa Rica;2010;1276
+CIV;Cote d'Ivoire;2010;280
+HRV;Croatia;2010;2664
+CUB;Cuba;2010;1600
+CYP;Cyprus;2010;1329
+CZE;Czechia;2010;3345
+DNK;Denmark;2010;2000
+DOM;Dominican Republic;2010;3000
+ECU;Ecuador;2010;5500
+EGY;Egypt;2010;47800
+SLV;El Salvador;2010;1200
+ERI;Eritrea;2010;45
+EST;Estonia;2010;375
+ETH;Ethiopia;2010;2900
+FJI;Fiji;2010;120
+FIN;Finland;2010;1050
+FRA;France;2010;17998
+GUF;French Guiana;2010;62
+GAB;Gabon;2010;200
+GEO;Georgia;2010;857
+DEU;Germany;2010;29915
+GHA;Ghana;2010;2400
+GRC;Greece;2010;15000
+GLP;Guadeloupe;2010;230
+GTM;Guatemala;2010;2000
+HTI;Haiti;2010;290
+HND;Honduras;2010;1800
+HKG;Hong Kong;2010;1000
+HUN;Hungary;2010;3200
+ISL;Iceland;2010;138
+IND;India;2010;220000
+IDN;Indonesia;2010;28000
+IRN;Iran;2010;55000
+IRQ;Iraq;2010;6500
+IRL;Ireland;2010;2600
+ISR;Israel;2010;5139
+ITA;Italy;2010;34408
+JAM;Jamaica;2010;723
+JPN;Japan;2010;51526
+JOR;Jordan;2010;3929
+KAZ;Kazakhstan;2010;6686
+KEN;Kenya;2010;3710
+PRK;Korea, North;2010;6400
+KOR;Korea, Republic of;2010;47420
+XKK;Kosovo;2010;600
+KWT;Kuwait;2010;2000
+KGZ;Kyrgyzstan;2010;600
+LAO;Laos;2010;400
+LVA;Latvia;2010;1100
+LBN;Lebanon;2010;5227
+LBR;Liberia;2010;72
+LBY;Libya;2010;6000
+LTU;Lithuania;2010;834
+LUX;Luxembourg;2010;1078
+MDK;Macedonia;2010;820
+MDG;Madagascar;2010;420
+MWI;Malawi;2010;188
+MYS;Malaysia;2010;19762
+MTQ;Martinique;2010;220
+MRT;Mauritania;2010;350
+MEX;Mexico;2010;34503
+MDA;Moldova;2010;900
+MNG;Mongolia;2010;322
+MAR;Morocco;2010;14000
+MOZ;Mozambique;2010;884
+NAM;Namibia;2010;5
+NPL;Nepal;2010;295
+NLD;Netherlands;2010;2700
+NCL;New Caledonia;2010;160
+NZL;New Zealand;2010;1200
+NIC;Nicaragua;2010;600
+NER;Niger;2010;40
+NGA;Nigeria;2010;6000
+NOR;Norway;2010;1650
+OMN;Oman;2010;4500
+PAK;Pakistan;2010;32800
+PAN;Panama;2010;900
+PRY;Paraguay;2010;600
+PER;Peru;2010;8396
+PHL;Philippines;2010;15900
+POL;Poland;2010;15812
+PRT;Portugal;2010;7200
+QAT;Qatar;2010;3780
+REU;Reunion;2010;375
+ROU;Romania;2010;7008
+RUS;Russia;2010;50400
+RWA;Rwanda;2010;95
+SAU;Saudi Arabia;2010;42300
+SEN;Senegal;2010;4066
+SRB;Serbia;2010;2130
+SLE;Sierra Leone;2010;301
+SVK;Slovakia;2010;2888
+SVN;Slovenia;2010;1000
+ZAF;South Africa;2010;10870
+ESP;Spain;2010;26162
+LKA;Sri Lanka;2010;2000
+SDN;Sudan;2010;2113
+SUR;Surinam;2010;65
+SWE;Sweden;2010;2900
+CHE;Switzerland;2010;4000
+SYR;Syria;2010;6000
+TWN;Taiwan;2010;16301
+TJK;Tajikistan;2010;288
+TZA;Tanzania;2010;2312
+THA;Thailand;2010;36496
+TGO;Togo;2010;1150
+TTO;Trinidad and Tobago;2010;800
+TUN;Tunisia;2010;8070
+TUR;Turkey;2010;62737
+TKM;Turkmenistan;2010;1100
+UGA;Uganda;2010;650
+UKR;Ukraine;2010;9456
+ARE;United Arab Emirates;2010;18000
+GBR;United Kingdom;2010;7882
+USA;United States;2010;67202
+URY;Uruguay;2010;1000
+UZB;Uzbekistan;2010;6872
+VEN;Venezuela;2010;8000
+VNM;Vietnam;2010;55789
+YEM;Yemen;2010;3500
+ZMB;Zambia;2010;1127
+ZWE;Zimbabwe;2010;800
+WLD;Total;2010;3270000
+AFG;Afghanistan;2011;38
+ALB;Albania;2011;1800
+DZA;Algeria;2011;19000
+AGO;Angola;2011;1500
+ARG;Argentina;2011;11592
+ARM;Armenia;2011;422
+AUS;Australia;2011;8600
+AUT;Austria;2011;4427
+AZE;Azerbaijan;2011;1425
+BHR;Bahrain;2011;1200
+BGD;Bangladesh;2011;14690
+BRB;Barbados;2011;223
+BLR;Belarus;2011;4604
+BEL;Belgium;2011;6954
+BEN;Benin;2011;1460
+BTN;Bhutan;2011;544
+BOL;Bolivia;2011;2658
+BIH;Bosnia and Herzegovina;2011;893
+BRA;Brazil;2011;64093
+BRN;Brunei;2011;290
+BGR;Bulgaria;2011;1866
+BFA;Burkina Faso;2011;590
+MMR;Burma;2011;538
+BDI;Burundi;2011;35
+KHM;Cambodia;2011;907
+CMR;Cameroon;2011;730
+CAN;Canada;2011;12001
+CHL;Chile;2011;4406
+CHN;China;2011;2099000
+COL;Colombia;2011;10777
+COG;Congo (Brazzaville);2011;70
+COD;Congo (Kinshasa);2011;458
+CRI;Costa Rica;2011;1600
+CIV;Cote d'Ivoire;2011;99
+HRV;Croatia;2011;2467
+CUB;Cuba;2011;1736
+CYP;Cyprus;2011;1207
+CZE;Czechia;2011;3831
+DNK;Denmark;2011;1811
+DOM;Dominican Republic;2011;3997
+ECU;Ecuador;2011;5706
+EGY;Egypt;2011;43384
+SLV;El Salvador;2011;1320
+ERI;Eritrea;2011;230
+EST;Estonia;2011;449
+ETH;Ethiopia;2011;3300
+FJI;Fiji;2011;120
+FIN;Finland;2011;1514
+FRA;France;2011;19270
+GUF;French Guiana;2011;62
+GAB;Gabon;2011;200
+GEO;Georgia;2011;860
+DEU;Germany;2011;32779
+GHA;Ghana;2011;2550
+GRC;Greece;2011;7418
+GLP;Guadeloupe;2011;300
+GTM;Guatemala;2011;2820
+GIN;Guinea;2011;365
+HTI;Haiti;2011;300
+HND;Honduras;2011;1710
+HKG;Hong Kong;2011;1560
+HUN;Hungary;2011;1694
+ISL;Iceland;2011;140
+IND;India;2011;250000
+IDN;Indonesia;2011;45240
+IRN;Iran;2011;66000
+IRQ;Iraq;2011;10000
+IRL;Ireland;2011;2103
+ISR;Israel;2011;5480
+ITA;Italy;2011;33120
+JAM;Jamaica;2011;766
+JPN;Japan;2011;51291
+JOR;Jordan;2011;4000
+KAZ;Kazakhstan;2011;7642
+KEN;Kenya;2011;4478
+PRK;Korea, North;2011;6400
+KOR;Korea, Republic of;2011;48249
+XKK;Kosovo;2011;370
+KWT;Kuwait;2011;2250
+KGZ;Kyrgyzstan;2011;1015
+LAO;Laos;2011;400
+LVA;Latvia;2011;1100
+LBN;Lebanon;2011;5500
+LBR;Liberia;2011;81
+LBY;Libya;2011;3500
+LTU;Lithuania;2011;996
+LUX;Luxembourg;2011;1319
+MDK;Macedonia;2011;981
+MDG;Madagascar;2011;150
+MWI;Malawi;2011;203
+MYS;Malaysia;2011;21198
+MTQ;Martinique;2011;150
+MRT;Mauritania;2011;565
+MEX;Mexico;2011;35400
+MDA;Moldova;2011;1070
+MNG;Mongolia;2011;426
+MAR;Morocco;2011;16300
+MOZ;Mozambique;2011;976
+NAM;Namibia;2011;390
+NPL;Nepal;2011;300
+NLD;Netherlands;2011;2318
+NCL;New Caledonia;2011;145
+NZL;New Zealand;2011;1200
+NIC;Nicaragua;2011;700
+NER;Niger;2011;73
+NGA;Nigeria;2011;12800
+NOR;Norway;2011;1387
+OMN;Oman;2011;5000
+PAK;Pakistan;2011;32000
+PAN;Panama;2011;897
+PRY;Paraguay;2011;820
+PER;Peru;2011;8500
+PHL;Philippines;2011;16063
+POL;Poland;2011;18993
+PRT;Portugal;2011;5069
+QAT;Qatar;2011;5000
+REU;Reunion;2011;250
+ROU;Romania;2011;7846
+RUS;Russia;2011;56200
+RWA;Rwanda;2011;94
+SAU;Saudi Arabia;2011;48358
+SEN;Senegal;2011;4677
+SRB;Serbia;2011;2095
+SLE;Sierra Leone;2011;311
+SVK;Slovakia;2011;3219
+SVN;Slovenia;2011;620
+ZAF;South Africa;2011;11234
+ESP;Spain;2011;22178
+LKA;Sri Lanka;2011;2200
+SDN;Sudan;2011;3002
+SUR;Surinam;2011;74
+SWE;Sweden;2011;2064
+CHE;Switzerland;2011;4577
+SYR;Syria;2011;4000
+TWN;Taiwan;2011;16852
+TJK;Tajikistan;2011;299
+TZA;Tanzania;2011;2409
+THA;Thailand;2011;36602
+TGO;Togo;2011;1160
+TTO;Trinidad and Tobago;2011;827
+TUN;Tunisia;2011;7055
+TUR;Turkey;2011;63405
+TKM;Turkmenistan;2011;1500
+UGA;Uganda;2011;1666
+UKR;Ukraine;2011;10515
+ARE;United Arab Emirates;2011;18000
+GBR;United Kingdom;2011;8529
+USA;United States;2011;68639
+URY;Uruguay;2011;620
+UZB;Uzbekistan;2011;6698
+VEN;Venezuela;2011;7760
+VNM;Vietnam;2011;58271
+YEM;Yemen;2011;951
+ZMB;Zambia;2011;1200
+ZWE;Zimbabwe;2011;1000
+WLD;Total;2011;3650000
+AFG;Afghanistan;2012;37
+ALB;Albania;2012;1800
+DZA;Algeria;2012;19000
+AGO;Angola;2012;1600
+ARG;Argentina;2012;10716
+ARM;Armenia;2012;438
+AUS;Australia;2012;8600
+AUT;Austria;2012;4455
+AZE;Azerbaijan;2012;1966
+BHR;Bahrain;2012;1300
+BGD;Bangladesh;2012;15000
+BRB;Barbados;2012;176
+BLR;Belarus;2012;4906
+BEL;Belgium;2012;6280
+BEN;Benin;2012;1390
+BTN;Bhutan;2012;521
+BOL;Bolivia;2012;2714
+BIH;Bosnia and Herzegovina;2012;846
+BWA;Botswana;2012;260
+BRA;Brazil;2012;69323
+BRN;Brunei;2012;300
+BGR;Bulgaria;2012;1803
+BFA;Burkina Faso;2012;659
+MMR;Burma;2012;600
+BDI;Burundi;2012;71
+KHM;Cambodia;2012;980
+CMR;Cameroon;2012;1275
+CAN;Canada;2012;12465
+CHL;Chile;2012;4722
+CHN;China;2012;2210000
+COL;Colombia;2012;10925
+COG;Congo (Brazzaville);2012;150
+COD;Congo (Kinshasa);2012;413
+CRI;Costa Rica;2012;1400
+CIV;Cote d'Ivoire;2012;78
+HRV;Croatia;2012;2255
+CUB;Cuba;2012;1825
+CYP;Cyprus;2012;1026
+CZE;Czechia;2012;3434
+DNK;Denmark;2012;1798
+DJI;Djibouti;2012;NA
+DOM;Dominican Republic;2012;4130
+ECU;Ecuador;2012;6025
+EGY;Egypt;2012;55200
+SLV;El Salvador;2012;1380
+ERI;Eritrea;2012;260
+EST;Estonia;2012;482
+ETH;Ethiopia;2012;3500
+FJI;Fiji;2012;120
+FIN;Finland;2012;1293
+FRA;France;2012;17810
+GUF;French Guiana;2012;100
+GAB;Gabon;2012;220
+GEO;Georgia;2012;870
+DEU;Germany;2012;31956
+GHA;Ghana;2012;3000
+GRC;Greece;2012;4849
+GLP;Guadeloupe;2012;300
+GTM;Guatemala;2012;2880
+GIN;Guinea;2012;317
+HTI;Haiti;2012;300
+HND;Honduras;2012;1730
+HKG;Hong Kong;2012;1675
+HUN;Hungary;2012;1870
+ISL;Iceland;2012;140
+IND;India;2012;270000
+IDN;Indonesia;2012;51000
+IRN;Iran;2012;70000
+IRQ;Iraq;2012;10000
+IRL;Ireland;2012;1198
+ISR;Israel;2012;5892
+ITA;Italy;2012;26200
+JAM;Jamaica;2012;760
+JPN;Japan;2012;54737
+JOR;Jordan;2012;4900
+KAZ;Kazakhstan;2012;6412
+KEN;Kenya;2012;4640
+PRK;Korea, North;2012;6600
+KOR;Korea, Republic of;2012;47087
+XKK;Kosovo;2012;535
+KWT;Kuwait;2012;2250
+KGZ;Kyrgyzstan;2012;1239
+LAO;Laos;2012;1500
+LVA;Latvia;2012;901
+LBN;Lebanon;2012;5309
+LBR;Liberia;2012;122
+LBY;Libya;2012;2000
+LTU;Lithuania;2012;1015
+LUX;Luxembourg;2012;1177
+MDK;Macedonia;2012;683
+MDG;Madagascar;2012;150
+MWI;Malawi;2012;172
+MYS;Malaysia;2012;21726
+MTQ;Martinique;2012;150
+MRT;Mauritania;2012;644
+MEX;Mexico;2012;36184
+MDA;Moldova;2012;1200
+MNG;Mongolia;2012;349
+MAR;Morocco;2012;15800
+MOZ;Mozambique;2012;1184
+NAM;Namibia;2012;501
+NPL;Nepal;2012;2700
+NLD;Netherlands;2012;2056
+NCL;New Caledonia;2012;124
+NZL;New Zealand;2012;1200
+NIC;Nicaragua;2012;730
+NER;Niger;2012;73
+NGA;Nigeria;2012;16400
+NOR;Norway;2012;1659
+OMN;Oman;2012;5200
+PAK;Pakistan;2012;30300
+PAN;Panama;2012;2252
+PRY;Paraguay;2012;650
+PER;Peru;2012;9000
+PHL;Philippines;2012;18907
+POL;Poland;2012;15919
+PRT;Portugal;2012;4090
+QAT;Qatar;2012;5500
+REU;Reunion;2012;350
+ROU;Romania;2012;8223
+RUS;Russia;2012;61700
+RWA;Rwanda;2012;100
+SAU;Saudi Arabia;2012;56200
+SEN;Senegal;2012;4689
+SRB;Serbia;2012;1831
+SLE;Sierra Leone;2012;335
+SVK;Slovakia;2012;2915
+SVN;Slovenia;2012;953
+ZAF;South Africa;2012;11560
+ESP;Spain;2012;15939
+LKA;Sri Lanka;2012;2400
+SDN;Sudan;2012;3511
+SUR;Surinam;2012;114
+SWE;Sweden;2012;2141
+CHE;Switzerland;2012;4467
+SYR;Syria;2012;6000
+TWN;Taiwan;2012;15806
+TJK;Tajikistan;2012;251
+TZA;Tanzania;2012;2581
+THA;Thailand;2012;41047
+TGO;Togo;2012;1173
+TTO;Trinidad and Tobago;2012;654
+TUN;Tunisia;2012;7241
+TUR;Turkey;2012;63879
+TKM;Turkmenistan;2012;2370
+UGA;Uganda;2012;1780
+UKR;Ukraine;2012;9801
+ARE;United Arab Emirates;2012;17000
+GBR;United Kingdom;2012;7952
+USA;United States;2012;74934
+URY;Uruguay;2012;872
+UZB;Uzbekistan;2012;6800
+VEN;Venezuela;2012;7700
+VNM;Vietnam;2012;55531
+YEM;Yemen;2012;2000
+ZMB;Zambia;2012;1200
+ZWE;Zimbabwe;2012;1100
+WLD;Total;2012;3820000
+AFG;Afghanistan;2013;52
+ALB;Albania;2013;2300
+DZA;Algeria;2013;18500
+AGO;Angola;2013;2000
+ARG;Argentina;2013;11892
+ARM;Armenia;2013;431
+AUS;Australia;2013;8400
+AUT;Austria;2013;4385
+AZE;Azerbaijan;2013;2296
+BHR;Bahrain;2013;1350
+BGD;Bangladesh;2013;16780
+BRB;Barbados;2013;160
+BLR;Belarus;2013;5057
+BEL;Belgium;2013;6119
+BEN;Benin;2013;1422
+BTN;Bhutan;2013;570
+BOL;Bolivia;2013;3100
+BIH;Bosnia and Herzegovina;2013;882
+BWA;Botswana;2013;370
+BRA;Brazil;2013;69975
+BRN;Brunei;2013;340
+BGR;Bulgaria;2013;1812
+BFA;Burkina Faso;2013;580
+MMR;Burma;2013;1121
+BDI;Burundi;2013;100
+KHM;Cambodia;2013;1060
+CMR;Cameroon;2013;1400
+CAN;Canada;2013;11611
+TCD;Chad;2013;180
+CHL;Chile;2013;4880
+CHN;China;2013;2411000
+COL;Colombia;2013;11252
+COG;Congo (Brazzaville);2013;250
+COD;Congo (Kinshasa);2013;447
+CRI;Costa Rica;2013;1460
+CIV;Cote d'Ivoire;2013;2300
+HRV;Croatia;2013;2333
+CUB;Cuba;2013;1659
+CYP;Cyprus;2013;855
+CZE;Czechia;2013;3211
+DNK;Denmark;2013;1830
+DJI;Djibouti;2013;150
+DOM;Dominican Republic;2013;4246
+ECU;Ecuador;2013;6670
+EGY;Egypt;2013;50000
+SLV;El Salvador;2013;1200
+ERI;Eritrea;2013;260
+EST;Estonia;2013;457
+ETH;Ethiopia;2013;5000
+FJI;Fiji;2013;181
+FIN;Finland;2013;1300
+FRA;France;2013;18018
+GUF;French Guiana;2013;92
+GAB;Gabon;2013;170
+GEO;Georgia;2013;1619
+DEU;Germany;2013;31308
+GHA;Ghana;2013;3000
+GRC;Greece;2013;5990
+GLP;Guadeloupe;2013;300
+GTM;Guatemala;2013;2970
+GIN;Guinea;2013;377
+GUY;Guyana;2013;NA
+HTI;Haiti;2013;300
+HND;Honduras;2013;1700
+HKG;Hong Kong;2013;1768
+HUN;Hungary;2013;2022
+ISL;Iceland;2013;NA
+IND;India;2013;280000
+IDN;Indonesia;2013;56690
+IRN;Iran;2013;68700
+IRQ;Iraq;2013;12000
+IRL;Ireland;2013;2000
+ISR;Israel;2013;6398
+ITA;Italy;2013;23100
+JAM;Jamaica;2013;825
+JPN;Japan;2013;57962
+JOR;Jordan;2013;4200
+KAZ;Kazakhstan;2013;7072
+KEN;Kenya;2013;5059
+PRK;Korea, North;2013;7100
+KOR;Korea, Republic of;2013;47291
+XKK;Kosovo;2013;560
+KWT;Kuwait;2013;3000
+KGZ;Kyrgyzstan;2013;1675
+LAO;Laos;2013;1500
+LVA;Latvia;2013;1000
+LBN;Lebanon;2013;5831
+LBR;Liberia;2013;194
+LBY;Libya;2013;2000
+LTU;Lithuania;2013;1070
+LUX;Luxembourg;2013;980
+MDK;Macedonia;2013;762
+MDG;Madagascar;2013;230
+MWI;Malawi;2013;320
+MYS;Malaysia;2013;21457
+MTQ;Martinique;2013;150
+MRT;Mauritania;2013;690
+MEX;Mexico;2013;34612
+MDA;Moldova;2013;1150
+MNG;Mongolia;2013;259
+MAR;Morocco;2013;16870
+MOZ;Mozambique;2013;1299
+NAM;Namibia;2013;662
+NPL;Nepal;2013;2990
+NLD;Netherlands;2013;2000
+NCL;New Caledonia;2013;119
+NZL;New Zealand;2013;1160
+NIC;Nicaragua;2013;650
+NER;Niger;2013;29
+NGA;Nigeria;2013;20000
+NOR;Norway;2013;1700
+OMN;Oman;2013;4472
+PAK;Pakistan;2013;31000
+PAN;Panama;2013;2366
+PNG;Papua New Guinea;2013;200
+PRY;Paraguay;2013;960
+PER;Peru;2013;10527
+PHL;Philippines;2013;20150
+POL;Poland;2013;14538
+PRT;Portugal;2013;5000
+QAT;Qatar;2013;5335
+REU;Reunion;2013;400
+ROU;Romania;2013;7451
+RUS;Russia;2013;66503
+RWA;Rwanda;2013;110
+SAU;Saudi Arabia;2013;56238
+SEN;Senegal;2013;5191
+SRB;Serbia;2013;1592
+SLE;Sierra Leone;2013;313
+SVK;Slovakia;2013;3121
+SVN;Slovenia;2013;1139
+ZAF;South Africa;2013;12170
+ESP;Spain;2013;13736
+LKA;Sri Lanka;2013;1929
+SDN;Sudan;2013;3538
+SUR;Surinam;2013;131
+SWE;Sweden;2013;2560
+CHE;Switzerland;2013;4540
+SYR;Syria;2013;4000
+TWN;Taiwan;2013;16554
+TJK;Tajikistan;2013;384
+TZA;Tanzania;2013;2346
+THA;Thailand;2013;35854
+TGO;Togo;2013;1795
+TTO;Trinidad and Tobago;2013;802
+TUN;Tunisia;2013;7504
+TUR;Turkey;2013;71337
+TKM;Turkmenistan;2013;2650
+UGA;Uganda;2013;2023
+UKR;Ukraine;2013;9857
+ARE;United Arab Emirates;2013;15700
+GBR;United Kingdom;2013;8203
+USA;United States;2013;77415
+URY;Uruguay;2013;850
+UZB;Uzbekistan;2013;6990
+VEN;Venezuela;2013;8460
+VNM;Vietnam;2013;57516
+YEM;Yemen;2013;3300
+ZMB;Zambia;2013;1810
+ZWE;Zimbabwe;2013;1190
+WLD;Total;2013;4070000
+AFG;Afghanistan;2014;87
+ALB;Albania;2014;2200
+DZA;Algeria;2014;21000
+AGO;Angola;2014;5100
+ARG;Argentina;2014;11408
+ARM;Armenia;2014;422
+AUS;Australia;2014;9000
+AUT;Austria;2014;4400
+AZE;Azerbaijan;2014;2941
+BHR;Bahrain;2014;1300
+BGD;Bangladesh;2014;17000
+BRB;Barbados;2014;160
+BLR;Belarus;2014;5617
+BEL;Belgium;2014;6364
+BEN;Benin;2014;1396
+BTN;Bhutan;2014;690
+BOL;Bolivia;2014;3337
+BIH;Bosnia and Herzegovina;2014;840
+BWA;Botswana;2014;15
+BRA;Brazil;2014;71254
+BRN;Brunei;2014;240
+BGR;Bulgaria;2014;1793
+BFA;Burkina Faso;2014;403
+MMR;Burma;2014;1317
+BDI;Burundi;2014;70
+KHM;Cambodia;2014;1400
+CMR;Cameroon;2014;1300
+CAN;Canada;2014;11879
+TCD;Chad;2014;200
+CHL;Chile;2014;5000
+CHN;China;2014;2492000
+COL;Colombia;2014;12384
+COG;Congo (Brazzaville);2014;460
+COD;Congo (Kinshasa);2014;330
+CRI;Costa Rica;2014;1500
+CIV;Cote d'Ivoire;2014;2690
+HRV;Croatia;2014;2471
+CUB;Cuba;2014;1580
+CYP;Cyprus;2014;735
+CZE;Czechia;2014;3511
+DNK;Denmark;2014;1876
+DJI;Djibouti;2014;170
+DOM;Dominican Republic;2014;5018
+ECU;Ecuador;2014;6600
+EGY;Egypt;2014;52080
+SLV;El Salvador;2014;1000
+ERI;Eritrea;2014;290
+EST;Estonia;2014;447
+ETH;Ethiopia;2014;5424
+FJI;Fiji;2014;188
+FIN;Finland;2014;1250
+FRA;France;2014;16400
+GUF;French Guiana;2014;87
+GAB;Gabon;2014;170
+GEO;Georgia;2014;1626
+DEU;Germany;2014;32099
+GHA;Ghana;2014;4500
+GRC;Greece;2014;5128
+GLP;Guadaloupe;2014;300
+GTM;Guatemala;2014;3500
+GIN;Guinea;2014;435
+GUY;Guyana;2014;2
+HTI;Haiti;2014;200
+HND;Honduras;2014;1700
+HKG;Hong Kong;2014;1900
+HUN;Hungary;2014;2100
+ISL;Iceland;2014;NA
+IND;India;2014;280000
+IDN;Indonesia;2014;56760
+IRN;Iran;2014;66700
+IRQ;Iraq;2014;9000
+IRL;Ireland;2014;2000
+ISR;Israel;2014;6603
+ITA;Italy;2014;21400
+JAM;Jamaica;2014;830
+JPN;Japan;2014;57913
+JOR;Jordan;2014;4400
+KAZ;Kazakhstan;2014;8140
+KEN;Kenya;2014;5883
+PRK;Korea, North;2014;6675
+KOR;Korea, Republic of;2014;47048
+XKK;Kosovo;2014;630
+KWT;Kuwait;2014;3800
+KGZ;Kyrgyzstan;2014;1730
+LAO;Laos;2014;1900
+LVA;Latvia;2014;1100
+LBN;Lebanon;2014;5517
+LBR;Liberia;2014;295
+LBY;Libya;2014;3300
+LTU;Lithuania;2014;903
+LUX;Luxembourg;2014;1100
+MAC;Macau;2014;590
+MDK;Macedonia;2014;660
+MDG;Madagascar;2014;240
+MWI;Malawi;2014;270
+MYS;Malaysia;2014;21700
+MLI;Mali;2014;660
+MTQ;Martinique;2014;150
+MRT;Mauritania;2014;870
+MEX;Mexico;2014;36597
+MDA;Moldova;2014;1300
+MNG;Mongolia;2014;411
+MAR;Morocco;2014;15710
+MOZ;Mozambique;2014;1512
+NAM;Namibia;2014;731
+NPL;Nepal;2014;3100
+NLD;Netherlands;2014;2000
+NCL;New Caledonia;2014;106
+NZL;New Zealand;2014;1100
+NIC;Nicaragua;2014;700
+NER;Niger;2014;21
+NGA;Nigeria;2014;20000
+NOR;Norway;2014;1700
+OMN;Oman;2014;5100
+PAK;Pakistan;2014;31960
+PAN;Panama;2014;2188
+PNG;Papua New Guinea;2014;200
+PRY;Paraguay;2014;1000
+PER;Peru;2014;10676
+PHL;Philippines;2014;21305
+POL;Poland;2014;15358
+PRT;Portugal;2014;6000
+QAT;Qatar;2014;6500
+REU;Reunion;2014;400
+ROU;Romania;2014;7621
+RUS;Russia;2014;69139
+RWA;Rwanda;2014;140
+SAU;Saudi Arabia;2014;57223
+SEN;Senegal;2014;4899
+SRB;Serbia;2014;1605
+SLE;Sierra Leone;2014;336
+SVK;Slovakia;2014;3319
+SVN;Slovenia;2014;706
+ZAF;South Africa;2014;12068
+ESP;Spain;2014;14587
+LKA;Sri Lanka;2014;1885
+SDN;Sudan;2014;3478
+SUR;Surinam;2014;130
+SWE;Sweden;2014;2500
+CHE;Switzerland;2014;4280
+SYR;Syria;2014;3800
+TWN;Taiwan;2014;14592
+TJK;Tajikistan;2014;1150
+TZA;Tanzania;2014;2809
+THA;Thailand;2014;34980
+TGO;Togo;2014;1700
+TTO;Trinidad and Tobago;2014;837
+TUN;Tunisia;2014;9127
+TUR;Turkey;2014;71329
+TKM;Turkmenistan;2014;2900
+UGA;Uganda;2014;2141
+UKR;Ukraine;2014;8636
+ARE;United Arab Emirates;2014;20000
+GBR;United Kingdom;2014;8958
+USA;United States;2014;83124
+URY;Uruguay;2014;820
+UZB;Uzbekistan;2014;7350
+VEN;Venezuela;2014;7940
+VNM;Vietnam;2014;60982
+YEM;Yemen;2014;3100
+ZMB;Zambia;2014;2200
+ZWE;Zimbabwe;2014;1300
+WLD;Total;2014;4190000
+AFG;Afghanistan;2015;70
+ALB;Albania;2015;1980
+DZA;Algeria;2015;23000
+AGO;Angola;2015;5200
+ARG;Argentina;2015;11000
+ARM;Armenia;2015;417
+AUS;Australia;2015;9100
+AUT;Austria;2015;4700
+AZE;Azerbaijan;2015;2683
+BHR;Bahrain;2015;1300
+BGD;Bangladesh;2015;18000
+BRB;Barbados;2015;160
+BLR;Belarus;2015;4638
+BEL;Belgium;2015;6400
+BEN;Benin;2015;1800
+BTN;Bhutan;2015;791
+BOL;Bolivia;2015;3468
+BIH;Bosnia and Herzegovina;2015;808
+BWA;Botswana;2015;15
+BRA;Brazil;2015;65283
+BRN;Brunei;2015;230
+BGR;Bulgaria;2015;2114
+BFA;Burkina Faso;2015;263
+MMR;Burma;2015;903
+BDI;Burundi;2015;100
+KHM;Cambodia;2015;1500
+CMR;Cameroon;2015;1600
+CAN;Canada;2015;12167
+TCD;Chad;2015;200
+CHL;Chile;2015;4800
+CHN;China;2015;2359000
+COL;Colombia;2015;13153
+COG;Congo (Brazzaville);2015;700
+COD;Congo (Kinshasa);2015;399
+CRI;Costa Rica;2015;1600
+CIV;Cote d'Ivoire;2015;3100
+HRV;Croatia;2015;2449
+CUB;Cuba;2015;1518
+CYP;Cyprus;2015;788
+CZE;Czechia;2015;3781
+DNK;Denmark;2015;1900
+DJI;Djibouti;2015;180
+DOM;Dominican Republic;2015;5181
+ECU;Ecuador;2015;5900
+EGY;Egypt;2015;53940
+SLV;El Salvador;2015;1000
+ERI;Eritrea;2015;200
+EST;Estonia;2015;390
+ETH;Ethiopia;2015;7500
+FJI;Fiji;2015;204
+FIN;Finland;2015;1300
+FRA;France;2015;15600
+GUF;French Guiana;2015;76
+GAB;Gabon;2015;150
+GEO;Georgia;2015;1759
+DEU;Germany;2015;31160
+GHA;Ghana;2015;3830
+GRC;Greece;2015;5290
+GLP;Guadaloupe;2015;300
+GTM;Guatemala;2015;3500
+GIN;Guinea;2015;500
+GUY;Guyana;2015;100
+HTI;Haiti;2015;200
+HND;Honduras;2015;1700
+HKG;Hong Kong;2015;1900
+HUN;Hungary;2015;1750
+ISL;Iceland;2015;NA
+IND;India;2015;300000
+IDN;Indonesia;2015;59850
+IRN;Iran;2015;58600
+IRQ;Iraq;2015;10000
+IRL;Ireland;2015;2500
+ISR;Israel;2015;6904
+ITA;Italy;2015;22000
+JAM;Jamaica;2015;808
+JPN;Japan;2015;54827
+JOR;Jordan;2015;4550
+KAZ;Kazakhstan;2015;8729
+KEN;Kenya;2015;6353
+PRK;Korea, North;2015;6697
+KOR;Korea, Republic of;2015;52044
+XKK;Kosovo;2015;590
+KWT;Kuwait;2015;4200
+KGZ;Kyrgyzstan;2015;1496
+LAO;Laos;2015;2000
+LVA;Latvia;2015;1100
+LBN;Lebanon;2015;5580
+LBR;Liberia;2015;298
+LBY;Libya;2015;5000
+LTU;Lithuania;2015;980
+LUX;Luxembourg;2015;1080
+MAC;Macau;2015;600
+MDK;Macedonia;2015;672
+MDG;Madagascar;2015;240
+MWI;Malawi;2015;280
+MYS;Malaysia;2015;22000
+MLI;Mali;2015;630
+MTQ;Martinique;2015;150
+MRT;Mauritania;2015;860
+MEX;Mexico;2015;39613
+MDA;Moldova;2015;1200
+MNG;Mongolia;2015;410
+MAR;Morocco;2015;16000
+MOZ;Mozambique;2015;1585
+NAM;Namibia;2015;796
+NPL;Nepal;2015;2000
+NLD;Netherlands;2015;2260
+NCL;New Caledonia;2015;112
+NZL;New Zealand;2015;1200
+NIC;Nicaragua;2015;700
+NER;Niger;2015;51
+NGA;Nigeria;2015;21000
+NOR;Norway;2015;1800
+OMN;Oman;2015;5300
+PAK;Pakistan;2015;33300
+PAN;Panama;2015;2200
+PNG;Papua New Guinea;2015;200
+PRY;Paraguay;2015;1200
+PER;Peru;2015;10410
+PHL;Philippines;2015;24050
+POL;Poland;2015;15206
+PRT;Portugal;2015;5600
+QAT;Qatar;2015;6500
+REU;Reunion;2015;250
+ROU;Romania;2015;8356
+RUS;Russia;2015;62104
+RWA;Rwanda;2015;200
+SAU;Saudi Arabia;2015;61900
+SEN;Senegal;2015;4615
+SRB;Serbia;2015;1654
+SLE;Sierra Leone;2015;324
+SVK;Slovakia;2015;3466
+SVN;Slovenia;2015;600
+ZAF;South Africa;2015;13000
+ESP;Spain;2015;15000
+LKA;Sri Lanka;2015;2287
+SDN;Sudan;2015;3708
+SUR;Surinam;2015;150
+SWE;Sweden;2015;2800
+CHE;Switzerland;2015;4390
+SYR;Syria;2015;4000
+TWN;Taiwan;2015;13445
+TJK;Tajikistan;2015;1418
+TZA;Tanzania;2015;3135
+THA;Thailand;2015;36216
+TGO;Togo;2015;1500
+TTO;Trinidad and Tobago;2015;840
+TUN;Tunisia;2015;9516
+TUR;Turkey;2015;71419
+TKM;Turkmenistan;2015;3300
+UGA;Uganda;2015;2340
+UKR;Ukraine;2015;8511
+ARE;United Arab Emirates;2015;20000
+GBR;United Kingdom;2015;9600
+USA;United States;2015;84940
+URY;Uruguay;2015;730
+UZB;Uzbekistan;2015;7900
+VEN;Venezuela;2015;8210
+VNM;Vietnam;2015;67427
+YEM;Yemen;2015;3100
+ZMB;Zambia;2015;2100
+ZWE;Zimbabwe;2015;1300
+WLD;Total;2015;4100000
+AFG;Afghanistan;2016;101
+ALB;Albania;2016;2000
+DZA;Algeria;2016;23000
+AGO;Angola;2016;5000
+ARG;Argentina;2016;11000
+ARM;Armenia;2016;267
+AUS;Australia;2016;9600
+AUT;Austria;2016;4600
+AZE;Azerbaijan;2016;2310
+BHR;Bahrain;2016;1400
+BGD;Bangladesh;2016;32000
+BRB;Barbados;2016;160
+BLR;Belarus;2016;4503
+BEL;Belgium;2016;6255
+BEN;Benin;2016;1356
+BTN;Bhutan;2016;940
+BOL;Bolivia;2016;3601
+BIH;Bosnia and Herzegovina;2016;841
+BWA;Botswana;2016;15
+BRA;Brazil;2016;57476
+BRN;Brunei;2016;230
+BGR;Bulgaria;2016;1994
+BFA;Burkina Faso;2016;300
+MMR;Burma;2016;2520
+BDI;Burundi;2016;100
+KHM;Cambodia;2016;2100
+CMR;Cameroon;2016;2600
+CAN;Canada;2016;11870
+TCD;Chad;2016;200
+CHL;Chile;2016;4200
+CHN;China;2016;2410000
+COL;Colombia;2016;12495
+COG;Congo (Brazzaville);2016;950
+COD;Congo (Kinshasa);2016;253
+CRI;Costa Rica;2016;1600
+CIV;Cote d'Ivoire;2016;3600
+HRV;Croatia;2016;2267
+CUB;Cuba;2016;1493
+CYP;Cyprus;2016;1019
+CZE;Czechia;2016;3937
+DNK;Denmark;2016;2260
+DJI;Djibouti;2016;180
+DOM;Dominican Republic;2016;5171
+ECU;Ecuador;2016;5600
+EGY;Egypt;2016;55000
+SLV;El Salvador;2016;1000
+ERI;Eritrea;2016;200
+EST;Estonia;2016;399
+ETH;Ethiopia;2016;8300
+FJI;Fiji;2016;219
+FIN;Finland;2016;1300
+FRA;France;2016;15900
+GUF;French Guiana;2016;91
+GAB;Gabon;2016;NA
+GEO;Georgia;2016;1809
+DEU;Germany;2016;32737
+GHA;Ghana;2016;4000
+GRC;Greece;2016;6540
+GLP;Guadeloupe;2016;300
+GTM;Guatemala;2016;3600
+GIN;Guinea;2016;500
+GUY;Guyana;2016;400
+HTI;Haiti;2016;200
+HND;Honduras;2016;1700
+HKG;Hong Kong;2016;1900
+HUN;Hungary;2016;1280
+IND;India;2016;280000
+IDN;Indonesia;2016;62000
+IRN;Iran;2016;55000
+IRQ;Iraq;2016;10000
+IRL;Ireland;2016;2500
+ISR;Israel;2016;7150
+ITA;Italy;2016;19300
+JAM;Jamaica;2016;911
+JPN;Japan;2016;53255
+JOR;Jordan;2016;4800
+KAZ;Kazakhstan;2016;9204
+KEN;Kenya;2016;6715
+PRK;Korea, North;2016;7080
+KOR;Korea, Republic of;2016;56747
+XKK;Kosovo;2016;710
+KWT;Kuwait;2016;4200
+KGZ;Kyrgyzstan;2016;1302
+LAO;Laos;2016;3398
+LVA;Latvia;2016;1000
+LBN;Lebanon;2016;5247
+LBR;Liberia;2016;241
+LBY;Libya;2016;4300
+LTU;Lithuania;2016;1010
+LUX;Luxembourg;2016;1100
+MAC;Macau;2016;NA
+MDK;Macedonia;2016;855
+MDG;Madagascar;2016;240
+MWI;Malawi;2016;420
+MYS;Malaysia;2016;22330
+MLI;Mali;2016;630
+MTQ;Martinique;2016;150
+MRT;Mauritania;2016;880
+MEX;Mexico;2016;40577
+MDA;Moldova;2016;975
+MNG;Mongolia;2016;432
+MAR;Morocco;2016;15800
+MOZ;Mozambique;2016;2446
+NAM;Namibia;2016;778
+NPL;Nepal;2016;4500
+NLD;Netherlands;2016;2260
+NCL;New Caledonia;2016;112
+NZL;New Zealand;2016;900
+NIC;Nicaragua;2016;700
+NER;Niger;2016;51
+NGA;Nigeria;2016;22000
+NOR;Norway;2016;1850
+OMN;Oman;2016;5500
+PAK;Pakistan;2016;37020
+PAN;Panama;2016;2200
+PNG;Papua New Guinea;2016;200
+PRY;Paraguay;2016;1300
+PER;Peru;2016;10094
+PHL;Philippines;2016;25000
+POL;Poland;2016;15782
+PRT;Portugal;2016;4200
+QAT;Qatar;2016;6500
+REU;Reunion;2016;250
+ROU;Romania;2016;8038
+RUS;Russia;2016;54935
+RWA;Rwanda;2016;350
+SAU;Saudi Arabia;2016;55943
+SEN;Senegal;2016;5149
+SRB;Serbia;2016;1801
+SLE;Sierra Leone;2016;320
+SVK;Slovakia;2016;3518
+SVN;Slovenia;2016;700
+ZAF;South Africa;2016;13000
+ESP;Spain;2016;15000
+LKA;Sri Lanka;2016;2695
+SDN;Sudan;2016;4013
+SUR;Surinam;2016;150
+SWE;Sweden;2016;2800
+CHE;Switzerland;2016;4710
+SYR;Syria;2016;2000
+TWN;Taiwan;2016;12126
+TJK;Tajikistan;2016;1361
+TZA;Tanzania;2016;4071
+THA;Thailand;2016;39940
+TGO;Togo;2016;1500
+TTO;Trinidad and Tobago;2016;721
+TUN;Tunisia;2016;9028
+TUR;Turkey;2016;75403
+TKM;Turkmenistan;2016;3500
+UGA;Uganda;2016;2494
+UKR;Ukraine;2016;9023
+ARE;United Arab Emirates;2016;22000
+GBR;United Kingdom;2016;9400
+USA;United States;2016;85153
+URY;Uruguay;2016;740
+UZB;Uzbekistan;2016;8300
+VEN;Venezuela;2016;7300
+VNM;Vietnam;2016;74457
+YEM;Yemen;2016;2400
+ZMB;Zambia;2016;2000
+ZWE;Zimbabwe;2016;1500
+WLD;Total;2016;4150000
+AFG;Afghanistan;2017;180
+ALB;Albania;2017;2000
+DZA;Algeria;2017;26900
+AGO;Angola;2017;460
+ARG;Argentina;2017;11960
+ARM;Armenia;2017;356
+AUS;Australia;2017;9700
+AUT;Austria;2017;4900
+AZE;Azerbaijan;2017;2955
+BHR;Bahrain;2017;1500
+BGD;Bangladesh;2017;32000
+BRB;Barbados;2017;160
+BLR;Belarus;2017;4490
+BEL;Belgium;2017;6513
+BEN;Benin;2017;1360
+BTN;Bhutan;2017;894
+BOL;Bolivia;2017;3611
+BIH;Bosnia and Herzegovina;2017;910
+BWA;Botswana;2017;15
+BRA;Brazil;2017;54004
+BRN;Brunei;2017;270
+BGR;Bulgaria;2017;2117
+BFA;Burkina Faso;2017;300
+MMR;Burma;2017;5480
+BDI;Burundi;2017;45
+KHM;Cambodia;2017;3400
+CMR;Cameroon;2017;2800
+CAN;Canada;2017;12710
+TCD;Chad;2017;300
+CHL;Chile;2017;4200
+CHN;China;2017;2331000
+COL;Colombia;2017;12299
+COG;Congo (Brazzaville);2017;1050
+COD;Congo (Kinshasa);2017;900
+CRI;Costa Rica;2017;1800
+CIV;Cote d'Ivoire;2017;3500
+HRV;Croatia;2017;2515
+CUB;Cuba;2017;1431
+CYP;Cyprus;2017;1319
+CZE;Czechia;2017;4043
+DNK;Denmark;2017;3554
+DJI;Djibouti;2017;190
+DOM;Dominican Republic;2017;5254
+ECU;Ecuador;2017;5700
+EGY;Egypt;2017;68500
+SLV;El Salvador;2017;1000
+ERI;Eritrea;2017;210
+EST;Estonia;2017;503
+ETH;Ethiopia;2017;9000
+FJI;Fiji;2017;141
+FIN;Finland;2017;1300
+FRA;France;2017;16900
+GUF;French Guiana;2017;80
+GAB;Gabon;2017;340
+GEO;Georgia;2017;2058
+DEU;Germany;2017;33991
+GHA;Ghana;2017;3800
+GRC;Greece;2017;6246
+GLP;Guadeloupe;2017;300
+GTM;Guatemala;2017;3700
+GIN;Guinea;2017;500
+GUY;Guyana;2017;400
+HTI;Haiti;2017;200
+HND;Honduras;2017;1700
+HKG;Hong Kong;2017;1900
+HUN;Hungary;2017;1660
+IND;India;2017;281000
+IDN;Indonesia;2017;69279
+IRN;Iran;2017;55000
+IRQ;Iraq;2017;10000
+IRL;Ireland;2017;3200
+ISR;Israel;2017;6361
+ITA;Italy;2017;19300
+JAM;Jamaica;2017;910
+JPN;Japan;2017;55195
+JOR;Jordan;2017;5060
+KAZ;Kazakhstan;2017;9398
+KEN;Kenya;2017;6163
+PRK;Korea, North;2017;6840
+KOR;Korea, Republic of;2017;57400
+XKK;Kosovo;2017;840
+KWT;Kuwait;2017;4400
+KGZ;Kyrgyzstan;2017;1505
+LAO;Laos;2017;3938
+LVA;Latvia;2017;989
+LBN;Lebanon;2017;5500
+LBR;Liberia;2017;285
+LBY;Libya;2017;6560
+LTU;Lithuania;2017;1023
+LUX;Luxembourg;2017;1100
+MAC;Macau;2017;NA
+MDK;Macedonia;2017;901
+MDG;Madagascar;2017;180
+MWI;Malawi;2017;211
+MYS;Malaysia;2017;18800
+MLI;Mali;2017;630
+MTQ;Martinique;2017;150
+MRT;Mauritania;2017;640
+MEX;Mexico;2017;41601
+MDA;Moldova;2017;1116
+MNG;Mongolia;2017;675
+MAR;Morocco;2017;15000
+MOZ;Mozambique;2017;2350
+NAM;Namibia;2017;780
+NPL;Nepal;2017;6000
+NLD;Netherlands;2017;2300
+NCL;New Caledonia;2017;104
+NZL;New Zealand;2017;360
+NIC;Nicaragua;2017;900
+NER;Niger;2017;51
+NGA;Nigeria;2017;19000
+NOR;Norway;2017;1900
+OMN;Oman;2017;5700
+PAK;Pakistan;2017;38900
+PAN;Panama;2017;1900
+PNG;Papua New Guinea;2017;200
+PRY;Paraguay;2017;1400
+PER;Peru;2017;9980
+PHL;Philippines;2017;26000
+POL;Poland;2017;17254
+PRT;Portugal;2017;4700
+QAT;Qatar;2017;7200
+REU;Reunion;2017;180
+ROU;Romania;2017;8442
+RUS;Russia;2017;54721
+RWA;Rwanda;2017;390
+SAU;Saudi Arabia;2017;47134
+SEN;Senegal;2017;5197
+SRB;Serbia;2017;1908
+SLE;Sierra Leone;2017;324
+SVK;Slovakia;2017;3782
+SVN;Slovenia;2017;660
+ZAF;South Africa;2017;14000
+ESP;Spain;2017;14500
+LKA;Sri Lanka;2017;2819
+SDN;Sudan;2017;4326
+SUR;Surinam;2017;30
+SWE;Sweden;2017;2800
+CHE;Switzerland;2017;4500
+SYR;Syria;2017;1600
+TWN;Taiwan;2017;10876
+TJK;Tajikistan;2017;3117
+TZA;Tanzania;2017;4200
+THA;Thailand;2017;33587
+TGO;Togo;2017;1500
+TTO;Trinidad and Tobago;2017;670
+TUN;Tunisia;2017;8053
+TUR;Turkey;2017;80552
+TKM;Turkmenistan;2017;3600
+UGA;Uganda;2017;2498
+UKR;Ukraine;2017;9003
+ARE;United Arab Emirates;2017;23000
+GBR;United Kingdom;2017;9359
+USA;United States;2017;86799
+URY;Uruguay;2017;817
+UZB;Uzbekistan;2017;8497
+VEN;Venezuela;2017;8030
+VNM;Vietnam;2017;78843
+YEM;Yemen;2017;1950
+ZMB;Zambia;2017;2210
+ZWE;Zimbabwe;2017;1750
+WLD;Total;2017;4110000
+AFG;Afghanistan;2018;110
+ALB;Albania;2018;1940
+DZA;Algeria;2018;31100
+AGO;Angola;2018;2700
+ARG;Argentina;2018;11842
+ARM;Armenia;2018;546
+AUS;Australia;2018;10200
+AUT;Austria;2018;5200
+AZE;Azerbaijan;2018;3445
+BHR;Bahrain;2018;1600
+BGD;Bangladesh;2018;30100
+BRB;Barbados;2018;160
+BLR;Belarus;2018;4519
+BEL;Belgium;2018;6737
+BEN;Benin;2018;2530
+BTN;Bhutan;2018;941
+BOL;Bolivia;2018;3650
+BIH;Bosnia and Herzegovina;2018;995
+BWA;Botswana;2018;1
+BRA;Brazil;2018;53553
+BRN;Brunei;2018;290
+BGR;Bulgaria;2018;2331
+BFA;Burkina Faso;2018;1980
+MMR;Burma;2018;6500
+BDI;Burundi;2018;100
+KHM;Cambodia;2018;4900
+CMR;Cameroon;2018;2800
+CAN;Canada;2018;13554
+TCD;Chad;2018;400
+CHL;Chile;2018;3990
+CHN;China;2018;2208000
+COL;Colombia;2018;12452
+COG;Congo (Brazzaville);2018;700
+COD;Congo (Kinshasa);2018;1048
+CRI;Costa Rica;2018;1900
+CIV;Cote d'Ivoire;2018;4000
+HRV;Croatia;2018;2490
+CUB;Cuba;2018;1590
+CYP;Cyprus;2018;1358
+CZE;Czechia;2018;4428
+DNK;Denmark;2018;3343
+DJI;Djibouti;2018;180
+DOM;Dominican Republic;2018;5430
+ECU;Ecuador;2018;5760
+EGY;Egypt;2018;81200
+SLV;El Salvador;2018;1090
+ERI;Eritrea;2018;280
+EST;Estonia;2018;527
+ETH;Ethiopia;2018;9300
+FJI;Fiji;2018;143
+FIN;Finland;2018;1300
+FRA;France;2018;16500
+GUF;French Guiana;2018;93
+GAB;Gabon;2018;490
+GEO;Georgia;2018;1981
+DEU;Germany;2018;33633
+GHA;Ghana;2018;4990
+GRC;Greece;2018;6580
+GLP;Guadeloupe;2018;310
+GTM;Guatemala;2018;3520
+GIN;Guinea;2018;1380
+GUY;Guyana;2018;410
+HTI;Haiti;2018;200
+HND;Honduras;2018;1960
+HKG;Hong Kong;2018;1640
+HUN;Hungary;2018;1670
+IND;India;2018;298000
+IDN;Indonesia;2018;75213
+IRN;Iran;2018;58000
+IRQ;Iraq;2018;14000
+IRL;Ireland;2018;3290
+ISR;Israel;2018;5858
+ITA;Italy;2018;19300
+JAM;Jamaica;2018;787
+JPN;Japan;2018;55307
+JOR;Jordan;2018;4680
+KAZ;Kazakhstan;2018;9913
+KEN;Kenya;2018;6070
+PRK;Korea, North;2018;5830
+KOR;Korea, Republic of;2018;57500
+XKK;Kosovo;2018;850
+KWT;Kuwait;2018;3300
+KGZ;Kyrgyzstan;2018;1931
+LAO;Laos;2018;4800
+LVA;Latvia;2018;1000
+LBN;Lebanon;2018;4800
+LBR;Liberia;2018;314
+LBY;Libya;2018;4500
+LTU;Lithuania;2018;1151
+LUX;Luxembourg;2018;1100
+MDK;Macedonia;2018;921
+MDG;Madagascar;2018;210
+MWI;Malawi;2018;232
+MYS;Malaysia;2018;20000
+MLI;Mali;2018;690
+MTQ;Martinique;2018;150
+MRT;Mauritania;2018;920
+MEX;Mexico;2018;48328
+MDA;Moldova;2018;1233
+MNG;Mongolia;2018;934
+MAR;Morocco;2018;15300
+MOZ;Mozambique;2018;2400
+NAM;Namibia;2018;930
+NPL;Nepal;2018;9000
+NLD;Netherlands;2018;2390
+NCL;New Caledonia;2018;86
+NZL;New Zealand;2018;450
+NIC;Nicaragua;2018;680
+NER;Niger;2018;52
+NGA;Nigeria;2018;21000
+NOR;Norway;2018;1770
+OMN;Oman;2018;5300
+PAK;Pakistan;2018;40800
+PAN;Panama;2018;1670
+PNG;Papua New Guinea;2018;200
+PRY;Paraguay;2018;1500
+PER;Peru;2018;10049
+PHL;Philippines;2018;28500
+POL;Poland;2018;18957
+PRT;Portugal;2018;3960
+QAT;Qatar;2018;4800
+REU;Reunion;2018;200
+ROU;Romania;2018;8951
+RUS;Russia;2018;53678
+RWA;Rwanda;2018;400
+SAU;Saudi Arabia;2018;42181
+SEN;Senegal;2018;5412
+SRB;Serbia;2018;2093
+SLE;Sierra Leone;2018;325
+SVK;Slovakia;2018;3913
+SVN;Slovenia;2018;680
+ZAF;South Africa;2018;12500
+ESP;Spain;2018;14600
+LKA;Sri Lanka;2018;2841
+SDN;Sudan;2018;4053
+SUR;Surinam;2018;30
+SWE;Sweden;2018;3200
+CHE;Switzerland;2018;4290
+SYR;Syria;2018;2150
+TWN;Taiwan;2018;10939
+TJK;Tajikistan;2018;3844
+TZA;Tanzania;2018;4509
+THA;Thailand;2018;32660
+TGO;Togo;2018;1410
+TTO;Trinidad and Tobago;2018;663
+TUN;Tunisia;2018;7850
+TUR;Turkey;2018;72544
+TKM;Turkmenistan;2018;3800
+UGA;Uganda;2018;2200
+UKR;Ukraine;2018;9241
+ARE;United Arab Emirates;2018;16300
+GBR;United Kingdom;2018;9197
+USA;United States;2018;88021
+URY;Uruguay;2018;812
+UZB;Uzbekistan;2018;9200
+VEN;Venezuela;2018;5100
+VNM;Vietnam;2018;89121
+YEM;Yemen;2018;1880
+ZMB;Zambia;2018;2751
+ZWE;Zimbabwe;2018;1440
+WLD;Total;2018;4050000
+AFG;Afghanistan;2019;80
+ALB;Albania;2019;1770
+DZA;Algeria;2019;25370
+AGO;Angola;2019;2470
+ARG;Argentina;2019;11082
+ARM;Armenia;2019;591
+AUS;Australia;2019;9900
+AUT;Austria;2019;5200
+AZE;Azerbaijan;2019;3488
+BHR;Bahrain;2019;670
+BGD;Bangladesh;2019;33800
+BRB;Barbados;2019;160
+BLR;Belarus;2019;4728
+BEL;Belgium;2019;7857
+BEN;Benin;2019;2500
+BTN;Bhutan;2019;1190
+BOL;Bolivia;2019;3900
+BIH;Bosnia and Herzegovina;2019;955
+BWA;Botswana;2019;NA
+BRA;Brazil;2019;56611
+BRN;Brunei;2019;290
+BGR;Bulgaria;2019;2456
+BFA;Burkina Faso;2019;2745
+MMR;Burma;2019;7700
+BDI;Burundi;2019;75
+KHM;Cambodia;2019;7870
+CMR;Cameroon;2019;2780
+CAN;Canada;2019;13120
+TCD;Chad;2019;410
+CHL;Chile;2019;5030
+CHN;China;2019;2350000
+COL;Colombia;2019;13013
+COG;Congo (Brazzaville);2019;730
+COD;Congo (Kinshasa);2019;1382
+CRI;Costa Rica;2019;1220
+CIV;Cote d'Ivoire;2019;4900
+HRV;Croatia;2019;2968
+CUB;Cuba;2019;1407
+CYP;Cyprus;2019;1537
+CZE;Czechia;2019;4569
+DNK;Denmark;2019;2250
+DJI;Djibouti;2019;250
+DOM;Dominican Republic;2019;5644
+ECU;Ecuador;2019;5550
+EGY;Egypt;2019;43800
+SLV;El Salvador;2019;1280
+ERI;Eritrea;2019;280
+EST;Estonia;2019;411
+ETH;Ethiopia;2019;9600
+FJI;Fiji;2019;128
+FIN;Finland;2019;1430
+FRA;France;2019;16500
+GUF;French Guiana;2019;95
+GAB;Gabon;2019;540
+GEO;Georgia;2019;2681
+DEU;Germany;2019;34200
+GHA;Ghana;2019;4990
+GRC;Greece;2019;5540
+GLP;Guadeloupe;2019;310
+GTM;Guatemala;2019;2890
+GIN;Guinea;2019;1500
+GUY;Guyana;2019;410
+HTI;Haiti;2019;200
+HND;Honduras;2019;1800
+HKG;Hong Kong;2019;1600
+HUN;Hungary;2019;2500
+IND;India;2019;334000
+IDN;Indonesia;2019;71900
+IRN;Iran;2019;60400
+IRQ;Iraq;2019;27000
+IRL;Ireland;2019;3700
+ISR;Israel;2019;5000
+ITA;Italy;2019;19200
+JAM;Jamaica;2019;759
+JPN;Japan;2019;53462
+JOR;Jordan;2019;3200
+KAZ;Kazakhstan;2019;10268
+KEN;Kenya;2019;6163
+PRK;Korea, North;2019;5600
+KOR;Korea, Republic of;2019;50000
+XKK;Kosovo;2019;816
+KWT;Kuwait;2019;3900
+KGZ;Kyrgyzstan;2019;1947
+LAO;Laos;2019;5208
+LVA;Latvia;2019;1100
+LBN;Lebanon;2019;3250
+LBR;Liberia;2019;343
+LBY;Libya;2019;3600
+LTU;Lithuania;2019;1223
+LUX;Luxembourg;2019;1150
+MDK;Macedonia;2019;896
+MDG;Madagascar;2019;120
+MWI;Malawi;2019;243
+MYS;Malaysia;2019;20000
+MLI;Mali;2019;1000
+MTQ;Martinique;2019;150
+MRT;Mauritania;2019;1000
+MEX;Mexico;2019;39800
+MDA;Moldova;2019;1329
+MNG;Mongolia;2019;1098
+MAR;Morocco;2019;13690
+MOZ;Mozambique;2019;2700
+NAM;Namibia;2019;1000
+NPL;Nepal;2019;9860
+NLD;Netherlands;2019;3440
+NCL;New Caledonia;2019;77
+NZL;New Zealand;2019;1000
+NIC;Nicaragua;2019;580
+NER;Niger;2019;350
+NGA;Nigeria;2019;23000
+NOR;Norway;2019;1480
+OMN;Oman;2019;5520
+PAK;Pakistan;2019;40500
+PAN;Panama;2019;1370
+PNG;Papua New Guinea;2019;140
+PRY;Paraguay;2019;1100
+PER;Peru;2019;10574
+PHL;Philippines;2019;27700
+POL;Poland;2019;18653
+PRT;Portugal;2019;4140
+QAT;Qatar;2019;4500
+REU;Reunion;2019;250
+ROU;Romania;2019;9937
+RUS;Russia;2019;57679
+RWA;Rwanda;2019;450
+SAU;Saudi Arabia;2019;44341
+SEN;Senegal;2019;6775
+SRB;Serbia;2019;2151
+SLE;Sierra Leone;2019;350
+SVK;Slovakia;2019;4031
+SVN;Slovenia;2019;1035
+ZAF;South Africa;2019;12726
+ESP;Spain;2019;16998
+LKA;Sri Lanka;2019;2438
+SDN;Sudan;2019;2594
+SUR;Surinam;2019;50
+SWE;Sweden;2019;2720
+CHE;Switzerland;2019;4210
+SYR;Syria;2019;3000
+TWN;Taiwan;2019;11271
+TJK;Tajikistan;2019;4202
+TZA;Tanzania;2019;6514
+THA;Thailand;2019;34510
+TGO;Togo;2019;1650
+TTO;Trinidad and Tobago;2019;678
+TUN;Tunisia;2019;8096
+TUR;Turkey;2019;56966
+TKM;Turkmenistan;2019;2400
+UGA;Uganda;2019;3072
+UKR;Ukraine;2019;9201
+ARE;United Arab Emirates;2019;16100
+GBR;United Kingdom;2019;9079
+USA;United States;2019;87710
+URY;Uruguay;2019;737
+UZB;Uzbekistan;2019;10990
+VEN;Venezuela;2019;1150
+VNM;Vietnam;2019;96919
+YEM;Yemen;2019;1900
+ZMB;Zambia;2019;2480
+ZWE;Zimbabwe;2019;1220
+WLD;Total;2019;4190000
+AFG;Afghanistan;2020;80
+ALB;Albania;2020;2522
+DZA;Algeria;2020;22500
+AGO;Angola;2020;2720
+ARG;Argentina;2020;9871
+ARM;Armenia;2020;715
+AUS;Australia;2020;9600
+AUT;Austria;2020;5404
+AZE;Azerbaijan;2020;3237
+BHR;Bahrain;2020;610
+BGD;Bangladesh;2020;31400
+BRB;Barbados;2020;180
+BLR;Belarus;2020;4736
+BEL;Belgium;2020;6820
+BEN;Benin;2020;2380
+BTN;Bhutan;2020;810
+BOL;Bolivia;2020;3210
+BIH;Bosnia and Herzegovina;2020;1126
+BWA;Botswana;2020;NA
+BRA;Brazil;2020;61052
+BRN;Brunei;2020;250
+BGR;Bulgaria;2020;2000
+BFA;Burkina Faso;2020;2190
+MMR;Burma;2020;6000
+BDI;Burundi;2020;210
+KHM;Cambodia;2020;7900
+CMR;Cameroon;2020;3440
+CAN;Canada;2020;13000
+TCD;Chad;2020;390
+CHL;Chile;2020;4280
+CHN;China;2020;2377000
+COL;Colombia;2020;11849
+COG;Congo (Brazzaville);2020;600
+COD;Congo (Kinshasa);2020;1285
+CRI;Costa Rica;2020;972
+CIV;Cote d'Ivoire;2020;5000
+HRV;Croatia;2020;2976
+CUB;Cuba;2020;1015
+CYP;Cyprus;2020;1496
+CZE;Czechia;2020;4513
+DNK;Denmark;2020;2490
+DJI;Djibouti;2020;240
+DOM;Dominican Republic;2020;5200
+ECU;Ecuador;2020;5000
+EGY;Egypt;2020;44900
+SLV;El Salvador;2020;1000
+ERI;Eritrea;2020;160
+EST;Estonia;2020;254
+ETH;Ethiopia;2020;9700
+FJI;Fiji;2020;97
+FIN;Finland;2020;1470
+FRA;France;2020;16700
+GUF;French Guiana;2020;90
+GAB;Gabon;2020;510
+GEO;Georgia;2020;2446
+DEU;Germany;2020;35485
+GHA;Ghana;2020;5120
+GRC;Greece;2020;5450
+GLP;Guadeloupe;2020;310
+GTM;Guatemala;2020;3230
+GIN;Guinea;2020;1540
+GUY;Guyana;2020;400
+HTI;Haiti;2020;300
+HND;Honduras;2020;1490
+HKG;Hong Kong;2020;1500
+HUN;Hungary;2020;2300
+IND;India;2020;290000
+IDN;Indonesia;2020;62700
+IRN;Iran;2020;68300
+IRQ;Iraq;2020;28000
+IRL;Ireland;2020;3400
+ISR;Israel;2020;5250
+ITA;Italy;2020;20400
+JAM;Jamaica;2020;940
+JPN;Japan;2020;50905
+JOR;Jordan;2020;3320
+KAZ;Kazakhstan;2020;10962
+KEN;Kenya;2020;7474
+PRK;Korea, North;2020;5690
+KOR;Korea, Republic of;2020;47518
+XKK;Kosovo;2020;815
+KWT;Kuwait;2020;3400
+KGZ;Kyrgyzstan;2020;1874
+LAO;Laos;2020;6162
+LVA;Latvia;2020;1100
+LBN;Lebanon;2020;1958
+LBR;Liberia;2020;416
+LBY;Libya;2020;3100
+LTU;Lithuania;2020;1221
+LUX;Luxembourg;2020;1140
+MDG;Madagascar;2020;150
+MWI;Malawi;2020;520
+MYS;Malaysia;2020;19936
+MLI;Mali;2020;1700
+MTQ;Martinique;2020;150
+MRT;Mauritania;2020;970
+MEX;Mexico;2020;47833
+MDA;Moldova;2020;1235
+MNG;Mongolia;2020;1182
+MAR;Morocco;2020;12300
+MOZ;Mozambique;2020;2800
+NAM;Namibia;2020;901
+NPL;Nepal;2020;8250
+NLD;Netherlands;2020;2980
+NCL;New Caledonia;2020;73
+NZL;New Zealand;2020;2980
+NIC;Nicaragua;2020;510
+NER;Niger;2020;350
+NGA;Nigeria;2020;26000
+MKD;North Macedonia;2020;928
+NOR;Norway;2020;1440
+OMN;Oman;2020;6230
+PAK;Pakistan;2020;43400
+PAN;Panama;2020;754
+PNG;Papua New Guinea;2020;130
+PRY;Paraguay;2020;1000
+PER;Peru;2020;9140
+PHL;Philippines;2020;23000
+POL;Poland;2020;18900
+PRT;Portugal;2020;4290
+QAT;Qatar;2020;3900
+REU;Reunion;2020;218
+ROU;Romania;2020;10539
+RUS;Russia;2020;56165
+RWA;Rwanda;2020;490
+SAU;Saudi Arabia;2020;53418
+SEN;Senegal;2020;7038
+SRB;Serbia;2020;2364
+SLE;Sierra Leone;2020;345
+SVK;Slovakia;2020;4072
+SVN;Slovenia;2020;920
+ZAF;South Africa;2020;12000
+ESP;Spain;2020;15600
+LKA;Sri Lanka;2020;2650
+SDN;Sudan;2020;2387
+SUR;Surinam;2020;50
+SWE;Sweden;2020;2800
+CHE;Switzerland;2020;4150
+SYR;Syria;2020;2400
+TWN;Taiwan;2020;11786
+TJK;Tajikistan;2020;4243
+TZA;Tanzania;2020;6496
+THA;Thailand;2020;38616
+TGO;Togo;2020;1550
+TTO;Trinidad and Tobago;2020;632
+TUN;Tunisia;2020;7161
+TUR;Turkey;2020;72299
+TKM;Turkmenistan;2020;1900
+UGA;Uganda;2020;3738
+UKR;Ukraine;2020;9568
+ARE;United Arab Emirates;2020;14900
+GBR;United Kingdom;2020;8046
+USA;United States;2020;89800
+URY;Uruguay;2020;825
+UZB;Uzbekistan;2020;12540
+VEN;Venezuela;2020;1470
+VNM;Vietnam;2020;112283
+YEM;Yemen;2020;1700
+ZMB;Zambia;2020;2797
+ZWE;Zimbabwe;2020;1280
+WLD;Total;2020;4210000
