@@ -1,0 +1,259 @@
+---
+title: 'Wybory w PL w latach 2019--2024'
+author: Tomasz Przechlewski
+date: "June/2024"
+output: html_document
+description: (c) Tomasz Przechlewski / CC-BY license
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+
+## we are R
+library("ggplot2")
+library("tidyverse")
+library("ggpubr")
+```
+
+## Dane
+
+Dane dotyczące wyników na poziomie gmin (procentowo po gminach) pochodzą ze stron PKW:
+https://sejmsenat2023.pkw.gov.pl/sejmsenat2023/pl/dane_w_arkuszach
+https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/dane_w_arkuszach
+https://wybory.gov.pl/pe2024/pl/dane_w_arkuszach
+https://pe2019.pkw.gov.pl/pe2019/pl/dane_w_arkuszach
+
+W przypadku wyborów do PE z roku 2024 plik udostępniony przez PKW
+zawiera kilkadziesiąt dziwnych wpisów postaci
+
+```
+TERYT Gminy";"Gmina";"Powiat";"Województwo";"Nr okręgu";"Liczba komisji";
+;"";"Gdańsk";"pomorskie";1;201;201;"52,22";"0,30";"39,85";"
+;"";"Gdynia";"pomorskie";1;118;118;"50,79";"0,34";
+```
+
+wskazujących, że nie liczono gmin tylko miasto na prawach powiatu. Być
+może to to samo ale brak numeru teryt nie pozwala na identyfikację
+gminy. Zresztą w innych latach miasta na prawach powiatu oznaczne były jako
+`m. Gdańsk`, `m. Gdynia` itp. W rezultacie odtworzyłem wyniki 
+*procentowo według gmin* z zawartości pliku **po obwodach**
+
+W pliku zawierającym wyniki wyborów do Sejmu wg. gmin z roku 2023
+niepoprawnie zapisano numer teryt (brak początkowego zera dla 
+województw 02--08). Podobny błąd jest w pliku zawierającym wyniki
+wyborów do Parlamentu Europejskiego wg obwodów z roku 2024.
+
+Reasumując: dla roku 2024 (PE) wyniki przeliczono na podstawie
+danych z komisji obwodowych; 
+poprawiono numer  teryt w danych z roku 2023 (Sejm); we wszystkich 
+analizowanych wyborach pominięto wyniki głosowania za granicą
+oraz na statkch (które nb są w różny sposób  
+doklejane do oryginalnych plików zawierających wyniki wyborów **wg. gmin**)
+
+```{r}
+# Plik bez numerów teryt dla miast-powiatów?
+#pe24 <- read.csv("2024_pe_gminy.csv", sep = ';', dec=',',
+#                 header=T, na.string="NA",
+#                 colClasses = c('TERYT.Gminy'= 'character')) %>%
+#  filter ( TERYT.Gminy == '')
+#  select ( teryt=TERYT.Gminy,  
+#           gmina=Gmina,
+#           pis=KOMITET.WYBORCZY.PRAWO.I.SPRAWIEDLIWOŚĆ,
+#           po = KOALICYJNY.KOMITET.WYBORCZY.KOALICJA.OBYWATELSKA
+#           #sld=KOALICYJNY.KOMITET.WYBORCZY.LEWICA
+#           ) %>% mutate (typ = 'PE', year = '2024') 
+
+
+# Przeliczone dane na podstawie danych z komisji obwodowych
+pe24 <- read.csv("pe2024_by_gmina.csv", sep = ';', dec='.',
+                 header=T, na.string="NA",  
+                 colClasses = c('teryt'= 'character') ) |>
+        ## teryt już poprawiony
+        ##mutate(teryt = ifelse( nchar(teryt) == 5, sprintf ("0%s", teryt), teryt)) |>
+        ## statki/zagranica out
+        filter ( teryt != '') |> 
+        filter (! teryt %in% c('149901', '149801', '229801')) |> 
+       select ( teryt,
+          pis=pis.p,
+          po = po.p   ) %>% mutate (typ = 'PE', year = '2024') 
+
+pe19 <- read.csv("2019_pe_gminy.csv", sep = ';',  dec=',',
+                 header=T, na.string="NA",
+                 colClasses = c('TERYT'= 'character')) %>%
+  select ( teryt=TERYT,
+           gmina = 'Jednostka.terytorialna',
+           pis='KOMITET.WYBORCZY.PRAWO.I.SPRAWIEDLIWOŚĆ...ZPOW.603.5.19',
+           po = 'KOALICYJNY.KOMITET.WYBORCZY.KOALICJA.EUROPEJSKA.PO.PSL.SLD..N.ZIELONI...ZPOW.603.7.19'
+  ) |>
+  filter (teryt != '') |> 
+  filter (! teryt %in% c('149901', '149801', '229801')) |> 
+  mutate (typ = 'PE', year = '2019')
+
+### statki i zagranica jako pseudo-teryty
+pl23 <- read.csv("2023_pl_gminy.csv", sep = ';', dec=',',
+                 header=T, na.string="NA",
+                   colClasses = c('TERYT.Gminy'= 'character')) |>
+  select ( teryt=TERYT.Gminy,  
+           gmina=Gmina,
+           pis='KOMITET.WYBORCZY.PRAWO.I.SPRAWIEDLIWOŚĆ',
+           po = 'KOALICYJNY.KOMITET.WYBORCZY.KOALICJA.OBYWATELSKA.PO..N.IPL.ZIELONI'
+           #sld=KOALICYJNY.KOMITET.WYBORCZY.LEWICA
+  ) |>
+  ## Poprawienie numeru teryt
+  mutate(teryt = ifelse( nchar(teryt) == 5, sprintf ("0%s", teryt), teryt)) |>
+  filter (teryt != '') |> 
+  ## statki/zagranica out
+  filter ( ! teryt %in% c('149901', '149801', '229801')) |> 
+  mutate (typ = 'PL', year = '2023')
+
+##str(pl23)
+
+pl19 <- read.csv("2019_pl_gminy.csv", sep = ';',  header=T, dec=',',
+                 na.string="NA",
+                 colClasses = c('Kod.TERYT'= 'character')) %>%
+  select ( teryt='Kod.TERYT',  
+           gmina=Gmina,
+           pis ='KOMITET.WYBORCZY.PRAWO.I.SPRAWIEDLIWOŚĆ...ZPOW.601.9.19',
+           po  = 'KOALICYJNY.KOMITET.WYBORCZY.KOALICJA.OBYWATELSKA.PO..N.IPL.ZIELONI...ZPOW.601.6.19'
+           #sld=KOALICYJNY.KOMITET.WYBORCZY.LEWICA
+  ) |>
+  filter (teryt != '') |> 
+  filter (! teryt %in% c('149901', '149801', '229801')) |> 
+  mutate (typ = 'PL', year = '2019')
+#str(pl19)
+
+#d0w <- dplyr::bind_rows(pe19, pl19, pl23, pe24)
+
+
+d0 <- left_join(pe24, pe19, by='teryt') |>
+  left_join(pl23, by='teryt') |>
+  left_join(pl19, by='teryt')  %>%
+  select (teryt, 
+          pis.pe24=pis.x,
+          pis.pe19=pis.y,
+          pis.pl23=pis.x.x,
+          pis.pl19=pis.y.y,
+          po.pe24=po.x,
+          po.pe19=po.y,
+          po.pl23=po.x.x,
+          po.pl19=po.y.y
+          )
+```
+
+## Analiza
+
+Porównanie wyników dla dwóch największych partii
+z dwóch wyborów. Przesunięcie się chmury punktów **nad**
+czerwoną linię oznacza wzrost.
+
+Dla przypomnienia wyniki wyborów na poziomie ogólnokrajowym:
+
+* 2024/PE: PiS 36,16, PO/KO 37,06%
+
+* 2023/Sejm: PiS 35,38%, PO/N/Zieloni 30,70%
+
+* 2019/Sejm: PiS 43,59%, PO/SLD/N/Zieloni 27,40%
+
+* 2019/PE: PiS 45,38%; PO/SLD/N/Zieloni 38,47%
+
+```{r}
+stitle <- 'wyniki % w gminach (bez zagranicy)'
+
+p1pe.pis <- ggplot(d0, aes(y=pis.pe24, x=pis.pe19)) +
+ #geom_smooth(method="loess", se=F, span=spanV, size=.4) +
+ ggtitle("PiS wybory do PE 2024 vs 2019",  subtitle = stitle) +
+ ##labs(caption="Eurostat: DEMO_MLIFETABLE") +
+ geom_point(size=.8, alpha=.5) +
+ geom_abline(intercept = 0, slope = 1, color='red') +
+ expand_limits(x = 0, y = 0)
+
+p1pe.pis
+
+p1pe.po <- ggplot(d0, aes(y=po.pe24, x=po.pe19)) +
+  #geom_smooth(method="loess", se=F, span=spanV, size=.4) +
+  ggtitle("PO wybory do PE 2024 vs 2019",  subtitle = stitle) +
+  ##labs(caption="Eurostat: DEMO_MLIFETABLE") +
+  geom_point(size=.8, alpha=.5) +
+  geom_abline(intercept = 0, slope = 1, color='red') +
+  expand_limits(x = 0, y = 0)
+
+p1pe.po
+
+p1pl.pis <- ggplot(d0, aes(y=pis.pl23, x=pis.pl19)) +
+  #geom_smooth(method="loess", se=F, span=spanV, size=.4) +
+  ggtitle("PiS wybory do Sejmu 2023 vs 2019",  subtitle = stitle) +
+  ##labs(caption="Eurostat: DEMO_MLIFETABLE") +
+  geom_point(size=.8, alpha=.5) +
+  geom_abline(intercept = 0, slope = 1, color='red') +
+  expand_limits(x = 0, y = 0)
+
+p1pl.pis
+
+p1pl.po <- ggplot(d0, aes(x=po.pl19, y=po.pl23)) +
+  #geom_smooth(method="loess", se=F, span=spanV, size=.4) +
+  ggtitle("PO wybory do Sejmu 2023 vs 2019",  subtitle = stitle) +
+  ##labs(caption="Eurostat: DEMO_MLIFETABLE") +
+  geom_point(size=.8, alpha=.5) +
+  geom_abline(intercept = 0, slope = 1, color='red') +
+  expand_limits(x = 0, y = 0)
+p1pl.po
+
+####
+
+p1pepl.pis <- ggplot(d0, aes(y=pis.pe24, x=pis.pl23)) +
+  #geom_smooth(method="loess", se=F, span=spanV, size=.4) +
+  ggtitle("PiS wybory do PE 2024 vs Sejm 2023",  subtitle = stitle) +
+  ##labs(caption="PKW") +
+  geom_point(size=.8, alpha=.5) +
+  geom_abline(intercept = 0, slope = 1, color='red') +
+  expand_limits(x = 0, y = 0)
+
+p1pepl.pis
+
+p1pepl.po <- ggplot(d0, aes(y=po.pe24, x=po.pl23)) +
+  #geom_smooth(method="loess", se=F, span=spanV, size=.4) +
+  ggtitle("PO wybory do PE 2024 vs Sejm 2023", subtitle = stitle ) +
+  ##labs(caption="PKW") +
+  geom_point(size=.8, alpha=.5) +
+  geom_abline(intercept = 0, slope = 1, color='red') +
+  expand_limits(x = 0, y = 0)
+
+p1pepl.po
+
+## 2019
+p1pepl.pis.19 <- ggplot(d0, aes(y=pis.pe19, x=pis.pl19)) +
+  #geom_smooth(method="loess", se=F, span=spanV, size=.4) +
+  ggtitle("PiS wybory do PE 2019 vs Sejm 2019",  subtitle = stitle) +
+  ##labs(caption="PKW") +
+  geom_point(size=.8, alpha=.5) +
+  geom_abline(intercept = 0, slope = 1, color='red') +
+  expand_limits(x = 0, y = 0)
+
+p1pepl.pis.19
+
+p1pepl.po.19 <- ggplot(d0, aes(y=po.pe19, x=po.pl19)) +
+  #geom_smooth(method="loess", se=F, span=spanV, size=.4) +
+  ggtitle("PO wybory do PE 2019 vs Sejm 2019", subtitle = stitle ) +
+  ##labs(caption="PKW") +
+  geom_point(size=.8, alpha=.5) +
+  geom_abline(intercept = 0, slope = 1, color='red') +
+  expand_limits(x = 0, y = 0)
+
+p1pepl.po.19
+
+##
+
+p00 <- ggarrange(p1pe.pis, p1pe.po,
+          p1pl.pis, p1pl.po,
+          p1pepl.pis, p1pepl.po,
+          p1pepl.pis.19, p1pepl.po.19,
+          ncol = 2, nrow = 4
+          )
+```
+
+```{r, fig.width=10, fig.height= 14}
+p00
+ggsave(plot = p00, filename = "xyPlot.png", width = 10, height = 12)
+```
+
+
